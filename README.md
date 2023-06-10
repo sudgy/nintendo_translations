@@ -224,6 +224,37 @@ many Japanese characters can have a little mark that looks like a quotation mark
 after a character, like changing と to ど.  The game puts all of these modified
 versions of characters after the normal versions of all of them.
 
+## Famicom Mukashibanashi: Shin Onigashima
+
+**THIS GAME IS NOT COMPLETE YET!**  It is the one I am currently working on, and
+I'm only partway through chapter two at the time of writing.
+
+The most important thing to note is that in the original, all of the text was
+written vertically.  English doesn't really work that well vertically, so I had
+to get creative in some places.  The messages shown on the left side of the
+screen weren't too difficult to deal with, although it may look a little strange
+to have so little horizontal space for the text.  The main issue is with the
+options you select.  These are listed along the bottom of the screen with one
+column associated with each option in the original.  I couldn't find any way to
+make vertical English text work, so instead, I made it so that the different
+options would be at different heights.  This means that the cursor may be going
+over multiple bits of English text.  The one you are selecting is the one where
+the center of the text is being pointed at.  This is a bit finicky, especially
+with the option on the far right sometimes bleeding off the the scroll, but it's
+the best I could think of.
+
+Also, to make the opening and closing of the scrolls look good with the English
+text, the script actually has to redraw significant portions of the screen.  If
+you find some situation where some colors don't look quite right or something,
+let me know.
+
+At the end of chapter one, there is a name input screen.  **On this screen, do
+not push A or B!**  Instead, press start immediately.  If you press start
+without inputting anything else, they will be given the default names どんえ
+(Donbe) and ひかり (Hikari), which is what the script assumes their names will
+be.  If you give them other names, the script will not be able to translate any
+of the messages that include their names.
+
 # Technical Details
 
 You might notice a bunch of .cpp files in addition to the Lua scripts.  This is

@@ -1,0 +1,96 @@
+さいしょから
+From the beginning
+せーぶした
+From a saved place
+ところから
+
+みる
+Look
+とる
+Take
+はなす
+Talk
+あける
+Open
+いどう
+Travel
+もちもの
+Inventory
+いろり
+Sunken hearth
+へや
+Room
+しばかり
+Gather firewood
+せんたく
+Laundry
+とびら
+Door
+しょいこ
+Backpack
+なた
+Machete
+みのとかさ
+Straw hat and umbrella
+つかう
+Use
+そら
+Sky
+やま
+Mountain
+くさ
+Grass
+きんたろう
+Kintaro
+しば
+Firewood
+いえ
+Home
+きた
+North
+みなみ
+South
+ひがし
+East
+にし
+West
+ひかるたけ
+Glowing bamboo
+たおす
+Knock down
+つける
+Put on
+おじぞうさま
+Jizo statue
+かわ
+River
+みず
+Water
+ろくじぞう
+Six Jizo statues
+おわん
+Bowl
+おんなのこ
+Girl
+いれる
+Put in
+おゆ
+Hot water
+ひとかえる
+Switch person
+おじいさん
+Old man
+おばあさん
+Old woman
+ひかり
+Hikari
+まど
+Window
+たんもの
+Fabric
+てがみ
+Letter
+そと
+Outside
+どんべ
+Donbe

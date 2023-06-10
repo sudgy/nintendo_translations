@@ -1,0 +1,983 @@
+3
+「よくきたね。　さて、　どこから
+おはなしをはじめようか？
+きまったら、えーぼたんをおしとくれ」
+「良く来たね。さて、どこから
+お話を始めようか？
+決まったら、エーボタンを押しとくれ」
+"Thank you for coming. Well then, have you decided where you want to start the story from? If you have decided, press the A button."
+
+
+2
+ゼンペンの、びーめんを
+せっとしておくれ
+前篇の、ビー面を
+セットしておくれ
+Set to the B side of disk one.
+
+2
+すこしの
+しんぼうじゃ
+少しの
+辛抱だ
+Have a little patience
+
+6
+
+一しょう
+
+ながくしむらにあさがやってきました。
+おじいさんとおばあさんは　ゆうべ
+きいた　おつげのはなしをしています。
+
+一章
+
+ナガクシ村に朝がやってきました。
+おじいさんとおばあさんは昨夜
+聞いたお告げの話をしています。
+\
+Chapter 1
+\
+Morning has come to Nagakushi village. An old man and an old woman are talking about a prophecy they heard last night.
+
+
+1
+いろりのへや
+囲炉裏ね部屋
+Room with a sunken hearth
+3
+もやすものがないので　ひがきえそう
+です。しばかりにいかなければなり
+ませんね。
+燃やす物がないので火が消えそう
+です。柴刈りに行かなければなり
+ませんね。
+There is nothing to burn so it seems the fire has gone out. More firewood needs to be gathered.
+
+
+1
+なにをとるのですか？
+何を取るのですか？
+What is there to take?
+3
+なたのついた　しょいこ　そして
+みのとかさが　あります。
+はたおりべやのとびらがみえます。
+鉈の付いた背負子そして
+蓑と傘があります。
+機織り部屋の扉が見えます。
+There is a backpack with a machete, a straw raincoat, and an umbrella. The door to the weaving room is visible.
+
+
+6
+おじいさん「ゆうべうれしいゆめを
+みたんじゃよ。わしらにこどもが
+さずかるというんじゃ」
+おばあさん「あれま、おじいさんもかい
+わたしもおなじゆめをみたんじゃ」
+おじいさん「ほう？ふしぎじゃのう」
+おじいさん「昨夜嬉しい夢を
+見たんだよ。わしらに子供が
+授かると言うんだ」
+おばあさん「あれま、おじいさんもかい
+私も同じ夢を見たんだ」
+おじいさん「ほう？不思議だのう」
+Old man: "I'm happy about the dream I saw last night. It said that we would be blessed with a child."
+
+
+Old woman: "Oh my, we had the same dream."
+
+Old man: "Really? That's wonderful."
+1
+どこを、あけるのですか？
+どこを、開けるのですか？
+Where is there something to open?
+1
+どこへいこうというのですか？
+どこへ行こうと言うのですか？
+Where are you saying to go?
+1
+なにも、もっていません。
+何も、持っていません。
+Nobody has has anything.
+1
+はたおりべやの、とびらがみえます。
+機織り部屋の、扉が見えます。
+The door to the weaving room is visible.
+2
+おじいさん「したくをせんとしばかりに
+いけんのう」
+おじいさん「支度を先と柴刈りに
+行けんのう」
+Old man: "I can't go gather firewood before preparing."
+
+2
+おじいさんをおくりだしてからに
+しましょう。
+おじいさんを送り出してからに
+しましょう。
+Let's send the old man off first.
+
+1
+としはじゅうぶんとっています。
+年は十分とっています。
+They've taken on enough years.
+1
+あけてはいけないとびらです。
+開けてはいけない扉です。
+It's a door that you must not open.
+6
+おつう「みたわね。せっかくきれいな
+たんものをおってあげていたのに」
+つるはとんでいってしまいました。
+めでたし、めでたし。
+めでたくない！
+やりなおしてください。
+おつう「見たわね。せっかく綺麗な
+反物織ってあげていたのに」
+鶴は飛んで行ってしまいました。
+めでたし、めでたし。
+めでたくない！
+やり直してください。
+Otsu: "You looked. Despite all of the beautiful, rare fabric I've been making for you......"
+
+The crane flew off.
+And they lived happily ever after ............
+That's not happy!
+Please try again.
+3
+どこから　やりなおすのじゃ？
+えーぼたん　このしょうの　はじめ
+びーぼたん　せーぶした　ところ
+どこからやり直すのだ？
+エーボタンこの章の始め
+ビーボタンセーブしたところ
+Where do you want to try again from?
+\         A Button: Start of chapter
+\         B Button: Saved place
+2
+おじいさんはしょいこを、おばあさんは
+みのとかさをもちました。
+おじいさんは背負子を、おばあさんは
+蓑と傘を持ちました。
+The old man took the backpack, and the old woman took the straw raincoat and the umbrella.
+
+3
+おじいさん「しばかりにいくとするか
+いろりのひがきえそうじゃ」
+おばあさん「わたしはせんたくじゃ」
+おじいさん「柴刈りに行くとするか
+囲炉裏の火が消えそうだ」
+おばあさん「私は洗濯だ」
+Old man: "I'm going to go gather firewood because it seems that the fire has gone out."
+
+Old woman: "I'll do the laundry."
+1
+しばかりにいくしたくは、できています
+柴刈りに行く支度は、できています
+The prepara- tions to go gather firewood are already done.
+3
+おじいさんはやまへしばかりにいきます
+おばあさん「じゃわしはせんたくへ
+いこうかの」
+おじいさんは山へ柴刈りに行きます
+おばあさん「じゃわしは洗濯へ
+行こうかの」
+The old man goes to the mountain to gather firewood.
+Old woman: "Well, I'll go do the laundry."
+
+1
+やまへいくとちゅうのみちです。
+山へ行くと中の道です。
+The old man goes towards the mountain and is now on the road.
+1
+うらみち
+裏道
+Back road
+1
+だれもいません。
+誰もいません。
+There is no one.
+1
+あおくすみきってます。
+青く澄み切ってます。
+It's a clear blue sky.
+1
+たかいやまです。
+高い山です。
+It's a tall mountain.
+1
+ざっそうです。
+雑草です。
+It's weeds.
+1
+やまでつかってください。
+山で使ってください。
+Please use it on the mountain.
+1
+あしがらやまにつきました。
+アシガラ山に着きました。
+The old man has arrived at Mount Ashigara.
+4
+おじいさん「どひゃーっ！く、く、く
+くまじゃあーっ！」
+おじいさんは　いのちからがらにげだし
+ました。
+おじいさん「どひゃーっ！く、く、く
+熊だあーっ！」
+おじいさんは命辛辛逃げだし
+ました。
+Old man: "Hyaaaa! I-i-it's...
+A beaaar!"
+The old man ran for his life.
+
+2
+くさむらからきんたろうがあらわれ
+ました。
+草むらから金太郎が現れ
+ました。
+From the grass, Kintaro appears.
+
+3
+おじいさん「なんじゃ？おまえは？」
+きんたろう「まい　ねーむ　いず
+きんたろう」
+おじいさん「何だ？お前は？」
+金太郎「マイネームイズ
+金太郎」
+Old man: "What? Who are you?"
+Kintaro: "MY NAME IS KINTARO."
+
+6
+おじいさん「おはよう、きんたろうさん
+とやら…………わしはしばかりにいくところ
+なんじゃが…………」
+きんたろう「おう　まうんとあしがら」
+おじいさん「いっしょにいかんかね？」
+きんたろう「おっけー　れっつごー！」
+おじいさん「おはよう、金太郎さん
+とやら……わしは柴刈りに行く所
+何だが……」
+金太郎「オウマウントアシガラ」
+おじいさん「一緒に行かんかね？」
+金太郎「オッケーレッツゴー！」
+Old man: "Good morning, uh, Kintaro-san ...... I'm going somewhere to collect firewood."
+
+
+Kintaro: "OH, MOUNT ASHIGARA."
+Old man: "Won't you come with me?"
+Kintaro: "OKAY, LET'S GO!"
+1
+あかいはらあてをしています。
+赤い腹当をしています。
+He's wearing red clothes.
+1
+おそろしいくまがあらわれました。
+恐ろしい熊が現れました。
+A frightening bear appears.
+1
+あしがらやま
+アシガラ山
+Mount Ashigara
+1
+それどころではなさそうです。
+それどころではなさそうです。
+That doesn't seem to be possible.
+9
+おじいさん「ひゃー、きんたろうさん
+ど、どうしよう」
+きんたろう「ひーいず　まいふれんど
+くまごろう。ざっつ　おーらい」
+おじいさん「いえーいっ！」
+おじいさんはうなずきました。
+きんたろうは　ぐっばいというと
+くまにまたがり　もりのなかに
+きえていきました。
+おじいさん「ひゃー、金太郎さん
+ど、どうしよう」
+金太郎「ヒーイズ　マイフレンド
+熊ゴロウ。ザッツオーライ
+おじいさん「いえーいっ！
+おじいさんは頷きました。
+金太郎はグッバイと言うと
+熊にまたがり森の中に
+消えていきました。
+Old man: "Hyaaa, Kintaro-san, Wh-what do we do?"
+
+Kintaro: "HE'S MY FRIEND, GOROU THE BEAR. THAT'S ALRIGHT."
+
+Old man: "What?!"
+The old man nodded.
+Kintaro said goodbye and, riding the bear, disappeared into the forest.
+
+
+1
+よくもえそうな　こえだです。
+よく燃えそうな小枝です。
+There are twigs that look like they will burn well.
+1
+しばをしょいこに　つみました。
+柴を背負子に積みました。
+The old man loads the firewood into his pack.
+1
+しょいこは　しばでいっぱいです。
+背負子は柴でいっぱいです。
+The pack is already full of twigs.
+1
+しばかりにきたのではないのですか？
+柴刈りに来たのではないのですか？
+Didn't the old man come here to get firewood?
+1
+どうやら　みちにまよったようです。
+どうやら道に迷ったようです。
+Somehow, it seems that the old man got lost.
+1
+たけやぶ
+竹やぶ
+Bamboo Grove
+1
+あおいたけが　たくさんあります。
+青い竹がたくさんあります。
+There is a lot of fresh bamboo.
+3
+おじいさん「えいやーっ！」
+あおいたけを　きりました。
+おみごとでございます。
+おじいさん「えいやーっ！」
+青い竹を切りました。
+お見事でございます。
+Old man: "Hiyah!"
+The old man cut some fresh bamboo.
+It was magnificent.
+2
+どうやら　そちらへはいけないよう
+です。
+どうやらそちらへは行けないよう
+です。
+It seems that the old man can't go that way.
+
+2
+おじいさん「あっりゃー！なんじゃ？
+こりゃ…………」
+おじいさん「あっりゃー！何だ？
+こりゃ……」
+Old man: "Ah! What? What is this ......"
+
+2
+なかから　あかんぼうのなきごえが
+きこえます。
+中から赤ん坊の鳴き声が
+聞こえます。
+The cry of an infant is audible from inside.
+
+4
+ちゅういして　たけをきると　なかから
+かわいいおんなのこがでてきました。
+おじいさんは　おおよろこびでおんな
+のこをだいてかえりました。
+注意して竹を切ると中から
+かわいい女の子が出てきました。
+おじいさんは大喜びで女
+の子を抱いて帰りました。
+After cutting the bamboo carefully, a cute girl came out.
+
+The old man was overjoyed and held her in his arms while going home.
+
+3
+そのころおばあさんは
+かわへいくとちゅうの　ろくじぞうさん
+にいました。
+その頃おばあさんは
+川へ行くと中の六地蔵さん
+にいました。
+Meanwhile, the old woman was going to the river, and on the way were six Jizo statues.
+
+
+1
+ろくじぞう
+六地蔵
+Six Jizo Statues
+2
+ひとりだけ　みのかさをつけてません。
+かわいそうですね。
+一人だけ蓑傘を付けてません。
+可哀想ですね。
+Only one of them doesn't have a straw raincoat and umbrella.
+How sad.
+2
+おばあさん「どうか　こどもがさずかり
+ますように」
+おばあさん「どうか子供が授かり
+ますように」
+Old woman: "Please bless me with a child."
+
+1
+つけものでも　つけるのですか？
+付け物でもつけるのですか？
+Is there anything to put on?
+2
+ばちあたりなことは　よしたほうが
+いいですよ。
+罰当たりなことはよしたほうが
+いいですよ。
+You shouldn't do something so cursed.
+
+2
+ずっしーん！おみごとです。しかし
+あまりきもちのいいものではありません
+ズッシーン！お見事です。しかし
+気持ちのいいものではありません
+Slam! What a sight. But you don't have a very good feeling about this.
+
+1
+もうたおれてます。
+もう倒れてます。
+The old woman already knocked it down.
+2
+かわにつきました。おばあさんは
+せんたくをはじめます。ごしごし…………。
+川に着きました。おばあさんは
+洗濯を始めます。ゴシゴシ……。
+The old woman has arrived at the river. She starts washing. *Scrub scrub* ......
+
+1
+かわ
+川
+River
+2
+なんと、かわかみから　おわんが
+ながれてきました。
+なんと、川上からお椀が
+流れて来ました。
+What? A bowl is floating from upstream.
+
+2
+さらさら…………。とてもきれいなかわ
+です。
+サラサラ……。とても綺麗な川
+です。
+*Fwoosh* ...... It's a very pretty river.
+
+1
+いまつかっています。
+今浸かっています。
+The old woman is soaked now.
+2
+たおれたままです。たいへんなことを
+したみたいです。
+倒れたままです。大変なことを
+したみたいです。
+It's still knocked down. It looks like something terrible will happen.
+
+2
+おじぞうさまはたおれています。はじめ
+からやりなおしたほうがいいですよ。
+お地蔵さまは倒れています。始め
+からやり直したほうがいいですよ。
+The Jizo statue has been knocked down. You should start over from the beginning.
+
+1
+おじぞうさまは　なにもいいません。
+お地蔵さまは何も言いません。
+The Jizo statue doesn't say anything.
+2
+おばあさんは　おじぞうさまにみのと
+かさをきせてあげました。
+おばあさんはお地蔵さまに蓑と
+傘を着せてあげました。
+The old woman puts the straw raincoat and the the umbrella on the Jizo statue.
+
+1
+うれしそうなかおにみえます。
+嬉しそうな顔に見えます。
+It looks happy.
+3
+おじぞうさま「ありがとうおばあさん。
+このさきのかわへいってみなさい。
+きっといいことがありますよ」
+お地蔵さま「ありがとうおばあさん。
+この先の川へ行ってみなさい。
+きっといいことがありますよ」
+Jizo statue: "Thank you, old woman. Please go to the river. Surely something good will be there."
+
+
+3
+なんとかとることができました。
+おばあさん「こりゃなんだい」
+いそいでうちにかえりました。
+何とか取ることができました。
+おばあさん「こりゃ難題」
+急いで家に帰りました。
+Somehow, the old woman was able to get the bowl.
+Old woman: "That was difficult."
+She then hurried home.
+2
+どこからながれてきたんでしょう。
+みたこともない　おわんです。
+どこから流れてきたんでしょう。
+見たこともないお椀です。
+Where did it come from? It was a bowl that the old woman had never seen before.
+
+3
+おじいさん「ばあさん！みてくれ！
+おつげのとおりじゃ。たけやぶで
+このこをさずかったぞ」
+おじいさん「ばあさん！見てくれ！
+お告げの通りだ。竹やぶで
+この子を授かったぞ」
+Old man: "Look! The prophecy was right. I was given this child in the bamboo grove."
+
+
+2
+おばあさん「どひゃーっ！おじいさん
+なんとかわいいおんなのこじゃ」
+おばあさん「どひゃーっ！おじいさん
+なんとかわいい女の子だ」
+Old woman: "Woah! What a pretty girl!"
+
+2
+しばかりをしたのでいきおいよくもえて
+います。おなべのおゆも　わきました。
+柴刈りをしたので勢いよく燃えて
+います。お鍋のお湯も沸きました。
+With new wood, the fire starts to burn vigorously. The water in the pot also started to boil.
+
+1
+おゆがわいています。
+お湯が沸いています。
+The water is boiling.
+2
+「うちがわのせんいっぱいまでおゆを
+そそいでくださいと　かいてあります」
+「内側の線いっぱいまでお湯を
+注いでくださいと書いてあります」
+"Please pour hot water up to the inside line is written"
+
+1
+とてもかわいいです。
+とてもかわいいです。
+She is very cute.
+3
+おじいさん「おや、なんだい？その
+おわんは…………」
+おばあさん「かわでひろったんですよ」
+おじいさん「おや、なんだい？その
+お椀は……」
+おばあさん「川で拾ったんですよ」
+Old man: "Oh, what's this? This bowl......"
+
+Old woman: "I found it at the river."
+2
+やじるしのところまでふたをはがし
+ました。
+矢印の所まで蓋を剥がし
+ました。
+The lid of the bowl was peeled back up to the arrow.
+
+1
+もうあいています。
+もう開いています。
+It's already open.
+1
+なにをいれるのですか？
+何を入れるのですか？
+What is there to put in?
+1
+どこにいれるのですか？
+どこに入れるのですか？
+Where will you put it?
+2
+なべのおゆをおわんにいれて、ふたを
+しました。
+鍋のお湯をお椀に入れて、蓋を
+しました。
+The hot water from the pot was put into the bowl, and the lid was closed.
+
+2
+なにがおこるのでしょう。わくわく
+します。
+何が起こるのでしょう。ワクワク
+します。
+What will happen? Tension is in the air.
+
+7
+おじいさん「このおんなのこになまえを
+つけてやらねばのう」
+おばあさん「かわいいなまえがいい
+ですね」
+………………………………。
+あれこれかんがえてるうちにときが
+すぎさっていきました。
+おじいさん「この女の子に名前を
+つけてやらねばのう」
+おばあさん「かわいい名前がいい
+ですね」
+………………。
+あれこれ考えてる内に時が
+過ぎ去っていきました。
+Old man: "We need to give this girl a name."
+
+Old woman: "It should be a cute name."
+
+..................
+And while thinking about this and that, time passed.
+
+2
+ふしぎなことに、どうしてもはがれ
+ません。
+不思議なことに、どうしても剥がれ
+ません。
+Strangely enough, the lid won't come off.
+
+1
+もうはいってます。
+もう入ってます。
+It's already been put in.
+9
+ぽーん！おおきなおとと　ともにおわん
+のふたをつきやぶって　おとこのこが
+とびだしました。
+おじいさん「ひゃーっ！おとこのこじゃ
+おとこのこじゃ」
+おばあさん「うれしいことですねぇ
+わたしたちでそだてましょう」
+おじいさん「そうしよう。これも
+おじぞうさまの　おかげかのう」
+ポーン！大きな音とともにお椀
+の蓋を突き破って男の子が
+飛び出しました。
+おじいさん「ひゃーっ！男の子だ
+男の子だ」
+おばあさん「嬉しいことですね
+私たちで育てましょう」
+おじいさん「そうしよう。これも
+お地蔵さまのおかげかのう」
+Pow! With a loud sound, breaking through the lid of the bowl, a boy comes flying out.
+
+
+Old man: "Hyah! It's a boy! It's a boy!"
+
+Old woman: "This is a happy thing, isn't it?
+We will raise them."
+Old man: "Let's do that.  This is also the blessing of the Jizo statue."
+
+8
+「ぎょえーっ！ぎょえーっ！」
+うわーっ！おばけだーっ！
+おじぞうさまの　ばちがあたりました。
+こどものなかったふたりは、おばけを
+とてもかわいがり、しあわせにくらし
+ました。めでたし、めでたし。
+そんなはずない！
+やりなおしてください。
+「ギョエーッ！ギョエーッ！」
+うわーっ！おばけだーっ！
+お地蔵さまの罰が辺りました。
+子供のなかった二人はおばけを
+とても可愛がり、幸せに暮らし
+ました。めでたし、めでたし。
+そんなはずない！
+やり直してください。
+"Oooo! Oooo!"
+Wah! It's a ghooost!
+This was the curse of the Jizo statue.
+The childless couple loved the ghost very much,
+
+and they lived happily ever after.
+That's not right!
+Please try again.
+7
+　いよいよ、しゅじんこうたちの、とう
+じょうじゃ。
+　そこで、おぬしから、おとこのこと
+おんなのこに、よいなまえをぷれぜんと
+してやっておくれ。
+　六もじまでの、なまえをきめたら
+すたーとぼたんをおしておくれ。
+いよいよ主人公たちの、登場時登
+場だ。
+そこで、おぬしから、男の子と
+女の子に、よい名前をプレゼント
+してやっておくれ。
+六文字までの、名前を決めたら
+スタートボタンを押しておくれ。
+At last, it is time for the protagonists to appear.
+
+Thus, please give the boy and the girl good names.
+
+
+After you haved decided on names using up to six letters, press the start button.
+
+3
+えーぼたん……けってい
+びーぼたん……すすめる
+すたーと…………とうろく
+エーボタン…決定
+ビーボタン…進める
+スタート………登録
+A button: Decide
+\         B button: Advance
+\         Start: Register
+3
+ここまでを、せーぶするかの？
+　えーぼたん　する
+　びーぼたん　しない
+ここまでを、セーブするかの？
+  エーボタン　する
+  ビーボタン　しない
+Do you want to save everything up to here?
+\         A button: Do
+\         B button: Don't
+2
+ゼンペンの、えーめんを
+せっとしておくれ
+前篇の、エー面を
+セットしておくれ
+Set to the A side of disk one.
+
+2
+でぃすくせーぶ
+　しとるからのう
+ディスクセーブ
+しとるからのう
+Saving to disk
+
+2
+えー　びー　さいど
+えらー　七
+エービーサイド
+エラー七
+A B side
+Error 7
+1
+えらー　五
+エラー五
+Error 5
+7
+
+二しょう
+
+つきひはながれ、どんべと
+ひかりは八さいになりました。
+あさです。きょうもながくしむらに
+あさがきました。
+
+二章
+
+月日は流れ、ドンベと
+光は八歳になりました。
+朝です。今日もナガクシ村に
+朝が来ました。
+\
+Chapter 2
+\
+The years pass, and Donbe and Hikari have become eight years old.
+
+It is morning.  Morning comes to Nagakushi village again today.
+
+1
+まだまだげんきです。
+まだまだ元気です。
+They are still healthy.
+1
+まだまだこどもです。
+まだまだ子供です。
+They are still a child.
+1
+ふつうのいろりです。
+普通の囲炉裏
+It is a normal sunken hearth.
+1
+そとはいいてんきです。
+外は良い天気です。
+The weather outside is good.
+1
+ここはおつうさんのへやです。
+ここはオツウさんの部屋です。
+That is Otsu-san's room.
+1
+とるものなんてありません。
+取る物なんてありません。
+There is nothing to take.
+2
+どんべ「おきた」
+おじいさん「おはようどんべ」
+ドンベ「起きた」
+おじいさん「おはようドンベ」
+Donbe: "I'm up."
+Old man: "Good morning, Donbe."
+2
+どんべ「おきた」
+おばあさん「おはようどんべ」
+ドンベ「起きた」
+おばあさん「おはようドンベ」
+Donbe: "I'm up."
+Old man: "Good morning, Donbe."
+3
+どんべ「おきた」
+ひかり「おはようといいなさい」
+どんべ「お、は、よ、う」
+ドンベ「起きた」
+光「おはようと言いなさい」
+ドンベ「お、は、よ、う」
+Donbe: "I'm up."
+Hikari: "You should say, 'Good morning.'"
+Donbe: "Good! Mor! Ning!"
+13
+ながいあいだどんべと、
+ひかりのせわをしてくれていた
+おつうさんがかえるといっています。
+おつう「おじいさんおばあさん、ありが
+とうございました。わたしがおった
+たんものをおいていきます。
+どんべ、ひかり、わたしは
+ときがきたのでかえります。
+おじいさんと　おばあさんのいうことを
+よくきくんですよ」
+おつうさんは、いってしまいました。
+あとにはとてもきれいなたんものが
+ありました。
+長い間ドンベと、
+光の世話をしてくれていた
+オツウさんが帰ると言っています。
+オツウ「おじいさんおばあさん、ありが
+とうございました。私が織った
+反物を置いていきます。
+ドンベ、光、私は
+時がきたので帰ります。
+おじいさんとおばあさんの言うことを
+良く聞くんですよ。
+オツウさんは、行ってしまいました。
+後にはとても綺麗な反物が
+ありました。
+Otsu-san, who has been taking care of Donbe and Hikari for a long time, is now saying she is going home.
+
+
+Otsu: "Thank you for everything.  I am leaving fabric that I have woven.
+
+
+Donbe, Hikari, the time has come for me to leave.
+
+Listen well to what your grand- parents tell you."
+
+Otsu-san has left.
+Afterwards, a very beautiful piece of fabric was there.
+
+1
+もうおつうさんはいません。
+もうオツウさんはいません。
+Otsu-san is not there anymore.
+1
+なにももってません。
+何も持ってません。
+You don't have anything.
+1
+どこへいくのですか？
+どこへ行くのですか？
+Where is there to go?
+2
+おつうさんがおってのこしていった
+たんものです。
+オツウさんが織って残していって
+反物です。
+Otsu-san made and left some fabric.
+
+1
+しかられますよ。
+叱られます。
+You'll get scolded.
+8
+おじいさん「おお！それじゃ、きょうは
+どんべとひかりにおつかい
+に　いってもらおう。
+となりむらのいったいさんのおみせまで
+いって　てがみとたんものをわたして
+てがみのしなをもらってきてくれんか」
+といってたんものとてがみを
+どんべにわたしました。
+おじいさん「おお！それだ、今日は
+ドンベと光にお使い
+に行ってもらう。
+隣村のイッタイさんのお店まで
+行って手紙と反物を渡して
+手紙の品をもらってきてくれんか
+と言って反物と手紙を
+ドンベに渡しました。
+Old man: "Oh! That's right, I wanted you two to go on an errand for me.
+
+
+Go to Ittai-san's store in the neighboring town and give him this letter and the fabric, and bring back what's written on the letter.
+
+
+He then gave Donbe the fabric and the letter.
+
+1
+これはだいじなものです。
+これは大事物です。
+This is an important thing.
+2
+おじいさんのちゅうもんのしなをかいた
+てがみです。
+おじいさんの注文の品を書いた
+手紙です。
+The products that the old man wants was written on the letter.
+
+4
+おばあさん「ふたりともまちなさい
+おむすびをもっていくがよい」
+おばあさんはおむすびをひかりに
+わたしました。
+おばあさん「二人共待ちなさい
+おむすびを持っていくがよい」
+おばあさんはおむすびを光に
+渡しました。
+Old woman: "Wait you two, you should bring along these rice balls."
+
+The old woman hands the rice balls to Hikari.
+
+1
+おじいさん「きをつけてな…………」
+おじいさん「気をつけてな……」
+Old man: "Be careful......"
+1
+おばあさん「きをつけていっといで」
+おばあさん「気をつけていっといで」
+Old woman: "Be careful out there."
+3
+どんべ「ひとりでいく」
+ひかり「いっしょにいけって
+いわれたじゃない」
+ドンベ「一人で行く」
+光「一緒に行けって
+言われたじゃない」
+Donbe: "I'll go by myself."
+Hikari: "Didn't he say for us to go together?"
+
+2
+ひかり「おじいさんおはよう」
+おじいさん「おはよう、ひかり」
+光「おじいさんおはよう」
+おじいさん「おはよう、光」
+Hikari: "Grandpa, good morning."
+Old man: "Good morning, Hikari."
+2
+ひかり「おばあさんおはよう」
+おばあさん「おはようひかり」
+光「おばあさんおはよう」
+おばあさん「おはよう光」
+Hikari: "Grandma, good morning."
+Old woman: "Good morning Hikari."
+2
+ひかり「おはようどんべ」
+どんべ「ん、」
+光「おはようドンベ」
+ドンベ「ん、」
+Hikari: "Good morning Donbe."
+Donbe: "Yeah."
+2
+ひかり「いこうか？」
+どんべ「ん、」
+光「行こうか？」
+ドンベ「ん、」
+Hikari: "Should we go?"
+Donbe: "Sure."
