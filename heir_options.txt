@@ -1,0 +1,242 @@
+ばしょいどう
+Travel
+きく
+Talk
+しらべる
+Investigate
+おもいだす
+Remember
+あまちのこと
+About Amachi
+じぶんのこと
+About yourself
+じぶんのからだ
+Your body
+じこげんば
+Scene of accident
+どこ？
+Where?
+がけのうえ
+Top of the cliff
+なまえ
+Name
+あたり
+Surround- ings
+がけ
+Cliff
+うつぎじむしょ
+Utsugi Office
+じむしょ
+The office
+うつぎのこと
+About Utsugi
+うなかみのがけ
+Unakami cliff
+よぶ
+Call
+そうさやめる
+Stop investigation
+えきいん
+Station Attendant
+あやしろ
+Ayashiro
+みょうじんむら
+Myoujin Village
+きづいたこと
+What they know
+あやしろけ
+Ayashiro house
+すいりする
+Deduce
+みょうじんえき
+Myoujin station
+しつじのいらい
+The butler's request
+キクのこと
+About Kiku
+ゆいごんしょ
+The will
+しんせき
+Relatives
+キクのしんしつ
+Kiku's room
+しいん
+Cause of death
+あかね
+Akane
+くまだ
+Kumada
+あかねのこと
+About Akane
+くまだのこと
+About Kumada
+くまだいいん
+Kumada clinic
+とる
+Take
+どれ？
+What?
+あずさ
+Azusa
+かぐらでら
+Kagura Temple
+あける
+Open
+でんせつ
+The legend
+あたりのひと
+Person in the area
+ぜんぞうのこと
+About Zenzou
+アキラのこと
+About Akira
+こげあと
+Burn mark
+ぜんぞう
+Zenzou
+いま
+Living room
+カンジ
+Kanji
+アキラ
+Akira
+でんわ
+Phone
+じろうのこと
+About Jiro
+あずさのこと
+About Azusa
+ユリのこと
+About Yuri
+しるし
+The symbol
+ユリ
+Yuri
+かんだのこと
+About Kanda
+カンジのこと
+About Kanji
+どぞう
+Storehouse
+あまちのへや
+Amachi's room
+しぼうじかん
+Time of death
+したい
+Corpse
+カギ
+Key
+アリバイ
+Alibi
+タバコいれ
+Tobacco container
+とびら
+Door
+こっとうひん
+Antiques
+じろう
+Jiro
+じさつ
+Suicide
+びじょ
+Beautiful woman
+かいしゃ
+The company
+しゃいん
+Employee
+うわさ
+Rumors
+かおり
+Kaori
+みせる
+Show
+しゃしんアキラ
+Picture of Akira
+ヘいきち
+Heikichi
+おまもリ
+Amulet
+おんなのこと
+About the woman
+かずとのこと
+About Kazuto
+かずと
+Kazuto
+けいかん
+Police officer
+うらやま
+Mountain
+めんきょしょう
+License
+かんだじむしょ
+Kanda's office
+かんだ
+Kanda
+ファイル
+File
+ゆきこのこと
+About Yukiko
+げんしん
+Genshin
+てかがみ
+Hand mirror
+ゆきこ
+Yukiko
+ふじん
+Lady
+はがき
+Postcard
+しゃしんユリ
+Picture of Yuri
+やつかちょう
+Yatsuka
+としより
+Old lady
+セイサン
+Cyanide
+あかんぼう
+Baby
+アパート
+Apartment
+かじ
+Fire
+さわこのこと
+About Sawako
+さわこ
+Sawako
+じじょう
+Circum- stances
+しんぶんしゃ
+Newspaper company
+ハイヒール
+High Heel
+かんしき
+Forensics Officer
+ひきだし
+Drawer
+かみきれ
+Piece of paper
+やさしさ
+Kindness
+ボタン
+Button
+シャツ
+Shirt
+やけど
+Burn
+しゃしんさわこ
+Picture of Sawako
+にんぎょう
+Doll
+おまもりぶくろ
+Amulet bag
+じょうまえ
+Lock
+そとにでる
+Go out
+すすむ
+Advance
+みぎむく
+Turn right
+ひだりむく
+Turn left
