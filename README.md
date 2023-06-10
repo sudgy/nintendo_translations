@@ -198,21 +198,21 @@ experience the game how the developers intended.
 <details>
 <summary>First answer</summary>
 
-English answer: Tobacco
+English answer: Tobacco<br>
 Japanese answer: たばこ (make sure you use ば, not ぱ)
 </details>
 
 <details>
 <summary>Second answer</summary>
 
-English answer: Kanda
+English answer: Kanda<br>
 Japanese answer: かんだ
 </details>
 
 <details>
 <summary>Third answer</summary>
 
-English answer: Storehouse
+English answer: Storehouse<br>
 Japanese answer: どぞう
 </details>
 
