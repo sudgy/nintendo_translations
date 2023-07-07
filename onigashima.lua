@@ -140,6 +140,7 @@ function Options.add_value()
             Options.values[total - this+1] = trans
         else
             e.log("Could not find translation for option")
+            Options.values[total - this+1] = "UNKNOWN\n"
             --for i = 1,#value do
             --    print(string.format("%x", value[i]))
             --end
