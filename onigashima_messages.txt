@@ -246,7 +246,7 @@ From the grass, Kintaro appears.
 金太郎「マイネームイズ
 金太郎」
 Old man: "What? Who are you?"
-Kintaro: "MY NAME IS KINTARO."
+Kintaro: "Mai neimu izu Kintaro."
 
 6
 おじいさん「おはよう、きんたろうさん
@@ -264,9 +264,9 @@ Kintaro: "MY NAME IS KINTARO."
 Old man: "Good morning, uh, Kintaro-san ...... I'm going somewhere to collect firewood."
 
 
-Kintaro: "OH, MOUNT ASHIGARA."
+Kintaro: "Ou, Maunto Ashigara."
 Old man: "Won't you come with me?"
-Kintaro: "OKAY, LET'S GO!"
+Kintaro: "Okkei, rettsu gou!"
 1
 あかいはらあてをしています。
 赤い腹当をしています。
@@ -304,7 +304,7 @@ That doesn't seem to be possible.
 消えていきました。
 Old man: "Hyaaa, Kintaro-san, Wh-what do we do?"
 
-Kintaro: "HE'S MY FRIEND, GOROU THE BEAR. THAT'S ALRIGHT."
+Kintaro: "Hiizu mai furendo, kuma Gorou. Zattsu ourai."
 
 Old man: "What?!"
 The old man nodded.
@@ -354,7 +354,7 @@ It was magnificent.
 です。
 どうやらそちらへは行けないよう
 です。
-It seems that the old man can't go that way.
+It seems that you can't go that way.
 
 2
 おじいさん「あっりゃー！なんじゃ？
@@ -659,7 +659,7 @@ Old man: "Hyah! It's a boy! It's a boy!"
 
 Old woman: "This is a happy thing, isn't it?
 We will raise them."
-Old man: "Let's do that.  This is also the blessing of the Jizo statue."
+Old man: "Let's do that. This is also the blessing of the Jizo statue."
 
 8
 「ぎょえーっ！ぎょえーっ！」
@@ -773,7 +773,7 @@ Chapter 2
 \
 The years pass, and Donbe and Hikari have become eight years old.
 
-It is morning.  Morning comes to Nagakushi village again today.
+It is morning. Morning comes to Nagakushi village again today.
 
 1
 まだまだげんきです。
@@ -853,7 +853,7 @@ Donbe: "Good! Mor! Ning!"
 Otsu-san, who has been taking care of Donbe and Hikari for a long time, is now saying she is going home.
 
 
-Otsu: "Thank you for everything.  I am leaving fabric that I have woven.
+Otsu: "Thank you for everything. I am leaving fabric that I have woven.
 
 
 Donbe, Hikari, the time has come for me to leave.
@@ -981,3 +981,1709 @@ Donbe: "Yeah."
 ドンベ「ん、」
 Hikari: "Should we go?"
 Donbe: "Sure."
+2
+ふたりはげんきにとなりむらへむかい
+ました。
+二人は元気に隣村へ向かい
+ました。
+The two of them set off in good spirits.
+
+1
+となりむらへのいっぽんみちです。
+隣村への一本道です。
+It's a straight road to the neighboring village.
+1
+いっぽんみち
+一本道
+Straight road
+1
+ずっとこのみちをいけばいいはずです。
+ずっとこの道を行けばいいはずです。
+You should be able to take this road the whole way.
+2
+なんだかくもゆきが　あやしくなってき
+ました。
+なんだか雲行きが怪しくなってき
+ました。
+The sky seems to have become a bit eerie.
+
+2
+どんべ「うれしーい」
+ひかり「はじめてだもんね」
+ドンベ「嬉しーい」
+光「初めてだもんね」
+Donbe: "This is fun!"
+Hikari: "Because this is our first time, right?"
+1
+あけるところなんてありません。
+開ける所なんてありさめん。
+There is nothing to open.
+1
+はなをたらしています。
+鼻を垂らしています。
+His nose is running.
+3
+ひかり「いっぽんみちだから
+しんぱいはないわね」
+どんべ「ん、」
+光「一本道だから
+心配はないわね」
+ドンベ「ん、」
+Hikari: "Since it's a straight road, I'm not worried."
+
+Donbe: "Yeah."
+2
+たべるのですか？でてきたばかりで
+おなかはすいていません。
+食べるのですか？出てきたばかりで
+お腹は空いていません。
+You want to eat them? You just set out, so you're not hungry.
+
+1
+おつかいをすませたいものです。
+お使いを済ませたい物です。
+You should finish your errand first.
+4
+だれかいますよ。
+どんべ「だれだ」
+おんな「わたしはゆきおんなよ。
+だーれもここをとおさないよ！へん！」
+誰かいますよ。
+ドンベ「誰だ」
+女「私は雪女よ。
+誰もここを通さないよ！へん！」
+Someone is there.
+Donbe: "Who are you?"
+Woman: "I am a snow woman.
+Nobody may pass through here! Hmph!"
+2
+うわーっ！ひどいぶすです。とっても
+いじわるなかおをしています。
+うわーっ！ひどいブスです。とっても
+意地悪な顔をしています。
+Wagh! She's terribly ugly. Her face is incredibly malicious.
+
+1
+ふあんそうです。
+不安そうです。
+They look scared.
+1
+ゆきおんながとうせんぼしています。
+雪女が通せんぼしています。
+The snow woman is blocking the way.
+2
+くものきれまからおひさまがかおを
+だしています。
+雲の切れ間からお日様が顔を
+出しています。
+The sun is poking between the gaps in the clouds.
+
+8
+どんべ「こことおりたい」
+ゆきおんな「ばかね、とおさないって
+いったでしょ」
+どんべ「うわ、くちくさーい」
+ゆきおんな「うるさいわね！そうよ！
+どうせわたしはこのにおいでおにに
+ふられたのよ！ふん！なによ、おとこ
+なんか…………」
+ドンベ「ここ通りたい」
+雪女「バカね、通さないって
+言ったでしょ」
+ドンベ「うわ、口臭ーい」
+雪女「うるさいわね！そうよ！
+どうせ私はこの匂いで鬼に
+振られたのよ！ふん！何よ、男
+なんか……」
+Donbe: "We want to pass through here!"
+Snow woman: "You dolt, didn't I just say you can't go through?"
+
+Donbe: "Ugh, your breath stinks!"
+Snow woman: "Shut up! Really!
+I was dumped by an oni because of this smell! Hmph! What a terrible man..."
+
+
+2
+ゆきおんな「さっさとひきかえしな！
+あたしゃいまきげんがわるいんだよ！」
+雪女「さっさと引き返しな！
+あたしは今機嫌が悪いんだよ！」
+Snow woman: "Hurry up and leave already!
+I'm in a bad mood right now!"
+2
+どんべ「さむい…………」
+ひかり「さむいね」
+ドンベ「寒い……」
+光「寒いね」
+Donbe: "It's cold......"
+Hikari: "It is cold, isn't it."
+1
+ゆきおんなをみてます。
+雪女を見てます。
+He is looking at the snow woman.
+3
+ひかり「あ、あのー…………」
+ゆきおんな「あたしゃおんながとくに
+きらいなんだよ！」
+光「あ、あのー……」
+雪女「私は女が得に特に
+嫌い何だよ！」
+Hikari: "Uh, um......"
+Snow woman: "I hate woman in particular!"
+
+2
+ひかり「どうしよう？」
+どんべ「ん？」
+光「どうしよう？」
+ドンベ「ん？」
+Hikari: "What should we do?"
+Donbe: "Hm?"
+2
+よくみるとみちのわきにちいさなあなが
+あります。
+良く見ると道の脇に小さな穴が
+あります。
+Looking closely, there's a small hole next to the road.
+
+1
+ゆきおんながたっています。
+雪女が立っています。
+The snow woman is standing there.
+2
+これいがいとなりむらへいくみちは
+なさそうです。
+これ以外隣村へ行く道は
+なさそうです。
+There seems to be no other way to get to the neighboring village.
+
+1
+とてもふかそうです。
+とても深そうです。
+It seems to be very deep.
+2
+みみをすますとなにかきこえます。
+「きゃぴ、きゃぴ…………」
+耳を澄ますと何か聞こえます。
+「キャピ、キャピ……」
+Straining your ear, you can hear something.
+It sounds lively.
+2
+どんべ「なんだ？これ」
+ひかり「あなよそれ」
+ドンベ「何だ？これ」
+光「穴よそれ」
+Donbe: "What? What is this?"
+Hikari: "It's a hole."
+2
+ひかり「なにかいるのかな？」
+どんべ「もぐらっ！」
+光「何かいるのかな？」
+ドンベ「もぐらっ！」
+Hikari: "Is there something in there?"
+Donbe: "A mole!"
+2
+どんべ「やっつける！」
+ひかり「かてっこないわよっ！」
+ドンベ「やっつける！」
+光「勝てっこないわよっ！」
+Donbe: "I'll attack!"
+Hikari: "You won't win!"
+3
+ひかり「どうしよう、このみち
+しかないよう」
+どんべ「なんとかなる！」
+光「どうしよう、この道
+しかないよう」
+ドンベ「何とかなる！」
+Hikari: "What do we do? It seems like this road is our only option."
+
+Donbe: "We'll figure it out!"
+7
+くいしんぼですね。しかたない、たべ
+ましょうか…………おっと！てがすべって
+おむすびは　ちいさなあなに
+おちてしまいました。
+「おむすびころりん、すってんてーん」
+へんなうたがきこえたかとおもうと
+あなから　ねずみがかおをだしました。
+食いしん坊ですね。仕方ない、食べ
+ましょうか……おっと！手が滑って
+おむすびは小さな穴に
+落ちてしまいました。
+「おむすびころりん、すってんてーん」
+変な歌が聞こえたかと思うと
+穴から鼠が顔を出しました。
+You're a glutton, aren't you. It can't be helped, let's eat...... Oops! The rice ball slips from your hand and ends up falling into the little hole.
+
+
+
+"Rolling rice ball, falling falling down."
+While thinking you heard this strange song,
+a mouse poked her head out of the hole.
+1
+ねずみがいます。
+ねずみがいます。
+There's a mouse.
+2
+これがうわさのじょしだいせいねずみ
+です。
+これが噂の女子大生ねずみ
+です。
+This is the rumored female college student mouse.
+
+3
+ひかり「なんかいってるわよ」
+どんべ「もぐらもぐら」
+ひかり「もぐらじゃないのよ」
+光「何か言ってるわよ」
+ドンベ「もぐらもぐら」
+光「もぐらじゃないのよ」
+Hikari: "It's saying something."
+Donbe: "It's a mole it's a mole!"
+Hikari: "It's not a mole!"
+11
+ひかり「こんにちわねずみさん」
+ねずみ「はーい　おむすびおいしくって
+あたしはっぴー……ところでゆきおんなの
+オセチにてこずっちゃってるみたいね。
+これがあたしたちもなんだよねー」
+ひかり「そうなの、いいちえない
+かしら」
+ねずみ「おっけーまかしてえ…………おねえ
+さんきょうりょくしちゃう　」
+そういって　ねずみは、かがみをだして
+きました。
+光「こんにちはねずみさん」
+ねずみ「はーい　おもすびおいしくって
+あたしはハッピー……所で雪女の
+おせちに手こずっちゃってるみたいね。
+これがあたしたちも何だねー」
+光「そうなの、いい知恵ない
+かしら」
+ねずみ「オッケー任してえ……おねえ
+さん協力しちゃう　」
+そういってねずみは、鏡を出して
+きました。
+Hikari: "Hello, mouse-san."
+Mouse: "Hiii <3 that rice ball was good, so I'm happy...... By the way, it seems that the snow woman Osechi has been giving you trouble.
+
+
+We've been dealing with her too."
+Hikari: "I see, do you have any ideas?"
+
+Mouse: "Okay, I'll leave it to you...... I'll help you <3"
+
+After saying this, the mouse pulls out a mirror.
+
+1
+ねずみ「がーんば、きゃん　」
+ねずみ「がーんば、きゃん　」
+Nezumi: "Good luck *squeal* <3"
+1
+ふつうのかがみです。
+普通の鏡です。
+It's a normal mirror.
+3
+どんべ「へんなやつ」
+ひかり「かわいいじゃない
+へんなのは　あなたでしょ」
+ドンベ「変なやつ」
+光「かわいいじゃない
+変なのはあなたでしょ」
+Donbe: "It's strange."
+Hikari: "Isn't it cute? You're the weird one."
+
+2
+ねずみ「あたしって　はなたれぼうずに
+きょうみないのよねー」
+ねずみ「あたしってはな垂れ坊主に
+興味ないのよねー」
+Mouse: "I have no interest in a snotty- nosed kid!"
+
+3
+ひかり「わたしはゆきおんな
+なんてまっぴらよ！
+どんべやってよ」
+光「私は雪女
+なんてまっぴらよ！
+ドンベやってよ」
+Hikari: "No way I'm having anything to do with that snow woman!
+
+Donbe, you do it!"
+2
+どんべ「おれ、やる！」
+かがみをとりました。
+ドンベ「俺、やる！」
+鏡を取りました。
+Donbe: "Alright, I'll do it!"
+You take the mirror.
+3
+どんべはかがみをのぞきこみ
+ました。なかなかのいろおとこだと
+おもいました。
+ドンベは鏡を覗き込み
+ました。なかなかの色男だと
+思いました。
+You peer into the mirror. You think it shows a very attractive man.
+
+
+6
+かがみをとりだすと　ぐうぜんおひさま
+のひかりがゆきおんなのかおにあたり
+ました。
+ゆきおんな「ぎゃーっ！か、かがみを
+しまえーっ！」
+どんべ「おもしろーい」
+鏡を取り出すと偶然お日様
+の光が雪女の顔に当たり
+ました。
+雪女「ぎゃーっ！か、鏡を
+しまえーっ！」
+ドンベ「面白ーい」
+Taking out the mirror, it happens to reflect the sunshine onto the snow woman's face.
+
+
+Snow woman: "Gya! P-put that mirror away!"
+
+Donbe: "How fun!"
+6
+ゆきおんな「お、なんていいおんなだ」
+おせちはかがみにうつったじぶんに
+みとれています。
+ゆきおんな「これよこせ」
+かがみをひったくってよろこんで
+かえっていきました。
+雪女「お、なんて良い女だ」
+おせちは鏡に映った自分に
+見とれています。
+雪女「これよこせ」
+鏡をひったくって喜んで
+帰っていきました。
+Snow woman: "Oh, what a beautiful woman!"
+Osechi is captivated by her own reflection in the mirror.
+
+Snow woman: "Give me that!"
+She grabs the mirror from you and happily returns home.
+
+1
+いいてんきです。
+良い天気です。
+The weather is great.
+2
+どんべ「おみせ、おみせ」
+ひかり「はやくいきましょ」
+ドンベ「お店、お店」
+光「早く行きましょ」
+Donbe: "The store, the store!"
+Hikari: "Let's hurry up and go."
+1
+となりむらがみえました。
+隣村見えました。
+The neighboring village is now visible.
+1
+てんぼうだい
+展望台
+Viewpoint
+4
+ちいさなむらです。
+どんべ「みせ、みせ」
+ひかり「あ、あそこにあった
+ほら、おてらのよこ」
+小さな村です。
+ドンベ「店、店」
+光「あ、あそこにあった
+ほら、お寺の横」
+It's a small village.
+Donbe: "The store, the store."
+Hikari: "Ah, look, it's over there, by the temple."
+
+1
+みせのばしょがわかりません。
+店の場所が分かりません。
+You don't know where the store is.
+2
+ひかり「いくわよ」
+どんべ「ん、」
+光「行くわよ」
+ドンベ「ん、」
+Hikari: "Let's go!"
+Donbe: "Sure."
+7
+いったい「お、ながくしむらの
+どんべと、ひかりや
+ないか。ようきたのう」
+ひかり「こんにちわ、おつかいに
+きたの…………」
+いったい「もうてつだいができるんか
+えらいなあ」
+イッタイ「お、ナガクシ村の
+ドンベと、光や
+ないか。ようきたのう」
+光「こんにちは、お使いに
+来たの……」
+イッタイ「もう手伝いができるんか
+偉いなあ」
+Ittai: "Oh, if it isn't Donbe and Hikari from Nagakushi village. Thanks for coming!"
+
+
+Hikari: "Hello, we're here on an errand......"
+
+Ittai: "It's great that you can help already!"
+
+1
+みせ
+店
+Store
+1
+きれいなおみせです。
+綺麗なお店です。
+It's a clean store.
+2
+めずらしそうにみせのなかをみまわして
+います。
+珍しそうに店の中を見回して
+います。
+They are looking around the inside of the store with curiousity.
+
+1
+けがいっぽんはえています。
+毛が一本生えています。
+He has one long hair coming out.
+2
+いったい「これこれ」
+いったいさんにしかられました。
+イッタイ「これこれ」
+イッタイさんに叱られました。
+Ittai: "Hey, stop!"
+You received a scolding from Ittai-san.
+2
+どんべ「おつかい、おつかい」
+ひかり「はやくすませましょ」
+ドンベ「お使い、お使い」
+光「早く済ませましょ」
+Donbe: "An errand, an errand"
+Hikari: "Let's hurry up and finish it!"
+3
+どんべ「おつかい、くれ」
+ひかり「そんなものうってない
+わよ」
+ドンベ「お使い、くれ」
+光「そんな物売ってない
+わよ」
+Donbe: "We're on an errand, gimme"
+Hikari: "They don't sell that kind of stuff."
+
+1
+おつかいはすみましたか？
+お使いは済みましたか？
+Did you finish your errand?
+3
+ひかり「なにみてるの？」
+どんべ「けがいっぽんだけある」
+ひかり「しつれいでしょ！」
+光「何見てるの？」
+ドンベ「毛が一本だけある」
+光「失礼でしょ！」
+Hikari: "What are you looking at?"
+Donbe: "He only has one hair!"
+Hikari: "That's rude!"
+3
+ひかり「おじいさんからのとどけ
+ものがあるんです」
+いったい「ほう、なんやろ？」
+光「おじいさんからの届け
+物があるんです」
+イッタイ「ほう、何やろ？」
+Hikari: "We have something for you from our grandpa."
+
+Ittai: "Oh, what is it?"
+2
+どんべ「これやる」
+ひかり「おじいさんからです」
+ドンベ「これやる」
+光「おじいさんからです」
+Donbe: "Here you go."
+Hikari: "It's from our grandpa."
+3
+いったい「おおっ！りっぱなたんもの
+じゃ」
+そしててがみをあけました。
+イッタイ「おおっ！立派な反物
+だ」
+そして手紙を開けました。
+Ittai: "Woah! This is a splendid piece of fabric."
+
+And then he opened the letter.
+4
+いったい「すまんけどおじいさんの
+ちゅうもんのしながいま　あらへんから
+あとでかならずとどけるゆうといて
+くれへんか」
+イッタイ「すまんけどおじいさんの
+注文の品が今あらへんから
+後で必ず届けるゆうといて
+くれへんか」
+Ittai: "I'm sorry, but the items that your grandfather requested are not available right now, so tell him that I'll definitely deliver them to him later."
+
+
+
+2
+どんべ「がうがう」
+ひかり「そうね　かえりましょ」
+ドンベ「がうがう」 I have 0 idea what this is
+光「そうね帰りましょ」
+Donbe: "Woo!"
+Hikari: "Alright, let's go home."
+2
+いったい「そしたらきいつけてな」
+ひかり「おおきに」
+イッタイ「そしたらきいつけてな」
+光「おおきに」
+Ittai: "Well then, take care!"
+Hikari: "Thank you!"
+2
+ひかり「はやくかえりましょ」
+どんべ「はらへった」
+光「早く帰りましょ」
+ドンベ「腹減った」
+Hikari: "Let's hurry up and go home."
+Donbe: "I'm hungry."
+2
+ことづけをうけたふたりは　いえに
+かえりました。
+言付けを受けた二人は家に
+帰りました。
+Having received the message, the two of you went home.
+
+2
+いえにつくとひがとっぷりと
+くれていました。
+家に着くと日がとっぷりと
+暮れていました。
+By the time you got home, the sun had completely set.
+
+1
+そとはまっくらです。
+外は真っ暗です。
+It is pitch black outside.
+5
+どんべ「とちゅうでゆきおんな
+みた…………」
+おじいさん「えっ？」
+どんべ「やっつけた」
+おじいさん「まあ、ぶじでなによりだ」
+ドンベ「途中で雪女
+見た……」
+おじいさん「えっ？」
+ドンベ「やっつけた」
+おじいさん「まあ、無事で何よりだ」
+Donbe: "On the way, we saw a snow woman......"
+
+Old man: "What!?"
+Donbe: "We finished her off!"
+Old man: "Well, the most important thing is that you are safe."
+3
+どんべ「みせにものない」
+おじいさん「え？どうもどんべの
+いっとることはわからんのお」
+ドンベ「店に物ない」
+おじいさん「え？どうもドンベの
+言っとることは分からんのお」
+Donbe: "It wasn't at the store."
+Old man: "What? I don't understand what you're saying."
+
+3
+どんべ「ゆきおんなみた」
+おばあさん「えっ！」
+どんべ「でもやっつけた」
+ドンベ「雪女見た」
+おばあさん「えっ！」
+ドンベ「でもやっつけた」
+Donbe: "We saw a snow woman!"
+Old woman: "What!?"
+Donbe: "But we finished her off!"
+2
+どんべ「おれつよかった」
+ひかり「ぐうぜんじゃない！」
+ドンベ「俺強かった」
+光「偶然じゃない！」
+Donbe: "I was strong!"
+Hikari: "That was a coinci- dence!"
+3
+ひかり「とちゅうでゆきおんなに
+あったの」
+おじいさん「ええっ？ぶじでよかった」
+光「途中で雪女に
+あったの」
+おじいさん「ええっ？無事でよかった」
+Hikari: "On the way, there was a snow woman."
+
+Old man: "What!? I'm glad you're safe.
+8
+ひかり「おじいさんのたのんだ
+ものがおみせになかったの。あとで
+いったいさんがとどけてくれるわ」
+おじいさん「そうかいそうかい、ごく
+ろうだったね」
+「まいどおー！」
+おじいさん「おお、そういっとるうちに
+いったいさんがきたようじゃ」
+光「おじいさんの頼んだ
+物がお店になかったの。後で
+イッタイさんが届けてくれるわ」
+おじいさん「そうかいそうかい、ご苦
+労だったね」
+「毎度おー！」
+おじいさん「おお、そう言っとる内に
+イッタイさんが来たようだ」
+Hikari: "What you requested wasn't at the store. Ittai-san will deliver it to you later."
+
+
+Old man: "I see, thanks for you help."
+
+"Thanks for your patronage!"
+Old man: "Oh, speak of the devil, Ittai-san is here."
+
+3
+ひかり「ゆきおんなにあったの」
+おばあさん「えっ？よくぶじでかえっ
+てこれたねえ…………」
+光「雪女にあったの」
+おばあさん「えっ？良く無事で帰っ
+てこれたねえ……」
+Hikari: "There was a snow woman."
+Old woman: "What? It's good that you came home safely......"
+
+2
+ひかり「こわかったね」
+どんべ「こわくない」
+光「怖かったね」
+ドンベ「怖くない」
+Hikari: "It was scary, right?"
+Donbe: "I'm not scared!"
+9
+いったい「おおきにい」
+おじいさん「やあ、いったいさん。
+わざわざすまんかったのう」
+いったい「おやすいごようでおます」
+おじいさん「けいきはどうだい？」
+いったい「りゅうのせいでさっぱり
+ですわ」
+おじいさん「りゅう？」
+いったい「あれ？しりまへんか？
+イッタイ「おおきにい」
+おじいさん「やあ、イッタイさん。
+わざわざすまんかったのう」
+イッタイ「お安い御用でおます」
+おじいさん「景気はどうだい？」
+イッタイ「竜のせいでさっぱり
+ですわ」
+おじいさん「竜？」
+イッタイ「あれ？知りまへんか？」
+Ittai: "Thank you!"
+Old man: "Ah, Ittai-san. Sorry for making you come all this way."
+
+Ittai: "It's fine, your order is easy."
+Old man: "How's business?"
+Ittai: "Terrible, because of the dragon."
+
+Old man: "Dragon?"
+Ittai: "Huh? You don't know?
+12
+みやこにりゅうがでてきましてなあ
+にんげんをおににしてますのや。
+そのおにがまたあばれもんで…………どうも
+だれかをさがしとるようなんやけど…………
+まちをこわしたり、ひとのたましいを
+すいとっておにをふやしたり
+たいへんなさわぎになってます。
+きおつけておくれやす。
+こっちにもむかってきてるみたいでっせ
+うわさではここからもそうとおくない
+びょうぶいわにも　とりでをつくっとる
+と、いうことですさかい」
+都に竜が出てきましてなあ
+人間を鬼にしてますのや。
+その鬼がまた暴れもんで……どうも
+誰かを探しとるようなんやけど……
+町を壊したり、人の魂を
+吸い取って鬼をお増やしたり
+大変な騒ぎになってます。
+気をつけて遅れやす。
+こっちにも向かってきてるみたいでっせ
+噂ではここからもそう遠くない
+屏風岩にも砦を作っとる
+と、言うことですさかい」
+A dragon appeared in the capital and has been turning people into oni.
+
+The oni are going on a rampage... and they seem to be searching for someone...
+
+They've been destrying the town and sucking up the souls of people, increasing the number of oni, which has caused a terrible disturbance.
+
+
+Be careful.
+They are coming this way, and rumor has it that they are building a fort on the sheer cliff which isn't too far from here. That's what I've heard."
+
+
+
+5
+おじいさん「それはこまったのう…………」
+いったい「ほな、しなものはここへ
+おいときまっさ。おおきにい」
+おじいさん「ごくろうじゃった」
+いったいさんはかえっていきました。
+おじいさん「それは困ったのう……」
+イッタイ「ほな、品物はここへ
+置いときまっさ。おおきにい」
+おじいさん「ご苦労だった」
+イッタイさんは帰って行きました。
+Old man: "That's distressing ......"
+Ittai: "Well, I'll put what you ordered here. Thank you!"
+
+Old man: "Thank you for coming all this way."
+Ittai-san has gone home.
+3
+ひかり「りゅうがこないかな」
+おじいさん「ここはだいじょうぶじゃ
+あれはみやこのはなしじゃ」
+光「竜が来ないかな」
+おじいさん「ここは大丈夫だ
+あれは都の話だ」
+Hikari: "The dragon won't come, right?"
+Old man: "We'll be fine here, that was a story about the capital."
+
+3
+ひかり「こわいわ」
+おばあさん「いったいさんのはなしは
+いつもおおげさじゃから……」
+光「怖いわ」
+おばあさん「イッタイさんの話は
+いつも大げさだから…」
+Hikari: "I'm scared."
+Old woman: "Ittai-san always exaggerates his stories..."
+
+3
+ひかり「いったいさんのはなしを
+きいてからむなさわぎがする」
+どんべ「おいらも」
+光「イッタイさんの話を
+聞いてから胸騒ぎがする」
+ドンベ「オイラも」
+Hikari: "After hearing Ittai-san's story, I'm feeling uneasy."
+
+Donbe: "Me too."
+5
+どんべ「りゅうをやっつける！」
+おじいさん「りゅうというのはとても
+おおきいんじゃぞ。
+それにおそろしいじゅつでひとをおそう
+んじゃ」
+ドンベ「竜をやっつける！」
+おじいさん「竜と言うのはとても
+大きいんだぞ。
+それに恐ろしい術で人を襲う
+んだ」
+Donbe: "I'll beat the dragon!"
+Old man: "Dragons are very large though.
+
+Futhermore, they attack people using terrifying methods."
+
+2
+どんべ「りゅうをやっつける！」
+おばあさん「おまえではむりだよ」
+ドンベ「竜をやっつける！」
+おばあさん「お前では無理だよ」
+Donbe: "I'll beat the dragon!"
+Old woman: "That's impossible for you!"
+2
+どんべ「りゅうやっつける」
+ひかり「ばかね」
+ドンベ「竜やっつける」
+光「バカね」
+Donbe: "I'll beat the dragon."
+Hikari: "Don't be ridiculous!"
+6
+どんべ「みやこ？」
+おじいさん「ずーっとにしのほうじゃ
+たくさんひとがすんどるのじゃ」
+どんべ「ふーん…………ねむ…………」
+おじいさん「きょうはつかれたじゃろ
+もうおやすみ」
+ドンベ「都？」
+おじいさん「ずっと西の方だ
+たくさん人が住んどるのだ」
+ドンベ「ふーん……眠……」
+おじいさん「今日は疲れただろ
+もうお休み」
+Donbe: "Capital?"
+Old man: "It's far to the west, and many people live there."
+
+Donbe: "Hmmm...... Sleepy......"
+Old man: "You did a lot today already, good night."
+
+3
+どんべ「ねむい、ねむい」
+おばあさん「そうじゃろう、きょうは
+もうねなさい」
+ドンベ「眠い、眠い」
+おばあさん「そうだろう、今日は
+もう寝なさい」
+Donbe: "I'm sleepy, I'm sleepy."
+Old woman: "That's right, go to bed for the day."
+
+1
+まよなかです。
+真夜中です。
+It is the middle of the night.
+1
+ぐうぐう
+ぐうぐう
+............ Zzz ............
+3
+いちどはふとんにはいったのですが
+むなさわぎがしてねむれません。
+ふたりともおきてきました。
+一度は布団に入ったのですが
+胸騒ぎがして眠れません。
+二人とても起きてきました。
+The two of you went to bed, but because of your uneasiness you couldn't fall asleep. You both got up.
+
+
+2
+おじいさんがしまいわすれた
+どうぐばこです。
+おじいさんが仕舞い忘れた
+道具箱です。
+It's a toolbox that the old man forgot to put away.
+
+3
+どんべ「りゅう…………りゅう」
+ひかり「どんべもりゅうの
+はなしでねつけないのね」
+ドンベ「竜……竜」
+光「ドンベも竜の
+話で寝付けないのね」
+Donbe: "Dragon ...... Dragon."
+Hikari: "So you also can't sleep because of the story about the dragon?"
+
+3
+ひかり「なんだか、りゅうのこと
+が　きになってねむれないの」
+どんべ「おいらも」
+光「何だか、竜のこと
+が気になって眠れないの」
+ドンベ「オイラも」
+Hikari: "I can't sleep because of the dragon."
+
+Donbe: "Me too."
+2
+それっ、あけてみました。ややっ！
+おわんとたけづつがでてきましたよ。
+それっ、開けてみました。ややっ！
+お椀と竹筒が出てきましたよ。
+Alright, let's open it. Oh my!
+A bowl and a tube of bamboo came out.
+1
+あいています。
+開いています。
+It's open.
+2
+どんべ「だいじなもの？」
+ひかり「たぶんね」
+ドンベ「大事な物？」
+光「多分ね」
+Donbe: "Are these important?"
+Hikari: "Probably."
+2
+ひかり「これにはなにかあるわ」
+どんべ「うん」
+光「これには何かあるわ」
+ドンベ「うん」
+Hikari: "There's something about this."
+Donbe: "Yeah."
+4
+きんたろう「はろーぐっどいぶにんぐ」
+ひかり「きゃーっ！どろぼう！」
+ふたりでみていると　きんたろうが
+あがりこんできました。
+金太郎「ハローグッドイブニング」
+光「きゃーっ！泥棒！」
+二人で見ていると金太郎が
+上がり込んできました。
+Kintaro: "Harou, guddo ibuningu."
+Hikari: "Ahhh! It's a thief!"
+While the two of you were watching, Kintaro came in.
+
+1
+おおきさのわりにおもいです。
+大きさの割に重いです。
+It's heavy even for its size.
+1
+じっとふたりをみています。
+じっと二人を見ています。
+He is staring at the two of you intently.
+2
+どんべ「がおーっ！がおーっ！」
+ひかり「ばかみたい」
+ドンベ「ガオーッ！ガオーッ！」
+光「バカみたい」
+Donbe: "Rawr! Rawr!"
+Hikari: "You look like an idiot!"
+8
+そのたけづつとおわんから　きみたちが
+うまれたんだよときんたろうは
+いいました。
+ひかり「うっそー！わたしたちは
+ここのこどもじゃないというの？」
+きんたろう「いえーす」
+たしかめたければかわかみへいってみろ
+といってます。
+その竹筒とお椀から君たちが
+生まれたんだよと金太郎は
+言いました。
+光「嘘！私たちは
+ここの子供じゃないと言うの？」
+金太郎「イエース」
+確かめたければ川上へ行ってみろ
+と言ってます。
+Kintaro told you about how the two of you were born from that bamboo tube and bowl.
+
+
+Hikari: "That's not true! Are you saying we're not children from here?"
+
+Kintaro: "Ieisu."
+He says that if you want to verify it, you should try going upstream.
+
+3
+ひかり「よるなのにさんぐらす
+してる、きっとわるものよ」
+どんべ「がおーっ！」
+光「夜なのにサングラス
+してる、きっと悪者よ」
+ドンベ「ガオーッ！」
+Hikari: "Wearing sunglasses even though it's night, he's obviously a bad guy!"
+
+Donbe: "Rawr!"
+1
+ふたりは　かわかみにむかいます。
+二人は川上に向かいます。
+The two of you head upstream.
+3
+おもてはまっくらです。ひたひた…………。
+ふたりのあしおとだけがやみにすい
+こまれていきます。
+表は真っ暗です。ひたひた……。
+二人の足音だけ闇に吸い
+込まれていきます。
+It is pitch black outside.
+The sound of your footsteps is absorbed by the darkness.
+
+1
+まっくらです。
+真っ暗です。
+It is pitch black.
+1
+つきかげが　ゆらめいています。
+月影が揺らめいています。
+The moonlight is shimmering.
+1
+ふうりゅうです。
+風流です。
+It is elegant.
+1
+たくさん　いしがころがっています。
+たくさん石が転がっています。
+There are many rocks scattered around.
+1
+どんべ「あんぐり、くびだるい」
+ドンベ「あんぐり、首だるい」
+Donbe: "My neck is stiff."
+2
+どんべ「どうする」
+ひかり「どうしよう」
+ドンベ「どうする」
+光「どうしよう」
+Donbe: "What do we do?"
+Hikari: "What should we do?"
+2
+せっかくでてきたんです。もっと
+しらべてみましょう。
+せっかく出てきたんです。もっと
+調べてみましょう。
+You've come all this way. Try investigating more.
+
+1
+いつもげんきです。
+いつも元気です。
+He is always lively.
+1
+ほしひとつないやみよです。
+星一つない闇夜です。
+There is not a single star out on this moonless night.
+1
+とりました。ただのいしですよ。
+取りました。ただの石ですよ。
+You take one. It's an ordinary rock.
+1
+そんなにいりません。
+そんなにいりません。
+You don't need something like that.
+3
+ひかり「そらにはつきなんか
+でてないじゃない」
+どんべ「かわにつきある」
+光「空には月何か
+出てないじゃない」
+ドンベ「川に月ある」
+Hikari: "The moon isn't in the sky."
+
+Donbe: "The moon is in the water."
+4
+どんべ「やっ！」
+いしをなげてみました。
+「ちゃぽん」
+なにもおこりません。
+ドンベ「やっ！」
+石を投げてみました。
+「チャポン」
+何も起こりません。
+Donbe: "Yah!"
+You throw the stone.
+*Sploosh!*
+Nothing happens.
+4
+ひかり「えいっ！」
+いしをなげてみました。
+「ちゃぽん」
+なにもおこりません。
+光「エイッ！」
+石を投げてみました。
+「チャポン」
+何も起こりません。
+Hikari: "Ay!"
+You throw the stone.
+*Sploosh!*
+Nothing happens.
+4
+ひかり「えいっ！」
+つきかげにいしをなげてみました。
+「こつん！」
+はねかえりました。
+光「エイッ！」
+月影に石を投げてみました。
+「コツン！」
+跳ね返りました。
+Hikari: "Ay!"
+You try throwing the stone at the moonlight.
+*Clunk!*
+It bounced off.
+4
+どんべ「やっ！」
+つきかげにいしをなげてみました。
+「こつん！」
+はねかえりました。
+ドンベ「やっ！」
+月影に石を投げてみました。
+「コツン！」
+跳ね返りました。
+Donbe: "Yah!"
+You try throwing the stone at the moonlight.
+*Clunk!*
+It bounced off.
+2
+つきかげだとおもっていたのは　なんと
+おさらでした。
+月影だと思っていたのはなんと
+お皿でした。
+What you thought was the moonlight was actually a dish.
+
+1
+ゆるやかなながれのかわです。
+緩やかな流れの川です。
+The current is slow.
+1
+ちいさなまるいおさらです。
+小さな円いお皿です。
+It's a small round dish.
+1
+どんべ「うーん、とどかない」
+ドンベ「うーん、届かない」
+Donbe: "No, I can't reach."
+2
+ひかり「かわに　はいるなんて
+やだ！」
+光「川に入るなんて
+やだ！」
+Hikari: "No way I'm going in the river!"
+
+2
+あっ！たきがありました。かがやいて
+います。
+あっ！滝がありました。輝いて
+います。
+Ah! There's a waterfall. It's shining.
+
+1
+かわかみ
+川上
+Upstream
+1
+みずのむこうがわがひかっています。
+水の向こう側が光っています。
+The other side of the water is shining.
+2
+なんとかのぼれそうですがさすがに
+ひかりにはむりでしょう。
+何とか登れそうですがさすがに
+光には無理でしょう。
+Donbe could probably climb it, but it would be impossible for Hikari.
+
+3
+どんべ「たき、たき」
+ひかり「たきのうらになにか
+ありそうね」
+ドンベ「滝、滝」
+光「滝の裏に何か
+ありそうね」
+Donbe: "Waterfall, waterfall!"
+Hikari: "There seems to be something behind the waterfall."
+
+1
+むだです。
+無駄です。
+It's useless.
+2
+がけのうえに　たけがおいしげって
+います。
+崖の上に竹が生い茂って
+います。
+There is a great amount of bamboo growing on top of the cliff.
+
+3
+ひかり「なにがひかってるの？」
+どんべ「いったいさんのあたま」
+ひかり「ばかね」
+光「何が光ってるの？」
+ドンベ「イッタイさんの頭」
+光「バカね」
+Hikari: "What's glowing?"
+Donbe: "Ittai-san's head."
+Hikari: "Don't be ridiculous."
+2
+どんべ「よいしょ！」
+がけをのぼると　たけやぶへでました。
+ドンベ「ヨイショ！」
+崖登ると竹やぶへ出ました。
+Donbe: "Huff!"
+Climbing the cliff, you come to a bamboo grove.
+1
+ひかりにはむりなようです。
+光には無理なようです。
+That looks impossible for Hikari.
+1
+だれもいませんよ。
+誰もいませんよ。
+There's no one here.
+1
+たきへでました。
+滝へ出ました。
+You've arrived at the waterfall.
+1
+たけやぶです。
+竹やぶです。
+You are at a bamboo grove.
+1
+たけがうっそうと　おいしげってます。
+竹が鬱蒼と生い茂ってます。
+The bamboo is growing thickly.
+2
+どんべがかえるまで
+まちましょう。
+ドンベが帰るまで
+待ちましょう。
+Let's wait until Donbe gets back.
+
+3
+なにかで　きったようなきりかぶが
+いっぽんあります。そばにたけが
+ころがっています。
+何かで切ったような切り株が
+一本あります。そばに竹が
+転がっています。
+There is a stump that seems to have been cut down. Some bamboo is on the ground next to it.
+
+
+1
+やけにきれいなたけです。
+やけに綺麗な竹です。
+It's a very pretty piece of bamboo.
+2
+とりました。
+どんべ「へんなの」
+取りました。
+ドンベ「変なの」
+You took it.
+Donbe: "Strange."
+2
+ふつうのたけやぶです。
+どんべ「ん？なにかきこえる」
+普通の竹やぶです。
+ドンベ「ん？何か聞こえる」
+It's a normal bamboo grove.
+Donbe: "Hm? What am I hearing?"
+4
+「しくしく…………しくしく」
+なきごえがきこえます。
+どんべ「う……こ、こわくない！」
+たけのもとにだれかいますよ。
+「しくしく……しくしく」
+泣き声聞こえます。
+ドンベ「う…こ、怖くない！」
+竹の元に誰かいますよ。
+"*sob sob...sob sob*"
+A crying voice is audible.
+Donbe: "Uh... I-I'm not scared!"
+Someone came from the bamboo.
+1
+ありゃー、かっぱですよ。
+ありゃー、河童ですよ。
+Ahhh, it's a kappa.
+1
+たけのもとにだれかいます
+竹の元に誰かいます
+Someone came from the bamboo.
+1
+かっぱがいます
+河童がいます
+There's a kappa.
+1
+とてもかなしそうです。
+とても悲しそうです。
+It seems very sad.
+5
+どんべ「どうした？」
+かっぱ「うっ…………うっ……だいじなおさら
+をなくしてしまったんです。
+たきがひかったらみずをとめろといわれ
+ているのに…………ちからがでない」
+ドンベ「どうした？」
+河童「うっ……うっ…大事なお皿
+をなくしてしまったんです。
+滝が光ったら水を止めろと言われ
+ているのに……力が出ない」
+Donbe: "What's wrong?"
+Kappa: "Uuu...... Uuu... I lost my important dish.
+
+Even though I was told to stop the water if the waterfall was glowing...... I don't have the strength."
+
+4
+どんべ「これやる」
+かっぱ「しくしく………………」
+どんべ「うーんと　三十五？」
+かっぱ「三十六ですよっ！」
+ドンベ「これやる」
+河童「しくしく………」
+ドンベ「うんと三十五？」
+河童「三十六ですよっ！」
+Donbe: "Here you go."
+Kappa: "*sob sob*"
+Donbe: "Hm, are you 35?"
+Kappa: "I'm 36!"
+3
+どんべ「これやる」
+かっぱ「からかってんですか？うっ、
+…………しくしく…………」
+ドンベ「これやる」
+河童「からかってんですか？うっ、
+……しくしく……」
+Donbe: "Here you go."
+Kappa: "Are you making fun of me? Uuu,
+...... *sob sob* ......"
+2
+どんべ「かっぱいた」
+ひかり「やーん、きもちわるい」
+ドンベ「河童いた」
+光「やーん、気持ち悪い」
+Donbe: "There was a kappa."
+Hikari: "Hm, I have a bad feeling about this."
+5
+どんべ「それっ！とったーっ！」
+どんべは、たけをつかって
+さらをたぐりよせました。
+かわにおとした　たけは、みずに
+しずんでいきました。
+ドンベ「それっ！取ったーっ！」
+ドンベは、竹を使って
+皿をたぐり寄せました。
+川に落とした竹は、水に
+沈んでいきました。
+Donbe: "That's it! I'll get it!"
+Donbe used the bamboo to reel in the dish.
+
+The bamboo was dropped into the river, and sank into the water.
+
+3
+どんべ「それーえんばんなげー」
+ひかり「こらっ！あぶないから
+やめなさい！」
+ドンベ「それー円盤投げー」
+光「こらっ！危ないから
+止めなさい！」
+Donbe: "Look, discus throw!"
+Hikari: "Hey! That's dangerous,
+so cut it out!"
+3
+どんべ「とりやぁー！」
+ひかり「なんのっ！ひらりっ」
+ちゃんばらが　はじまりました。
+ドンベ「とりやぁー！」
+光「何のっ！ひらりっ」
+チャンバラが始まりました。
+Donbe: "Hayah!"
+Hikari: "What! How nimble."
+The sword play has begun.
+7
+どんべ「これやる」
+かっぱ「きゃーっ！きゃーっ！こ、これ
+これですよ！これ！わたしのおさら！
+なんとおれいをもうしてよいやら…………
+じゃ、わたしはみずをとめないといけ
+ないので　これでしつれいします」
+あっさりしたかっぱです。
+ドンベ「これやる」
+河童「きゃーっ！きゃーっ！こ、これ
+これですよ！これ！私のお皿！
+何とお礼を申してよいやら……
+じゃ、私は水を止めないといけ
+ないのでこれで失礼します」
+あっさりした河童です。
+Donbe: "Here you go."
+Kappa: "Woah! Woah! Th-this,
+this is it! This! My dish!
+I can't thank you enough ......
+Well, I've got to go stop the water, so please excuse me."
+
+The kappa quickly runs off.
+1
+ぽっかりとあながあいています。
+ぽっかりと穴が開いています。
+A wide hole is open.
+1
+ぶきみにひかってます。
+不気味に光ってます。
+There's an eerie light shining.
+3
+どんべ「かっぱかっぱ」
+ひかり「ど……どうくつが
+あらわれたわっ！」
+ドンベ「河童河童」
+光「ど…洞窟が
+現れたわっ！」
+Donbe: "Kappa kappa!"
+Hikari: "A...a cave appeared!"
+
+3
+ひかり「たきのみずが
+とまったわ」
+どんべ「かっぱ　かっぱ」
+光「滝の水が
+止まったわ」
+ドンベ「河童河童」
+Hikari: "The water in the waterfall stopped."
+
+Donbe: "Kappa kappa!"
+1
+これは　なんだ！
+これは何だ！
+What is this!?
+1
+たきのなか
+滝の中
+Inside the Waterfall
+1
+ここまできてかえるわけにはいきません
+ここまで来て帰るわけには行きません
+You can't go back after coming all this way.
+3
+そんなにひろくありません。しょうめん
+におなべのおばけみたいなものが
+あります。
+そんなに広くありません。正面
+にお鍋のおばけみたいな物が
+あります。
+It is not that wide. There is a large saucer- shaped object in the front.
+
+
+2
+かたいものでできてます。なにかかいて
+あります。
+固い物でできてます。何か書いて
+あります。
+It's made of something hard. It has something written on it.
+
+1
+どんべは　じがよめません。
+ドンベは字が読めません。
+Donbe can't read the letters.
+2
+どんべ「ぶっこわせ！」
+ひかり「あぶないわよ」
+ドンベ「ぶっ壊せ！」
+光「危ないわよ」
+Donbe: "I'll destroy it!"
+Hikari: "That's dangerous!"
+3
+ひかり「これ、わたしみたことが
+あるわ」
+どんべ「えっ？」
+光「これ、私見たことが
+あるわ」
+ドンベ「えっ？」
+Hikari: "Wait, I've seen this before."
+
+Donbe: "Huh?"
+9
+ひかりはこえをだしてよみました
+りゅうのみやにて　いまわしき
+あんこくのけしんよみがえる。
+わたしはこのちにふっかつし
+あやまちをただすものなり
+だれかのでんごんのようですね…………
+ひかりのこえがどうくつにひびき
+ます。あっ！にぶいおととともにおなべ
+のいちぶがひらきました。
+光は声を出して読みました
+竜の宮にて忌まわしき
+暗黒の化身蘇る。
+私はこのちに復活し
+過ちを正す物なり
+誰かの伝言のようですね……
+光の声が洞窟に響き
+ます。あっ！鈍い音とともにお鍋
+の一部が開きました。
+Hikari read aloud that an abominable darkness will reincarnate in the dragon's palace.
+
+
+The return of my bloodline will set things right.
+
+It seems to be someone's message ......
+Hikari's voice echoes in the cave. Ah! With a dull sound, a part of the saucer opened.
+
+
+1
+もうなにもおこりません。
+もう何も起こりません。
+Nothing else happens.
+3
+みどりいろのたまがつらなったきれいな
+くびかざりです。みているとふしぎな
+きもちになります。
+緑色の玉が連なった綺麗な
+首飾りです。見ていると不思議な
+気持ちになります。
+It is made of several green beads linked together and is a pretty necklace. Looking at it gives you a sense of wonder.
+
+
+1
+きんいろのうつくしいうでわです。
+金色の美しい腕輪です。
+It is a beautiful and gold-colored bracelet.
+6
+とろうとしてうでをのばすと、とつぜん
+どんべのうでにうでわが、
+ひかりのくびにくびかざりが
+とんできました。
+ひかり「なにこれ！はずれない」
+どんべ「ん、」
+取ろうとして腕を伸ばすと、突然
+ドンベの腕に腕輪が、
+光の首に首飾りが
+飛んできました。
+光「何これ！外れない」
+ドンベ「ん、」
+You try reaching your hand out, when suddenly the bracelet flies onto Donbe's arm, and the necklace flies onto Hikari's neck.
+
+
+
+Hikari: "What is this! I can't take it off!"
+Donbe: "Yeah."
+3
+どんべ「いえかえる」
+ひかり「そうねしかられるから
+はやくかえりましょ」
+ドンベ「家帰る」
+光「そうね叱られるから
+早く帰りましょ」
+Donbe: "Let's go home."
+Hikari: "Yeah, we'll get scolded, so let's go home quickly."
+
+1
+つかいかたがわかりません。
+使い方が分かりません。
+You don't know how to use it.
+5
+じぶんたちがみたものをつたえたくて
+いそいでふたりはいえにかえったの
+ですが…………。
+ひかり「た、たいへん！」
+どんべ「ん？」
+自分たちが見た物を伝えたくて
+急いで二人は家に帰ったの
+ですが……。
+光「た、大変！」
+デンボ「ん？」
+The two of you quickly go home to report what you saw, but......
+
+
+Hikari: "O-oh no!"
+Donbe: "Hm?"
+2
+おじいさんとおばあさんがおににかこ
+まれています。
+おじいさんとおばあさんが鬼に囲
+まれています。
+The old man and old woman are surrounded by oni.
+
+1
+いえのまえ
+家の前
+In front of the house
+2
+ひかり「おまわりさーんっ！」
+どんべ「ばーか！」
+光「お巡りさーんっ！」
+ドンベ「バーカ！」
+Hikari: "Police!"
+Donbe: "You idiot!"
+13
+ふたりが　たすけにいこうとおもった
+とき、きんたろうがまえにたちはだかり
+ました。
+きんたろう「すとーっぷ！」
+きんたろうは　はなしました。
+たましいをすいとられたにんげんは
+おにになってしまう。しかしたましいが
+もどればにんげんにかえれるのだ。
+いまとびこんではかちめがない。
+ほんとうにおじいさんとおばあさんを
+たすけたいなら　びょうぶいわのおにの
+とりでをこわしどうたくをうばうんだ。
+とおしえてくれました。
+二人が助けに行こうと思った
+時、金太郎が前に立ちはだかり
+ました。
+金太郎「ストーップ！」
+金太郎は話しました。
+魂を吸い取られた人間は
+鬼になってしまう。しかし魂が
+戻れば人間に帰れるのだ。
+今飛び込んでは勝ち目がない。
+本当におじいさんとおばあさんを
+助けたいなら屏風岩の鬼の
+砦をこわし銅鐸を奪うんだ。
+と教えてくれました。
+Just when the two of you thought of going to help, Kintaro stood in front of you, blocking the way.
+
+
+Kintaro: "Suto-ppu!"
+Kintaro started to speak.
+People whose soul has been sucked up turn into oni. However, if their soul is returned, they can go back to normal.
+
+
+Jumping in now would be foolish.
+If you really want to save the old man and old woman, you must steal the bronze bell from the oni fortress on the sheer cliff.
+
+
+This is what he told you.
+2
+おじいさんとおばあさんがどうたくに
+すいこまれていきます。
+おじいさんとおばあさんが銅鐸に
+吸い込まれていきます。
+The old man and old woman's souls are being sucked into the bronze bell.
+
+1
+ふたりだけのさびしいよるです。
+二人だけの寂しい夜です。
+It is only the two of you on this lonely night.
+1
+みるもむざんです。
+見るも無残です。
+It looks tragic.
+1
+ないてます…………かわいそうに。
+泣いてます……可哀想に。
+She's crying...... How sad.
+2
+そとはまっくらです。でもまどのそと
+からへんなおとがきこえます。
+外は真っ暗です。でも窓の外
+から変な音が聞こえます。
+It is pitch black outside. But you can hear a strange sound from outside the window.
+
+2
+どんべ「なくな！」
+ひかり「だって…………」
+ドンベ「泣くな！」
+光「だって……」
+Donbe: "Don't cry!"
+Hikari: "But......"
+1
+こういうときにはたよりになります。
+こういう時には頼りになります。
+He becomes dependable in times like this.
+2
+ひかり「どうする？」
+どんべ「とりでぶっこわす」
+光「どうする？」
+ドンベ「砦ぶっ壊す」
+Hikari: "What do we do?"
+Donbe: "We will destroy the fortress."
+3
+なんのおとでしょう。ややっ！
+おじぞうさまがいえのまえから
+かえっていきます
+何の音でしょう。ややっ！
+お地蔵さまが家の前から
+帰って行きます
+What's that sound? Oh my!
+The Jizo statues are in front of your house, going home.
+
+7
+おじぞうさまはいえのまえにきびだんご
+と　こばんをおいていってくれました。
+どんべはきびだんごとこばんを
+とりました。
+ひかり「そうね、いつまでも
+かなしんでいてもしかたがないね…………」
+どんべ「ん、」
+お地蔵さまは家の前に吉備団子
+と小判を置いていってくれました。
+ドンベは吉備団子と小判を
+取りました。
+光「そうね、いつまでも
+悲しんでいても仕方がないね……」
+ドンベ「ん、」
+The Jizo statues left some kibi dango and a gold coin for you in front of your house.
+
+Donbe took the kibi dango and the gold coin.
+
+Hikari: "Well, you can't mourn forever ......"
+
+Donbe: "Yeah."
+5
+ひかり「おじいさんと
+おばあさんをたすけにいかなきゃ」
+どんべ「いくぞ」
+ふたりは、よあけをまって
+びょうぶいわへ　いくことにしました。
+光「おじいさんと
+おばあさんを助けにいかなきゃ」
+ドンベ「行くぞ」
+二人は、夜明けを待って
+屏風岩へ行くことにしました。
+Hikari: "We have to go help Grandma and Grandpa."
+
+Donbe: "Let's go!"
+The two of you decided to wait until dawn and then go to the sheer cliff.
+

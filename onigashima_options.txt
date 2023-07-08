@@ -94,3 +94,69 @@ Letter
 Outside
 どんべ
 Donbe
+おむすび
+Rice balls
+みち
+Road
+ゆきおんな
+Snow Woman
+あな
+Hole
+ねずみ
+Mouse
+かがみ
+Mirror
+みせ
+Store
+わたす
+Give
+いったい
+Ittai
+うりもの
+Merchan- dise
+とどけもの
+Items to deliver
+どうぐばこ
+Toolbox
+たけづつ
+Bamboo tube
+じめん
+Ground
+つきかげ
+Moonlight
+いし
+Stone
+おさら
+Dish
+たき
+Waterfall
+いわ
+Cliff
+のぼる
+Climb
+おりる
+Descend
+たけやぶ
+Bamboo grove
+たけ
+Bamboo
+おちてるたけ
+Fallen bamboo
+おちてたたけ
+Fallen bamboo
+だれか
+Someone
+かっぱ
+Kappa
+たきのなか
+Inside the waterfall
+どうくつ
+Cave
+おばけなべ
+Large saucer
+くびかざり
+Necklace
+うでわ
+Bracelet
+たたかう
+Attack

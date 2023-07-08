@@ -60,15 +60,37 @@ function Messages.display()
     local i = 0
     for line in Messages.current_message:gmatch("(.-)\n") do
         local x_offset = 1
+        local heart = false
         while string.byte(line, x_offset) == 92 do x_offset = x_offset + 1 end
-        e.draw_text(
-            32 + x_offset,
-            44 + i*9,
-            string.sub(line, x_offset),
-            e.black,
-            e.clear
-        )
-        i = i + 1
+        if string.byte(line, x_offset) == 60 then
+            heart = true
+        end
+        if heart then
+            e.draw_text(
+                32 + x_offset + 1,
+                44 + i*9,
+                "<",
+                e.black,
+                e.clear
+            )
+            e.draw_text(
+                32 + x_offset + 3,
+                44 + i*9,
+                string.sub(line, x_offset + 1),
+                e.black,
+                e.clear
+            )
+            i = i + 1
+        else
+            e.draw_text(
+                32 + x_offset,
+                44 + i*9,
+                string.sub(line, x_offset),
+                e.black,
+                e.clear
+            )
+            i = i + 1
+        end
     end
     if e.get_pixel2(33, 116) ~= e.get_pixel2(33, 117) and scroll_pos == 22 then
         x = (32 + 87)/2 - 1
@@ -83,7 +105,7 @@ function Messages.add_message()
     for i=0,0x35 do
         local this_char = e.read(0x0520 + i*2)
         local this_dak = e.read(0x0521 + i*2)
-        if this_char ~= 252 and this_char ~= 249 then
+        if this_char ~= 252 and this_char ~= 249 and this_char ~= 251 then
             table.insert(value, this_char)
             if this_dak ~= 252 then table.insert(value, this_dak) end
         end
@@ -139,8 +161,10 @@ function Options.add_value()
         if trans then
             Options.values[total - this+1] = trans
         else
-            e.log("Could not find translation for option")
-            Options.values[total - this+1] = "UNKNOWN\n"
+            if value[1] ~= 0 then
+                e.log("Could not find translation for option")
+                Options.values[total - this+1] = "UNKNOWN\n"
+            end
             --for i = 1,#value do
             --    print(string.format("%x", value[i]))
             --end
