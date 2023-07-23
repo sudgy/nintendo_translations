@@ -28,11 +28,12 @@ end
 
 function overlap_strs(s1, s2)
     for i=1,#s1 do
-        new_s1 = string.sub(s1, i, #s1 - 1)
-        new_s2 = string.sub(s2, 1, #s1 - i)
+        local new_s1 = string.sub(s1, i, #s1 - 1)
+        local new_s2 = string.sub(s2, 1, #s1 - i)
         if new_s1 == new_s2 then
-            new_s3 = string.sub(s2, #s1 - i)
-            return new_s2, new_s3
+            local new_s3 = string.sub(s2, #s1 - i)
+            local _, newlines = s1:sub(1, i):gsub("\n", "")
+            return newlines, new_s2, new_s3
         end
     end
     return s2, nil
@@ -41,6 +42,9 @@ end
 function clear_all()
     Options.values = {}
     Messages.current_message = nil
+    Messages.current_writing = nil
+    Messages.write_lag = 0
+    Messages.newlines = 0
 end
 
 Messages = {}
@@ -65,11 +69,14 @@ Messages.load_messages()
 Messages.current_message = nil
 Messages.current_writing = nil
 Messages.write_lag = 0
+Messages.newlines = 0
 function Messages.display()
+    local y_offset = 0
     if Messages.current_message == nil then return end
     if Messages.current_writing ~= nil then
         if Messages.write_lag > 0 then
             Messages.write_lag = Messages.write_lag - 1
+            y_offset = 9*Messages.newlines * Messages.write_lag / 8
         else
             i = 1
             while string.byte(Messages.current_writing, i) == 92 do i = i + 1 end
@@ -99,14 +106,14 @@ function Messages.display()
         if heart then
             e.draw_text(
                 32 + x_offset + 1,
-                44 + i*9,
+                44 + i*9 + y_offset,
                 "<",
                 e.black,
                 e.clear
             )
             e.draw_text(
                 32 + x_offset + 3,
-                44 + i*9,
+                44 + i*9 + y_offset,
                 string.sub(line, x_offset + 1),
                 e.black,
                 e.clear
@@ -115,7 +122,7 @@ function Messages.display()
         else
             e.draw_text(
                 32 + x_offset,
-                44 + i*9,
+                44 + i*9 + y_offset,
                 string.sub(line, x_offset),
                 e.black,
                 e.clear
@@ -159,7 +166,9 @@ function Messages.add_message()
         end
         if trans then
             if Messages.current_message ~= nil then
-                Messages.current_message, Messages.current_writing
+                Messages.newlines,
+                Messages.current_message,
+                Messages.current_writing
                     = overlap_strs(Messages.current_message, trans)
                 Messages.write_lag = 8
             else
