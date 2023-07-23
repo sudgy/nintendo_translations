@@ -240,7 +240,7 @@ make vertical English text work, so instead, I made it so that the different
 options would be at different heights.  This means that the cursor may be going
 over multiple bits of English text.  The one you are selecting is the one where
 the center of the text is being pointed at.  This is a bit finicky, especially
-with the option on the far right sometimes bleeding off the the scroll, but it's
+with the option on the far right sometimes bleeding off of the scroll, but it's
 the best I could think of.
 
 Also, to make the opening and closing of the scrolls look good with the English
@@ -250,7 +250,7 @@ let me know.
 
 At the end of chapter one, there is a name input screen.  **On this screen, do
 not push A or B!**  Instead, press start immediately.  If you press start
-without inputting anything else, they will be given the default names どんえ
+without inputting anything else, they will be given the default names どんべ
 (Donbe) and ひかり (Hikari), which is what the script assumes their names will
 be.  If you give them other names, the script will not be able to translate any
 of the messages that include their names.
