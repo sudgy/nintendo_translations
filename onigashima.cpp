@@ -162,7 +162,8 @@ output_t make_output(
     const std::vector<std::uint8_t>& japanese3,
     const std::vector<std::string>& english1,
     const std::vector<std::string>& english2,
-    const std::vector<std::string>& english3
+    const std::vector<std::string>& english3,
+    const std::string& option
 )
 {
     auto all_japanese = std::vector<std::uint8_t>();
@@ -178,6 +179,9 @@ output_t make_output(
     all_japanese.insert(
         all_japanese.end(), japanese3.begin(), japanese3.end()
     );
+    for (auto s : option) {
+        all_japanese.push_back(s);
+    }
     all_japanese.push_back(0);
     auto all_english = std::string();
     for (const auto& s : english1) {
@@ -204,10 +208,19 @@ void write_messages()
     int amount = 0;
     auto japanese = std::vector<std::vector<std::uint8_t>>{};
     auto english = std::vector<std::vector<std::string>>{};
+    auto option = std::string();
     for (std::string line; std::getline(messages_file, line);) {
         if (amount == 0) {
             try {
-                amount = std::stoi(line);
+                auto space = line.find(' ');
+                if (space == std::string::npos) {
+                    amount = std::stoi(line);
+                    option = "";
+                }
+                else {
+                    amount = std::stoi(line.substr(0, space));
+                    option = line.substr(space + 1);
+                }
                 continue;
             }
             catch (std::invalid_argument& e) {
@@ -271,16 +284,19 @@ void write_messages()
             if (japanese.size() < 3) japanese.resize(3);
             output_data.push_back(make_output(
                 japanese[0], {}, {},
-                english[0], {}, {}
+                english[0], {}, {},
+                option
             ));
             output_data.push_back(make_output(
                 japanese[0], japanese[1], {},
-                english[0], english[1], {}
+                english[0], english[1], {},
+                option
             ));
             for (auto i = 0; i < ssize(english) - 2; ++i) {
                 output_data.push_back(make_output(
                     japanese[i], japanese[i+1], japanese[i+2],
-                    english[i], english[i+1], english[i+2]
+                    english[i], english[i+1], english[i+2],
+                    option
                 ));
             }
             english.clear();
@@ -301,7 +317,7 @@ void write_options()
 {
     auto options_file = std::ifstream("onigashima_options.txt");
     auto output = std::vector<std::uint8_t>();
-    output.reserve(100'000); //NOLINT
+    output.reserve(100'000);
     bool japanese = true;
     for (std::string line; std::getline(options_file, line);) {
         if (japanese) {

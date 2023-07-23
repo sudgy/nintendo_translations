@@ -147,7 +147,16 @@ function Messages.add_message()
         end
     end
     if #value ~= 0 then
-        local trans = Messages.translations[string.char(e.unpack(value))]
+        mess = string.char(e.unpack(value))
+        local trans = Messages.translations[mess]
+        if not trans then
+            opt = Options.values[4]
+            if opt then
+                i = 1
+                while string.byte(opt, i) == 92 do i = i + 1 end
+                trans = Messages.translations[mess .. opt:sub(i, #opt - 1)]
+            end
+        end
         if trans then
             if Messages.current_message ~= nil then
                 Messages.current_message, Messages.current_writing

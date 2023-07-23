@@ -11,7 +11,7 @@
 二人には、子供がなかったので
 いつも、お地蔵さまに、お祈りを
 していました。
-Once upon a time...... In a place called Nagakushi village, there lived an old man and old woman.
+Long, long ago...... In a place called Nagakushi village, there lived an old man and old woman.
 
 
 The two of them had no children, so they were always praying to the Jizo statues.
@@ -264,7 +264,7 @@ Please use it on the mountain.
 1
 あしがらやまにつきました。
 アシガラ山に着きました。
-The old man has arrived at Mount Ashigara.
+You have arrived at Mount Ashigara.
 4
 おじいさん「どひゃーっ！く、く、く
 くまじゃあーっ！」
@@ -820,16 +820,24 @@ Chapter 2
 \
 The years pass, and Donbe and Hikari have become eight years old.
 
-It is morning. Morning comes to Nagakushi village again today.
+It is morning. Morning came to Nagakushi village again today.
 
-1
+1 Old man
 まだまだげんきです。
 まだまだ元気です。
-They are still healthy.
-1
+He is still healthy.
+1 Old woman
+まだまだげんきです。
+まだまだ元気です。
+She is still healthy.
+1 Donbe
 まだまだこどもです。
 まだまだ子供です。
-They are still a child.
+He is still a child.
+1 Hikari
+まだまだこどもです。
+まだまだ子供です。
+She is still a child.
 1
 ふつうのいろりです。
 普通の囲炉裏
@@ -1110,10 +1118,14 @@ Nobody may pass through here! Hmph!"
 意地悪な顔をしています。
 Wagh! She's terribly ugly. Her face is incredibly malicious.
 
-1
+1 Hikari
 ふあんそうです。
 不安そうです。
-They look scared.
+She looks scared.
+1 Donbe
+ふあんそうです。
+不安そうです。
+He looks scared.
 1
 ゆきおんながとうせんぼしています。
 雪女が通せんぼしています。
@@ -1286,7 +1298,7 @@ This is the rumored female college student mouse.
 ドンベ「もぐらもぐら」
 光「もぐらじゃないのよ」
 Hikari: "It's saying something."
-Donbe: "It's a mole it's a mole!"
+Donbe: "A mole a mole!"
 Hikari: "It's not a mole!"
 11
 ひかり「こんにちわねずみさん」
@@ -1485,12 +1497,19 @@ Store
 きれいなおみせです。
 綺麗なお店です。
 It's a clean store.
-2
+2 Donbe
 めずらしそうにみせのなかをみまわして
 います。
 珍しそうに店の中を見回して
 います。
-They are looking around the inside of the store with curiousity.
+He is looking around the inside of the store with curiousity.
+
+2 Hikari
+めずらしそうにみせのなかをみまわして
+います。
+珍しそうに店の中を見回して
+います。
+She is looking around the inside of the store with curiousity.
 
 1
 けがいっぽんはえています。
