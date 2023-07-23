@@ -190,6 +190,11 @@ Options.load_options()
 function Options.add_value()
     local total = e.read(0x00A6)
     local this = e.read(0x00A7)
+    -- The name screen, hopefully it never uses all 12 anywhere else
+    if total == 12 then
+        Options.values = {}
+        return
+    end
     local value = {}
     for i=0,7 do
         local this_char = e.read(0x0520 + i*2)
