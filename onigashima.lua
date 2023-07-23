@@ -1,4 +1,4 @@
-base_directory = "FILL TIHS IN"
+base_directory = "/home/sudgy/programs/emulators/nintendo_translations/"
 --dofile(base_directory .. "mesen.lua")
 dofile(base_directory .. "fceux.lua")
 
@@ -26,6 +26,18 @@ function bitand(a, b)
     return result
 end
 
+function overlap_strs(s1, s2)
+    for i=1,#s1 do
+        new_s1 = string.sub(s1, i, #s1 - 1)
+        new_s2 = string.sub(s2, 1, #s1 - i)
+        if new_s1 == new_s2 then
+            new_s3 = string.sub(s2, #s1 - i)
+            return new_s2, new_s3
+        end
+    end
+    return s2, nil
+end
+
 function clear_all()
     Options.values = {}
     Messages.current_message = nil
@@ -51,8 +63,27 @@ function Messages.load_messages()
 end
 Messages.load_messages()
 Messages.current_message = nil
+Messages.current_writing = nil
+Messages.write_lag = 0
 function Messages.display()
     if Messages.current_message == nil then return end
+    if Messages.current_writing ~= nil then
+        if Messages.write_lag > 0 then
+            Messages.write_lag = Messages.write_lag - 1
+        else
+            i = 1
+            while string.byte(Messages.current_writing, i) == 92 do i = i + 1 end
+            i = i + 1
+            Messages.current_message =
+                string.sub(Messages.current_message, 1, -2)
+                .. string.sub(Messages.current_writing, 1, i)
+                .. "\n"
+            Messages.current_writing = string.sub(Messages.current_writing, i + 1)
+            if Messages.current_writing == "" then
+                Messages.current_writing = nil
+            end
+        end
+    end
     local scroll_pos = e.read(0x68)
     if scroll_pos >= 3 then
         e.draw_rect(32, 40, 87, scroll_pos*8 + 23, e.scroll_color)
@@ -101,6 +132,11 @@ function Messages.display()
     end
 end
 function Messages.add_message()
+    if Messages.current_writing ~= nil then
+        Messages.current_message
+            = Messages.current_message .. Messages.current_writing
+        Messages.current_writing = nil
+    end
     local value = {}
     for i=0,0x35 do
         local this_char = e.read(0x0520 + i*2)
@@ -113,7 +149,14 @@ function Messages.add_message()
     if #value ~= 0 then
         local trans = Messages.translations[string.char(e.unpack(value))]
         if trans then
-            Messages.current_message = trans
+            if Messages.current_message ~= nil then
+                Messages.current_message, Messages.current_writing
+                    = overlap_strs(Messages.current_message, trans)
+                Messages.write_lag = 8
+            else
+                Messages.current_message = ""
+                Messages.current_writing = trans
+            end
         else
             e.log("Could not find translation for message")
             Messages.current_message = nil
