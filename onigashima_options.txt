@@ -160,3 +160,65 @@ Necklace
 Bracelet
 たたかう
 Attack
+きびだんご
+Kibi dango
+こばん
+Gold coin
+びょうぶいわ
+Sheer cliff
+まるた
+Logs
+つづら
+Wicker Basket
+ばくだん
+Bomb
+へんなつつ
+Strange tube
+かなづち
+Hammer
+とおめがね
+Telescope
+がけ
+Cliff
+みぎのみち
+Right road
+ひだりのみち
+Left road
+もどる
+Return
+すすむ
+Advance
+ゆげ
+Steam
+たにぞこ
+Bottom of the ravine
+とりで
+Fortress
+つりばし
+Suspension bridge
+かいだん
+Stairs
+いおうだま
+Ball of sulfur
+とりでのかべ
+Wall of fortress
+まわり
+Surround- ings
+てんぐ
+Tengu
+おくへすすむ
+To back room
+あか
+Red
+あお
+Blue
+みののはい
+Coat ashes
+おに
+Oni
+どうたく
+Bronze bell
+にげる
+Run away
+みずうみ
+Lake

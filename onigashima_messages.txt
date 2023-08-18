@@ -1788,7 +1788,7 @@ They've been destrying the town and sucking up the souls of people, increasing t
 
 
 Be careful.
-They are coming this way, and rumor has it that they are building a fort on the sheer cliff which isn't too far from here. That's what I've heard."
+They are coming this way, and rumor has it that they are building a fortress on the sheer cliff which isn't too far from here. That's what I've heard."
 
 
 
@@ -2753,3 +2753,1691 @@ Hikari: "We have to go help Grandma and Grandpa."
 Donbe: "Let's go!"
 The two of you decided to wait until dawn and then go to the sheer cliff.
 
+7
+
+三しょう
+
+かなしいよるが　あけました。
+ふたりはゆうべ、おじぞうさまに
+もらったきびだんごとこばんをもって
+おにとりでへと　むかいました。
+
+三章
+
+悲しい夜が明けました。
+二人は昨夜、お地蔵さまに
+もらった吉備団子と小判を持って
+鬼砦へと向かいました。
+
+Chapter 3
+
+That sad night has ended.
+The two of you, having received the kibi dango and the gold coin from the Jizo statues, head to the oni fortress.
+
+
+7
+やまのふもとまで　やってきました。
+とおくに　びょうぶいわがみえます。
+きっと　あそこにおじいさんとおばあ
+さんのたましいがあるにちがいありま
+せん。
+あれ？ぼろぼろに　こわれたいえが
+ありますよ。
+山の麓までやってきました。
+遠くに屏風岩が見えます。
+きっとあそこにあじいさんとおばあ
+さんの魂があるに違いありま
+せん。
+あれ？ボロボロに壊れた家が
+ありますよ。
+You come upon the foot of the mountain.
+You see the sheer cliff in the distance.
+Surely the spirits of the old man and old woman are there.
+
+
+Oh? There's an old, broken house.
+
+1
+ふもと
+麓
+Foot of the mountain
+2
+そらに　つきささるかのようにそびえ
+たっています。
+空に突き刺さるかのようにそびえ
+立っています。
+It towers over everything, as if piercing the sky.
+
+4
+おにがきたのでこわくなってにげた
+のでしょうか。だれもいません。
+かんぜんにこわれていて　とてもすめ
+ません。まるたのやまです。
+鬼が来たので怖くなって逃げた
+のでしょうか。誰もいません。
+完全壊れていてとても住め
+ません。丸太の山です。
+It seems that they were afraid when the oni came and ran away. No one is there.
+
+It is so completely destroyed that it is uninhabita- ble. It's just a pile of logs.
+
+3
+おおきいのやちいさいのがたくさん
+ちらばっています。まるたのかげ
+になにかあります。つづらのようですね
+大きいのや小さいのがたくさん
+散らばっています。丸太の影
+に何かあります。つづらのようですね
+There are many large and small ones scattered about. There's something in the logs' shadows. It looks like a wicker basket.
+
+
+2
+ふくをいれておくはこですが、おもそ
+うです。おかしいですね。
+服を入れておく箱ですが、重そ
+うです。おかしいですね。
+It's a box for holding clothes, but it seems heavy. How strange.
+
+2
+どんべ「おには　あそこか？」
+ひかり「そうみたいね」
+ドンベ「鬼はあそこか？」
+光「そうみたいね」
+Donbe: "The oni are over there?"
+Hikari: "It seems like it."
+2
+あけるひつようは　ありません。
+かんぜんにこわれています。
+開ける必要はありません。
+完全に壊れています。
+Opening it is not necessary.
+It is completely destroyed.
+1
+つかうところがありません。
+使う所がありません。
+This is not a place to use it.
+1
+おなかはすいていません。
+お腹は空いていません。
+You're not hungry.
+3
+どんべ「はい、これ」
+ひかり「おかねは　こわいから
+やだ。どんべもっといてよ」
+ドンベ「はい、これ」
+光「お金は怖いから
+やだ。ドンベ持っといてよ」
+Donbe: "Here you go."
+Hikari: "I'm scared of handling money, so no. You should keep it."
+
+2
+どんべ「はい、これ」
+ひかり「おなかはへってない」
+ドンベ「はい、これ」
+光「お腹は減ってない」
+Donbe: "Here you go."
+Hikari: "I'm not hungry."
+2
+ひかり「これは　ひどいね」
+どんべ「ん？」
+光「これはひどいね」
+ドンベ「ん？」
+Hikari: "This is cruel, isn't it."
+Donbe: "Huh?"
+2
+わたせるものは、なにももって
+いません。
+渡せるものは、何も持って
+いません。
+You have nothing that you can hand over.
+
+2
+なにかにやくだつでしょうか。とり
+ました。
+何かに役立つでしょうか。取り
+ました。
+This might be useful for something. You take it.
+
+1
+おもすぎて　とれません。
+重すぎて取れません。
+It's too heavy to take.
+1
+もうひつようないです。
+もう必要ないです。
+You don't need any more.
+2
+あれっ！とったまるたのしたに
+ばくだんがありましたよ！
+あれっ！取った丸太の下に
+爆弾がありましたよ！
+Woah! There was a bomb under the logs that you took!
+
+1
+もうもてません。
+もう持てません。
+You can't hold any more.
+1
+いみがありません。
+意味がありません。
+There's no reason to.
+2
+どんべ「はい、これ」
+ひかり「おもいのはやだ！」
+ドンベ「はい、これ」
+光「重いのはやだ！」
+Donbe: "Here you go."
+Hikari: "No, it's heavy!"
+1
+こわいからとりたくありません。
+怖いから取りたくありません。
+It's scary, so you don't want to take it.
+3
+あれ？ここはどうぐやさんのいえだっ
+たんですねえ。なかにはかなづちと
+へんなつつがありますよ。
+あれ？ここは道具屋さんの家だっ
+たんですねえ。中には金槌と
+変な筒がありますよ。
+Oh? This looks like it was a toolmaker's house. Inside is a hammer and a strange tube.
+
+
+1
+あいてます。
+開いてます。
+It is open.
+2
+なんと、とおめがねです。いまでいう
+ぼうえんきょうですね。
+何と、遠眼鏡です。今で言う
+望遠鏡ですね。
+Woah, it's a telescope. At least, it's what we now call a telescope.
+
+1
+これはこうかなものです。
+これは高価な物です。
+This is a valuable item.
+1
+へんなものは　とりたくありません。
+変な物は取りたくありません。
+You don't want to take such a strange thing.
+2
+ひかり「これもってくれない？」
+どんべ「もう、もてねえ」
+光「これ持ってくれない？」
+ドンベ「もう、持てねえ」
+Hikari: "Won't you take this?"
+Donbe: "I can't hold anything else."
+3
+ぜっぺきにつくられたみちです。
+あれ？あそこでくずれてます。よわりま
+したね、これじゃすすめません。
+絶壁に作られた道です。
+あれ？あそこで崩れてます。弱りま
+したね、これじゃ進めません。
+The road was built on the cliff.
+Oh? It's collapsed here. You are at a loss, for you cannot go forward.
+
+1
+いわのみち
+岩の道
+Road on the cliff
+2
+とんでわたるには　とおすぎます。
+ほかにみちはないようにおもえます。
+飛んで渡るには遠すぎます。
+他に道はないように思えます。
+It is too far to jump over.
+There doesn't seem to be another way.
+1
+とてもかたいいわです。
+とても固い岩です。
+It is a very hard cliff.
+3
+よくみると　いわはだに、こぶしが
+はいるくらいの　おおきさのあながあい
+ています。なんでしょう。
+良く見ると岩肌に、拳が
+入る暗いの大きさの穴が開い
+ています。何でしょう。
+Looking closer at it, there seems to be a dark hole big enough to put your fist in. What is it?
+
+
+1
+ここからではよくわかりません。
+ここからではよく分かりません。
+You can't tell from here.
+1
+どうぶつのすなんかではないようです
+動物の巣何かではないようです
+There doesn't seem to be any animal nests.
+1
+あけるものなんてありません。
+開ける物なんてありません。
+There is nothing to open.
+3
+どんべ「こまった。いけない」
+ひかり「なんとか　くふうできる
+はずよ」
+ドンベ「困った。行けない」
+光「何とか工夫できる
+はずよ」
+Donbe: "Oh no! We can't go on!"
+Hikari: "We've got to be able to find a way somehow."
+
+2
+おんなのこにはとてもわたれそうに
+ありません。あしがすくみます。
+女の子にはとても渡れそうに
+ありません。足がすくみます。
+It seems very dificult for a girl to cross. Your legs are frozen in fear.
+
+3
+ひかり「わたし　こんなところ
+とべないわよ」
+どんべ「そうだな」
+光「私こんな所
+飛べないわよ」
+ドンベ「そうだな」
+Hikari: "I can't jump in a place like this."
+
+Donbe: "Yeah, that's right."
+1
+このままでは　すすめません。
+このままでは進めません。
+As it is, you can't go on.
+1
+ふもとまでおりてきました。
+麓まで降りてきました。
+You came down to the foot of the mountain.
+1
+もどってきました。
+戻ってきました。
+You went back.
+2
+むこうがわへ　わたすにはみじかすぎ
+ます。
+向こう側へ渡すには短すぎ
+ます。
+They're too short to cross to the other side.
+
+2
+ためしに　さしこんでみました。
+おっ！ぴったりです。
+試しに差し込んでみました。
+おっ！ぴったりです。
+You tried inserting them.
+Oh! They fit perfectly.
+1
+いえはこわれています。
+家は壊れています。
+The house is already destroyed.
+1
+きけんです。
+危険です。
+That's dangerous.
+2
+さすがにここからでは　おにのとりで
+はみえません。
+さすがにここからでは鬼の砦
+は見えません。
+As expected, you can't see the oni fortress from here.
+
+1
+とおくにとりでがみえます。
+遠くに砦が見えます。
+You can see the oni fortress in the distance.
+1
+どこをたたきますか？
+どこを叩きますか？
+Where do you want to hit?
+1
+ますます　くずれてしまいますよ。
+ますます崩れてしまいますよ。
+It starts breaking down more and more.
+1
+こん！こん！とてもかたくてだめです
+コン！コン！とても固くてダメです
+*Bang!* *Bang!* It's no use, it's so hard.
+2
+うまくいっていますよ。これでいつで
+もわたることができます。
+うまく行っていますよ。これでいつで
+も渡ることができます。
+Everything turned out well. You can now cross whenever you want.
+
+2
+まるたがしっかりした　アシバになっ
+ています。
+丸太がしっかりした足場になっ
+ています。
+The logs have become firm scaffolding.
+
+3
+どんべ「いくぞ」
+ひかり「これならわたしだって
+わたれるわ」
+ドンベ「行くぞ」
+光「これなら私だって
+渡れるわ」
+Donbe: "Let's go!"
+Hikari: "Even I can cross this."
+
+2
+ひかり「これもってくれない？」
+どんべ「ん…………」うけとりました
+光「これ持ってくれない？」
+ドンベ「ん……」受け取りました
+Hikari: "Won't you take this?"
+Donbe: "Sure ......" He took it.
+3
+どんべ「はい、これ」
+ひかり「もてっていうの？しかた
+ないわねぇ」
+どんべ「はい、これ」
+光「持てって言うの？仕方
+ないわねぇ」
+Donbe: "Here you go."
+Hikari: "You want me to have it? It can't be helped."
+
+2
+あまり、ものをもっていると　まるたは
+かつげませんよ
+あまり、物を持っていると丸太は
+担げませんよ
+You have too much stuff to be able to carry these logs.
+
+3
+どんべ「はいこれ」
+ひかり「そんなこわいもの
+いやよ」
+ドンベ「はいこれ」
+光「そんな怖い物
+いやよ」
+Donbe: "Here you go."
+Hikari: "I don't want a scary thing like that!"
+
+2
+こわいけれど、なんとかわたれそうに
+おもいます。
+怖いけれど、何とか渡れそうに
+思います。
+It's scary, but you think you can cross it somehow.
+
+2
+ひかり「いこっ」
+どんべ「ん」
+光「行こっ」
+ドンベ「ん」
+Hikari: "Let's go!"
+Donbe: "Yeah."
+1
+ぬけません。
+抜けません。
+They won't come out.
+3
+どんべ「どうする」
+ひかり「はやく　おじいさんたち
+をたすけなきゃ…………」
+ドンベ「どうする」
+光「早くおじいさんたち
+を助けなきゃ……」
+Donbe: "What do we do?"
+Hikari: "We need to hurry up and save Grandpa and the rest ......"
+
+2
+ひかり「はやくいこうよ」
+どんべ「うん」
+光「早く行こうよ」
+ドンベ「うん」
+Hikari: "Let's hurry and go!"
+Donbe: "Sure."
+1
+わかれみちにでました。
+分かれ道に出ました。
+You came to a fork in the road.
+1
+わかれみち
+分かれ道
+Forked road
+2
+どちらへいっても　こわいことがまっ
+ていそうなきがします。
+どちらへ行っても怖いことが待っ
+ていそうな気がします。
+You feel like scary things are waiting either way you go.
+
+4
+いわのかべがたちふさがっていて
+これいじょうすすめそうに
+ありません。
+ひかり「なんだかあついわねえ」
+岩の壁が立ちふさがっていて
+これ以上進めそうに
+ありません。
+ひかり「何だか熱いわねえ」
+A rock wall is blocking the way, so it seems that you can't go any further than this.
+
+
+Hikari: "It's getting a little hot, isn't it?"
+1
+いきどまり
+行き止まり
+Dead end
+1
+ぜつぼうてきなゼッペキです。
+絶望的な絶壁です。
+It's a hopeless cliff.
+2
+のぼれそうなところをさがしてみまし
+たが　だめでした。
+登れそうな所を探してみまし
+たがダメでした。
+You tried searching for a place you could climb, but it's useless.
+
+2
+あれ？いわやまのかべに　あたたかい
+ところがありますよ。
+あれ？岩山の壁に暖かい
+所がありますよ。
+Oh? There's a spot on the cliff that's warm.
+
+2
+つかえそうなものがおちているけはい
+は　ありません。
+使えそうな物が落ちている気配
+はありません。
+There is no indication of there being anything useful lying around.
+
+4
+どんべ「こりゃだめだ」
+ひかり「どうしてあきらめるのよ
+なんとかなるかもしれないじゃない！
+さっきみたいに…………」
+ドンベ「こりゃダメだ」
+光「どうして諦めるのよ
+何とかなるかもしれないじゃない！
+さっきみたいに……」
+Donbe: "This is useless."
+Hikari: "Why are you giving up when we might be able to figure something out!
+
+Like before..."
+3
+ひかり「なんかひみつがありそう
+なんだけどなあ…………」
+どんべ「………………」
+光「何か秘密がありそう
+何だけどなあ……」
+ドンベ「………」
+Hikari: "There seems to be some secret, but ......"
+
+Donbe: "........."
+1
+ぼこ！ぼこ！
+ボコ！ボコ！
+*Clong!* *Clong!*
+1
+こんなところでは　むだなことです。
+こんな所では無駄なことです。
+It's pointless in a place like this.
+2
+どんべ「いわあつい」
+ひかり「なんでかなあ？」
+ドンベ「岩熱い」
+光「何でかなあ？」
+Donbe: "The cliff is hot."
+Hikari: "I wonder why?"
+3
+ひかり「あついのはこのせい
+かなあ？」
+どんべ「あちあち」
+光「熱いのはこのせい
+かなあ？」
+ドンベ「アチアチ」
+Hikari: "Could this be why it's hot?"
+Donbe: "Ouch!"
+
+1
+こん！こん！
+コン！コン！
+*Bang!* *Bang!*
+3
+がけのあたたかいぶぶんだけおとが
+ちがいますよ。でもひかりのちか
+らでは　なにもおこりません
+崖の暖かい部分だけ音が
+違いますよ。でも光の力
+では何も起こりません
+Only the warm part of the cliff sounds different. But with Hikari's strength, nothing happens.
+
+
+3
+がけのあたたかいぶぶんだけおとが
+ちがいますよ。こん！ずこっ！…………。
+しゅーっ！
+崖の暖かい部分だけ音が
+違いますよ。コン！ズコッ！……。
+シューッ！
+Only the warm part of the cliff sounds different. *Bang!* *Clunk!* ......
+
+*Fsssh!*
+8
+どんべ「うわあーっ！」
+ひかり「きゃあーっ！」
+なんと！おんせんがわきだしました。
+おんせんによくあるイオウというものの
+においがたちこめます。
+ゆげがそらたかくまいあがっていきます
+びっくりしたのでかなづちをなくして
+しまいました。
+ドンベ「うわあーっ！」
+光「きゃあーっ！」
+なんと！温泉が湧きだしました。
+温泉によくある硫黄と言う物の
+匂いが立ちこめます。
+湯気が空高く舞い上がっていきます
+ビックリしたので金槌をなくして
+しまいました。
+Donbe: "Waagh!"
+Hikari: "Ahhhh!"
+Oh my! A hot spring has burst open.
+The smell of sulfur, which is common in hot springs, fills the air.
+
+You got so surprised by the steam shooting up into the air that you lost the hammer.
+
+
+1
+ゆげがいきおいよくふきだしています
+湯気が勢いよく吹き出しています
+The steam is pouring out vigorously.
+2
+あつそうです。イオウのにおいがとて
+もつよいです。
+熱そうです。硫黄の匂いがとて
+も強いです。
+It seems hot. The smell of sulfur is quite strong.
+
+1
+おふろにするには　あつそうです。
+お風呂にするには熱そうです。
+It seems too hot for taking a bath in.
+1
+こんなものとれません。
+こんな物取れません。
+You can't take a thing like that.
+2
+おふろにはいってるばあいじゃあり
+ません。
+お風呂には行ってる場合じゃあり
+ません。
+You can't take a bath in this situation.
+
+3
+どんべ「くさい！くさい！なんだ
+これ？」
+ひかり「イオウのにおいよ」
+ドンベ「臭い！臭い！なんだ
+これ？」
+光「硫黄の匂いよ」
+Donbe: "It stinks! It stinks! What is this?"
+
+Hikari: "It's the smell of sulfur."
+3
+ひかり「たまんないね。このにお
+い」
+どんべ「くさい！くさい！」
+光「たまんないね。この匂
+い」
+ドンベ「臭い！臭い！」
+Hikari: "This is awful. That smell."
+
+Donbe: "It stinks! It stinks!"
+3
+めもくらむようなたに…………。
+ゆだんしないように…………。よけいなこと
+をすると　おちますよ。
+目も眩むような谷……。
+油断しないように……。余計なこと
+をすると落ちますよ。
+You see a dizzying ravine......
+Be careful ...... If you try anything unnecessary you'll fall.
+
+1
+せんじんだに
+千尋谷
+Bottomless ravine
+2
+あぶないから　よけいなことはよしま
+しょう。
+危ないから余計なことはよしま
+しょう。
+That's dangerous, so let's not do anything unnecessary.
+
+1
+みちというほどひろくありません。
+道と言うほど広くありません。
+It's too narrow to even be called a road.
+1
+ふりかえることができません。
+振り返ることができません。
+You can't look back.
+3
+よけいなことはしないほうが………………
+あっ！
+あしをふみはずしました。
+余計なことはしない方が………
+あっ！
+足を踏み外しました。
+It would be better not to do anything unnecessary .........
+Ah!
+Your foot slipped.
+1
+おしまいです
+おしまいです
+Game over
+2
+くらくらっ！めがくらんであしを
+ふみはずしました。
+クラクラッ! 目が眩んで足を
+踏み外しました。
+Wagh! You got dizzy and your foot slipped.
+
+2
+どんべ「はやくあるけよ」
+ひかり「は……はなしかけないで」
+ドンベ「早く歩けよ」
+光「は…話しかけないで」
+Donbe: "Let's hurry and walk!"
+Hikari: "D...don't talk to me!"
+1
+ひかり「こわーいっ！」
+光「怖ーいっ！」
+Hikari: "It's scaaary!"
+2
+ひかり「う…………ううっ…………」
+だめです。こえがでません。
+光「う……ううっ……」
+ダメです。声が出ません。
+Hikari: "Uu ...... Uuuuu ......"
+It's useless. Your voice won't come out.
+1
+いわのかべがつづいています。
+岩の壁が続いています。
+The cliff is still in your way.
+2
+つりばしのむこうにとりでがみえ
+ます
+つり橋の向こうに砦が見え
+ます
+You can see the fortress on the other side of a suspension bridge.
+
+1
+つりばし
+つり橋
+Suspension bridge
+1
+がんじょうそうなとりでです。
+頑丈そうな砦です。
+It looks like a sturdy fortress.
+2
+こうしてみてみると、あのとりでも
+あしもとは　あんがいよわそうです。
+こうして見てみると、あの砦も
+足元案外弱そうです。
+Looking at it here, the base of the fortress seems surprisingly weak.
+
+1
+きれておちることは　ないでしょう。
+切れて落ちることはないでしょう。
+It will not break and fall.
+3
+どんべ「いこう」
+ひかり「このままいっても
+だめよ」
+ドンベ「行こう」
+光「このまま行っても
+ダメよ」
+Donbe: "Let's go."
+Hikari: "We can't go like this."
+
+2
+むけいかくに　とびこんでいくのは
+きけんです。
+無計画に飛び込んでいくのは
+危険です。
+It's dangerous to barge in without a plan.
+
+3
+ひかり「このまま、いっても
+だめね、きっと」
+どんべ「うーん」
+光「このまま、行っても
+ダメね、きっと」
+ドンベ「うーん」
+Hikari: "As it is, we can't just go in, right?"
+
+Donbe: "Yeah."
+1
+おにがいます。
+鬼がいます。
+There are oni.
+6
+おや？なんだか、とりでがさわがしい
+です。どうやらあのおんせんのほうに
+いくみたいです
+ひかり「そうか！おには、におい
+がきらいなのよ。きっと　おんせんを
+ふさぎにいったのね」
+おや？なんだか、砦が騒がしい
+です。どうやらあの温泉の方に
+行くみたいです
+光「そうか！鬼は、匂い
+が嫌いなのよ。きっと温泉を
+塞ぎに行ったのね」
+Oh? Somehow, the fortress is noisy. Maybe they're going to that hot spring?
+
+
+Hikari: "I see! The oni hate the smell. Surely they went to close it up."
+
+
+1
+おにがいて、きけんです。
+鬼がいて、危険です。
+The oni are there, so it's dangerous.
+8
+どんべ「とりでのあし、こわす」
+ひかり「おにもいないし
+やるならいまね。
+じゃ、わたしは　なかへはいって
+どうたくをとってくるわね。うまく
+とってでてきたら、とりでをこわして
+くれる？」
+どんべ「わかった」
+ドンベ「砦の足、壊す」
+光「鬼もいないし
+やるなら今ね。
+じゃ、私は中へ入って
+銅鐸を取って来るわね。うまく
+取って出てきたら、砦を壊して
+くれる？」
+ドンベ「分かった」
+Donbe: "I'll destroy the base of the fortress."
+Hikari: "The oni are gone, so we have to do it now.
+
+Alright, we'll go inside, take the bronze bell, and come back. If we succeed in getting it and come back, can you destroy the fortress?"
+
+
+
+Donbe: "Got it."
+1
+しーんとしずまりかえっています。
+しーんと静まり返っています。
+It's completely silent.
+2
+とりでのいりぐちです。たにへおりる
+かいだんがあります。
+砦の入り口です。谷へ降りる
+階段があります。
+You are in the entrance to the fortress. There is a staircase that goes down.
+
+1
+いりぐち
+入り口
+Entrance
+1
+なかにはだれもいないようです。
+中には誰もいないようです。
+There doesn't seem to be anyone inside.
+1
+とりでのあしもとへつづいています。
+砦の足元へ続いています。
+They go down to the base of the fortress.
+2
+ひかり「こわいけどいってくる」
+どんべ「ん」
+光「怖いけど行ってくる」
+ドンベ「ん」
+Hikari: "It's scary, but we have to go!"
+Donbe: "Yeah."
+2
+ひかり「これいる？」
+どんべ「いらない」
+光「これいる？」
+ドンベ「いらない」
+Hikari: "Do you want this?"
+Donbe: "I don't need it."
+2
+どんべ「これやる」
+ひかり「ありがとう」
+ドンベ「これやる」
+光「ありがとう」
+Donbe: "Here you go."
+Hikari: "Thank you."
+2
+どんべ「いってくる」
+ひかり「あとでね」
+ドンベ「行ってくる」
+光「後でね」
+Donbe: "Let's go!"
+Hikari: "Not yet."
+2
+どんべ「これいるか？」
+ひかり「おみせなんかないわよ」
+ドンベ「これいるか？」
+光「お店なんかないわよ」
+Donbe: "Do you want this?"
+Hikari: "This isn't a store or something!"
+2
+あしもとにいおうのたまがおちて
+いました。
+足元に硫黄の玉が落ちて
+いました。
+At your feet there is a ball of sulfur.
+
+1
+ひかり「こ……こわい……だめっ！」
+光「こ…怖い…ダメっ！」
+Hikari: "It's... it's scary... I can't do it!"
+2
+どんべ「もうけ　もらっとこ
+うわーおならくさーい」
+ドンベ「もうけもらっとこ
+うわーおなら臭ーい」
+Donbe: "I'll take it.
+Ugh, it smells like a fart!"
+1
+どうつかいましょう？
+どう使いましょう？
+How will you use it?
+2
+どんべ「これやる」
+ひかり「うわー！すごいにおい」
+ドンベ「これやる」
+光「うわー！すごい匂い」
+Donbe: "Here you go."
+Hikari: "Agh! That smells terrible!"
+2
+ひかり「はいっこれもってて」
+どんべ「くっさーい」
+光「はいっこれ持ってて」
+ドンベ「くっさーい」
+Hikari: "Here, take this."
+Donbe: "It stiiiiinks!"
+4
+ひかり「それっ！」
+どんべ「んがっ！」
+どんべとひかりはふたてに
+わかれました。
+光「それっ！」
+ドンベ「んがっ！」
+ドンベと光は二手に
+分かれました。
+Hikari: "There!"
+Donbe: "Alright!"
+Donbe and Hikari have split up.
+
+4
+とりでのあしもとにきました。
+あとはひかりがぶじにどうたくを
+もってでてくるのを　まって　とりでの
+あしをこわすだけです。
+砦の足元に来ました。
+後は光が無事に銅鐸を
+持って出てくるのを待って砦の
+足を壊すだけです。
+You are now at the bottom of the fortress.
+After waiting for Hikari to get the bronze bell and leave, you just need to destroy the base of the fortress.
+
+
+1
+とりで
+砦
+Fortress
+3
+いしをつみあげてつくられています。
+こわすのも　そんなにむずかしそうでは
+ありません。
+石を積み上げて作られています。
+壊すのもそんなに難しそうでは
+ありません。
+It was built by stacking up stones.
+It doesn't seem like it will be difficult to destroy.
+
+3
+あしもとがひろいので、おちる
+しんぱいは　ありません。
+めもくらみません。
+足元が広いので、落ちる
+心配はありません。
+目も眩みません。
+The ground underneath you is wide, so you're not worried about falling.
+
+You don't feel dizzy.
+2
+とりでをこわすと　あのつりばしも
+とうぜんおちるでしょう。
+砦を壊すとあのつり橋も
+当然落ちるでしょう。
+When you destroy the fortress, naturally the bridge will fall too.
+
+1
+ここにはどんべひとりだけです
+ここにはドンベ一人だけです
+Donbe is the only one here.
+2
+ひかりがとりでにいるのに
+こわすのですか？
+光が砦にいるのに
+壊すのですか？
+You want to destroy the fortress even though Hikari is in it?
+
+2
+ひかりがまだうえにいるのに
+やってしまいました。
+光がまだ上にいるのに
+やってしまいました。
+You did it anyway despite Hikari being up there.
+
+3
+とりでがくずれてきます。
+しかしだっしゅつに　しっぱい
+してしました。
+砦が崩れてきます。
+しかし脱出に失敗
+してしました。
+The fortress collapses.
+However, you fail to espace.
+
+5
+きになることがあったのでもどって
+みたんですが
+どんべ「ひかり！」
+ひかり「どんべももどって
+きたの？」
+気になることがあったので戻って
+みたんですが
+ドンベ「光！」
+光「ドンベも戻って
+きたの？」
+You got worried so you went back.
+
+Donbe: "Hikari!"
+Hikari: "Did you decide to come back too?"
+
+2
+どんべは　とりでをこわす
+じゅんびをしています。
+ドンベは砦を壊す
+準備をしています。
+Donbe is preparing for destroying the fortress.
+
+3
+とりでのなかです。おには一ぴきも
+いません…………。
+なんかへんですねえ…………。
+砦の中です。鬼は一匹も
+いません……。
+なんか変ですねえ……。
+You are inside the fortress. There is not a single oni......
+
+It seems somehow strange ......
+2
+どうもだれかがいるけはいがしてなり
+ません。
+どうも誰かがいる気配がしてなり
+ません。
+But you can't help but feel that someone else is here.
+
+1
+ここはみはりだいのようですね。
+ここは見張り台のようですね。
+This looks like a watchtower.
+2
+ひかり「だれ？」
+ふりかえってみても　だれもいません。
+光「誰？」
+振り返ってみても誰もいません。
+Hikari: "Who's there?"
+You look behind you, but no one's there.
+2
+まどからそとをのぞいてみました。
+てんぐ「おーっなんだそりゃ？おーっ」
+窓から外を覗いてみました。
+天狗「おーっなんだそりゃ？おーっ」
+You try peeking out the window.
+Tengu: "Ooh, what is that? Ooh!"
+3
+ひかり「きゃあーっ！」
+ひかりはだれもいないとおもって
+いたので　びっくりしてしまいました。
+光「きゃあーっ！」
+光は誰もいないと思って
+いたのでビックリしてしまいました。
+Hikari: "Aaahh!"
+You thought there was no one here, so you got startled.
+
+1
+てんぐがいるだけです。
+天狗がいるだけです。
+There is just a tengu.
+1
+ひとなつっこそうなてんぐです。
+人懐っこそうな天狗です。
+It looks like a friendly tengu.
+2
+てんぐはとおめがねに　きょうみを
+しめしています。
+天狗は遠眼鏡に興味を
+示しています。
+The tengu is interested in the telescope.
+
+2
+ただわたすのはよくないようなきが
+します。
+ただ渡すよくないような気が
+します。
+It doesn't seem like you should just give it to him.
+
+1
+てんぐ「おーっそんなものいらない」
+天狗「おーっそんな物いらない」
+Tengu: "Ooh, I don't want something like that."
+5
+ひかり「な…………なによ……あなた、
+だれ？」
+てんぐ「おーっわしはてんぐじゃ。
+おにがでてったからしのびこんで
+きたんだ！おーっ」
+光「な……何よ…あなた、
+誰？」
+天狗「おーっわしは天狗だ。
+鬼が出てったから忍び込んで
+来たんだ！おーっ」
+Hikari: "Uh...... What... Who are you?"
+
+Tengu: "Ooh, I am a tengu.
+The oni left, so I snuck in! Ooh!"
+
+4
+ひかり「わたし…………あやしいもの
+じゃないのよ…………」
+てんぐ「おーっへんなつつなんだ？」
+とおめがねのことをいっているようです
+光「私……怪しい物
+じゃないのよ……」
+天狗「おーっ変な筒なんだ？」
+遠眼鏡のことを言っているようです
+Hikari: "I...... This is not a suspicious thing......"
+
+Tengu: "Ooh, what is this strange tube?"
+He seems to be talking about the telescope.
+5
+ひかり「とおめがねといって
+とおくのものを　おおきくして
+みるものなの」
+てんぐ「おーっ！おーっ！おおきくなる
+のか！おーっ！くれっ！くれっ！」
+光「遠眼鏡と言って
+遠くの物を大きくして
+見る物なの」
+天狗「おーっ！おーっ！大きくなる
+のか！おーっ！くれっ！くれっ！」
+Hikari: "It's called a telescope, and it makes things that are far away look big."
+
+
+Tengu: "Ooh! Ooh! It makes things big! Ooh! Gimme! Gimme!"
+
+5
+ひかり「どうたくのあるばしょを
+おしえてくれたらあげてもいいわよ」
+てんぐ「おーっおにがおこるから
+やだ、おーっ。おくのへやにあるなんて
+いえないよ、おーっ」
+光「銅鐸のある場所を
+教えてくれたら上げてもいいわよ」
+天狗「おーっ鬼が怒るから
+やだ、おーっ。奥の部屋にあるなんて
+言えないよ、おーっ」
+Hikari: "If you tell me the place where the bronze bell is, I can give it to you."
+
+Tengu: "Ooh, the oni will get angry, so I can't, ooh. I can't tell you that it's in the back room, ooh."
+
+
+6
+ひかり「やくそくだからあげるわ
+はいっ！」
+てんぐ「おーっ、なんでくれるんだ？
+おーっ、おまえへんなやつだなあ」
+よろこんだてんぐは　へんなふくろを
+だしてきました。
+光「約束だからあげるわ
+はいっ！」
+天狗「おーっ、なんでくれるんだ？
+おーっ、お前変なやつだなあ」
+喜んだ天狗は変な袋を
+出してきました。
+Hikari: "As promised, I'll give it to you!"
+
+Tengu: "Ooh, you're giving it to me anyway?
+Ooh, you're a strange person."
+The delighted tengu took out some strange bags.
+
+9
+てんぐ「かくれみののハイだ、おーっ
+すがたをけすことができるんだ、おーっ
+このあいだまちがってもやしてしまった
+かなしーっ、はいになってしまったから
+すこしやる、おーっ！
+おっおっ！こまったな、おーっ　へんな
+じいさんからかっぱらったふくろと
+くべつがつかなくなった、おーっ。
+おまえ、どっちがいいか？」
+天狗「隠れ蓑の灰だ、おーっ
+姿を消すことができるんだ、おーっ
+この間間違って燃やしてしまった
+悲しーっ、灰になってしまったから
+少しやる、おーっ！
+おっおっ！困ったな、おーっ変な
+じいさんからかっぱらった袋と
+区別がつかなくなった、おーっ。
+お前、どっちがいいか？」
+Tengu: "It's the ashes of an invisibility coat, ooh, you can disappear, ooh, the other day I made a mistake and burned it and I was saaad, so because it turned to ash, I'll give it to you, ooh!
+
+
+
+
+Oh oh! There's a problem, ooh, I can't tell it apart from this that I swiped from some strange old man, ooh.
+
+
+Which one do you want?
+1
+どちらにしますか？
+どちなにしますか？
+Which will you decide on?
+2
+てんぐ「おーっ、こっちがいいかあ
+ほれっ」
+天狗「おーっ、こっちがいいかあ
+ほれっ」
+Tengu: "Ooh, you want this one?"
+
+3
+てんぐは　ハイをからだに
+ふりかけてくれました。
+ぱらぱらっ
+天狗は灰を体に
+ふりかけてくれました。
+パラパラっ
+The tengu sprinkles the ashes onto your body.
+
+*sprinkle sprinkle*
+14
+じゃーん！
+ひかりは、はなになりました。
+どうやら　へんなじいさんというのは
+はなさかじいさんのことだったみたい
+ですねえ。
+いやーっ、きれいなはなになれて
+よかったですねえ。
+めでたしめでたし………………
+……………………………………………………………………………………ん？
+なんかへんですね。もういちど
+やりなおしてみましょう。
+じかんをもどしますよ。わたしが
+三つかぞえたら　えーぼたんを
+おしてくださいね。三……二……一……はいっ
+じゃーん！
+光は、花になりました。
+どうやら変なじいさんと言うのは
+はなさかじいさんのことだったみたい
+ですねえ。
+いやーっ、綺麗な花になれて
+よかったですねえ。
+めでたしめでたし………
+…………………………………………………ん？
+何か変ですね。もう一度
+やり直してみましょう。
+時間を戻しますよ。私が
+三つ数えたらエーボタンを
+押してください。三…二…一…はいっ
+Ta-da!
+Hikari has turned into a flower.
+It seems like "strange old man" was referring to the flower- blooming old man.
+
+
+Wow, you're happy because you've become a beautiful flower.
+
+And you lived happily ever after .........  .........  .........  .........  .........  .........  Hm?
+
+Something's wrong. Let's try to do it again.
+
+I'll turn back time. After I count to three, please press the A button. Three...  Two... One... Alright.
+
+
+2
+じいさんからかっぱらったふくろと
+くべつがつかなくなった、おーっ。
+じいさんからかっぱらった袋と
+区別がつかなくなった、おーっ。
+ooh, I can't tell it apart from this that I swiped from some strange old man, ooh.
+
+7
+じゃーん！
+ひかりははなに……ってきみきみ！
+なんどみたらきがすむんですかっ！
+じかんをもどすのも　らくじゃ
+ないんですよ。まったく！
+あおいほうを　とってくださいよ。
+いいですか？一……二……三……はいっ
+じゃーん！
+光は花に…って君君！
+何度見たら気が済むんですかっ！
+時間を戻すのも楽じゃ
+ないんですよ。まったく！
+青い方を取ってくださいよ。
+いいですか？一…二…三…はいっ
+Ta-da!
+Hikari has turned into... Hey, you!
+How many times will you do this before you're satisfied!?
+You know, turning back time isn't easy. Seriously!
+
+Please pick the blue one.
+Got it? One... Two... Three... Alright.
+5
+………………………………………………………………………………………………
+かんぜんに　あそんでますね。
+もういいです。なんどでもみてください
+てんぐ「おーっ、わしもちがう
+せりふが　いいたいぞっ！おーっ」
+………………………………………………………………………………………………
+完全に遊んでますね。
+もういいです。何度でも見てください
+天狗「おーっ、わしも違う
+セリフが言いたいぞっ！おーっ」
+......... ......... ......... .........
+You're completely messing around, right?
+That's enough already. Please watch it however much you want.
+Tengu: "Ooh, I also want to say different lines! Ooh."
+
+3
+へんっ！どうせわたしは　なれーたーの
+おじさんですよ。…………ぶちぶち………………
+てんぐ「おーっ、おーっ！」
+へんっ！どうせ私はナレーターの
+おじさんですよ。……ブチブチ……
+天狗「おーっ、おーっ！」
+Stop! I'm the narrator anyway. ...... *rip rip* ......
+
+Tengu: "Ooh, ooh!"
+2
+えーんおにがしまはどうなったんです？
+はやくつづきをやりましょうよおー。
+えーん鬼ヶ島はどうなったんです？
+速く続きをやりましょうよおー。
+So what about Onigashima?
+You really should hurry up and continue.
+2
+いいかげんにしなさい。
+もうやめました。
+いい加減にしなさい。
+もう止めました。
+That's enough.
+I'm done.
+1
+すがたがきえました。
+姿が消えました。
+You have disappeared.
+1
+すがたをけせばなんでもできますね。
+姿を消せばなんでもできますね。
+You can do whatever you want now that you've disappeared.
+1
+もうかえしてくれません。
+もう返してくれません。
+You shouldn't take it back yet.
+1
+てんぐはとおめがねにむちゅうです。
+天狗は遠眼鏡に夢中です。
+The tengu is absorbed in the telescope.
+5
+かぜで　せっかくのはいが、とびちって
+しまいました。
+どんべ「おっ！」
+ひかり「まあどんべも
+もどってきたのね」
+風でせっかくの灰が、飛び散って
+しまいました。
+ドンベ「おっ！」
+光「まあドンベも
+戻ってきたのね」
+The wind ended up blowing off all of the ashes.
+
+Donbe: "Oh!"
+Hikari: "Did you decide to come back now too?"
+
+5
+ひかり「てーんさん　　」
+てんぐ「なーんだい　おーっ」
+ひかり「ハイもういちどもらって
+いーい？」
+てんぐ「おーっ。もってけもってけ」
+光「てーんさん　　」
+天狗「なんだい　おーっ」
+光「灰もう一度もらって
+いーい？」
+天狗「おーっ。もってけもってけ」
+Hikari: "Ten-san <3"
+Tengu: "What is it <3 Ooh"
+Hikari: "Can I have the ashes agaaain?"
+
+Tengu: "Ooh. Go ahead, go ahead."
+3
+げげっ！おにですよ。いのこりぐみも
+いたんですね。あっ！おくにどうたくが
+みえます。
+ゲゲッ！鬼ですよ。居残り組も
+いたんですね。あっ！奥に銅鐸が
+見えます。
+Shoot! There's an oni. Looks like a group stayed behind. Ah! You can see the bronze bell in the back.
+
+
+1
+どうたくのみはりをしています。
+銅鐸の見張りをしています。
+He is guarding the bronze bell.
+2
+そばまでいけばなんとかなりそう
+なんですが。
+そばまで行けばなんとかなりそう
+何ですが。
+If you can get next to it you might be able to do something.
+
+2
+おもったより　かるそうです。これなら
+ひかりにも　もっていけそうです
+思ったより軽そうです。これなら
+光にも持って行けそうです
+It looks lighter than expected. If so, you should be able to take it and go.
+
+3
+ひかり「よいしょ！」
+とりました。もちにくいのではしれ
+ません。
+光「よいしょ！」
+取りました。持ちにくいので走れ
+ません。
+Hikari: "Grah!"
+You took it. It's difficult to hold so you can't run.
+
+3
+どうたくがふわふわとんでいくのに
+おにがきづきました。
+やばい！ちかづいてきました。
+銅鐸がふわふわ飛んで行くのに
+鬼が気づきました。
+やばい！近づいて来ました。
+The bronze bell floats through the air, and the oni notices.
+
+This is dangerous! He's coming close.
+5
+ひかりは　おににどうたくを
+つっかえしました。
+おに「？？んごっ？？」
+ふしぎそうにもとのいちに
+もどしました。
+光は鬼に銅鐸を
+突っ返しました。
+鬼「？？んごっ？？」
+不思議そうに元の位置に
+戻しました。
+You swing the bell at the oni.
+
+Oni: "?? Ngh??"
+He puts the bell back in its original place.
+
+3
+おにをふりきろうとしましたが　とても
+かちめはありません。ひかりは
+つかまってしまいました。
+鬼を不振りきろうとしましたがとても
+勝ち目はありません。光は
+捕まってしまいました。
+You try to break free, but you have absolutely no chance. You get caught by the oni.
+
+
+3
+ひかり「えいっ！」
+ひかりは　おにめがけて
+いおうだまをなげつけました。
+光「えいっ！」
+光は鬼めがけて
+硫黄玉を投げつけました。
+Hikari: "Ay!"
+You throw the ball of sulfur at the oni.
+
+3
+ぼんっ！いおうだまがはれつしました。
+おにが　いおうのにおいで
+ひるみました。
+ボンッ！硫黄玉が破裂しました。
+鬼が硫黄の匂いで
+ひるみました。
+Boom! The ball of sulfur explodes.
+The oni recoils from the smell of sulfur.
+
+2
+ぐずぐずしてるばあいじゃないですよ。
+あーっ！
+ぐずぐずしてる場合じゃないですよ。
+あーっ！
+This isn't the time to hesitate.
+Ah!
+2
+ざんねん…………おににつかまって
+しまいました。
+残念……鬼に捕まって
+しまいました。
+Unfortu- nately...... the oni catches you.
+
+2
+やったあ！このすきにひかりは
+いちもくさんににげだしました。
+やったあ！この隙に光は
+一目散に逃げ出しました。
+Alright! In this brief moment you run away at full speed.
+
+2
+ひかり「いいわよーっ！
+はやくしないと、おにがくるわよっ！」
+光「いいわよーっ！
+速くしないと、鬼がくるわよっ！」
+Hikari: "I'm good! If you don't hurry, the oni will come!"
+
+1
+さあいそぎましょう。
+さあ急ぎましょう。
+Come on, hurry up.
+3
+ひかり「なにやってるのよー
+はやくしなさいよーっ！」
+はやくしないとおにがきますよ。
+光「何やってるのよー
+速くさなさいよーっ！」
+速くしないと鬼が来ますよ。
+Hikari: "What are you doing!
+Please hurry!"
+If you don't hurry the oni will come.
+2
+どんべ「いけえっ！」
+ばくだんをおきました。
+ドンベ「いけえっ！」
+爆弾を起きました。
+Donbe: "Ok!"
+The bomb has been set.
+1
+それ！だっしゅつだ！
+それ！脱出だ！
+There! Escape!
+7
+どんべ「いくかーっ！」
+ごっちーんっ！
+どんべはとりでのあしに
+ずつきをしました。
+そんなことで、とりではくずれません。
+ああっおにたちがかえってきました。
+つかまってしまいました。
+ドンベ「行くかーっ！」
+ごっちーんっ！
+ドンベは砦の足に
+頭突きをしました。
+そんなことで、砦は崩れません。
+ああっ鬼たちが帰ってきました。
+捕まってしまいました。
+Donbe: "I'm coming!"
+*Dong!*
+You start headbutting the base of the fortress.
+
+The fortress won't collapse from something like that.
+Ah, the oni have returned!
+You get caught.
+1
+とりでがくずれていきます。
+砦が崩れていきます。
+The fortress collapses.
+9
+だいせいこうです。
+どうたくを　うばわれたことをしって
+かえってきた　おにたちとともに
+とりでが　くずれていきます。
+ひかり「おじいさん！
+おばあさん！」
+ひかりはどうたくを　くまなく
+しらべました。しかし　どうたくは
+からっぽでした。
+大成功です。
+銅鐸を奪われたことをしって
+帰ってきた鬼たちとともに
+砦が崩れていきます。
+光「おじいさん！
+おばあさん！」
+光は銅鐸をくまなく
+調べました。しかし銅鐸は
+空っぽでした。
+A resounding success.
+You managed to steal the bronze bell, and the oni came back right as the fortress collapsed.
+
+
+Hikari: "Grandpa!
+Grandma!"
+Hikari inspected every nook and cranny of the bronze bell. But it was hollow.
+
+
+33
+てんぐ「おーっ、すごいことをする
+こどもだなあ」
+どんべ「なんだおまえだれだ！」
+てんぐ「おーっ、わしはてんぐじゃ
+さっきもこのせりふいったな。おーっ」
+ひかり「これは　どういうこと
+なの？どうたくは　からよ」
+てんぐ「おーっ、やつらは　たましいを
+それですいとって　おにがしまへ
+おくってるみたいだったぞー」
+どんべ「おにがしまあーっ！」
+ひかり「じゃあおじいさんと
+おばあさんも　そこへ」
+てんぐ「おーっ、たぶんそうだなー」
+ひかり「おにがしまってどこに
+あるの？」
+てんぐ「おーっ、にしのほうにあるって
+きいたことがあるぞ、おーっ」
+なんと、おにがしまへいかなければ
+ならなくなりました。
+どんべ「これどうする？」
+ひかり「どうたくをこのままに
+しておくわけにはいかないわねえ」
+てんぐ「おーっ、おまえたちきにいった
+から　わしがなんとかしてやる」
+てんぐは　どうたくをもってとんで
+いきました。
+どんべ「おーっ、おーっ、」
+ひかり「またあ　すーぐまねする
+じゃあ　いこうか」
+どんべ「ん」
+ふたりは　おにがしまへと　たびだち
+ました。
+天狗「おーっ、すごいことをする
+子供だなあ」
+ドンベ「なんだお前誰だ！」
+天狗「おーっ、わしは天狗だ
+さっきもこのせりふ言ったな。おーっ」
+光「これはどういうこと
+なの？銅鐸はからよ」
+天狗「おーっ、やつらは魂を
+それで吸い取って鬼ヶ島へ
+送ってるみたいだったぞー」
+ドンベ「鬼ヶ島あーっ！」
+光「じゃあおじいさんと
+おばあさんもそこへ」
+天狗「おーっ、多分そうだなー」
+光「鬼ヶ島ってどこに
+あるの？」
+天狗「おーっ、西の方にあるって
+聞いたことがあるぞ、おーっ」
+何と、鬼ヶ島へ行かなければ
+ならなくなりました。
+ドンベ「これどうする？」
+光「銅鐸をこのままに
+しておくわけには行かないわねえ」
+天狗「おーっ、お前たち気に入った
+からわしがなんとかしてやる」
+天狗は銅鐸を持って飛んで
+行きました。
+ドンベ「おーっ、おーっ、」
+光「またあすーぐマネする
+じゃあ行こうか」
+ドンベ「ん」
+二人は鬼ヶ島へと旅立ち
+ました。
+Tengu: "Ooh, you children have done something amazing!"
+
+Donbe: "Who the heck are you!?"
+Tengu: "Ooh, I am a tengu.
+I said this line a bit ago. Ooh."
+Hikari: "What's going on? There's nothing in the bronze bell."
+
+Tengu: "Ooh, it seems that the people who are sucked into that are sent to Onigashima."
+
+
+Donbe: "Oniga- shima!"
+Hikari: "So are Grandpa and Grandma there as well?"
+
+Tengu: "Ooh, probably."
+Hikari: "Where is this Oniga- shima?"
+
+Tengu: "Ooh, I've heard it's to the west, ooh."
+
+Believe it or not, you have to go to Onigashima.
+
+Donbe: "What about this?"
+Hikari: "As it is, we can't take the bronze bell with us."
+
+Tengu: "Ooh, I've taken a liking to you two, so I can take care of it."
+
+The tengu takes the bronze bell and flies off with it.
+
+Donbe: "Ooh, ooh,"
+Hikari: "And you instantly start imitating.
+Come on, let's go."
+Donbe: "Yeah."
+The two of you embark to Onigashima.
+
+8
+
+四しょう
+
+おにがしまへのながいたびにでた
+ふたりは、まずとなりむらへむかい
+ました。
+あっ！となりむらがみずにしずんで
+います。

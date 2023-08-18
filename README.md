@@ -227,7 +227,7 @@ versions of characters after the normal versions of all of them.
 ## Famicom Mukashibanashi: Shin Onigashima
 
 **THIS GAME IS NOT COMPLETE YET!**  It is the one I am currently working on, and
-I'm only partway through chapter two at the time of writing.
+I'm only through chapter three at the time of writing.
 
 The most important thing to note is that in the original, all of the text was
 written vertically.  English doesn't really work that well vertically, so I had
@@ -254,6 +254,12 @@ without inputting anything else, they will be given the default names どんべ
 (Donbe) and ひかり (Hikari), which is what the script assumes their names will
 be.  If you give them other names, the script will not be able to translate any
 of the messages that include their names.
+
+You might notice that one character (Kintaro) speaks strangely.  In the
+original, he spoke in broken and terribly-pronounced English with a sprinkle of
+Japanese mixed in.  To keep it in the vein of being barely understandable, I
+ended up just writing everything he said phonetically.  If you sound out what
+he's saying you should be able to roughly figure out what's going on.
 
 # Technical Details
 
