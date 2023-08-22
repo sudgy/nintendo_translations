@@ -263,18 +263,24 @@ void write_messages()
                         auto& str = english[last_nonblank];
                         auto spread = i - last_nonblank;
                         auto s = str.size() / spread;
-                        auto b = str.begin();
+                        auto extra = str.size() % spread;
+                        auto b = str.begin() + s;
                         auto e = str.end();
+                        if (extra) ++b;
                         for (std::size_t j = 1; j < spread - 1; ++j) {
+                            auto s2 = s;
+                            if (j < extra) ++s2;
                             english[last_nonblank + j].insert(
                                 english[last_nonblank + j].end(),
-                                b + j*s, b + (j+1)*s
+                                b, b + s2
                             );
+                            b += s2;
                         }
                         english[i - 1].insert(
                             english[i - 1].end(),
-                            b + (spread - 1)*s, e
+                            b, e
                         );
+                        if (extra) ++s;
                         english[last_nonblank].resize(s);
                     }
                     last_nonblank = i;
