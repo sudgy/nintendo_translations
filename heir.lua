@@ -289,11 +289,13 @@ function at_prologue_cutscene()
 end
 
 function display_title()
-    e.draw_rect(96, 130, 160, 180, e.title_color)
+    local title_color = e.get_pixel2(0, 8)
+    local title_color2 = e.get_pixel2(72, 64)
+    e.draw_rect(96, 130, 160, 180, title_color)
     e.draw_text(97, 137, "Start Investigation", e.white, e.clear)
     e.draw_text(97, 153, "Continue Investigation", e.white, e.clear)
-    e.draw_text(20, 96, "Famicom", e.title_color2, e.clear)
-    e.draw_text(4, 108, "Detective Club", e.title_color2, e.clear)
+    e.draw_text(20, 96, "Famicom", title_color2, e.clear)
+    e.draw_text(4, 108, "Detective Club", title_color2, e.clear)
 end
 
 function display_loading()
@@ -378,46 +380,23 @@ function display_prologue()
         e.draw_text(81, 169, "the same disaster to them...", color, e.clear)
     end
     if prologue_count < 44 then
-    elseif prologue_count < 50 then
-        e.draw_rect(16, 116, 239, 216, e.black)
-        e.draw_text(96, 120, "Made in 1988", e.gray, e.clear)
-    elseif prologue_count < 284 then
-        e.draw_rect(16, 116, 239, 216, e.black)
-        e.draw_text(96, 120, "Made in 1988", e.white, e.clear)
     elseif prologue_count < 290 then
+        local text_color = e.get_pixel2(104, 104)
         e.draw_rect(16, 116, 239, 216, e.black)
-        e.draw_text(96, 120, "Made in 1988", e.gray, e.clear)
+        e.draw_text(96, 120, "Made in 1988", text_color, e.clear)
     elseif prologue_count < 384 then
-    elseif prologue_count < 390 then
-        e.draw_rect(0, 0, 239, 216, e.black)
-        draw_message(e.gray)
-    elseif prologue_count < 978 then
-        e.draw_rect(0, 0, 239, 216, e.black)
-        draw_message(e.white)
-    elseif prologue_count < 984 then
-        e.draw_rect(0, 0, 239, 216, e.dark_sky)
-        draw_message(e.white)
-    elseif prologue_count < 1038 then
-        e.draw_rect(0, 0, 239, 216, e.bright_sky)
-        draw_message(e.white)
     elseif prologue_count < 1044 then
-        e.draw_rect(0, 0, 239, 216, e.bright_sky)
-        draw_message(e.gray)
+        local background_color = e.get_pixel2(0, 8)
+        local text_color = e.get_pixel2(81, 73)
+        e.draw_rect(0, 0, 239, 216, background_color)
+        draw_message(text_color)
     elseif prologue_count < 1700 then
-    elseif prologue_count < 1706 then
-        e.draw_text(114, 124, "Famicom", e.title1_color, e.clear)
-        e.draw_text(100, 136, "Detective Club", e.title1_color, e.clear)
-    elseif prologue_count < 1880 then
-        e.draw_text(114, 124, "Famicom", e.title2_color, e.clear)
-        e.draw_text(100, 136, "Detective Club", e.title2_color, e.clear)
-    elseif prologue_count < 1886 then
-        e.draw_text(114, 124, "Famicom", e.title2_color, e.clear)
-        e.draw_text(100, 136, "Detective Club", e.title2_color, e.clear)
-        e.draw_text(94, 188, "The Missing Heir", e.subtitle1_color, e.clear)
     elseif prologue_count < 2492 then
-        e.draw_text(114, 124, "Famicom", e.title2_color, e.clear)
-        e.draw_text(100, 136, "Detective Club", e.title2_color, e.clear)
-        e.draw_text(94, 188, "The Missing Heir", e.subtitle2_color, e.clear)
+        local title2_color = e.get_pixel2(72, 64)
+        local subtitle1_color = e.get_pixel2(80, 160)
+        e.draw_text(114, 124, "Famicom", title2_color, e.clear)
+        e.draw_text(100, 136, "Detective Club", title2_color, e.clear)
+        e.draw_text(94, 188, "The Missing Heir", subtitle1_color, e.clear)
     else
         prologue_count = 0
     end

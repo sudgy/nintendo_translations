@@ -74,6 +74,7 @@ Messages.current_writing = nil
 Messages.write_lag = 0
 Messages.newlines = 0
 function Messages.display()
+    local scroll_color = e.get_pixel2(16, 25)
     local y_offset = 0
     if Messages.current_message == nil then return end
     if Messages.current_writing ~= nil then
@@ -96,7 +97,7 @@ function Messages.display()
     end
     local scroll_pos = e.read(0x68)
     if scroll_pos >= 3 then
-        e.draw_rect(32, 40, 87, scroll_pos*8 + 23, e.scroll_color)
+        e.draw_rect(32, 40, 87, scroll_pos*8 + 23, scroll_color)
     end
     local i = 0
     for line in Messages.current_message:gmatch("(.-)\n") do
@@ -133,12 +134,13 @@ function Messages.display()
             i = i + 1
         end
     end
-    if e.get_pixel2(33, 116) ~= e.get_pixel2(33, 117) and scroll_pos == 22 then
+    local cursor_color = e.get_pixel2(33, 117)
+    if e.get_pixel2(33, 116) ~= cursor_color and scroll_pos == 22 then
         x = (32 + 87)/2 - 1
         y = 196
-        e.draw_rect(x, y, x + 4, y, e.cursor_color)
-        e.draw_rect(x+1, y+1, x + 3, y+1, e.cursor_color)
-        e.draw_rect(x+2, y+2, x + 2, y+2, e.cursor_color)
+        e.draw_rect(x, y, x + 4, y, cursor_color)
+        e.draw_rect(x+1, y+1, x + 3, y+1, cursor_color)
+        e.draw_rect(x+2, y+2, x + 2, y+2, cursor_color)
     end
 end
 function Messages.add_message()
@@ -241,10 +243,11 @@ function Options.add_value()
     end
 end
 function Options.display()
+    local scroll_color = e.get_pixel2(16, 25)
     if not has_values(Options.values) then return end
     local scroll_pos = e.read(0x6E)
     if scroll_pos >= 3 then
-        e.draw_rect(240 - scroll_pos*8, 160, 220, 207, e.scroll_color)
+        e.draw_rect(240 - scroll_pos*8, 160, 220, 207, scroll_color)
     end
     for i, option in pairs(Options.values) do
         local height = (i - 1) % 3
@@ -269,6 +272,10 @@ function Options.display()
 end
 
 function draw_scrolls()
+    local black = e.get_pixel2(24, 24)
+    local background = e.get_pixel2(0, 0)
+    local scroll_color = e.get_pixel2(16, 25)
+    local dark_scroll = e.get_pixel2(17, 25)
     p1 = e.read(0x0068) -- Left scroll
     p2 = e.read(0x006E) -- Bottom scroll
     if p1 == 0 then return end
@@ -276,31 +283,31 @@ function draw_scrolls()
     -- Fully out: 22 and 27
     -- Middle: 13 and 14
     if p1 > 13 then
-        e.draw_rect(32, p1*8 + 32, 87, 240, e.oni_background)
+        e.draw_rect(32, p1*8 + 32, 87, 240, background)
     elseif p2 > 14 then
-        e.draw_rect(0, 160, 231 - p2*8, 207, e.oni_background)
+        e.draw_rect(0, 160, 231 - p2*8, 207, background)
     else
-        e.draw_rect(32, p1*8 + 32, 87, 240, e.oni_background)
-        e.draw_rect(0, 160, 231 - p2*8, 207, e.oni_background)
+        e.draw_rect(32, p1*8 + 32, 87, 240, background)
+        e.draw_rect(0, 160, 231 - p2*8, 207, background)
     end
     if p1 < 13 then
-        e.draw_rect(32, p1*8 + 32, 87, 140, e.oni_background)
+        e.draw_rect(32, p1*8 + 32, 87, 140, background)
     end
     if p2 < 14 then
-        e.draw_rect(110, 160, 231 - p2*8, 207, e.oni_background)
+        e.draw_rect(110, 160, 231 - p2*8, 207, background)
     end
     function draw_scroll(i, color)
         e.draw_rect(32, p1*8 + 24 + i, 87, p1*8 + 24 + i, color)
         e.draw_rect(232 - p2*8 + i, 160, 232 - p2*8 + i, 207, color)
     end
-    draw_scroll(0, e.black)
-    draw_scroll(1, e.dark_scroll)
-    draw_scroll(2, e.scroll_color)
-    draw_scroll(3, e.dark_scroll)
-    draw_scroll(4, e.dark_scroll)
-    draw_scroll(5, e.black)
-    draw_scroll(6, e.black)
-    draw_scroll(7, e.dark_scroll)
+    draw_scroll(0, black)
+    draw_scroll(1, dark_scroll)
+    draw_scroll(2, scroll_color)
+    draw_scroll(3, dark_scroll)
+    draw_scroll(4, dark_scroll)
+    draw_scroll(5, black)
+    draw_scroll(6, black)
+    draw_scroll(7, dark_scroll)
 end
 
 function on_write_option()
@@ -352,13 +359,14 @@ function get_location()
 end
 
 function update_credits()
+    local scroll_color = e.get_pixel2(16, 24)
     if e.read(0x0331) == 211 then
         credits_d = e.read(0x0333)
     elseif credits_d ~= -1 then
         credits_d = credits_d + 1
     end
     if credits_d ~= -1 then
-        e.draw_rect(0, 32, 256, 128, e.scroll_color)
+        e.draw_rect(0, 32, 256, 128, scroll_color)
         x = credits_d - 64
         e.draw_text(
             x,
