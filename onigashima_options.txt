@@ -222,3 +222,49 @@ Bronze bell
 Run away
 みずうみ
 Lake
+もり
+Forest
+こや
+Small building
+かべ
+Wall
+おとこ
+Man
+もぐる
+Dive
+かきね
+Fence
+あがる
+Get out
+もん
+Gate
+ほりもの
+Carving
+たいまつ
+Torch
+はし
+Bridge
+こづち
+Mallet
+いぬ
+Dog
+りんご
+Ringo
+むこうぎし
+Other side
+ふね
+Boat
+たぬき
+Tanuki
+うさぎ
+Rabbit
+たばこ
+Cigarette
+せきしょ
+Check- point
+べんけい
+Strong man
+りんごにのる
+Ride on Ringo
+まちのひと
+Towns- person
