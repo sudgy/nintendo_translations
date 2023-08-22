@@ -31,7 +31,7 @@ local function register_save(callback)
     emu.addEventCallback(callback, emu.eventType.stateLoaded)
 end
 local function register_frame(callback)
-    emu.addEventCallback(callback, emu.eventType.endFrame)
+    emu.addEventCallback(callback, emu.eventType.nmi)
 end
 e = {
     clear = 0xFF000000,
