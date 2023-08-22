@@ -5,6 +5,8 @@ dofile(base_directory .. "fceux.lua")
 messages_filename = base_directory .. "onigashima_messages.bin"
 options_filename = base_directory .. "onigashima_options.bin"
 
+credits_d = -1
+
 function has_values(t)
     for n in pairs(t) do
         return true
@@ -45,6 +47,7 @@ function clear_all()
     Messages.current_writing = nil
     Messages.write_lag = 0
     Messages.newlines = 0
+    credits_d = -1
 end
 
 Messages = {}
@@ -316,7 +319,108 @@ e.register_write(0x0569, on_write_message)
 e.register_write(0x058B, on_write_message)
 e.register_save(clear_all)
 
+-- 0: Loading screen
+-- 1: In game
+-- 2: Title screen
+-- 3: Zenpen credits
+function get_location()
+    local colors = {}
+    for i = 1,8 do
+        colors[i] = e.get_pixel2(16 + i, 238)
+    end
+    local bland = true
+    for i = 2,8 do
+        if colors[1] ~= colors[i] then
+            bland = false
+            break
+        end
+    end
+    if bland then
+        if e.get_pixel2(150, 23) == e.get_pixel2(150, 24) then
+            return 0
+        else
+            return 1
+        end
+    end
+    if colors[1] == e.get_pixel2(17 + 8, 238) and
+       colors[2] == e.get_pixel2(18 + 8, 238)
+    then
+        return 3
+    else
+        return 2
+    end
+end
+
+function update_credits()
+    if e.read(0x0331) == 211 then
+        credits_d = e.read(0x0333)
+    elseif credits_d ~= -1 then
+        credits_d = credits_d + 1
+    end
+    if credits_d ~= -1 then
+        e.draw_rect(0, 32, 256, 128, e.scroll_color)
+        x = credits_d - 64
+        e.draw_text(
+            x,
+            64,
+            "There are three heavenly",
+            e.black,
+            e.clear
+        )
+        e.draw_text(
+            x,
+            73,
+            "waters in the capital. Uncover!",
+            e.black,
+            e.clear
+        )
+        e.draw_text(
+            x,
+            82,
+            "The secret of your birth!",
+            e.black,
+            e.clear
+        )
+        if credits_d == 320 then
+            credits_d = -1
+        end
+    end
+    local blue = e.get_pixel2(0, 231)
+    if e.get_pixel2(0, 220) == blue and e.get_pixel2(1, 220) == blue then
+        local sand = e.get_pixel2(255, 219)
+        local i1 = 0
+        local i2 = 255
+        while i2 > i1 + 1 do
+            local mid = math.floor((i1 + i2) / 2)
+            if e.get_pixel2(mid, 219) == sand then
+                i2 = mid
+            else
+                i1 = mid
+            end
+        end
+        local x = i1 - 128
+        local sky = e.get_pixel2(0, 0)
+        e.draw_rect(x, 0, x + 48, 184, sky)
+        e.draw_text(
+            x,
+            128,
+            "To be continued",
+            e.white,
+            e.clear
+        )
+        e.draw_text(
+            x + 11,
+            137,
+            "in volume 2",
+            e.white,
+            e.clear
+        )
+    end
+end
+
 function loop()
+    -- This is hopefully only when the BIOS is loading the game
+    if e.read(0x0022) == 16 then return end
     if Messages.need_updating then
         Messages.add_message()
         Messages.need_updating = false
@@ -325,7 +429,11 @@ function loop()
         Options.add_value()
         Options.need_updating = false
     end
-    if e.get_pixel(16, 16) ~= 0 then
+    location = get_location()
+    if location == 0 then
+        --print("Loading")
+    elseif location == 1 then
+        --print("In game")
         Messages.display()
         Options.display()
         if e.read(0x0068) == 1 then
@@ -335,6 +443,11 @@ function loop()
             Options.values = {}
         end
         draw_scrolls()
+    elseif location == 2 then
+        --print("Title")
+    elseif location == 3 then
+        --print("Zenpen credits")
+        update_credits()
     end
 end
 

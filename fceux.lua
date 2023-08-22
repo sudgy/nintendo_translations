@@ -16,7 +16,8 @@ local function get_pixel(x, y)
     else return 1 end
 end
 local function get_pixel2(x, y)
-    return emu.getscreenpixel(x, y, true)
+    local r,g,b,p = emu.getscreenpixel(x, y, true)
+    return "P" .. string.format("%x", p)
 end
 local function get_framecount()
     return emu.framecount()
