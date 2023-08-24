@@ -31,7 +31,7 @@ Backpack
 なた
 Machete
 みのとかさ
-Straw hat and umbrella
+Straw hat & umbrella
 つかう
 Use
 そら
@@ -45,7 +45,7 @@ Kintaro
 しば
 Firewood
 いえ
-Home
+House
 きた
 North
 みなみ
@@ -272,3 +272,49 @@ Towns- person
 From disk two start
 はじめから
 
+おてら
+Temple
+ぶつぞう
+Buddha statue
+おてらのそと
+Outside temple
+いえのそと
+Outside house
+なわ
+Rope
+へい
+Wall
+やしき
+Mansion
+いど
+Well
+つるべ
+Well bucket
+おけ
+Bucket
+えきしゃ
+Fortune teller
+いどのなか
+In the well
+においぶくろ
+Sachet
+はい
+Yes
+いいえ
+No
+おにのふく
+Oni's clothes
+かなぼう
+Metal bar
+あなのなか
+In the hole
+こおり
+Ice
+あなのそと
+Outside the hole
+なみだ
+Tears
+かたな
+Katana
+くらのそと
+Outside the cellar

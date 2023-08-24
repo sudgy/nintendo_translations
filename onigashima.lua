@@ -371,21 +371,28 @@ function update_credits()
         e.draw_text(
             x,
             64,
-            "There are three heavenly",
+            "There are three sources",
             e.black,
             e.clear
         )
         e.draw_text(
             x,
             73,
-            "waters in the capital. Uncover!",
+            "of heavenly water in the",
             e.black,
             e.clear
         )
         e.draw_text(
             x,
             82,
-            "The secret of your birth!",
+            "capital. Uncover! The",
+            e.black,
+            e.clear
+        )
+        e.draw_text(
+            x,
+            91,
+            "secret of your birth!",
             e.black,
             e.clear
         )
