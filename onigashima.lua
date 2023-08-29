@@ -184,7 +184,7 @@ function Messages.add_message()
             e.log("Could not find translation for message")
             Messages.current_message = nil
             --for i = 1,#value do
-            --    print(string.format("%x", value[i]))
+            --    print(string.format("%x", value[i]) .. " " .. tostring(value[i]))
             --end
         end
     end
@@ -235,10 +235,10 @@ function Options.add_value()
             if value[1] ~= 0 then
                 e.log("Could not find translation for option")
                 Options.values[total - this+1] = "UNKNOWN\n"
+                --for i = 1,#value do
+                --    print(string.format("%x", value[i]) .. " " .. tostring(value[i]))
+                --end
             end
-            --for i = 1,#value do
-            --    print(string.format("%x", value[i]))
-            --end
         end
     end
 end
@@ -320,6 +320,18 @@ function on_write_message()
     Messages.need_updating = true
 end
 
+function finished_writing()
+    if Messages.need_updating then
+        Messages.add_message()
+        Messages.need_updating = false
+    end
+    if Options.need_updating then
+        Options.add_value()
+        Options.need_updating = false
+    end
+end
+
+e.register_exec(0x8F78, finished_writing)
 e.register_write(0x052F, on_write_option)
 e.register_write(0x0547, on_write_message)
 e.register_write(0x0569, on_write_message)
@@ -436,14 +448,6 @@ end
 function loop()
     -- This is hopefully only when the BIOS is loading the game
     if e.read(0x0022) == 16 then return end
-    if Messages.need_updating then
-        Messages.add_message()
-        Messages.need_updating = false
-    end
-    if Options.need_updating then
-        Options.add_value()
-        Options.need_updating = false
-    end
     location = get_location()
     if location == 0 then
         --print("Loading")
@@ -459,6 +463,8 @@ function loop()
         end
         draw_scrolls()
     elseif location == 2 then
+        Messages.need_updating = false
+        Options.need_updating = false
         --print("Title")
     elseif location == 3 then
         --print("Zenpen credits")
