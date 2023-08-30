@@ -1225,7 +1225,7 @@ It seems to be very deep.
 耳を澄ますと何か聞こえます。
 「キャピ、キャピ……」
 Straining your ear, you can hear something.
-It sounds lively.
+"*giggle giggle*"
 2
 どんべ「なんだ？これ」
 ひかり「あなよそれ」
@@ -1272,13 +1272,13 @@ Donbe: "We'll figure it out!"
 「おむすびころりん、すってんてーん」
 変な歌が聞こえたかと思うと
 穴から鼠が顔を出しました。
-You're a glutton, aren't you. It can't be helped, let's eat...... Oops! The rice ball slips from your hand and ends up falling into the little hole.
+You're a glutton, aren't you. It can't be helped. Let's eat...... Oops! The rice ball slips from your hand and ends up falling into the little hole.
 
 
 
 "Rolling rice ball, falling falling down."
-While thinking you heard this strange song,
-a mouse poked her head out of the hole.
+While thinking you hear this strange song,
+a mouse pokes her head out of the hole.
 1
 ねずみがいます。
 ねずみがいます。
@@ -1298,7 +1298,7 @@ This is the rumored female college student mouse.
 ドンベ「もぐらもぐら」
 光「もぐらじゃないのよ」
 Hikari: "It's saying something."
-Donbe: "A mole a mole!"
+Donbe: "A mole, a mole!"
 Hikari: "It's not a mole!"
 11
 ひかり「こんにちわねずみさん」
@@ -1324,7 +1324,7 @@ Hikari: "It's not a mole!"
 そういってねずみは、鏡を出して
 きました。
 Hikari: "Hello, mouse-san."
-Mouse: "Hiii <3 that rice ball was good, so I'm happy...... By the way, it seems that the snow woman Osechi has been giving you trouble.
+Mouse: "Hiii <3 That rice ball was good, so I'm happy...... By the way, it seems that the snow woman Osechi has been giving you trouble.
 
 
 We've been dealing with her too."
@@ -1366,7 +1366,7 @@ Mouse: "I have no interest in a snotty- nosed kid!"
 光「私は雪女
 なんてまっぴらよ！
 ドンベやってよ」
-Hikari: "No way I'm having anything to do with that snow woman!
+Hikari: "No way am I having anything to do with that snow woman!
 
 Donbe, you do it!"
 2
@@ -1383,7 +1383,7 @@ You take the mirror.
 ドンベは鏡を覗き込み
 ました。なかなかの色男だと
 思いました。
-You peer into the mirror. You think it shows a very attractive man.
+You peer into the mirror. You think it shows a very attractive guy.
 
 
 6
@@ -1514,7 +1514,7 @@ She is looking around the inside of the store with curiousity.
 1
 けがいっぽんはえています。
 毛が一本生えています。
-He has one long hair coming out.
+He has one hair.
 2
 いったい「これこれ」
 いったいさんにしかられました。
@@ -1579,7 +1579,7 @@ Hikari: "It's from our grandpa."
 そして手紙を開けました。
 Ittai: "Woah! This is a splendid piece of fabric."
 
-And then he opened the letter.
+And he opens the letter.
 4
 いったい「すまんけどおじいさんの
 ちゅうもんのしながいま　あらへんから
@@ -1619,7 +1619,7 @@ Donbe: "Hungry."
 かえりました。
 言付けを受けた二人は家に
 帰りました。
-Having received the message, the two of you went home.
+Having received the message, the two of you go home.
 
 2
 いえにつくとひがとっぷりと
@@ -1674,7 +1674,7 @@ Donbe: "Finished her off!"
 ドンベ「俺強かった」
 光「偶然じゃない！」
 Donbe: "I was strong!"
-Hikari: "That was a coinci- dence!"
+Hikari: "You got lucky!"
 3
 ひかり「とちゅうでゆきおんなに
 あったの」
@@ -1684,7 +1684,7 @@ Hikari: "That was a coinci- dence!"
 おじいさん「ええっ？無事でよかった」
 Hikari: "On the way, there was a snow woman."
 
-Old man: "What!? I'm glad you're safe.
+Old man: "What!? I'm glad you're safe."
 8
 ひかり「おじいさんのたのんだ
 ものがおみせになかったの。あとで
@@ -1705,7 +1705,7 @@ Old man: "What!? I'm glad you're safe.
 Hikari: "What you requested wasn't at the store. Ittai-san will deliver it to you later."
 
 
-Old man: "I see, thanks for you help."
+Old man: "I see, thanks for your help."
 
 "Thanks for your patronage!"
 Old man: "Oh, speak of the devil, Ittai-san is here."
@@ -1780,11 +1780,11 @@ Ittai: "Huh? You don't know?
 噂ではここからもそう遠くない
 屏風岩にも砦を作っとる
 と、言うことですさかい」
-A dragon appeared in the capital and has been turning people into oni.
+A dragon has appeared in the capital and has been turning people into oni.
 
 The oni are going on a rampage... and they seem to be searching for someone...
 
-They've been destrying the town and sucking up the souls of people, increasing the number of oni, which has caused a terrible disturbance.
+They've been destroying the town and sucking up the souls of people, increasing the number of oni, which has caused a terrible uproar.
 
 
 Be careful.
@@ -1807,7 +1807,7 @@ Old man: "That's distressing ......"
 Ittai: "Well, I'll put what you ordered here. Thank you!"
 
 Old man: "Thank you for coming all this way."
-Ittai-san has gone home.
+Ittai-san goes home.
 3
 ひかり「りゅうがこないかな」
 おじいさん「ここはだいじょうぶじゃ
@@ -1850,12 +1850,12 @@ Donbe: "Me too."
 それに恐ろしい術で人を襲う
 んだ」
 Donbe: "Beat the dragon!"
-Old man: "Dragons are very large though.
+Old man: "Dragons are very large, though.
 
-Futhermore, they attack people using terrifying methods."
+Futhermore, they attack people with terrifying methods."
 
 2
-どんべ「りゅうをやっつける！」
+どんべ「りゅうやっつける！」
 おばあさん「おまえではむりだよ」
 ドンベ「竜をやっつける！」
 おばあさん「お前では無理だよ」
@@ -1912,7 +1912,7 @@ It is the middle of the night.
 一度は布団に入ったのですが
 胸騒ぎがして眠れません。
 二人とても起きてきました。
-The two of you went to bed, but because of your uneasiness you couldn't fall asleep. You both got up.
+The two of you went to bed, but because of your uneasiness you couldn't fall asleep. You both get up.
 
 
 2
@@ -1948,7 +1948,7 @@ Donbe: "Me too."
 それっ、開けてみました。ややっ！
 お椀と竹筒が出てきましたよ。
 Alright, let's open it. Oh my!
-A bowl and a tube of bamboo came out.
+A bowl and a tube of bamboo come out.
 1
 あいています。
 開いています。
@@ -1978,7 +1978,7 @@ Donbe: "Yeah."
 上がり込んできました。
 Kintaro: "Harou, guddo ibuningu."
 Hikari: "Ahhh! It's a thief!"
-While the two of you were watching, Kintaro came in.
+With the two of you watching, Kintaro comes in.
 
 1
 おおきさのわりにおもいです。
@@ -2012,7 +2012,7 @@ Hikari: "You look like an idiot!"
 金太郎「イエース」
 確かめたければ川上へ行ってみろ
 と言ってます。
-Kintaro told you about how the two of you were born from that bamboo tube and bowl.
+Kintaro tells you about how the two of you were born from that bamboo tube and bowl.
 
 
 Hikari: "That's not true! Are you saying we're not children from here?"
@@ -2142,7 +2142,7 @@ Nothing happens.
 Hikari: "Ay!"
 You try throwing the stone at the moonlight.
 *Clunk!*
-It bounced off.
+It bounces off.
 4
 どんべ「やっ！」
 つきかげにいしをなげてみました。
@@ -2155,13 +2155,13 @@ It bounced off.
 Donbe: "Yah!"
 You try throwing the stone at the moonlight.
 *Clunk!*
-It bounced off.
+It bounces off.
 2
 つきかげだとおもっていたのは　なんと
 おさらでした。
 月影だと思っていたのはなんと
 お皿でした。
-What you thought was the moonlight was actually a dish.
+What you thought was the moonlight is actually a dish.
 
 1
 ゆるやかなながれのかわです。
@@ -2180,7 +2180,7 @@ Donbe: "No, can't reach."
 やだ！」
 光「川に入るなんて
 やだ！」
-Hikari: "No way I'm going in the river!"
+Hikari: "No way am I going in the river!"
 
 2
 あっ！たきがありました。かがやいて
@@ -2196,7 +2196,7 @@ Upstream
 1
 みずのむこうがわがひかっています。
 水の向こう側が光っています。
-The other side of the water is shining.
+Something on the other side of the water is shining.
 2
 なんとかのぼれそうですがさすがに
 ひかりにはむりでしょう。
@@ -2309,7 +2309,7 @@ Donbe: "Hn? What hearing?"
 "*sob sob...sob sob*"
 A crying voice is audible.
 Donbe: "Uh... N-not scared!"
-Someone came from the bamboo.
+Someone comes from the bamboo.
 1
 ありゃー、かっぱですよ。
 ありゃー、河童ですよ。
@@ -2340,7 +2340,7 @@ It seems very sad.
 Donbe: "What's wrong?"
 Kappa: "Uuu...... Uuu... I lost my important dish.
 
-Even though I was told to stop the water if the waterfall was glowing...... I don't have the strength."
+And I was told to stop the water if the waterfall was glowing...... But I don't have the strength."
 
 4
 どんべ「これやる」
@@ -2364,7 +2364,7 @@ Kappa: "I'm 36!"
 ……しくしく……」
 Donbe: "Here you go."
 Kappa: "Are you making fun of me? Uuu,
-...... *sob sob* ......"
+......*sob sob*......"
 2
 どんべ「かっぱいた」
 ひかり「やーん、きもちわるい」
@@ -2384,9 +2384,9 @@ Hikari: "Hm, I have a bad feeling about this."
 川に落とした竹は、水に
 沈んでいきました。
 Donbe: "That's it! I'll get!"
-Donbe used the bamboo to reel in the dish.
+You use the bamboo to reel in the dish.
 
-The bamboo was dropped into the river, and sank into the water.
+The bamboo is dropped into the river, and sinks into the water.
 
 3
 どんべ「それーえんばんなげー」
@@ -2407,7 +2407,7 @@ so cut it out!"
 チャンバラが始まりました。
 Donbe: "Hayah!"
 Hikari: "What! How nimble."
-The sword play has begun.
+The sword play begins.
 7
 どんべ「これやる」
 かっぱ「きゃーっ！きゃーっ！こ、これ
@@ -2426,7 +2426,7 @@ The sword play has begun.
 Donbe: "Here you go."
 Kappa: "Woah! Woah! Th-this,
 this is it! This! My dish!
-I can't thank you enough ......
+I can't thank you enough......
 Well, I've got to go stop the water, so please excuse me."
 
 The kappa quickly runs off.
@@ -2477,7 +2477,7 @@ You can't go back after coming all this way.
 そんなに広くありません。正面
 にお鍋のおばけみたいな物が
 あります。
-It is not that wide. There is a large saucer- shaped object in the front.
+It is not very wide. There is a large saucer- shaped object in the front.
 
 
 2
@@ -2527,13 +2527,13 @@ Donbe: "Huh?"
 光の声が洞窟に響き
 ます。あっ！鈍い音とともにお鍋
 の一部が開きました。
-Hikari read aloud that an abominable darkness will reincarnate in the dragon's palace.
+Hikari reads aloud that an abominable darkness will reincarnate in the dragon's palace.
 
 
 The return of my bloodline will set things right.
 
 It seems to be someone's message ......
-Hikari's voice echoes in the cave. Ah! With a dull sound, a part of the saucer opened.
+Hikari's voice echoes in the cave. Ah! With a dull sound, a part of the saucer opens.
 
 
 1
@@ -2553,7 +2553,7 @@ It is made of several green beads linked together and is a pretty necklace. Look
 1
 きんいろのうつくしいうでわです。
 金色の美しい腕輪です。
-It is a beautiful and gold-colored bracelet.
+It is a beautiful gold-colored bracelet.
 6
 とろうとしてうでをのばすと、とつぜん
 どんべのうでにうでわが、
@@ -2567,7 +2567,7 @@ It is a beautiful and gold-colored bracelet.
 飛んできました。
 光「何これ！外れない」
 ドンベ「ん、」
-You try reaching your hand out, when suddenly the bracelet flies onto Donbe's arm, and the necklace flies onto Hikari's neck.
+Reaching for it, suddenly the bracelet flies onto Donbe's arm, and the necklace flies onto Hikari's neck.
 
 
 
@@ -2648,19 +2648,19 @@ Donbe: "Idiot!"
 助けたいなら屏風岩の鬼の
 砦をこわし銅鐸を奪うんだ。
 と教えてくれました。
-Just when the two of you thought of going to help, Kintaro stood in front of you, blocking the way.
+Just when the two of you think of going to help, Kintaro stands in front of you, blocking the way.
 
 
 Kintaro: "Suto-ppu!"
-Kintaro started to speak.
-People whose soul has been sucked up turn into oni. However, if their soul is returned, they can go back to normal.
+Kintaro starts to speak.
+People whose souls have been sucked up turn into oni. However, if their souls are returned, they can go back to normal.
 
 
 Jumping in now would be foolish.
 If you really want to save the old man and old woman, you must steal the bronze bell from the oni fortress on the sheer cliff.
 
 
-This is what he told you.
+This is what he tells you.
 2
 おじいさんとおばあさんがどうたくに
 すいこまれていきます。
@@ -2732,7 +2732,7 @@ The Jizo statues are in front of your house, going home.
 ドンベ「ん、」
 The Jizo statues left some kibi dango and a gold coin for you in front of your house.
 
-Donbe took the kibi dango and the gold coin.
+Donbe takes the kibi dango and the gold coin.
 
 Hikari: "Well, you can't mourn forever ......"
 
@@ -2768,9 +2768,9 @@ The two of you decided to wait until dawn and then go to the sheer cliff.
 二人は昨夜、お地蔵さまに
 もらった吉備団子と小判を持って
 鬼砦へと向かいました。
-
+\
 Chapter 3
-
+\
 That sad night has ended.
 The two of you, having received the kibi dango and the gold coin from the Jizo statues, head to the oni fortress.
 
@@ -2790,12 +2790,12 @@ The two of you, having received the kibi dango and the gold coin from the Jizo s
 せん。
 あれ？ボロボロに壊れた家が
 ありますよ。
-You come upon the foot of the mountain.
+You come to the foot of the mountain.
 You see the sheer cliff in the distance.
 Surely the spirits of the old man and old woman are there.
 
 
-Oh? There's an old, broken house.
+Oh? There's an old, collapsed house.
 
 1
 ふもと
@@ -2817,7 +2817,7 @@ It towers over everything, as if piercing the sky.
 のでしょうか。誰もいません。
 完全壊れていてとても住め
 ません。丸太の山です。
-It seems that they were afraid when the oni came and ran away. No one is there.
+It seems that when the oni came, the people who lived there were afraid and ran away. No one is there.
 
 It is so completely destroyed that it is uninhabita- ble. It's just a pile of logs.
 
@@ -2889,7 +2889,7 @@ Donbe: "Hn?"
 いません。
 渡せるものは、何も持って
 いません。
-You have nothing that you can hand over.
+You have nothing that you can give.
 
 2
 なにかにやくだつでしょうか。とり
@@ -2898,10 +2898,30 @@ You have nothing that you can hand over.
 ました。
 This might be useful for something. You take it.
 
+3
+どんべ「どうする」
+ひかり「あそこしかみちはない
+わね」
+ドンベ「どうする」
+光「あそこしか道はない
+わね」
+Donbe: "What do?"
+Hikari: "There's no other road to get there."
+
+3
+ひかり「なんとかしてあそこを
+わたらなきゃいけないね」
+どんべ「うん」
+光「なんとかしてあそこを
+渡らなきゃいけないね」
+ドンベ「うん」
+Hikari: "We have to find some way to cross over there."
+
+Donbe: "Yeah."
 1
 おもすぎて　とれません。
 重すぎて取れません。
-It's too heavy to take.
+They're too heavy to take.
 1
 もうひつようないです。
 もう必要ないです。
@@ -2911,7 +2931,7 @@ You don't need any more.
 ばくだんがありましたよ！
 あれっ！取った丸太の下に
 爆弾がありましたよ！
-Woah! There was a bomb under the logs that you took!
+Woah! There's a bomb under the logs that you took!
 
 1
 もうもてません。
@@ -2927,7 +2947,7 @@ There's no reason to.
 ドンベ「はい、これ」
 光「重いのはやだ！」
 Donbe: "Here you go."
-Hikari: "No, it's heavy!"
+Hikari: "No, they're heavy!"
 1
 こわいからとりたくありません。
 怖いから取りたくありません。
@@ -2939,7 +2959,7 @@ It's scary, so you don't want to take it.
 あれ？ここは道具屋さんの家だっ
 たんですねえ。中には金槌と
 変な筒がありますよ。
-Oh? This looks like it was a toolmaker's house. Inside is a hammer and a strange tube.
+Oh? This looks like it was a toolmaker's house. Inside the basket is a hammer and a strange tube.
 
 
 1
@@ -2992,7 +3012,7 @@ There doesn't seem to be another way.
 1
 とてもかたいいわです。
 とても固い岩です。
-It is a very hard cliff.
+It is a very solid cliff.
 3
 よくみると　いわはだに、こぶしが
 はいるくらいの　おおきさのあながあい
@@ -3006,7 +3026,7 @@ Looking closer at it, there seems to be a dark hole big enough to put your fist 
 1
 ここからではよくわかりません。
 ここからではよく分かりません。
-You can't tell from here.
+It's not clear from here.
 1
 どうぶつのすなんかではないようです
 動物の巣何かではないようです
@@ -3039,7 +3059,7 @@ It seems very dificult for a girl to cross. Your legs are frozen in fear.
 光「私こんな所
 飛べないわよ」
 ドンベ「そうだな」
-Hikari: "I can't jump in a place like this."
+Hikari: "I can't jump over in a place like this."
 
 Donbe: "That's right."
 1
@@ -3049,11 +3069,11 @@ As it is, you can't go on.
 1
 ふもとまでおりてきました。
 麓まで降りてきました。
-You came down to the foot of the mountain.
+You come down to the foot of the mountain.
 1
 もどってきました。
 戻ってきました。
-You went back.
+You go back.
 2
 むこうがわへ　わたすにはみじかすぎ
 ます。
@@ -3066,7 +3086,7 @@ They're too short to cross to the other side.
 おっ！ぴったりです。
 試しに差し込んでみました。
 おっ！ぴったりです。
-You tried inserting them.
+You try inserting them.
 Oh! They fit perfectly.
 1
 いえはこわれています。
@@ -3111,7 +3131,7 @@ Everything turned out well. You can now cross whenever you want.
 ています。
 丸太がしっかりした足場になっ
 ています。
-The logs have become firm scaffolding.
+The logs have become firm footing.
 
 3
 どんべ「いくぞ」
@@ -3129,7 +3149,7 @@ Hikari: "Even I can cross this."
 光「これ持ってくれない？」
 ドンベ「ん……」受け取りました
 Hikari: "Won't you take this?"
-Donbe: "Hn ......" He took it.
+Donbe: "Hn......" He takes it.
 3
 どんべ「はい、これ」
 ひかり「もてっていうの？しかた
@@ -3138,7 +3158,7 @@ Donbe: "Hn ......" He took it.
 光「持てって言うの？仕方
 ないわねぇ」
 Donbe: "Here you go."
-Hikari: "You want me to have it? It can't be helped."
+Hikari: "You want me to have it? If there's no other way..."
 
 2
 あまり、ものをもっていると　まるたは
@@ -3195,7 +3215,7 @@ Donbe: "Sure."
 1
 わかれみちにでました。
 分かれ道に出ました。
-You came to a fork in the road.
+You come to a fork in the road.
 1
 わかれみち
 分かれ道
@@ -3205,7 +3225,7 @@ Forked road
 ていそうなきがします。
 どちらへ行っても怖いことが待っ
 ていそうな気がします。
-You feel like scary things are waiting either way you go.
+You feel like scary things are waiting for you either way you go.
 
 4
 いわのかべがたちふさがっていて
@@ -3233,7 +3253,7 @@ It's a hopeless cliff.
 たが　だめでした。
 登れそうな所を探してみまし
 たがダメでした。
-You tried searching for a place you could climb, but it's useless.
+You try searching for a place to climb, but it's useless.
 
 2
 あれ？いわやまのかべに　あたたかい
@@ -3294,7 +3314,7 @@ Hikari: "I wonder why?"
 光「熱いのはこのせい
 かなあ？」
 ドンベ「アチアチ」
-Hikari: "Could this be why it's hot?"
+Hikari: "Could this be why it feels hot?"
 Donbe: "Ouch!"
 
 1
@@ -3343,7 +3363,7 @@ Hikari: "Ahhhh!"
 Oh my! A hot spring has burst open.
 The smell of sulfur, which is common in hot springs, fills the air.
 
-You got so surprised by the steam shooting up into the air that you lost the hammer.
+You get so surprised by the steam shooting up into the air that you lose the hammer.
 
 
 1
@@ -3400,7 +3420,7 @@ Donbe: "Stinky! Stinky!"
 油断しないように……。余計なこと
 をすると落ちますよ。
 You see a dizzying ravine......
-Be careful ...... If you try anything unnecessary you'll fall.
+Be careful ......If you try to do anything unnecessary you'll fall.
 
 1
 せんじんだに
@@ -3411,7 +3431,7 @@ Bottomless ravine
 しょう。
 危ないから余計なことはよしま
 しょう。
-That's dangerous, so let's not do anything unnecessary.
+That's dangerous, so let's not do anything unneces- sary.
 
 1
 みちというほどひろくありません。
@@ -3537,7 +3557,7 @@ There are oni.
 Oh? Somehow, the fortress is noisy. Maybe they're going to that hot spring?
 
 
-Hikari: "I see! The oni hate the smell. Surely they went to close it up."
+Hikari: "I see! The oni hate the smell. Surely they went to close up the hot spring."
 
 
 1
@@ -3662,7 +3682,7 @@ Hikari: "Agh! That smells terrible!"
 光「はいっこれ持ってて」
 ドンベ「くっさーい」
 Hikari: "Here, take this."
-Donbe: "stiiiiinky!"
+Donbe: "Stiiiiinky!"
 4
 ひかり「それっ！」
 どんべ「んがっ！」
@@ -3674,7 +3694,7 @@ Donbe: "stiiiiinky!"
 分かれました。
 Hikari: "There!"
 Donbe: "Alright!"
-Donbe and Hikari have split up.
+Donbe and Hikari split up.
 
 4
 とりでのあしもとにきました。
@@ -3736,7 +3756,7 @@ You want to destroy the fortress even though Hikari is in it?
 やってしまいました。
 光がまだ上にいるのに
 やってしまいました。
-You did it anyway despite Hikari being up there.
+You do it anyway despite Hikari being up there.
 
 3
 とりでがくずれてきます。
@@ -3746,7 +3766,7 @@ You did it anyway despite Hikari being up there.
 しかし脱出に失敗
 してしました。
 The fortress collapses.
-However, you fail to espace.
+However, you fail to escape.
 
 5
 きになることがあったのでもどって
@@ -3759,10 +3779,10 @@ However, you fail to espace.
 ドンベ「光！」
 光「ドンベも戻って
 きたの？」
-You got worried so you went back.
+You get worried so you go back.
 
 Donbe: "Hikari!"
-Hikari: "Did you decide to come back too?"
+Hikari: "Did you decide to come back, too?"
 
 2
 どんべは　とりでをこわす
@@ -3814,7 +3834,7 @@ Tengu: "Ooh, what is that? Ooh!"
 光は誰もいないと思って
 いたのでビックリしてしまいました。
 Hikari: "Aaahh!"
-You thought there was no one here, so you got startled.
+You thought there was no one here, so you get startled.
 
 1
 てんぐがいるだけです。
@@ -3920,7 +3940,7 @@ Hikari: "As promised, I'll give it to you!"
 
 Tengu: "Ooh, you're giving it to me anyway?
 Ooh, you're a strange person."
-The delighted tengu took out some strange bags.
+The delighted tengu takes out some strange bags.
 
 9
 てんぐ「かくれみののハイだ、おーっ
@@ -3949,7 +3969,7 @@ Tengu: "It's the ashes of an invisibility coat, ooh, you can disappear, ooh, the
 Oh oh! There's a problem, ooh, I can't tell it apart from this that I swiped from some strange old man, ooh.
 
 
-Which one do you want?
+Which one do you want?"
 1
 どちらにしますか？
 どちなにしますか？
@@ -4001,13 +4021,13 @@ The tengu sprinkles the ashes onto your body.
 三つ数えたらエーボタンを
 押してください。三…二…一…はいっ
 Ta-da!
-Hikari has turned into a flower.
-It seems like "strange old man" was referring to the flower- blooming old man.
+You have turned into a flower.
+It seems like the "strange old man" that the tengu mentioned was the flower- blooming old man.
 
 
 Wow, you're happy because you've become a beautiful flower.
 
-And you lived happily ever after .........  .........  .........  .........  .........  .........  Hm?
+And you live happily ever after .........  .........  .........  .........  .........  .........  Hm?
 
 Something's wrong. Let's try to do it again.
 
@@ -4037,7 +4057,7 @@ ooh, I can't tell it apart from this that I swiped from some strange old man, oo
 青い方を取ってくださいよ。
 いいですか？一…二…三…はいっ
 Ta-da!
-Hikari has turned into... Hey, you!
+You have turned into... Hey, you!
 How many times will you do this before you're satisfied!?
 You know, turning back time isn't easy. Seriously!
 
@@ -4056,7 +4076,7 @@ Got it? One... Two... Three... Alright.
 セリフが言いたいぞっ！おーっ」
 ......... ......... ......... .........
 You're completely messing around, right?
-That's enough already. Please watch it however much you want.
+That's enough already. But feel free to watch it as much as you want.
 Tengu: "Ooh, I also want to say different lines! Ooh."
 
 3
@@ -4066,7 +4086,7 @@ Tengu: "Ooh, I also want to say different lines! Ooh."
 へんっ！どうせ私はナレーターの
 おじさんですよ。……ブチブチ……
 天狗「おーっ、おーっ！」
-Stop! I'm the narrator anyway. ...... *rip rip* ......
+Stop! I'm the narrator anyway. ......*rip rip*......
 
 Tengu: "Ooh, ooh!"
 2
@@ -4167,7 +4187,7 @@ It looks lighter than expected. If so, you should be able to take it and go.
 取りました。持ちにくいので走れ
 ません。
 Hikari: "Grah!"
-You took it. It's difficult to hold so you can't run.
+You take it. It's difficult to hold so you can't run.
 
 3
 どうたくがふわふわとんでいくのに
@@ -4324,12 +4344,12 @@ The fortress collapses.
 調べました。しかし銅鐸は
 空っぽでした。
 A resounding success.
-You managed to steal the bronze bell, and the oni came back right as the fortress collapsed.
+You managed to steal the bronze bell, and the oni come back right as the fortress collapses.
 
 
 Hikari: "Grandpa!
 Grandma!"
-Hikari inspected every nook and cranny of the bronze bell. But it was hollow.
+Hikari inspects every nook and cranny of the bronze bell. But it is hollow.
 
 
 33
@@ -4452,7 +4472,7 @@ The two of you embark to Onigashima.
 \
 Chapter 4
 \
-When the two of you left on the long journey to Onigashima, you first went to the neighboring village.
+When the two of you go on the long journey to Onigashima, you first go to the neighboring village.
 
 
 Ah! The neighboring village has been submerged in water.
@@ -4607,7 +4627,7 @@ Looking closer at it, it's more sturdy than you initially thought. Something is 
 よめません。
 残念ながらドンベは字が
 読めません。
-Unfortu- nately, Donbe can't read the letters.
+Unfortu- nately, you can't read the letters.
 
 1
 ふあんそうにおびえています。
@@ -4750,10 +4770,10 @@ Hikari: "What is that small building over there?"
 Man: "That is the shrine for Hinoe- sama."
 
 Hikari: "Hinoe- sama?"
-Man: "It seems to be about someone related to the palace of the dragon king, but I don't know.
+Man: "The writing seems to be about someone related to the palace of the dragon king, but I don't know.
 
 There is a dragon wreaking havoc in the capital right now.
-If the person that the legend says will seal the dragon appears, it is said that they will be able to open the shrine......
+If the person appears that the legend says will seal the dragon, it is said that they will be able to open the shrine......
 
 
 Could you be the person of legend?"
@@ -4782,7 +4802,7 @@ Man: "I'm a fisherman who lives in the area."
 男「怪しい物ではない。だが
 わしゃ、男には興味がない」
 Donbe: "What?"
-Man: "It's nothing suspicious. But men like me are not interesting."
+Man: "It's nothing suspicious. Men like me are not interesting."
 
 2
 どんべ「わーい　いったいさん」
@@ -5045,7 +5065,7 @@ It seems that this shrine is for the dragon.
 Who do you think you are! You can't pass through here without the item of awakening!
 
 Get out of here immediately!
-A huge burst of water pushes Donbe back.
+A huge burst of water pushes you back.
 
 
 5
@@ -5062,7 +5082,7 @@ A huge burst of water pushes Donbe back.
 You stick your arm into the water current.
 
 Donbe: "Uwaa!"
-At that terrifying moment, the water started glowing.
+At that terrifying moment, the water starts glowing.
 
 4
 どんべ「うでわひかったあ」
@@ -5119,7 +5139,7 @@ The water current has already stopped.
 嘘のように止まっています。
 ドンベは門をくぐりました。
 I've been waiting for you!
-At last, you have the thing that controls the light!
+At last, you have the item that controls the light!
 The time of awakening has arrived!
 Pass through!
 Strangely, the whirlpool from a moment ago has completely stopped.
@@ -5186,7 +5206,7 @@ Hikari: "Yaah! That kind of thing..."
 うわー、真っ暗です。
 小僧それでは不便であろう。それ！
 Wah, it's pitch black.
-That must be incovenient for a kid like you. There!
+That must be inconvenient for a kid like you. There!
 1
 おっ！たいまつにひがつきました。
 おっ！松明に火がつきました。
@@ -5219,7 +5239,7 @@ It is soaked.
 いったいどこへつづいているのでしょう
 上り坂が、続いています。
 一体どこへ続いているのでしょう
-You go up the hill.
+You go up the incline.
 Where in the world does it lead?
 4
 もんをくぐりました。そのしゅんかん
@@ -5335,7 +5355,7 @@ Donbe: "The shrine of the dragon?"
 The princess must be reincar- nated once every one million years to become young again.
 
 
-During this time, the jeweled box is left to the animals on the sufrace, but foolishly, the humans have opened it.
+During this time, the jeweled box is left to the animals on the surface, but foolishly, the humans have opened it.
 
 
 Donbe: "So the dragon..."
@@ -5475,7 +5495,7 @@ Isn't there a better way?
 ドンベ「おいっこれやる！
 そっか………光……いない」
 Donbe: "Here, take this!
-That's right ......... Hikari...... isn't here."
+That's right......... Hikari...... isn't here."
 2
 どうしたんです？たびをやめるの
 ですか？
@@ -5501,7 +5521,7 @@ A dog comes out of nowhere and blocks your way.
 みつめてます。
 何か言いたそうにドンベを
 見つめてます。
-It's staring at you as if he wants to say something.
+It's staring at you as if it wants to say something.
 
 1
 あいたたっ！かまれました。
@@ -5570,7 +5590,7 @@ You take the dog with you on your journey.
 1
 なかなかりこうそうです。
 なかなか利口そうです。
-He looks quite clever.
+She looks quite clever.
 1
 りんご「へんなことはよしてください」
 りんご「変なことはよしてください」
@@ -5582,7 +5602,7 @@ Ringo: "Please stop doing something strange."
 ドンベは今までのことを
 すべて話しました。
 りんご「じゃ、速く行きましょう」
-You talk about everything up to now.
+You talk about everything that's happened up to now.
 
 Ringo: "Well then, let's hurry up and go."
 2
@@ -5612,7 +5632,7 @@ It doesn't look like you can swim across it.
 ならないようですね。
 ここはどうしても渡らねば
 ならないようですね。
-It looks like you have to cross here however you can.
+It looks like you have to cross here in whatever way you can.
 
 1
 りんご「これじゃわたれませんねえ」
@@ -5621,7 +5641,7 @@ Ringo: "We can't cross with it like this."
 1
 よしたほうがいいですよ。
 よしたほうがいいですよ。
-You should give it up.
+You should give up.
 3
 せっかくしんせつにいってあげたのに
 かわにおちました。
@@ -5662,7 +5682,7 @@ It's beckoning people to come.
 1
 じつにおとなしい　いぬです。
 実におとなしい犬です。
-It really is an obedient dog.
+She really is an obedient dog.
 10
 たぬき「いらっしゃい。むこうぎしへ
 いくんだね」
@@ -5723,10 +5743,10 @@ Tanuki: "Alright, get on the boat."
 あれ？あれれ？船が溶け出した。
 ダメです！泥の船は水に弱い
 みたいです。
-The current makes you sway quickly, but it feels pleasant.
+The current makes you sway rapidly, but it feels pleasant.
 
 Oh? Ohhh? The boat begins to dissolve.
-Oh no! The boat made of mud is weak to water.
+Oh no! The boat made of mud is vulnerable to water.
 
 2
 ああ、…………しずむ…………しずむ…………。
@@ -5798,7 +5818,7 @@ Rabbit: "Alright, get on the boat."
 吹かしてますが……。あっ！
 うさぎのバカやろうーっ！タバコの火が
 船に燃え移った！
-The current makes you sway quickly, but it feels pleasant.
+The current makes you sway rapidly, but it feels pleasant.
 
 The rabbit is happily smoking his cigarette, but...... Ah!
 
@@ -5813,7 +5833,7 @@ You idiot rabbit! The fire from the cigarette spread onto the boat!
 火の後始末には木をつけましょう。
 ああ、……沈む……沈む……。
 おしまいです。
-The boat made of wood is weak to fire.
+The boat made of wood is vulnerable to fire.
 The fire has burned up the wood.
 Ah, ...... Sinking...... Sinking......
 Game over.
@@ -5838,7 +5858,7 @@ You can't advance without riding the boat.
 たぬこうの船みたかい？ありゃ泥
 だぜ。危ないったらありゃしねえ！
 こっちは木ですぜ。さあ乗った乗った」
-Rabbit: "My boy, were you planning on getting across using the tanuki's boat?  That thing's made of wood. It's dangerous, that thing is!
+Rabbit: "My boy, were you planning on getting across using the tanuki's boat?  That thing's made of mud. It's dangerous, that thing is!
 
 
 But over here we use wood. Come on, ride, ride!"
@@ -5849,6 +5869,10 @@ But over here we use wood. Come on, ride, ride!"
 に火をつけました。よく燃えてます。
 The rabbit lets you use the fire from his cigarette to light the torch.  It is now burning brightly.
 
+1
+ほうかのつみはおもいですよ。
+放火の罪は思いですよ。
+I think arson's a crime.
 1
 みせをもやすのですか？
 店を燃やすのですか？
@@ -5878,7 +5902,7 @@ But the torch ends up burning out.
 何とか持ちこたえそうです。
 りんご「うまい！」
 ドンベ「やたっ！」
-By heating it with the torch, the boat somehow holds out.
+By being heated with the torch, the boat somehow holds out.
 
 Ringo: "Great!"
 Donbe: "Did it!"
@@ -5981,7 +6005,7 @@ Ringo: "Please ride on my back."
 りんごがくわえてます。
 小さい体では無理です。小槌は
 りんごがくわえてます。
-You can't because your body is too small. Ringo is holding the mallet in his mouth.
+You can't because your body is too small. Ringo is holding the mallet in her mouth.
 
 6
 べんけい「おっとっと」
@@ -5998,7 +6022,7 @@ You can't because your body is too small. Ringo is holding the mallet in his mou
 おしまいです。
 Strong man: "Woah!"
 *Squish!*
-The strong man stumbled and squished Donbe.
+The strong man stumbles and squishes you.
 
 
 Game over.
@@ -6018,14 +6042,14 @@ Donbe: "Alright, let's go!"
 弁慶は犬など無視しています。
 簡単に通れました。
 The strong man is ignoring things like dogs.
-You simply walk right through.
+The two of you simply walk right through.
 2
 ひとがたくさん　あるいてきます。
 みやこからにげだすひとたちのようです
 人がたくさん歩いてきます。
 都からに逃げ出す人たちのようです
 A lot of people are walking.
-They seem to be running away from the capital.
+They seem to be fleeing from the capital.
 1
 みやこのそば
 都のそば
@@ -6101,14 +6125,14 @@ Towns- person: "Ahh!"
 りんご「きちんと話ができますね
 かっこいいですよ！」
 ドンベ「デへっ！」
-Because of Donbe's sudden appearance, the townsperson was startled and ran off.
+Because of Donbe's sudden appearance, the townsperson is startled and runs off.
 
 
 Ringo: "I had to do something bad......
 But now you have grown up and look cool.
 
 With this, you can now fight oni.
-This was a present from Hinoe-sama.
+This was a present from Hinoe- sama."
 
 Donbe: "Alright! I'm going to save Hikari and take back the soul of Grandpa and the rest!"
 
@@ -6143,13 +6167,13 @@ Hinoe-sama told you to first get heavenly water from the capital and put it on t
 
 Will Donbe really be able to find the heavenly water?
 
-And Hikari's life ............
+And Hikari's life............
 depends completely on you......
 But this continuation will be on the second disk.
 
 I believe that you will surely protect the world......
 
-I'll be waiting...... Hahaha......
+I'll be waiting...... Wahaha......
 2
 コウヘンの、びーめんを
 せっとしておくれ
@@ -6310,7 +6334,7 @@ It looks like a house.
 りんご「はいってみましょうか？」
 ドンベ「誰かいないかな？」
 りんご「入ってみましょうか？」
-Donbe: "Is there anybody there?"
+Donbe: "Is anybody there?"
 Ringo: "Why don't we look inside?"
 1
 とびらは　あいています。
@@ -6452,7 +6476,7 @@ Donbe: "Damp?"
 でしょうね」
 Donbe: "It's a splendid mansion."
 
-Ringo: "I wonder what kind of people lived there."
+Ringo: "I wonder what kind of people lived here."
 
 2
 「ぎ……ぎぃーっ」
@@ -6479,14 +6503,14 @@ Well
 1
 ふるいいどです。つるべがあります。
 古い井戸です。釣瓶があります。
-It's an old well. There is a bucket.
+It's an old well. There is a mechanism for drawing water.
 2
 みずをくむためのどうぐです。
 なわのさきにおけがついています。
 水を汲むための道具です。
 縄の先に桶がついています。
 It's a good tool for drawing water.
-The tip of a rope is attached to it.
+The end of a rope is attached to it.
 1
 いどはとれません。
 井戸は取れません。
@@ -6526,7 +6550,7 @@ Donbe: "Ahhh! Let's get out of here!"
 ぼ…僕はおばけははダメなんだ」
 りんご「かわいいおばけでしたよ」
 Donbe: "Haa, haa...
-I... I can't handle ghosts."
+I...I can't handle ghosts."
 Ringo: "It was a cute ghost."
 3
 どんべ「やだなー、きみわるい
@@ -6611,7 +6635,7 @@ You try putting some of the well water onto the bracelet.
 弱くなりました。
 ドンベ「ま、待って！」
 ヒノエの声は聞こえなくなりました
-Your bracelet glowed.
+Your bracelet glows.
 ...Donbe, you have done well to come here. I am Hinoe.
 
 Donbe: "Are you a star?"
@@ -6624,7 +6648,7 @@ Donbe: "Please teach me. About the dragon
 The dragon has already turned one world...into a world of darkness. These two worlds are connected by the dragon's pearl.
 
 
-Thus, with a little negligence, the dragon can fly into this world.
+Thus, if we're a little negligent, the dragon can fly into this world.
 
 
 Donbe: "For what purpose?"
@@ -6680,7 +6704,7 @@ There is an eerie atmosphere around it.
 何かあるぞ」
 りんご「でも入る理由が
 ありませんよ」
-Donbe: "There's gotta be something inside here."
+Donbe: "There's gotta be something inside there."
 
 Ringo: "But we don't have any reason to go in there."
 
@@ -6815,12 +6839,12 @@ Ringo: "Leave it to me. I'll chase it off next time."
 と言うと幽霊は消えました。
 どうやら成仏したようです。
 Donbe: "Ringo! Now!"
-Ringo: *Bark!*
+Ringo: "One!"
 Ghost: "Two... three... four...
 five... six... seven...
 eight... nine... ten...?
 What? There's ten...?"
-Upon saying this, the ghost disappeared.
+Upon saying this, the ghost disappears.
 Perhaps she passed on?
 3
 りんご「ぐずぐずしてないで　さがしま
@@ -6829,7 +6853,7 @@ Perhaps she passed on?
 りんご「ぐずぐずしてないで探しま
 しょう」
 ドンベ「うん」
-Ringo: "Let's not dawdle and search."
+Ringo: "Let's search and not dawdle."
 
 Donbe: "Yeah."
 2
@@ -6915,7 +6939,7 @@ Ringo: "...*munch munch*"
 ドンベ「ありがとう。もらって
 おくよ」
 Donbe: "Wah, so bright!"
-Ringo is holding something in his mouth.
+Ringo is holding something in her mouth.
 It's a sachet. It is full of perfume.
 
 Ringo: "This was on the ground.
@@ -7350,7 +7374,7 @@ You take the water from the melted ice and put it on the bracelet.
 生まれ変わったのだ。
 ドンベ「わぁーっ！待ってくれ」
 ヒノエの声は聞こえなくなりました。
-Your bracelet glowed.
+Your bracelet glows.
 Donbe: "Hinoe! I have one thing I want to ask you! I understand about the dragon. But why were we chosen?"
 
 
@@ -7462,7 +7486,7 @@ The Buddha statue doesn't say anything else.
 さあ、光を救い出し
 シライシの泉へ急げ！
 腕輪の光が消えていきました。
-Your bracelet glowed.
+Your bracelet glows.
 ...You have done well to find all of the heavenly water.
 Donbe: "Were you testing me?"
 ...That's right. I had to determine whether or not you were a suitable man to help Hikari seal away the dragon...
@@ -7845,3 +7869,1774 @@ Hikari: "You came.
 Thank you. Come on! Let's hurry to Iraishi spring.
 
 Donbe: "Alright!"
+9
+
+六しょう
+
+ひかりのきおくをたよりに
+みんなはもりへやってきました。
+どんべ「ここに　いずみが
+あるの？」
+ひかり「そうだとおもうんだけど
+なあ」
+
+六章
+
+光の記憶を頼りに
+みんなは森へやってきました。
+ドンベ「ここに泉が
+あるの？」
+光「そうだと思うんだけど
+なあ」
+\
+Chapter 6
+\
+Following Hikari's memories, you come to a forest.
+
+Donbe: "Is the spring here?"
+
+Hikari: "I think so."
+
+1
+きかいがもり
+キカイガ森
+Kikaiga Forest
+1
+きが　うっそうとおいしげってます。
+木が鬱蒼と生い茂ってます。
+It is overgrown with trees.
+1
+みたこともないきばかりです。
+見たこともない木ばかりです。
+You've never seen this kind of tree before.
+1
+できるわけないでしょ！
+できる分けないでしょ！
+You can't!
+3
+どんべ「くらいもりだなあ…………」
+ひかり「はやくとおり
+ぬけたい」
+ドンベ「暗い森だなあ……」
+光「速く通り
+抜けたい」
+Donbe: "It's a dark forest, isn't it......"
+Hikari: "Let's get through it quickly."
+
+3
+どんべ「おかしなようすは？」
+りんご「かすかにあまいかおりがして
+ます」
+ドンベ「おかしな様子は？」
+りんご「かすかに甘い香りがして
+ます」
+Donbe: "Is there something strange?"
+Ringo: "There's a faint sweet smell."
+
+1
+へたにつかうと　はがこぼれます。
+下手に使うとはがこぼれます。
+If you use it poorly it could knock out teeth.
+1
+うでわは　はずれません。
+腕輪は外れません。
+The bracelet doesn't come off.
+1
+ぶきは　おとこのこがもちましょう。
+武器は男の子が持ちましょう。
+Let's keep the weapons with the boys.
+2
+これはだいじにもって
+おきましょう。
+これは大事に持って
+おきましょう。
+This is important, so let's keep this placed in your hands.
+
+1
+てきがいません。
+敵がいません。
+There are no enemies.
+3
+ひかり「おくに　なにかあり
+そうなきがする」
+どんべ「そうだな」
+光「奥に何かあり
+そうな気がする」
+ドンベ「そうだな」
+Hikari: "I feel like there's something deep in here."
+
+Donbe: "Yeah."
+3
+ひかり「へんなものでてこない
+よね」
+りんご「けはいは　ありません」
+光「変な物出てこない
+よね」
+りんご「気配はありません」
+Hikari: "Nothing strange will come out, right?"
+
+Ringo: "I don't think so."
+1
+ひかり「これはだめ」
+光「これはダメ」
+Hikari: "It's useless."
+1
+おけるようなものは　もってません。
+置けるような物は持ってません。
+You don't have anything that you can place.
+2
+きみのわるいところへきて
+しまいました。
+気味の悪い所へ来て
+しまいました。
+You have a bad feeling about this place.
+
+1
+うすきみのわるいところです。
+薄気味の悪い所です。
+This place is spooky.
+2
+あっ！しげみのなかで　なにかが
+うごきました。
+あっ！茂みの中で何かが
+動きました。
+Ah! Something moved in the brush over there.
+
+3
+どんべ「うわーっ！」
+ひかり「きゃーっ！」
+おおきなへびがでてきました。
+ドンベ「うわーっ！」
+光「きゃーっ！」
+大きな蛇が出てきました。
+Donbe: "Wagh!"
+Hikari: "Ahhh!"
+A huge snake comes out.
+2
+どんべ「こんなところにあるのかよ！」
+ひかり「どなんないでよ！」
+ドンベ「こんな所にあるのかよ！」
+光「怒鳴んないでよ！」
+Donbe: "What kind of place is this!?"
+Hikari: "Don't shout!"
+3
+どんべ「なにかにおわないか？」
+りんご「かなりつよく　あまいにおいが
+しています」
+ドンベ「何か臭わないか？」
+りんご「かなり強く甘い匂いが
+しています」
+Donbe: "Don't you smell something?"
+Ringo: "There is a fairly strong sweet smell."
+
+2
+ひかり「こんなとこ　やだなあ」
+どんべ「ぼくだっていやだよ！」
+光「こんなとこやだなあ」
+ドンベ「僕だっていやだよ！」
+Hikari: "I don't like this place."
+Donbe: "I don't like it either!"
+3
+ひかり「いずみのにおいは？」
+りんご「あまいかおりのため
+わかりません」
+光「泉の匂いは？」
+りんご「甘い香りのため
+分かりません」
+Hikari: "Do you smell the spring?"
+Ringo: "I can't tell because of the sweet smell."
+
+2
+そんなことをしているばあいでは
+なさそうです。
+そんなことをしている場合では
+なさそうです。
+This doesn't seem to be the time for that.
+
+1
+こちらをにらんでいます。
+こちらを睨んでいます。
+It is staring in your direction.
+2
+どんべ「こんなはずでは…………」
+ひかり「へび、きらいよ！」
+ドンベ「こんなはずでは……」
+光「蛇、嫌いよ！」
+Donbe: "This is......"
+Hikari: "I hate snakes!"
+7
+どんべ「とりゃっ！」
+どんべはかたなできりつけました
+しかしへびはみをかわしどんべに
+かみつきました。
+どんべ「しまった！こいつ、どく
+へびだ！」
+きがとおくなっていきます………………。
+ドンベ「トリャッ！」
+ドンベは刀で切りつけました
+しかし蛇は身をかわしドンベに
+噛みつきました。
+ドンベ「しまった！こいつ、毒
+蛇だ！」
+気が遠くなっていきます………。
+Donbe: "Take this!"
+You slice at the snake, but it dodges and bites you.
+
+
+Donbe: "Shoot! This snake is poisonous!"
+
+You faint .........
+2
+ひかり「やだ！やっつけて」
+どんべ「へびってこわいんだぞ」
+光「やだ！やっつけて」
+ドンベ「蛇って怖いんだぞ」
+Hikari: "No! Kill it!"
+Donbe: "Snakes are scary!"
+1
+へびには　ちかづきたくないです。
+蛇には近づきたくないです。
+You don't want to get close to the snake.
+2
+もりがつづいています…………。
+きつねがいます。
+森が続いています……。
+きつねがいます。
+The forest continues ......
+There's a fox.
+2
+みてのとおりぶどうのきのようです。
+ひとつだけ　ぶどうがなっています。
+見ての通りぶどうの木のようです。
+一つだけぶどうがなっています。
+You see a grapevine.
+It has just a single bundle of grapes on it.
+1
+おいしそうです。
+おいしそうです。
+They look delicious.
+2
+けんめいに　ぶどうをとろうとして
+いるようです。
+懸命にぶどうを取ろうとして
+いるようです。
+It looks like it's earnestly trying to get the grapes.
+
+1
+ぶどうをとりました。
+ぶどうを取りました。
+You take the grapes.
+3
+どんべ「なんだろう」
+ひかり「ぶどうがほしいのよ
+きっと」
+ドンベ「何だろう」
+光「ぶどうが欲しいのよ
+きっと」
+Donbe: "What is it doing?"
+Hikari: "I'm sure it wants the grapes."
+
+2
+どんべ「けんかするなよ」
+りんご「こどもですよ」
+ドンベ「喧嘩するなよ」
+りんご「子供ですよ」
+Donbe: "Don't fight it."
+Ringo: "It's just a kid!"
+2
+どんべ「これこれ、こぎつね」
+こぎつね「……………………」
+ドンベ「これこれ、子ぎつね」
+子ぎつね「…………」
+Donbe: "Come here, foxy."
+Fox cub: "............"
+3
+ひかり「かわいい、きっと
+あのぶどうがほしいのね」
+どんべ「うまそうだなあ」
+光「かわいい、きっと
+あのぶどうが欲しいのね」
+ドンベ「うまそうだなあ」
+Hikari: "It's so cute, I'm sure it wants the grapes."
+
+Donbe: "They look good!"
+2
+ひかり「あぶなくない？」
+りんご「ただのこぎつねですよ」
+光「危なくない？」
+りんご「ただの子ぎつねですよ」
+Hikari: "Is it danger- ous?"
+Ringo: "It's just an ordinary fox cub."
+3
+ひかり「こんにちわ、こぎつね
+さん…………」
+こぎつね「…………」
+光「こんにちは、子ぎつね
+さん……」
+子ぎつね「……」
+Hikari: "Hello, fox-san."
+
+Fox cub: "......"
+1
+こちらをみつめています。
+こちらを見つめています。
+It is staring at you.
+1
+どうも　ちがうようです。
+どうも違うようです。
+That doesn't seem right.
+2
+どんべ「おいで」
+でも、こぎつねは　きません。
+ドンベ「おいで」
+でも、子ぎつねは来ません。
+Donbe: "Here."
+But, the fox cub doesn't come.
+2
+こんなところにおいて　どうするん
+ですか？
+こんな所に置いてどうするん
+ですか？
+What can you do by placing it here?
+
+2
+ひかり「こわがってるわ」
+どんべ「うーん……」
+光「怖がってるわ」
+ドンベ「うーん…」
+Hikari: "It's scared."
+Donbe: "Yeah..."
+2
+ひかり「おいで　こぎつねさん」
+こわがるだけです。
+光「おいで子ぎつねさん」
+怖がるだけです。
+Hikari: "Come here <3 fox-san."
+It's just scared.
+3
+ひかり「これもって」
+どんべ「いいよ」
+どんべはうけとりました。
+光「これ持って」
+ドンベ「いいよ」
+ドンベは受けとりました。
+Hikari: "Take this."
+Donbe: "Sure."
+Donbe takes it.
+3
+どんべ「これもって」
+ひかり「いいわよ」
+ひかりはうけとりました。
+ドンベ「これ持って」
+光「いいわよ」
+光は受けとりました。
+Donbe: "Take this."
+Hikari: "Sure."
+Hikari takes it.
+1
+ぶきみです。
+不気味です。
+It's creepy.
+4
+どんべ「だめだ、こわがってる
+からちかづけない」
+ひかり「ひとを　みたこと
+ないのかな」
+ドンベ「ダメだ、怖がってる
+から近づけない」
+光「人を見たこと
+ないのかな」
+Donbe: "It's useless, it's scared of us so it won't come near."
+
+Hikari: "Maybe it hasn't seen people before."
+
+3
+ひかり「ひとのてから　ものを
+もらったことがないのね」
+どんべ「やるっていってるのに」
+光「人の手から物を
+もらったことがないのね」
+ドンベ「やるって言ってるのに」
+Hikari: "It won't take it from our hand."
+
+Donbe: "Even though we're telling it to."
+1
+ぶどうを　じめんにおきました。
+ぶどうを地面に置きました。
+You place the grapes on the ground.
+2
+どんべ「きつねがいない」
+ひかり「ぶどうもなくなってる」
+ドンベ「きつねがいない」
+光「ぶどうもなくなってる」
+Donbe: "The fox is gone."
+Hikari: "The grapes aren't here either."
+3
+どんべ「こぎつねは
+どこへ　いったんだ？」
+りんご「においがのこってます」
+ドンベ「子ぎつねは
+どこへ行ったんだ？」
+りんご「匂いが残ってます」
+Donbe: "Where did the fox cub go?"
+
+Ringo: "It left a scent."
+2
+ひかり「こぎつねは　どこ？」
+りんご「においが　のこってます」
+光「子ぎつねはどこ？」
+りんご「匂いが残ってます」
+Hikari: "Where is the fox cub?"
+Ringo: "It left a scent."
+4
+りんご「きつねのにおいは　こっちへ
+つづいてます」
+どんべ「よしいこう」
+ひかり「だいじょうぶかな？」
+りんご「きつねの匂いはこっちへ
+続いてます」
+ドンベ「よし行こう」
+光「大丈夫かな？」
+Ringo: "The fox's scent continues this way."
+
+Donbe: "Alright, let's go."
+Hikari: "Will it be okay?"
+2
+きつねのいえが　ありました。
+ははぎつねがいます。
+きつねの家がありました。
+母ぎつねがいます。
+This is the fox's house.
+Its mother is here.
+1
+きつねのおやど
+きつねのお宿
+Fox home
+1
+なにか　いいたそうにしています。
+何か言いたそうにしています。
+It looks like it wants to say something.
+2
+しずしずと　ちいさなものを
+だしてきました。みみせんです。
+しずしずと小さな物を
+出してきました。耳栓です。
+She silently pulls out a small object. It's earplugs.
+
+2
+きのせいか、よろこんでいるように
+みえます。
+気のせいか、喜んでいるように
+見えます。
+Maybe it's your imagination, but she seems to be pleased.
+
+1
+すんだひとみでこちらをみつめてます。
+澄んだ瞳でこちらを見つめてます。
+It's staring at you with clear eyes.
+1
+ぶどうがおいてあります。
+ぶどうが置いてあります。
+The grapes were put here.
+1
+かわいそうなことは　したくないです。
+可哀想なことはしたくないです。
+You don't want to do something so pitiful.
+2
+どんべ「どうなってんだ？」
+ひかり「さあ…………」
+ドンベ「どうなってんだ？」
+光「さあ……」
+Donbe: "What's going on?"
+Hikari: "Hmm......"
+2
+りんご「ちゅういしてください」
+どんべ「うん」
+りんご「注意してください」
+ドンベ「うん」
+Ringo: "Please be careful."
+Donbe: "Yeah."
+1
+ぱっとしないみみせんです。
+ぱっとしない耳栓です。
+They're dull earplugs.
+2
+やくにたつのでしょうか、
+とりました。
+役に立つのでしょうか、
+取りました。
+This might be useful, so you take them.
+
+6
+なんだか　あたまがよくなったような
+きがします。
+ははぎつね「こんにちは」
+あっ！このみみせんはどうぶつと
+はなしができるようになる
+ききみみせんのようです。
+なんだか頭がよくなったような
+気がします。
+母ぎつね「こんにちは」
+あっ！この耳栓は動物と
+話ができるようになる
+聞き耳栓のようです。
+You feel like you got a little smarter somehow.
+
+Mother fox: "Hello."
+Ah! These earplugs are like listening earplugs that allow you to talk to animals.
+
+
+15
+ははぎつね「このこにぶどうを
+とってくださったそうで。
+ありがとうございました」
+どんべ「ぼくたち、しらいしの
+いずみをさがして　このもりに
+まよいこんだんだけど」
+ははぎつね「しらいしのいずみ？
+シノハラのゴンタザクラがまもってると
+ジャノウからきいたことはありますが」
+どんべ「じゃのう？」
+ははぎつね「このもりにすむ　なぞの
+すずめです」
+どんべ「どこにいるの？」
+ははぎつね「それが…………もりのおくに
+すんでるとしか　しらないのです」
+母ぎつね「この子にぶどうを
+取ってくださったそうで。
+ありがとうございました」
+ドンベ「僕たち、シライシの
+泉を探してこの森に
+迷い込んだんだけど」
+母ぎつね「シライシの泉？
+シノハラのごんたざくらが守ってると
+ジャノウから聞いたことはありますが」
+ドンベ「ジャノウ？」
+母ぎつね「この森に住む謎の
+雀です。
+ドンベ「どこにいるの？」
+母ぎつね「それが…………森の奥に
+住んでるとしか知らないのです」
+Mother fox: "I heard that you got grapes for my child.
+
+Thank you."
+Donbe: "We wandered into this forest while looking for Shiraishi spring."
+
+
+Mother fox: "Shiraishi spring?
+I heard from Janou that it is being guarded by the gonta cherry trees in Shinohara."
+
+Donbe: "Janou?"
+Mother fox: "He is a mysterious sparrow that lives in this forest."
+
+Donbe: "Where is he?"
+Mother fox: "Well... I don't know anything more than that he lives deep in the forest."
+
+1
+ははぎつね「きをつけてくださいね」
+母ぎつね「気をつけてくださいね」
+Mother fox: "Please take care."
+6
+どんべ「ねえ、しらいしのいずみ
+ってところ　しらない？」
+こぎつね「ぼく…………しらない…………
+ちゅんたろうくんのおとうさんなら……」
+どんべ「ちゅんたろうくん？」
+こぎつね「すずめのおともだち…………」
+ドンベ「ねえ、シライシの泉
+って所知らない？」
+子ぎつね「僕……知らない……
+チュンタロウ君のお父さんなら…」
+ドンベ「チュンタロウ君？」
+子ぎつね「雀のお友達……」
+Donbe: "Hey, do you know of a place called Shiraishi spring?"
+
+Fox cub: "I......don't know......
+But maybe Chuntaro- kun's father..."
+Donbe: "Chuntaro- kun?"
+Fox cub: "The sparrow's friend......"
+3
+どんべ「ほかにしってること
+ないかな？」
+こぎつね「……しらない……」
+ドンベ「他に知ってること
+ないかな？」
+子ぎつね「…知らない…」
+Donbe: "Do you know anything else?"
+
+Fox cub: "...No..."
+1
+みみせんをつけました。
+耳栓をつけました。
+You put the earplugs on.
+2
+ひかり「どういうこと？」
+どんべ「さあ？」
+光「どういうこと？」
+ドンベ「さあ？」
+Hikari: "What is this?"
+Donbe: "Huh?"
+2
+りんご「ちゅういしてください」
+ひかり「だいじょうぶよ」
+りんご「注意してください」
+光「大丈夫よ」
+Ringo: "Please be careful."
+Hikari: "It's fine."
+3
+ひかり「こんにちわ」
+ははぎつね「このこがおせわに　なった
+そうで…………ありがとうございます」
+光「こんにちは」
+母ぎつね「この子がお世話になった
+そうで……ありがとうございます」
+Hikari: "Hello."
+Mother fox: "I heard you helped my child...... Thank you."
+
+2
+ひかり「いつもひとりなの？」
+こぎつね「ちがうよ…………」
+光「いつも一人なの？」
+子ぎつね「違うよ……」
+Hikari: "Are you always by yourself?"
+Fox cub: "That's not true......"
+2
+どんべ「や、やあ」
+へび「おっ！はなせるのか？」
+ドンベ「や、やあ」
+蛇「おっ！話せるのか？」
+Donbe: "H-hi."
+Snake: "Oh! You can speak?"
+3
+どんべ「いずみのばしょを
+しらない？」
+へび「ただでこたえろってのか？」
+ドンベ「泉の場所を
+知らない？」
+蛇「ただで答えろってのか？」
+Donbe: "Do you know of a place called Shiraishi spring?"
+
+Snake: "You think I'll answer you for free?"
+1
+へびとは　はなしたくありません。
+蛇とは話したくありません。
+You don't want to talk to a snake.
+16
+どんべ「や、やあ」
+き「おう、おめー　はなせるだか？」
+どんべ「じゃのうっていうすずめ
+しってる？」
+き「しってるべ。んだども…………
+いかねーほうがいいだよ」
+どんべ「どうして？」
+き「にどとかえってこれなくなるだよ」
+どんべ「いいんだ、ぼくたちは
+いかなければ　ならないんだ」
+き「すかす　へびのやろがなあ……」
+どんべ「へびが？」
+き「うんだ！あんにゃろはひとすじなわ
+ではいがねーがらなー」
+どんべ「どうすれば……」
+き「これを　おめーにやるだよ」
+ドンベ「や、やあ」
+木「おう、おめー話せるだか？」
+ドンベ「ジャノウって言う雀
+知ってる？」
+木「知ってるべ。んだども……
+行かねー方がいいだよ」
+ドンベ「どうして？」
+木「にどと帰ってこれなくなるだよ」
+ドンベ「いいんだ、僕たちは
+行かなければならないんだ」
+木「空かす蛇のやろがなあ…」
+ドンベ「蛇が？」
+木「うんだ！あんにゃろは一筋縄
+ではいがねーがらなー」
+ドンベ「どうすれば…」
+木「これをおめーにやるだよ」
+Donbe: "H-hi."
+Tree: "Oh, you can speak?"
+Donbe: "Do you know of a sparrow named Janou?"
+
+Tree: "I do. But...
+You shouldn't look for him."
+Donbe: "Why?"
+Tree: "You will not be able to return home."
+Donbe: "That's fine, we must go."
+
+Tree: "There's a hungry snake..."
+Donbe: "Snake?"
+Tree: "Yes! But it's not easy to deal with."
+
+Donbe: "What should we do..."
+Tree: "This is for you."
+5
+へんなものがおちてきました。
+き「これは　ナンバントライの
+はんばあがあとかゆうもんだで」
+どんべ「たべるもの？」
+き「うんだ。のみものはいらねーだか」
+変な物が落ちてきました。
+木「これは南端渡来の
+ハンバーガーとか言う物だで」
+ドンベ「食べる物？」
+木「うんだ。飲み物はいらねーだか」
+A strange object falls to the ground.
+Tree: "This is a thing called a hamburger, imported from Europe."
+
+Donbe: "Is it food?"
+Tree: "Yes. It doesn't want a drink."
+4
+ひかり「こんにちわ」
+き「へー！おめーはなしができるだか」
+ひかり「じゃのうってしらない」
+き「しってるべ」
+光「こんにちは」
+木「へー！お前話ができるだか」
+光「ジャノウって知らない」
+木「知ってるべ」
+Hikari: "Hello."
+Tree: "Woah! You can speak?"
+Hikari: "Do you know Janou?"
+Tree: "I do."
+3
+どんべ「ほかに　なにかしらない
+かい？」
+き「おらしらねーだよ」
+ドンベ「他に何か知らない
+かい？」
+木「オラ知らねーだよ」
+Donbe: "Do you know anything else?"
+
+Tree: "I do not."
+2
+ひかり「もっと　おしえて　」
+き「わるいが　もうしらない」
+光「もっと教えて　」
+木「悪いがもう知らない」
+Hikari: "Can you tell us anything else
+<3" Tree: "I'm sorry, I do not."
+2
+しゃべりました。ひじょうしきなき
+です。
+喋りました。非常識な木
+です。
+It spoke. It's a crazy tree.
+
+1
+みたこともない　たべものです。
+見たこともない食べ物です。
+You have never seen this food before.
+3
+どんべ「きが　しゃべるなんて
+きいたこと　ある？」
+ひかり「ないわ」
+ドンベ「木が喋るなんて
+聞いたことある？」
+光「ないわ」
+Donbe: "Have you ever heard a tree speak before?"
+
+Hikari: "No, I haven't."
+2
+どんべ「なんだ　このきは」
+りんご「きをつけてください」
+ドンベ「なんだこの木は」
+りんご「気をつけてください」
+Donbe: "What is up with this tree?"
+Ringo: "Please be careful."
+1
+はんばあがあを　とりました。
+ハンバーガーを取りました。
+You take the hamburger.
+2
+ははぎつね「こーん　こーん　」
+よびとめています。
+母ぎつね「こーん　こーん　」
+呼び止めています。
+The mother fox beckons you to stay.
+
+3
+どんべ「いいものが　あるんだ
+これで　おしえてくれないか？」
+へび「うまそうだねえ。いいだろう」
+ドンベ「いい物があるんだ
+これで教えてくれないか？」
+蛇「うまそうだねえ。いいだろう」
+Donbe: "I've got something good here, why don't you tell me in exchange for this?"
+
+Snake: "Looks tasty. Alright."
+1
+へびに　はんばあがあをわたしました。
+蛇にハンバーガーを渡しました。
+You give the hamburger to the snake.
+3
+どんべ「いずみのばしょ、おしえ
+てくれよ」
+へび「なんだ？そのいいかたは？」
+ドンベ「泉の場所、教え
+てくれよ」
+蛇「なんだ？そのいい方は？」
+Donbe: "Can you tell me where the spring is?"
+
+Snake: "What? You're fine with that?"
+9
+どんべ「いずみのばしょを
+おしえてください」
+へび「まあまて、こいつをいただいて
+からだ…………ぐ…………ごっくん…………
+うまかった！さて、なんだった？
+あーっ！そうそういずみのばしょね…………
+それではこたえよう…………よおくきけ…………
+おれは、しらない」
+どんべ「むっかあーっ！」
+ドンベ「泉の場所を
+教えてください」
+蛇「まあ待て、こいつをいただいて
+からだ……ぐ……ごっくん……
+うまかった！さて、なんだった？
+あーっ！そうそう泉の場所ね……
+それでは答えよう……よおくきけ……
+俺は、知らない」
+ドンベ「むっかあーっ！」
+Donbe: "Please tell me the location of the spring."
+
+Snake: "Just a minute, I just got this...... *Munch* ...... *Swallow* ......
+
+So good! So, what was it?
+Ah! Right right, the location of the spring......
+The answer to that is...... Listen carefully ......
+I, uh, don't know."
+Donbe: "You've gotta be kidding me!"
+1
+こんなやつに　もうようはないです。
+こんなやつにもう用はないです。
+You have no more business with this thing.
+7
+どんべ「きさまみたいなやつ」
+どんべはかたなをぬきました。
+へび「わあーっ！お……おしえる！
+じゃのうにきけばわかる」
+どんべ「じゃのう？
+じゃのうをしってるのか？」
+どんべはかたなをおさめました。
+ドンベ「貴様みたいなやつ」
+ドンベは刀を抜きました。
+蛇「わあーっ！お…教える！
+ジャノウにに聞けば分かる」
+ドンベ「ジャノウ？
+ジャノウを知ってるのか？」
+ドンベは刀を収めました。
+Donbe: "You bastard!"
+You pull out your katana.
+Snake: "Ahhhh! I'll...I'll tell you!
+If you ask Janou, he'll tell you.
+Donbe: "Janou?
+You know Janou?"
+You put away your katana.
+5
+どんべ「じゃのうはどこに
+いるんだ」
+へび「もりのおくにおおきないわがある
+そこにすんでいる」
+へびはさっていきました。
+ドンベ「ジャノウはどこに
+いるんだ」
+蛇「森の奥に大きな岩がある
+そこに住んでいる」
+蛇は去っていきました。
+Donbe: "Where is Janou?"
+
+Snake: "He lives in a big rock deep in the forest."
+
+The snake leaves.
+2
+どんべ「はやくしないと」
+ひかり「うん」
+ドンベ「速くしないと」
+光「うん」
+Donbe: "We need to hurry."
+Hikari: "Yeah."
+1
+もうなにも　いません。
+もう何もいません。
+There's no one else there.
+2
+ひかり「どこだったかなあ」
+どんべ「しっかりしてくれよ」
+光「どこだったかなあ」
+ドンベ「しっかりしてくれよ」
+Hikari: "I wonder where it was..."
+Donbe: "Keep it together."
+2
+へびが　きえたということは
+ぬけみちがあるはず……。
+蛇が消えたということは
+抜け道があるはず…。
+There's got to be some kind of secret path that the snake used to disappear.
+
+5
+ほうら、やっぱり……。こつん！
+りんご「ん？」
+どんべ「どうした？」
+りんご「なにか　あたまにあたったん
+ですが……きのせいかな？」
+ほうら、やっぱり…。コツン！
+りんご「ん？」
+ドンベ「どうした？」
+りんご「何か頭に当たったん
+ですが…気のせいかな？」
+As expected... *Thump!*
+Ringo: "Hm?"
+Donbe: "What's wrong?"
+Ringo: "Something hit my head, but... Was it my imagina- tion?"
+
+2
+ふしぎなことに　みちがわからなく
+なりました。
+不思議なことに道が分からなく
+なりました。
+Strangely enough, you can't find the road back.
+
+2
+いままでいじょうに　きが
+おいしげってます。
+今まで以上に木が
+生い茂ってます。
+The trees are even thicker than before.
+
+1
+きみがわるいです。
+気味が悪いです。
+You have a bad feeling about this.
+3
+どんべ「すごいや。こんな
+ところからいけるのか？」
+ひかり「でも　いかなきゃ」
+ドンベ「すごいや。こんな
+所から行けるのか？」
+光「でも行かなきゃ」
+Donbe: "This is terrible. Where can we go from a place like this?"
+
+Hikari: "But we have to go."
+11
+どんべ「どこかに　ぬけみちが
+ないかなあ」
+りんご「これではねえ…………ん？」
+どんべ「どうした？」
+りんご「また、あたまになにかが
+あたったんです」
+どんべ「あめかい？」
+りんご「これは　ぶどうのたねです」
+どんべ「どっちから　とんで
+きたんだ？」
+りんご「おくの　ほうからです」
+ドンベ「どこかに抜け道が
+ないかなあ」
+りんご「これではねえ……ん？」
+ドンベ「どうした？」
+りんご「また、頭に何かが
+当たったんです」
+ドンベ「雨かい？」
+りんご「これはぶどうの種です」
+ドンベ「どっちから飛んで
+きたんだ？」
+りんご「奥の方からです」
+Donbe: "There doesn't seem to be any kind of path."
+
+Ringo: "This isn't... Hm?"
+Donbe: "What is it?"
+Ringo: "Again, something hit my head."
+
+Donbe: "Rain?"
+Ringo: "This is a grape seed."
+Donbe: "Where did it come from?"
+
+Ringo: "From deeper in."
+3
+どんべ「たね？なぜそんな
+ものがとんで　くるんだ？」
+りんご「わかりません」
+ドンベ「種？なぜそんな
+物が飛んでくるんだ？」
+りんご「分かりません」
+Donbe: "A seed? What's something like that doing flying through the air?"
+
+Ringo: "I don't know."
+5
+りんごのいう　きのほうをみると
+なにかが　うごきました！
+りんご「だれだ！」
+「ながいあいだ　またせたばつさ！」
+なにものかが　きにかくれています。
+りんごの言う木の方を見ると
+何かが動きました！
+りんご「誰だ！」
+「長い間待たせたばつさ！」
+何者かが木に隠れています。
+Looking in the direction that Ringo was talking about, something moves!
+
+Ringo: "Who's there!"
+"I've been kept waiting for a long time!"
+Someone is hiding in the tree.
+3
+ひかり「きもちわるい、ちょっと
+みてきてよ」
+どんべ「ぼくが？わ、わかった」
+光「気持ち悪い、ちょっと
+見てきてよ」
+ドンベ「僕が？わ、分かった」
+Hikari: "This is terrifying. You go check it out."
+
+Donbe: "Me? A-alright."
+3
+どんべ「もうじゅうか？」
+りんご「ちがうようですね。
+もしかしたら、あいつが…………」
+ドンベ「猛獣か？」
+りんご「違うようですね。
+もしかしたら、あいつが……」
+Donbe: "Is it a fierce animal?"
+Ringo: "I don't think so.
+Perhaps it's......"
+3
+ひかり「どうしてたねなんか」
+りんご「だれかがとばしてるん
+でしょうか」
+光「どうして種なんか」
+りんご「誰かが飛ばしてるん
+でしょうか」
+Hikari: "Why seeds?"
+Ringo: "I think someone is throwing them."
+
+3
+ひかり「やだやだ！はやく
+しらべてよ」
+りんご「そうは　いっても…………」
+光「やだやだ！速く
+調べてよ」
+りんご「そうはいっても……」
+Hikari: "No no! Investigate this immediately!"
+
+Ringo: "Yeah, but......"
+1
+なにもいません。
+何もいません。
+There is no one.
+2
+「がさがさ！」
+したのくさむらに　にげたようです。
+「ガサガサ！」
+下の草むらに逃げたようです。
+*Rustle rustle!*
+There seems to be something running away in the grass.
+2
+ひかり「どう？」
+どんべ「うーん…………」
+光「どう？」
+ドンベ「うーん……」
+Hikari: "How is it?"
+Donbe: "Hmm......"
+3
+どんべ「どこいったのかな」
+りんご「どんべさん！こっち！」
+どんべ「え？」
+ドンベ「どこ行ったのかな」
+りんご「ドンベさん！こっち！」
+ドンベ「え？」
+Donbe: "Where did it run off to?"
+Ringo: "Donbe-san! This way!"
+Donbe: "Huh?"
+1
+くさのなかからさるがとびだしました。
+草の中から猿が飛び出しました。
+A monkey flies out from inside the grass.
+10
+さる「へへーっ　みつかっちまったい
+よお！おいら　まつのすけってんだ。
+おともをするように　いわれたんだ
+しかし　おそかったなあ」
+りんご「なんでぶどうのたねを
+とばした！」
+まつのすけ「たいくつしてたからなあ」
+どんべ「まあ、これでなかまが
+ふえたってことか」
+ひかり「よくきてくれたわ」
+猿「へへーっ見つかっちまったい
+よお！オイラマツノスケってんだ。
+お共をするように言われたんだ
+しかし遅かったなあ」
+りんご「なんでぶどうの種を
+飛ばした！」
+マツノスケ「退屈してたからなあ」
+ドンベ「まあ、これで仲間が
+増えたってことか」
+光「よく来てくれたわ」
+Monkey: "Hehe, I've been discovered! My name is Matsuno- suke.
+
+I was told to be your companion, but you were slow."
+
+Ringo: "Why were you throwing grape seeds at me!?"
+
+Matsuno- suke: "I was bored."
+Donbe: "Well, it looks like our group is multiplying."
+
+Hikari: "I'm glad you came."
+2
+ひかり「このこがいれば
+だいじょうぶよ」
+光「この子がいれば
+大丈夫よ」
+Hikari: "I'm okay with this kid here."
+
+3
+どんべ「じゃのうは
+どこだ？」
+ひかり「わかんない」
+ドンベ「ジャノウは
+どこだ？」
+光「分かんない」
+Donbe: "Where is Janou?"
+
+Hikari: "I don't know."
+2
+ひかり「どう？」
+りんご「あやしいけはいはありません」
+光「どう？」
+りんご「怪しい気配はありません」
+Hikari: "Notice anything?"
+Ringo: "There is no hint of anything suspicious."
+3
+ひかり「へんなもりね」
+まつのすけ「へんなやつがすんでる
+からねえ」
+光「変な森ね」
+マツノスケ「変なやつが住んでる
+からねえ」
+Hikari: "This is a strange forest, isn't it."
+Matsuno- suke: "It's because strange people live in it."
+
+2
+どんべ「どうだい？」
+りんご「あまいにおいがしています」
+ドンベ「どうだい？」
+りんご「甘い匂いがしています」
+Donbe: "Notice anything?"
+Ringo: "There's a sweet smell."
+3
+どんべ「このもりには　くわしい
+かい？」
+まつのすけ「まかせな」
+ドンベ「この森には詳しい
+かい？」
+マツノスケ「任せな」
+Donbe: "Do you know this forest well?"
+
+Matsuno- suke: "Leave it to me!"
+2
+どんべ「きみのわるいもりだ」
+まつのすけ「なれれば　だいじょうぶ」
+ドンベ「気味の悪い森だ」
+マツノスケ「慣れれば大丈夫」
+Donbe: "I have a bad feeling about this forest."
+Matsuno- suke: "It's fine once you get used to it."
+1
+まつのすけ「こっちだぜ」
+マツノスケ「こっちだぜ」
+Matsuno- suke: "This way!"
+2
+まつのすけ「そっちは　おれもいった
+ことがねえなあ」
+マツノスケ「そっちは俺も行った
+ことがねえなあ」
+Matsuno- suke: "I haven't been this way either."
+
+3
+ぶきみなもりがつづいています。
+むせかえるくらい　あまい
+においが　たちこめています。
+不気味な森が続いています。
+むせ返るくらい甘い
+匂いが立ちこめています。
+The creepy forest continues.
+A suffoca- tingly sweet smell permeates the air.
+
+3
+ひかり「ほんとうに　このもりに
+いるの？」
+どんべ「しんじるしかないな」
+光「本当にこの森に
+いるの？」
+ドンベ「信じるしかないな」
+Hikari: "Is it really in this forest?"
+
+Donbe: "We have no choice but to believe."
+1
+あいかわらずくらいもりです。
+相変わらず暗い森です。
+Like usual, it's a dark forest.
+1
+つるがたくさんからんでいます。
+つるがたくさん絡んでいます。
+There are a lot of vines tangled up in them.
+2
+つるといっても　トリではありません。
+とてもながいものもありますよ。
+つると言っても鳥ではありません。
+とても長い物もありますよ。
+They're called vines but there are no birds.
+They are very long.
+2
+へびがいってたのは　このかべ
+でしょうか？
+蛇が言ってたのはこの壁
+でしょうか？
+Could this wall be what the snake was talking about?
+
+2
+どんべ「たぶんこのかべだ」
+ひかり「そうおもうわ」
+ドンベ「多分この壁だ」
+光「そう思うわ」
+Donbe: "It's probably this wall."
+Hikari: "I think so."
+3
+どんべ「うわーっ！いったい
+なんのにおいなんだ？」
+りんご「わたしには　つよすぎます」
+ドンベ「うわーっ！一体
+なんの匂いなんだ？」
+りんご「私には強すぎます」
+Donbe: "Wagh! What in the world is this smell?"
+
+Ringo: "It's too strong for me."
+2
+どんべ「なんのにおいだ？」
+まつのすけ「おれも　はじめてだ」
+ドンベ「なんの匂いだ？」
+マツノスケ「俺も始めてだ」
+Donbe: "What's this smell?"
+Matsuno- suke: "This is my first time smelling it too."
+3
+ひかり「どんべ、きっと
+ここよ！」
+どんべ「うん」
+光「ドンベ、きっと
+ここよ！」
+ドンベ「うん」
+Hikari: "Donbe, this has to be it!"
+
+Donbe: "Yeah."
+2
+ひかり「すごい、このにおい」
+りんご「くるしいです」
+光「すごい、この匂い」
+りんご「苦しいです」
+Hikari: "This smell is dreadful!"
+Ringo: "It's painful."
+4
+ひかり「ちょっとのぼって
+みてきてよ」
+まつのすけ「うーん、このいわは
+おれでもむりだなあ」
+光「ちょっと登って
+みてきてよ」
+マツノスケ「うーん、この岩は
+俺でも無理だなあ」
+Hikari: "Try climbing a bit."
+
+Matsuno- suke: "No, this cliff is impossible for me."
+
+1
+とりました。うわー、ながいなあ。
+取りました。うわー、長いなあ。
+You take one. Wow, it's long.
+1
+もういりません。
+もういりません。
+You don't need any more.
+4
+どんべ「りんごの　くびわに
+しようか」
+まつのすけ「けけ！」
+りんご「よ……よしてください」
+ドンベ「りんごの首輪に
+しようか」
+マツノスケ「けけ！」
+りんご「よ…よしてください」
+Donbe: "Shall we attach it to Ringo's collar?"
+
+Matsuno- suke: "Hehe!"
+Ringo: "P...please don't."
+2
+ひかり「あやとりしようか……？」
+どんべ「なにかんがえてんだ」
+光「あやとりしようか…？」
+ドンベ「何考えてんだ」
+Hikari: "Want to play cat's cradle...?"
+Donbe: "What are you thinking?"
+3
+どんべ「やっ！」
+つるをなげると　かべのうえに　うまく
+ひっかかりました。
+ドンベ「やっ！」
+つるを投げると壁の上にうまく
+引っかかりました。
+Donbe: "Yah!"
+Throwing the vine, it catches perfectly on the top of the wall.
+
+3
+ひかり「ちょっとのぼってみて
+きてよ」
+まつのすけ「さるづかいがあらいなあ」
+光「ちょっと登ってみて
+きてよ」
+マツノスケ「猿使いが荒いなあ」
+Hikari: "Try climbing a bit."
+
+Matsuno- suke: "Your use of monkeys is rough."
+13
+まつのすけ「うーい　…………」
+ひかり「まあっ！なあに？あなた
+おさけのんでるの？」
+まつのすけ「がけのうえにさ……ぶどう
+が……いっぱい……くさってて……ひっく
+さけになってて……きっと、
+じゃのうがつくって
+ひとりじめしてるんだ……
+じゃのうっ！でてきやがれ！
+ばっきゃろーっ！」
+とつぜん！いわのかべがひら
+きました。
+「だあれーじゃあっ！」
+マツノスケ「うーい　……」
+光「まあっ！なあに？あなた
+お酒飲んでるの？」
+マツノスケ「崖の上にさ…ぶどう
+が…いっぱい…腐ってて…ヒック
+酒になってて…きっと、
+ジャノウが作って
+独り占めしてるんだ…
+ジャノウっ！出てきやがれ！
+ばっきゃろーっ！」
+突然！岩の壁が開
+きました。
+「だあれーじゃあっ！」
+Matsuno- suke: "Whee <3 ......"
+Hikari: "Hey! What is it? Are you drinking alcohol?"
+
+Matsuno- suke: "On top of the cliff... grapes... tons of them... ferment- ing...  *hic*
+
+becoming alcohol... Surely,
+Janou is making it and keeping it all to himself...
+
+Janou! Come out!
+Come on!"
+Suddenly! The rock wall opens.
+
+"Whooo is iiiit!"
+16
+へんなところへでました。
+じゃのう「おうおうっ！てめーらっ！
+おれのさけをだまってのみやがったな！
+てめーらのしたことはこのじゃのうさま
+には　みんなおみとおしでぇ！
+このせんすにみおぼえがないとは
+いわせねえぜ」
+どんべ「しらないよ」
+じゃのう「てめえっ！しらをきるつもり
+だな！おいっちゅんたろうっ　かまわね
+えから　たたんじまいなっ！」
+「………………」
+じゃのう「あれっ？ちゅんたろう！おい
+おりょっ！ちゅんたろうがいない……
+おーい！ちゅんたろーう！た……たいへん
+あんたらちゅんたろうをしらんかね？」
+変な所出へました。
+ジャノウ「おうおうっ！てめーらっ！
+俺の酒を黙って飲みやがったな！
+てめーらのしたことはこのじゃのう様
+にはみんなお見通しでぇ！
+このせんすに見覚えがないとは
+言わせねえぜ」
+ドンベ「知らないよ」
+ジャノウ「てめえっ！しらを切るつもり
+だな！おいチュンタロウっ構わね
+えからたたんじまいなっ！」
+「………」
+ジャノウ「あれっ？チュンタロウ！おい
+おりょっ！チュンタロウがいない…
+おーい！チュンタローウ！た…大変
+あんたらチュンタロウを知らんかね？」
+You come to a strange place.
+Janou: "Oh oh! It's you!
+You drank my alcohol without saying anything!
+Janou-sama knows what you all have done!
+
+Don't tell me that you don't know me!"
+
+Donbe: "I don't know you."
+Janou: "Why you! Playing innocent, are we? Hey, Chuntaro, I don't have time for this, take them out!"
+
+
+"........."
+Janou: "What? Chuntaro! Hey! Chuntaro's not here...
+
+Hey! Chuntaro! This...this is bad!
+Do you know what happened to Chuntaro?"
+1
+すずめのおやど
+雀のお宿
+Sparrow home
+1
+げひんなかおです。
+下品な顔です。
+He has a vulgar expression.
+2
+じゃのう「おおっ！ちゅんたろうか？
+なんだ……おまえらか……」
+ジャノウ「おおっ！チュンタロウか？
+なんだ…お前らか…」
+Janou: "Ohhh! Chuntaro?
+What happened... Oh, it's you..."
+1
+わたすものはありません。
+渡す物はありません。
+You have nothing to give.
+1
+すずめをたおすわけにはいきません。
+雀を倒すわけには行きません。
+You can't beat the sparrow.
+2
+ひかり「あのう…………」
+じゃのう「ぶつぶつ…………ちゅんたろう」
+光「あのう……」
+ジャノウ「ブツブツ……チュンタロウ」
+Hikari: "Um......"
+Janou: "*Mumble mumble* ...... Chuntaro."
+7
+じゃのう「おおっ！ちゅんたろう……」
+どんべ「ちゅんたろう……って
+むすこさん？」
+じゃのう「そうなんじゃのう。
+それはそれは　かわいいこなんじゃのう
+さっきまでここにいたはずなん
+じゃのう」
+ジャノウ「おおっ！チュンタロウ…」
+ドンベ「チュンタロウ…って
+息子さん？」
+ジャノウ「そうなんじゃのう。
+それはそれはかわいい子なんじゃのう
+さっきまでここにいたはずなん
+じゃのう」
+Janou: "Ohhh! Chuntaro..."
+Donbe: "Chuntaro... is he your son?"
+
+Janou: "That's right.
+He's a cute boy, and he was right here until a moment ago."
+
+
+3
+どんべ「ちゅんたろうは
+どこだ？」
+ひかり「しらないわ」
+ドンベ「チュンタロウは
+どこだ？
+光「知らないわ」
+Donbe: "Where is Chuntaro?"
+
+Hikari: "I don't know."
+2
+にしのほうの　きだけ　しゅるいが
+ちがいます。
+西の方の木だけ種類が
+違います。
+There's a single tree to the west that's a different kind.
+
+3
+どんべ「えいやっ！」
+にしのほうの　きがばっさりと
+きれました。
+ドンベ「えいやっ！」
+西の方の木がばっさりと
+切りました。
+Donbe: "Eyah!"
+With a single stroke, you cut the tree to the west.
+
+1
+おっ！なにかいますよ。すずめです！
+おっ！何かいますよ。雀です！
+Oh! Something's there. It's a sparrow!
+1
+ひねた　かおをしています。
+ひねった顔をしています。
+It has a twisted face.
+4
+どんべ「おい、こすずめだよ。
+こいつが　ちゅんたろうだ」
+ひかり「でも、すごくかわいい
+っていってなかった？」
+ドンベ「おい、子雀だよ。
+こいつがチュンタロウだ」
+光「でも、すごくかわいい
+って言ってなかった？」
+Donbe: "Hey, it's a sparrow chick.
+This is Chuntaro."
+Hikari: "But, didn't Janou say he was very cute?"
+
+3
+どんべ「どう　おもう？」
+りんご「じゃのうとおなじにおい
+です」
+ドンベ「どう思う？」
+りんご「じゃのうと同じ匂い
+です」
+Donbe: "What do you think?"
+Ringo: "It has the same smell as Janou."
+
+2
+どんべ「どう　おもう？」
+まつのすけ「にくったらしい　がきだ」
+ドンベ「どう思う？」
+マツノスケ「憎ったらしいガキだ」
+Donbe: "What do you think?"
+Matsuno- suke: "He's a nasty brat."
+16
+どんべ「きみ……もしか
+すると　ちゅんたろうくん？」
+こすずめ「けっ！それがどうした？
+てめえらまさかしたきりばばあの
+てさきじゃないだろうな！」
+どんべ「おとうさんがしんぱい
+してたよ。いっしょにかえろう」
+ちゅんたろう「おやじが？しかたねえ
+なあ……それにしてもあのばばあ
+のりをなめたくらいで……ぶつぶつ」
+どんべ「よし、じゃあ　ぼくの
+かたに　のりなよ」
+ちゅんたろう「おとこのかた　なんて
+やだね」
+どんべ「にくったらしいやつ
+だなあ」
+ドンベ「君…もしか
+するとチュンタロウ君？」
+子雀「けっ！それがどうした？
+てめえらまさかしたきりばばあの
+手先じゃないだろうな！」
+ドンベ「お父さんが心配
+してたよ。一緒に帰ろう」
+チュンタロウ「オヤジが？仕方ねえ
+なあ…それにしてもあのばばあ
+乗りをなめたくらいで…ブツブツ」
+ドンベ「よし、じゃあ僕の
+方に乗りなよ」
+チュンタロウ「男の方なんて
+やだね」
+ドンベ「憎ったらしいやつ
+だなあ」
+Donbe: "Are you perhaps... Chuntaro- kun?"
+
+Sparrow chick: "Keh! So what?
+You aren't in cahoots with that old hag now, are you?"
+
+Donbe: "Your father is worried about you. Let's go home."
+
+Chuntaro: "My old man? It can't be helped... Even though I did just refuse a ride from that old hag... *mumble mumble*"
+
+
+Donbe: "Alright, well, you can ride with me."
+
+Chuntaro: "Yuck, with a man?"
+
+Donbe: "You're a brat!"
+
+3
+ひかり「ほんとに　このこが
+ちゅんたろう？」
+どんべ「きっと　そうさ」
+光「ほんとにこの子が
+チュンタロウ？」
+ドンベ「きっとそうさ」
+Hikari: "Is this kid really Chuntaro?"
+
+Donbe: "It's gotta be."
+2
+ひかり「このこちゅんたろう？」
+りんご「まちがいないようですね」
+光「この子チュンタロウ？」
+りんご「間違いないようですね」
+Hikari: "Is this kid Chuntaro?"
+Ringo: "I'm pretty sure."
+3
+ひかり「このこちゅんたろう？」
+まつのすけ「どうだっていいや　こんな
+がき」
+光「この子チュンタロウ？」
+マツノスケ「どうだっていいやこんな
+ガキ」
+Hikari: "Is this kid Chuntaro?"
+Matsuno- suke: "I don't care about this brat."
+
+3
+ひかり「あなた、ちゅんたろう
+くん？」
+こすずめ「けっ！」
+光「あなた、チュンタロウ
+君？」
+子雀「けっ！」
+Hikari: "Are you Chuntaro- kun?"
+
+Sparrow chick: "Keh!"
+3
+ひかり「さあ、たもとにはいりな
+さい」
+ちゅんたろう「でへへ……」
+光「さあ、袂に入りな
+さい」
+チュンタロウ「でへへ…」
+Hikari: "Well then, go into my sleeve."
+
+Chuntaro: "Hehehe..."
+2
+どんべ「いそごう」
+ひかり「うん」
+ドンベ「急ごう」
+光「うん」
+Donbe: "Let's hurry."
+Hikari: "Yeah."
+3
+じゃのう「わおーっ！ちゅんたろーっ！
+ありがとうなんじゃのう。どうも
+ありがとうなんじゃのう」
+ジャノウ「わおーっ！チュンタローッ！
+ありがとうなんざにょう。どうも
+ありがとうなんじゃのう」
+Janou: "Woah! Chuntarooo!
+Thank you. Thank you so much."
+
+1
+かわいげのない　かおをしています。
+可愛げのない顔をしています。
+He has a face that has no childlike innocence.
+4
+ひかり「もりからでるほうほうを
+おしえてほしいの」
+じゃのう「…………」
+とりあってもらえません。
+光「森から出る方法を
+教えて欲しいの」
+ジャノウ「……」
+取り合ってもらえません。
+Hikari: "We want to know how to get out of the forest."
+
+Janou: "......"
+He's not paying attention to you.
+3
+ひかり「ねえ、ここからでる
+ほうほうおしえて　」
+こすずめ「けっ」
+光「ねえ、ここから出る
+方法教えて　」
+子雀「けっ」
+Hikari: "Hey, could you tell us how to get out of here?
+<3"
+Sparrow chick: "Keh!"
+2
+しらいしのいずみへは　いかないん
+ですか？
+シライシの泉へは行かないん
+ですか？
+Aren't you going to Shiraishi spring?
+
+5
+どんべ「こぎつねからきみの
+とうさんのことをきいたんだけど……」
+ちゅんたろう「えっ！マルをしってる……
+とうちゃん」
+じゃのう「うむ……」
+ドンベ「子ぎつねから君の
+父さんのことを聞いたんだけど…」
+チュンタロウ「えっ！まるを知ってる…
+父ちゃん」
+ジャノウ「うむ…」
+Donbe: "I heard about your father from the fox cub, but..."
+
+Chuntaro: "What!? You know Maru... Daddy."
+
+Janou: "Hm..."
+7
+どんべ「ごんたざくらのしのはら
+ってどこですか？」
+じゃのう「ほうっ！ごんたざくらを
+しっとるんじゃのう…………。なにっ？
+きつねのオツユさんとしりあいか？
+ならば　なんとかしてやりたいもん
+じゃのう…………」
+ドンベ「ごんた桜のシノハラ
+ってどこですか？」
+ジャノウ「ほうっ！ごんた桜を
+知っとるんじゃのう……。何っ？
+きつねのオツユさんと知り合いか？
+ならば何とかしてやりたいもん
+じゃのう……」
+Donbe: "Where is Shinohara, where the gonta cherry tree is?"
+
+Janou: "Ho! You know about the gonta cherry tree...... What? You know Otsuyu-san the fox?
+
+
+If that's the case, I would like to help you somehow..."
+
+18
+ひかり「おねがい　じゃのう
+さん！」
+じゃのう「げっ！そ！その
+くびかざりは！もしや　あなたは
+おとひめ！」
+ひかり「そうだけどあなたは？」
+じゃのう「わしはここのばんにんです。
+ひめがふたたびあらわれるまで
+ばんをしていました」
+ひかり「そう……それでおさけの
+においをさせて　おにがちかづかない
+ようにしていたのね」
+じゃのう「ごんたざくらはこのおくに
+あります。さあ、いそいでください
+これをもっていきなされ」
+そういってじゃのうは　つると
+たいまつをくれました。
+ひかり「ありがとう」
+光「お願い　ジャノウ
+さん！」
+ジャノウ「げっ！そ！その
+首飾りは！もしやあなたは
+乙姫！」
+光「そうだけどあなたは？」
+ジャノウ「わしはここの番人です。
+姫が再び現れるまで
+番をしていました」
+光「そう…それでお酒の
+匂いをさせて鬼が近づかない
+ようにしていたのね」
+ジャノウ「ごんた桜はこの奥に
+あります。さあ、急いでください
+これを持っていきなされ」
+そういってジャノウはつると
+松明をくれました。
+光「ありがとう」
+Hikari: "Please,
+<3 Janou-san!"
+Janou: "Ack! Th-that necklace! Are you perhaps the princess of the dragon palace!?"
+
+
+Hikari: "I am, but who are you?"
+Janou: "I am the guardian of this place.
+I was to keep guarding it until the princess returned."
+
+Hikari: "I see... So you were keeping the oni away with the stench of alcohol."
+
+
+Janou: "The gonta cherry tree is deep in this place. Alright, please hurry, and take these."
+
+
+Upon saying this, Janou gives you vines and torches.
+
+Hikari: "Thank you."

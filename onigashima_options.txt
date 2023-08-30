@@ -289,7 +289,7 @@ Mansion
 いど
 Well
 つるべ
-Well bucket
+Well mechanism
 おけ
 Bucket
 えきしゃ
@@ -318,3 +318,33 @@ Tears
 Katana
 くらのそと
 Outside the cellar
+おく
+Place
+き
+Tree
+へび
+Snake
+ぶどう
+Grapes
+こぎつね
+Fox cub
+ははぎつね
+Mother fox
+みみせん
+Earplugs
+こやのそと
+Outside
+はんばあがあ
+Hamburger
+きにのぼる
+Climb the tree
+きからおりる
+Down the tree
+まつのすけ
+Matsuno- suke
+つる
+Vines
+じゃのう
+Janou
+こすずめ
+Sparrow chick
