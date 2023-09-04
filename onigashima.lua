@@ -166,7 +166,8 @@ function Messages.add_message()
             if opt then
                 i = 1
                 while string.byte(opt, i) == 92 do i = i + 1 end
-                trans = Messages.translations[mess .. opt:sub(i, #opt - 1)]
+                j = opt:find("\n")
+                trans = Messages.translations[mess .. opt:sub(i, j-1)]
             end
         end
         if trans then
@@ -230,7 +231,11 @@ function Options.add_value()
     if #value ~= 0 then
         local trans = Options.translations[string.char(e.unpack(value))]
         if trans then
-            Options.values[total - this+1] = trans
+            if trans == "\\\\\\\\\\\\\\\\\\\\\\\\\\Place\n" and (total - this + 1 == 1 or total - this + 1 == 2) then
+                Options.values[total - this+1] = "\\\\\\\\\\\\\\\\\\\\Deeper\n"
+            else
+                Options.values[total - this+1] = trans
+            end
         else
             if value[1] ~= 0 then
                 e.log("Could not find translation for option")

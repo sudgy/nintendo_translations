@@ -348,3 +348,21 @@ Vines
 Janou
 こすずめ
 Sparrow chick
+さくら
+Cherry tree
+いりぐち
+Entrance
+いしのはしら
+Stone pillars
+いけ
+Pond
+きのこ
+Mushroom
+いわのさけめ
+Rock chasm
+わたる
+Cross
+さぶろう
+Saburo
+かべのむこう
+Through the wall
