@@ -131,7 +131,7 @@ Dish
 たき
 Waterfall
 いわ
-Cliff
+Rock
 のぼる
 Climb
 おりる
@@ -366,3 +366,31 @@ Cross
 Saburo
 かべのむこう
 Through the wall
+しま
+Island
+いずみ
+Spring
+おはな
+Ohana
+たてもの
+Building
+みやみず
+Heavenly water
+しめなわ
+Rope
+いわのなか
+Inside the rock
+りゅう
+Dragon
+ちかづく
+Approach
+おしてみなよ
+Press it
+りゅうのたま
+Dragon core
+たまのお
+Thread
+あくりょう
+Evil spirit
+たまてばこ
+Jeweled box

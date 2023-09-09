@@ -2527,7 +2527,7 @@ Donbe: "Huh?"
 光の声が洞窟に響き
 ます。あっ！鈍い音とともにお鍋
 の一部が開きました。
-Hikari reads aloud that an abominable darkness will reincarnate in the dragon's palace.
+Hikari reads aloud that an abominable darkness will reincarnate in the dragon palace.
 
 
 The return of my bloodline will set things right.
@@ -4770,7 +4770,7 @@ Hikari: "What is that small building over there?"
 Man: "That is the shrine for Hinoe- sama."
 
 Hikari: "Hinoe- sama?"
-Man: "The writing seems to be about someone related to the palace of the dragon king, but I don't know.
+Man: "The writing seems to be about someone related to the dragon palace, but I don't know.
 
 There is a dragon wreaking havoc in the capital right now.
 If the person appears that the legend says will seal the dragon, it is said that they will be able to open the shrine......
@@ -4854,7 +4854,7 @@ Man: "Ooh! This is! ......
 I see, I see... Alright, listen carefully.
 It seems that the people of this village gathered just to protect one temple.
 
-The people were protecting it until the item of awakening appeared, but because the oni came they submerged the village with their own hand. They were the people of the palace of the dragon king.
+The people were protecting it until the item of awakening appeared, but because the oni came they submerged the village with their own hand. They were the people of the dragon palace.
 
 
 
@@ -5365,8 +5365,8 @@ The reincar- nation of darkness is spreading evil throughout the world.
 You are the only one that can seal the dragon away.
 
 Donbe: "Wh-what do I do......"
-...The core of the dragon is its pearl.
-Take the pearl and put it into the jeweled box. That is all.
+...The essence of the dragon is its core.
+Take the core and put it into the jeweled box. That is all.
 
 Donbe: "Where is the dragon?"
 ...Oniga- shima. To get there, you must pass through Shiraishi Spring, where heavenly water wells up.
@@ -5662,7 +5662,7 @@ You are at the start of the bridge.
 There is a ferry.
 1
 とせんまめだ
-渡船豆
+渡船まめだ
 Ferry Mameda
 2
 たぬきがしゅじんのようです。
@@ -6645,7 +6645,7 @@ But that does not matter.
 Donbe: "Please teach me. About the dragon
 ...what is it?"
 ...This reality is made up of two worlds.
-The dragon has already turned one world...into a world of darkness. These two worlds are connected by the dragon's pearl.
+The dragon has already turned one world...into a world of darkness. These two worlds are connected by the dragon's core.
 
 
 Thus, if we're a little negligent, the dragon can fly into this world.
@@ -6658,7 +6658,7 @@ He has come to find joy in sucking people's souls and creating a new body.
 
 Donbe: "The dragon can have a body by using people's souls..."
 
-...That is correct. The souls are connected to the dragon's pearl. If you can release them, his body will cease to exist.
+...That is correct. The souls are connected to the dragon's core. If you can release them, his body will cease to exist.
 
 
 The glow from your bracelet weakens.
@@ -7502,7 +7502,7 @@ Donbe: "What!? We found them by accident..."
 
 ...It was the item you went on the errand for...
 Donbe: "Errand? ...Ah!"
-...The bracelet and the necklace grant you the same power as the people of the palace of the dragon king.
+...The bracelet and the necklace grant you the same power as the people of the dragon palace.
 
 The power to manipulate light and water.
 Now, rescue Hikari and hurry to Iraishi spring!
@@ -10957,3 +10957,2431 @@ Won't you come with us to Oniga- shima?"
 Ohana: "Please jump into the spring. Onigashima is right there."
 
 You all jump in the water.
+2
+コウヘンの、えーめんを
+せっとしておくれ
+後編の、エー面を
+セットしておくれ
+Set to the A side of disk two.
+
+30
+
+八しょう
+
+へんなせかいに　とびこみました。
+どんべ「うあーっ！」
+ひかり「もうすこしよ！がまん
+してちょうだい」
+どんべ「ううっ…………くるしい……」
+きがとおくなっていきます…………。
+……………………。
+どんべはゆめをみています。
+「けっしてあけてはいけませんよ。」
+おとひめに　そういわれてわたされた
+たまてばこでした。
+むらへ　かえったどんべがみた
+ものは…………。
+どんべ「むらが…………むらが…………
+おっかあ！どこだ！おっかあ！」
+むらは　あとかたもなくきえていました
+りゅうぐうで　くらしたひとときの
+あいだに　むらでは　なんびゃくねんも
+たっていたのでした。
+かなしみにくれたどんべは
+たまてばこをあけてしまいました。
+たちのぼるしろいけむり。
+まいあがる　あんこくのけしん。
+そのときどんべのうでをひっぱる
+ものがいました。どんべは
+おとひめといっしょに　おばけみたいな
+なべに　おしこめられたのでした。
+
+八章
+
+変な世界に飛び込みました。
+ドンベ「うあーっ！」
+光「もう少しよ！我慢
+して頂戴」
+ドンベ「ううっ……苦しい…」
+気が遠くなっていきます……。
+…………。
+ドンベは夢を見ています。
+「決して開けてはいけませんよ。」
+乙姫にそう言われて渡された
+玉手箱でした。
+村へ帰ったドンベが見た
+物は……。
+ドンベ「村が……村が……
+おっかあ！どこだ！おっかあ！」
+村は跡形もなく消えていました
+竜宮で暮らした一時の
+間に村では何百年も
+立っていたのでした。
+悲しみにくれたドンベは
+玉手箱を開けてしまいました。
+立ち上る白い煙。
+舞い上がる暗黒の化身。
+その時ドンベの腕を引っ張る
+物がいました。ドンベは
+乙姫と一緒におばけみたいな
+なべに押し込められたのでした。
+\
+Chapter 8
+\
+You have jumped into a strange world.
+Donbe: "Ahhh!"
+Hikari: "We're almost there! Please hold on."
+
+Donbe: "Uuu...... It's painful..."
+You begin to lose conscious- ness......
+............
+You see a dream.
+"You must never open this under any circum- stances."
+Upon saying this, the princess of the dragon palace gives you the jeweled box.
+
+You return to the village to see......
+
+Donbe: "The village...... The village......
+Mom! Where are you? Mom!"
+The village had disappeared without a trace.
+In the short time that you were in the dragon palace, hundreds of years passed in the village.
+
+
+Saddened, you open the jeweled box.
+
+White smoke rises up.
+The incarnation of darkness rises up into the sky.
+At that time, something pulls on your arm. You, together with the princess of the dragon palace, are brought into a ghostly pot.
+
+
+
+4
+いずみのそとへでました。
+おっ！めのまえにみえるきもちのわるい
+しまは！あれこそオニガシマです。
+でも、どうやってわたりましょう。
+泉の外へ出ました。
+おっ！目の前に見える気持ちの悪い
+島は！あれこそ鬼ヶ島です。
+でも、どうやって渡りましょう。
+You arrive outside the spring.
+Oh! A creepy island before your eyes! That must be Oniga- shima.
+
+But how will you cross over to it?
+1
+おにがしま
+鬼ヶ島
+Onigashima
+2
+まるでどんべたちをまねいて
+いるようです。
+まるでドンベたちを招いて
+いるようです。
+It's as if it's inviting all of you.
+
+2
+きりっとひきしまったかおをして
+います。
+キリッと引き締まった顔をして
+います。
+She looks serious and tense.
+
+2
+もうあんなきもちのわるいのはごめん
+です。
+もうあんな気持ちの悪いのはごめん
+です。
+You don't want to go through that terrible feeling again.
+
+1
+まだひかってます。
+まだ光ってます。
+It is still glowing.
+4
+どんべ「どうやってわたればいい
+んだろう…………」
+ひかり「およいででもわたるしか
+ないかな？」
+ドンベ「どうやって渡ればいい
+んだろう……」
+光「泳いででも渡るしか
+ないかな？」
+Donbe: "How can we cross over......"
+
+Hikari: "Do we have to swim across?"
+
+5
+どんべ「ふねなんか　どこにも
+なかったよなあ…………」
+りんご「ええ。ありませんでしたね。
+まめだのどろぶねなんて　もってこれ
+ませんものねえ」
+ドンベ「船なんかどこにも
+なかったよなあ……」
+りんご「ええ。ありませんでしたね。
+まめだの泥舟なんて持ってこれ
+ません物ねえ」
+Donbe: "There isn't a boat around anywhere ......"
+
+Ringo: "No. There is no boat.
+We don't have something like the mud boat that the tanuki had."
+
+5
+どんべ「およいでわたろうか？」
+まつのすけ「ま、まってくれ！おれは
+およげねえんだ」
+どんべ「え？ほんとか？ぎゃはは
+なさけねえなあ」
+ドンベ「泳いで渡ろうか？」
+マツノスケ「ま、待ってくれ！俺は
+泳げないんだ」
+ドンベ「え？ほんとか？ぎゃはは
+情けないなあ」
+Donbe: "Shall we swim across?"
+Matsuno- suke: "W-wait a moment! I can't swim."
+
+Donbe: "What? Really? Hahaha, how pathetic."
+
+3
+どんべ「およぐしかないかな？」
+おはな「そんなことしなくてもいいじゃ
+ないですか」
+ドンベ「泳ぐしかないかな？」
+おはな「そんなことしなくてもいいじゃ
+ないですか」
+Donbe: "Will we have to swim?"
+Ohana: "I don't have to do that."
+
+3
+どんべ「あっ！そっかあ！おまえ
+にのってけばいいんだ！」
+おはな「そうです。おはこびしますよ」
+ドンベ「あっ！そっかあ！お前
+に乗ってけばいいんだ！」
+おはな「そうです。お運びしますよ」
+Donbe: "Ah! I see! We can just ride on you."
+
+Ohana: "That's right. I can carry you."
+1
+こんなところではいみがありません。
+こんな所では意味がありません。
+There's no reason to in a place like this.
+2
+いずみにつけるとあかるいひかりを
+はなちます。ぴかーっ！
+泉につけると明るい光を
+放ちます。ピカーッ！
+From being in the spring, it is emitting a bright light. *Shine!*
+
+1
+てきはあのしまにいるんですよ。
+敵はあの島にうりんですよ。
+The enemies are on the island.
+1
+どうしてもおよいでわたるのですか？
+どうしても泳いで渡るのですか？
+Are you going to swim across?
+1
+そちらへいってもただのうみです。
+そちらへ行ってもただの海です。
+Going that way would just bring you to the sea.
+3
+あそこににっくきりゅうがいるの
+です。こわいけどいかなくてはなり
+ません。
+あそこににっくき竜がいるの
+です。怖いけど行かなくてはなり
+ません。
+This is where the accursed dragon is. You're scared, but you must go.
+
+
+3
+こわいということをしらないのでしょ
+うか？はやくいきたくてうずうずしてる
+みたいです。
+怖いと言うことを知らないのでしょ
+うか？速く行きたくてうずうずしてる
+みたいです。
+Doesn't he know how scary this is? He looks like he's itching to go.
+
+
+2
+またこのいずみをつかうことにならな
+ければいいんですが…………。
+またこの泉を使うことにならな
+ければいいんですが……。
+You hope that you won't have to use the spring again......
+
+3
+くびかざりがひかっています。
+それに　なんとなくおもくなったような
+きがします。
+首飾りが光っています。
+それになんとなく重くなったような
+気がします。
+The necklace is glowing.
+Also, for some reason, it seems to have gotten heavier.
+
+6
+よくしらべてみるとくびかざりの
+それぞれのたまのなかにいずみのみずが
+たまっています。
+これはみやみずをためておくためのもの
+だったのです！わけてつかえるように
+ひとつずつはずれるしくみになってます
+よく調べてみると首飾りの
+それぞれの玉の中に泉の水が
+たまっています。
+これは宮水を溜めておくための物
+だったのです！わけて使えるように
+一つずつ外れる仕組みになってます
+Looking closer at it, each ball of the necklace has been filled with water from the spring.
+
+
+This is something for storing heavenly water! It was made for removing them one by one.
+
+
+1
+みやみずがたまっています。
+宮水がたまっています。
+It is storing heavenly water.
+3
+ひかり「とにかくしまへわたら
+ないことにはね…………」
+どんべ「そうだなあ…………」
+光「とにかく島へ渡ら
+ないことにはね……」
+ドンベ「そうだなあ……」
+Hikari: "Anyway, we have to cross over to the island......"
+
+Donbe: "Yeah......"
+7
+ひかり「およいでいくわよ」
+りんご「わたしはべつにかまいませんが
+ひかりさん、はかまではおよげ
+ませんよ」
+ひかり「わたしおとひめよ」
+りんご「あっ、そうでしたね。およぎは
+とくいなんだ」
+光「泳いでいくわよ」
+りんご「私は別に構いませんが
+光さん、袴では泳げ
+ませんよ」
+光「私乙姫よ」
+りんご「あっ、そうでしたね。泳ぎは
+得意なんだ。」
+Hikari: "I'll swim."
+Ringo: "I'm fine with it myself, but Hikari-san, you can't swim in a hakama."
+
+
+Hikari: "I'm the princess of the dragon palace."
+Ringo: "Ah, that's right. Swimming is your specialty."
+
+3
+ひかり「どうする？」
+まつのすけ「およぐのだけはかんべん
+してくれ」
+光「どうする？」
+マツノスケ「泳ぐのだけは勘弁
+してくれ」
+Hikari: "What do we do?"
+Matsuno- suke: "Anything but swimming."
+
+3
+ひかり「あなたはいいわね、
+とべるから」
+おはな「どこでもいけますよ」
+光「あなたはいいわね、
+飛べるから」
+おはな「どこでも行けますよ」
+Hikari: "You're fine, since you can fly."
+
+Ohana: "I can go anywhere."
+2
+ためしにかかげてみましたがなにも
+おこりません。
+試しに掲げてみましたが何も
+起こりません。
+You try holding it up, but nothing happens.
+
+2
+おはな「ではいきましょう。わたしの
+せなかにのってください」
+おはな「では行きましょう。私の
+背中に乗ってください」
+Ohana: "Alright, let's go. Please ride on my back."
+
+3
+ぶじにしまにわたることができました
+ながいみちのむこうになにかのたてもの
+がみえます。
+無事に島に渡ることができました。
+長い道の向こうに何かの建物
+が見えます。
+You are able to get to the island without incident.
+At the end of a long road you can see some kind of building.
+
+3
+いしでできた　たてもののようです。
+おにがたくさんいることはたしかなよう
+です。
+石でできた建物のようです。
+鬼がたくさんいることは確かなよう
+です。
+It looks like it's made of stone.
+Surely there are many oni there.
+
+2
+うねうねとまがって　たてものへ
+つづいています。
+うねうねと曲がって建物へ
+続いています。
+It curves in twists and turns all the way to the building.
+
+1
+きりたった　けわしいやまです。
+切り立った険しい山です。
+It is a steep and precipitous mountain.
+1
+まだかすかにひかっています。
+まだ微かに光っています。
+It is still faintly glowing.
+3
+ひかり「このままいったら
+みつかるわね」
+どんべ「そうだな」
+光「このまま行ったら
+見つかるわね」
+ドンベ「そうだな」
+Hikari: "If we go there like this, we'll be discovered."
+
+Donbe: "Yeah."
+13
+どんべ「よしっ！ぼくがおとりに
+なっておにをおびきだそう。そのすきに
+ひかりはあいつをしらべてくれ」
+ひかり「いいわ。たまてばこは
+きっとあそこよ」
+どんべ「ぼくはりゅうのたまを
+さがしてくるからあとでおちあおう」
+ひかり「このこたちどうする？」
+どんべ「そうだなあ、だれか
+ひとりついてきてもらおうかな？」
+
+だれにしますか？
+
+ドンベ「よしっ！僕がおとりに
+なって鬼をおびき出そう。その隙に
+光はあいつを調べてくれ」
+光「いいわ。玉手箱は
+きっとあそこよ」
+ドンベ「僕は竜の玉を
+探してくるから後で落ち合おう」
+光「この子たちどうする？」
+ドンベ「そうだなあ、誰か
+一人付いてきてもらおうかな？」
+
+誰にしますか？
+
+Donbe: "Alright! I'll be a decoy and lure the oni. During that time you can look for that thing."
+
+
+Hikari: "Got it. I'm sure the jeweled box is there."
+
+Donbe: "I'll search for the dragon's core and will meet up with you later."
+
+Hikari: "What about the others?"
+Donbe: "Hm, maybe one of you can come with me?"
+
+\
+Who do you want?
+\
+2
+どんべ「りゅうは　いないか？」
+りんご「いませんね」
+ドンベ「竜はいないか？」
+りんご「いませんね」。
+Donbe: "Is the dragon around?"
+Ringo: "No."
+2
+どんべ「おとなしくしていろ」
+まつのすけ「わかってらい」
+ドンベ「大人しくしていろ」
+マツノスケ「分かってらい」
+Donbe: "Please behave yourself."
+Matsuno- suke: "Yeah, I got it."
+2
+どんべ「ようすはどうだ？」
+おはな「たてものに　おにがいますね」
+ドンベ「様子はどうだ？」
+おはな「建物に鬼がいますね」
+Donbe: "Anything to report?"
+Ohana: "There are oni in the building."
+1
+けいかくをたててからにしましょう。
+計画を立ててからにしましょう。
+You need to make a plan.
+1
+そちらは　がけっぷちです
+そちらは崖っぷちです
+There's a cliff that way.
+3
+ひかり「きっとあのたてものに
+たまてばこがあるのよ」
+どんべ「うん、くさいね」
+光「きっとあの建物に
+玉手箱があるのよ」
+ドンベ「うん、臭いね」
+Hikari: "I'm sure that the jeweled box is in that building."
+
+Donbe: "Yeah, it's suspicious."
+3
+ひかり「りゅうの　けはいはして
+いない？」
+りんご「だいじょうぶです」
+光「竜の気配はして
+いない？」
+りんご「大丈夫です」
+Hikari: "Is there any sign of the dragon?"
+
+Ringo: "It's fine."
+3
+ひかり「ここでおおごえだしては
+だめよ」
+まつのすけ「わかってらい！」
+光「ここで大声出しては
+ダメよ」
+マツノスケ「分かってらい！」
+Hikari: "You can't yell here."
+
+Matsuno- suke: "Yeah, I got it!"
+4
+ひかり「あそこまでとんでくれれ
+ばよかったのに…………」
+おはな「おにがいっぱいいるんです。
+とりはとおくまでみえるんですよ」
+光「あそこまで飛んでくれれ
+ばよかったのに……」
+おはな「鬼がいっぱいいるんです。
+鳥は遠くまで見えるんですよ」
+Hikari: "I wish you had flown us all the way over there......"
+
+Ohana: "There are a lot of oni there. Birds can see very far."
+
+2
+どんべ「よし！いくぞ」
+ひかり「いいわよ」
+ドンベ「よし！行くぞ」
+光「いいわよ」
+Donbe: "Okay! Let's go!"
+Hikari: "Alright."
+2
+どんべ「よし、りんごきてくれ」
+りんご「わかりました」
+ドンベ「よし、りんご来てくれ」
+りんご「分かりました」
+Donbe: "Alright, come with me, Ringo."
+Ringo: "Under- stood."
+3
+どんべ「まつのすけをつれて
+いこう」
+まつのすけ「あいよ」
+ドンベ「マツノスケを連れて
+行こう」
+マツノスケ「あいよ」
+Donbe: "Matsuno- suke, you're coming with me."
+
+Matsuno- suke: "Okay."
+2
+どんべ「おはなきてくれるか？」
+おはな「いいですとも」
+ドンベ「おはな来てくれるか？」
+おはな「いいですとも」
+Donbe: "You'll come with me, right Ohana?"
+Ohana: "Yes, certainly."
+2
+ひかり「きをつけてね」
+どんべ「うん」
+光「気をつけてね」
+ドンベ「うん」
+Hikari: "Be careful."
+Donbe: "Yeah."
+1
+ひかっています。
+光っています。
+It is glowing.
+2
+だいじなものなのでひとつぶだけ
+どんべにわたしました。
+大事な物なので一粒だけ
+ドンベに渡しました。
+Because this is important, you give him only a single bead.
+
+1
+そんなにわたせません。
+そんなに渡せません。
+You can't give too much of it.
+3
+ひかりにもらったみやみずを
+かけるとうでわがひかりだしました。
+しかし　なにもおこりません。
+光にもらった宮水を
+かけると腕輪が光りだしました。
+しかし何も起こりません。
+Putting the heavenly water that Hikari gave you on it, the bracelet glows.
+
+However, nothing happens.
+2
+みやみずはひかりのくびかざり
+にはいっています。
+宮水は光の首飾り
+に入っています。
+The heavenly water is in Hikari's necklace.
+
+1
+どんべ「よしっ！いってくる！」
+ドンベ「よしっ！行ってくる！」
+Donbe: "Alright! Let's go!"
+2
+うまい！うまくおにをひきつけて
+います。
+うまい！うまく鬼を引きつけて
+います。
+Well done! You skillfully draw the attention of the oni.
+
+3
+どんべ「しまった！おいつめられ
+た！」
+がけっぷちにたたされました。
+ドンベ「しまった！追い詰められ
+た！」
+崖っぷちに立たされました。
+Donbe: "Shoot! We've been cornered!"
+
+You are at the edge of a cliff.
+1
+がけっぷち
+崖っぷち
+Edge of a cliff
+2
+ひょうじょうはわかりませんがとても
+にがしてくれそうにありません。
+表情は分かりませんがとても
+逃してくれそうにありません。
+You can't read its face, but it doesn't look like it will let you get away.
+
+1
+おちたらぜったいにたすかりません。
+落ちたら絶対に助かりません。
+There is absolutely no hope for you if you fall.
+3
+どんべ「へへへ…………こんちわー」
+おに「………………」
+つうじるわけがありません。
+ドンベ「へへへ……こんちわー」
+鬼「………」
+通じるわけがありません。
+Donbe: "Hehehe...... Hi."
+Oni: "........."
+It didn't understand.
+2
+どんべ「やっつけてくれよお」
+りんご「むりですよー」
+ドンベ「やっつけてくれよお」
+りんご「無理ですよー」
+Donbe: "We'll fight!"
+Ringo: "That's impossible!"
+2
+そんなことをしているばあいではない
+ようです。
+そんなことをしている場合ではない
+ようです。
+This does not seem to be the situation to do something like that.
+
+7
+やはりここはおとこのこ！たたかい
+ましょう。どんべはおにたちに
+むかってきりかかりました。
+どんべ「やーっ！」
+ぽきんっ！だいじなかたながかなぼうで
+かんたんにおられてしまいました。
+どんべ「うそっ？」
+やはりここは男の子！戦い
+ましょう。ドンベは鬼たちに
+向かって斬りかかりました。
+ドンベ「やーっ！」
+ポキンっ！大事な刀が金棒で
+簡単に折られてしまいました。
+ドンベ「嘘っ！」
+Of course, this place is for boys! You'll attack. You turn towards the oni and slash.
+
+
+Donbe: "Yah!"
+*Snap!* Your important katana is easily cut by the metal bar.
+
+Donbe: "You've gotta be kidding me!"
+1
+ひかりはいません。
+光はいません。
+Hikari's not here.
+1
+かたなはおれています！
+刀は折れています！
+Your katana broke!
+1
+うみにおちますよ。
+海に落ちますよ。
+You'll fall into the sea.
+1
+おにがいるのでいけません。
+鬼がいるので行けません。
+There are oni, so you can't go.
+4
+　やむをえずしぬかくごでうみにとび
+こみましょう。
+どんべ「あーっ！」
+………………やはりだめでした。
+やむを得ず死ぬ覚悟で海に飛び
+込みましょう。
+ドンベ「あーっ！」
+………やはりダメでした。
+You'll jump into the sea, even prepared to die.
+
+Donbe: "Ahhh!"
+.........As expected, it's useless.
+1
+おにがいるけはいは、ありません。
+鬼がいる気配は、ありません。
+There is no hint of there being oni there.
+2
+ひかり「どう？」
+おはな「おにはいっちゃいました」
+光「どう？」
+おはな「鬼は行っちゃいました」
+Hikari: "What now?"
+Ohana: "The oni are gone."
+1
+どんべはいません。
+ドンベはいません。
+Donbe's not here.
+3
+おにはどんべをおいかけて
+いきました。いまのうちです。はやく
+いきましょう。
+鬼はドンベを追いかけて
+いきました。今の内です。速く
+行きましょう。
+The oni chased ofter Donbe. Now's your chance. Go quickly.
+
+
+3
+とおくからみえていたたてものは、
+そばへよってみるとおおきないわのかた
+まりでした。
+遠くから見えていた建物は、
+そばへ寄ってみると大きな岩の塊
+でした。
+Approaching it, you see that the building you saw from far away is a big chunk of rock.
+
+
+1
+とうふいわ
+豆腐岩
+Tofu rock
+15
+しかくいおおきないわです。なにを
+するものなのでしょう。
+あれ？ひとのこえがきこえます。
+こえ「…………けて…………ここを…………あけて」
+ひかり「だれ？」
+こえ「いわのなかにいます…………しめなわ
+をといて…………」
+ひかり「あなたは？」
+こえ「おににあつめられたたましいです
+おおぜいいます。りゅうにたべられる
+まえにここにあつめられるのです」
+ひかり「なんてひどいやつ！
+だからおにがあんなにいたのね」
+こえ「おねがい……しめなわをはずして」
+ひかり「わかったわ」
+四角い大きな岩です。何を
+する物のなのでしょう。
+あれ？人の声が聞こえます。
+声「……けて……ここを……開けて」
+光「誰？」
+声「岩の中にいます……しめ縄
+を解いて……」
+光「あなたは？」
+声「鬼に集められた魂です
+大勢います。竜に食べられる
+前にここに集められるのです」
+光「なんてひどいやつ！
+だから鬼があんなにいたのね」
+声「お願い…しめ縄を外して」
+光「分かったわ」
+It is a large rectangular rock. What is it for?
+
+Oh? You can hear a human voice.
+Voice: "......en ......this place...... open."
+Hikari: "Who are you?"
+Voice: "We are inside the rock...... Cut the rope......"
+
+Hikari: "Who are you?"
+Voice: "We are all of the spirits that the oni have gathered. We are gathered here before the dragon eats us."
+
+
+Hikari: "How terrible!
+So that's why there were oni here."
+Voice: "Please... Undo the rope."
+Hikari: "Got it."
+3
+ひかり「おにがかえってこない
+ようにみはっててね」
+まつのすけ「わかった！」
+光「鬼が返って来ない
+ように見張っててね」
+マツノスケ「分かった！」
+Hikari: "Keep watch so that the oni don't come back."
+
+Matsuno- suke: "Alright!"
+3
+ひかり「おにがかえってこない
+ようにみはっててね」
+おはな「わかりました」
+光「鬼が返って来ない
+ように見張っててね」
+おはな「分かりました」
+Hikari: "Keep watch so that the oni don't come back."
+
+Ohana: "Under- stood."
+1
+いまもどっては　まずいですよ。
+今戻ってはまずいですよ。
+Going back now is a bad idea.
+1
+ぶきみないわです
+不気味な岩です
+It's a creepy rock.
+3
+こまった！たかいところにあるので
+てがとどきません。のぼることもできな
+いようです。
+困った！高い所にあるので
+手が届きません。登ることもできな
+いようです。
+You can't! It's too high for you to reach. You can't climb up to it either.
+
+
+3
+ひかり「あのしめなわをはずす
+ことできる？」
+まつのすけ「おやすいごようだ」
+光「あのしめ縄を外す
+ことできる？」
+マツノスケ「お安い誤用だ」
+Hikari: "Can you undo that rope?"
+
+Matsuno- suke: "Piece of cake!"
+2
+まつのすけはかべをよじのぼりしめなわ
+をはずしました。
+マツノスケは壁をよじ登りしめ縄
+を外しました。
+Matsunosuke climbs onto the wall and undoes the rope.
+
+6
+　ばひゅーん！ばひゅーん！すごいおと
+とともにたいへんなかずのたましいが
+とびだしていきます。
+ひかり「やったわ」
+おや？たましいがふたつちかづいて
+きましたよ。
+バヒューン！バヒューン！すごい音
+とともに大変な数の魂が
+飛び出していきます。
+光「やったわ」
+おや？魂が二つ近づいて
+きましたよ。
+*Pew! Pew!* With a tremendous sound, countless souls fly off.
+
+
+Hikari: "We did it!"
+Oh? Two of the souls come close.
+
+17
+たましい「ひかりや」
+ひかり「あっ！そのこえは！
+おじいさん！」
+たましい「げんきだったかい？」
+ひかり「おばあさん！」
+たましい「よくきてくれたねえ…………
+りゅうはおそろしいまものじゃ。
+きをつけるんじゃよ。
+わしらにはてつだいはできんが
+たまてばこはこのいわのなかじゃ」
+ひかり「ありがとう　おじいさん
+それがわかればじゅうぶんよ」
+たましい「じゃあな、かならずかえって
+くるんじゃぞ。きをつけてな」
+たましいはとんでいきました。
+ひかり「おじいさん…………
+おばあさん…………」
+魂「光や」
+光「あっ！その声は！
+おじいさん！」
+魂「元気だったかい？」
+光「おばあさん！」
+魂「よく来てくれたねえ……
+竜は恐ろしい魔物だ。
+気をつけるんだよ。
+わしらには手伝いはできんが
+玉手箱はこの岩の中だ」
+光「ありがとうおじいさん
+それが分かれば十分よ」
+魂「じゃあな、必ず帰って
+くるんだぞ。気をつけてな」
+魂は飛んでいきました。
+光「おじいさん……
+おばあさん……」
+Spirit: "Hikari!"
+Hikari: "Ah! That voice!
+Grandpa!"
+Spirit: "Have you been well?"
+Hikari: "Grandma!"
+Spirit: "I'm glad you came here for us......
+The dragon is a terrifying demon.
+Be careful.
+We can't help you, but the jeweled box is inside this rock."
+
+Hikari: "Thank you, Grandpa.
+That's all I need to know."
+Spirit: "Well then, make sure to come back. Be careful."
+
+The souls fly off.
+Hikari: "Grandpa ......
+Grandma ......"
+3
+ひかり「みんな、じぶんの
+からだへもどったわ」
+まつのすけ「かんたんなものなんだな」
+光「みんな、自分の
+体へ戻ったわ」
+マツノスケ「簡単な物なんだな」
+Hikari: "Everyone has gone back to their bodies."
+
+Matsuno- suke: "It was simple."
+3
+　ためしにかかげてみましたが…………
+あっ！にぶいおととともにかべにあなが
+あきました。
+試しに掲げてみましたが……
+あっ！鈍い音とともに壁に穴が
+開きました。
+You try holding it up, but......
+Ah! With a dull sound, a hole opens up in the wall.
+
+2
+なかはくうどうになっていてなんとか
+はいれそうです。
+中は空洞になっていてなんとか
+入れそうです。
+The inside is hollow and you should be able to go in.
+
+1
+あなはもうあいています。
+穴はもう開いています。
+The hole is already open.
+4
+ひかり「みんなここでみはって
+いてちょうだいね」
+ひかりはひとりではいっていき
+ました。
+光「みんなここで見張って
+いて頂戴ね」
+光は一人で入って行き
+ました。
+Hikari: "Everyone, please stay on watch here."
+
+You enter alone.
+
+1
+あっ！そとにでられなくなりました
+あっ！外に出られなくなりました。
+Ah! You can't find your way out.
+3
+どんべ「おい！おまえつかまりに
+いけよ。そのすきににげるから…………」
+まつのすけ「おめーひでえやつだな！」
+ドンベ「おい！お前捕まりに
+行けよ。その隙に逃げるから……」
+まつのすけ「おめーひでえやつだな！」
+Donbe: "Hey! You get caught. Then I'll use that opportunity to run away......"
+
+Matsuno- suke: "You're terrible!"
+5
+ひかり「なにかにおう？」
+りんご「ひかりさん！なつかしい
+あのたまてばこのにおいがします！」
+ひかり「やっぱり！このちかくに
+あるのかしら？」
+光「何か匂う？」
+りんご「光さん！懐かしい
+あの玉手箱の匂いがします！」
+光「やっぱり！この近くに
+あるのかしら？」
+Hikari: "Do you smell anything?"
+Ringo: "Hikari-san! I smell the jeweled box!"
+
+Hikari: "I knew it! So it's close by?"
+
+3
+どんべ「おまえをつれてきてよか
+ったよ。とんでくれ！」
+おはな「いつでもいいですよ」
+ドンベ「お前を連れてきてよか
+ったよ。飛んでくれ！」
+おはな「いつでもいいですよ」
+Donbe: "I'm glad I brought you with me. Let's fly!"
+
+Ohana: "I'm always ready."
+3
+　ひらり！どんべはおはなの
+せなかにのってにげました。あせった
+おには、りゅうにしらせにいきました。
+ひらり！ドンベはおはなの
+背中に乗って逃げました。焦った
+鬼は、竜に知らせ行きました。
+You escape by riding on Ohana's back. The impatient oni go to report this to the dragon.
+
+
+4
+どんべ「ふうーっ…………あぶない
+ところだった」
+どんべは　ゆうがにおおぞらを
+とんでいます。
+ドンベ「ふうーっ……危ない
+所だった」
+ドンベは優雅に大空を
+飛んでいます。
+Donbe: "Phew...... That was dangerous."
+
+You are gracefully flying through the sky.
+
+1
+おおぞら
+大空
+Sky
+3
+　そらとぶりゅうのはなしをきいた
+ことがありましたが　それらしいものは
+みあたりません。
+空飛ぶ竜の話を聞いた
+ことがありましたがそれらしい物は
+見当たりません。
+You've heard that the dragon flies in the sky, but you can't find anything that looks like it.
+
+
+3
+どんべ「りゅうがどこにいるのか
+わからないからよくみててくれよ」
+おはな「おまかせください」
+ドンベ「竜がどこにいるのか
+分からないからよく見ててくれよ」
+おはな「お任せください」
+Donbe: "We don't know where the dragon is, so let's look more."
+
+Ohana: "Leave it to me."
+1
+かぜがとてもきもちいいです。
+風がとても気持ちいいです。
+The wind feels nice.
+3
+どんべ「どわあーっ！でたあ！」
+めのまえにきょだいりゅうがあらわれ
+ました。
+ドンベ「どわあーっ！出たあ！」
+目の前に巨大竜が現れ
+ました。
+Donbe: "Wagh! We found it!"
+A huge dragon appears in front of your eyes.
+
+2
+　こちらにちかづいてきます！このまま
+では　かみころされます。
+こちらに近づいてきます！このまま
+ではかみ殺されます。
+It's going this way! At the current rate it will bite you to death.
+
+1
+いまはひかってません。
+今は光ってません。
+It is not glowing.
+1
+それどころではない！
+それどころではない！
+This isn't the time for that!
+1
+ちかづかないとたたかえない！
+近づかないと戦えない！
+You can't attack without getting closer!
+1
+おはな「そんなよゆうはないですよ！」
+おはな「そんな余裕はないですよ！」
+Ohana: "We don't have any time to waste!"
+6
+どんべ「かわせ！」
+おはな「それっ！」
+かんいっぱつ、りゅうのこうげきを
+かわしました。
+どんべ「そばによれないか？」
+おはな「やってみますか？」
+ドンベ「かわせ！」
+おはな「それっ！」
+間一髪、竜の攻撃を
+かわしました。
+ドンベ「そばに寄れない？」
+おはな「やってみますか？」
+Donbe: "Dodge!"
+Ohana: "There!"
+You just barely dodge the dragon's attack.
+
+Donbe: "Can we get close to it?"
+Ohana: "Want to try?"
+1
+だめだ！とてもにげられない！
+ダメだ！とても逃げられない！
+It's impossible! You can't run away!
+11
+どんべ「ようし！
+いっきにしょうぶだっ！」
+りゅうがくちをあけてせまってきました
+どんべ「やあーっ！」
+けんめいにたたかったんですがとても
+かなうものではありませんでした。
+かなしくもどんべはりゅうに
+のみこまれてしまいました。
+
+
+
+ドンベ「ようし！
+一気に勝負だっ！」
+竜が口を開けて迫って来ました
+ドンベ「やあーっ！」
+懸命に戦ったんですがとても
+叶うものではありませんでした。
+悲しくもドンベは竜に
+飲み込まれてしまいました。
+
+
+
+Donbe: "Alright! Let's attack!"
+
+The dragon opens its mouth and comes at you.
+Donbe: "Yah!"
+You fight hard, but you're no match for the dragon.
+
+Sadly, you get swallowed by the dragon.
+\
+\
+\
+\
+12
+どんべ「う……うーん…………ここは
+どこだ…………」
+どんべはくらやみのなかで　きが
+つきました。
+どんべ「あっ！ぼくはりゅうに
+くわれたんだ。じゃあここはじごく
+かな？いや、ここははらのなかだ！
+あれがりゅうがみせるげんかくだった
+のか…………。と、すると　これもまぼろし
+なんだろうか？
+どっちにしろこのままじっとしている
+わけにもいかないな」
+ドンベ「う…うーん……ここは
+どこだ……」
+ドンベは暗闇の中で気が
+つきました。
+ドンベ「あっ！僕は竜に
+食われたんだ。じゃあここは地獄
+かな？いや、ここは腹の中だ！
+あれが竜が見せる幻覚だった
+のか……。と、するとこれも幻
+なんだろうか？
+どっちにしろこのままじっとしている
+わけにも行かないな」
+Donbe: "U...urgh... ...Where am I......"
+
+You find yourself surrounded by darkness.
+
+Donbe: "Ah! I was eaten by the dragon. So is this hell? No, I'm in its belly!
+
+
+Was that a hallucination that the dragon was showing me......And, is this also an illusion?
+
+
+Either way, I can't just stay here."
+
+1
+はらのなか
+腹の中
+In the belly
+1
+なにもみえません。
+何も見えません。
+You can't see anything.
+3
+　しまった！みやみずがあればあたりを
+てらすことができるのに…………しっぱい
+したようですね。
+しまった！宮水があればあたりを
+照らすことができるのに……失敗
+したようですね。
+Shoot! If you had heavenly water, you would be able to light the place up......  That's a mistake.
+
+
+2
+　なにもみえないところでうごきまわる
+のはきけんです。
+何も見えない所で動き回る
+のは危険です。
+You can't see anything, so it would be dangerous to move around.
+
+3
+　ぐさり！ぐさり！ところかまわずさし
+てみましたが　ぜんぜんこたえないよう
+です。
+グサリ！グサリ！所構わず刺し
+てみましたが全然答えないよう
+です。
+*Slash!* *Slash!* You try slashing indiscrimi- nately, but nothing happens.
+
+
+2
+ひかり「おにはきてない？」
+りんご「だいじょうぶです。」
+光「鬼は来てない？」
+りんご「大丈夫です。」
+Hikari: "Are there oni coming?"
+Ringo: "It's fine."
+6
+ひかり「みんなここでみはって
+いてちょうだいね」
+りんご「ひかりさん、きけんです
+わたしがついていきましょう」
+ひかりとりんごは　はいっていき
+ました。
+光「みんなここで見張って
+いて頂戴ね」
+りんご「光さん、危険です
+私が付いていきましょう」
+光とりんごは入っていき
+ました。
+Hikari: "Everyone, please stay on watch here."
+
+Ringo: "Hikari-san, it's dangerous, so please let me come with you."
+
+You and Ringo enter.
+
+8
+　ひかりにもらったみやみずを
+かけるとうでわがかがやきました。
+りゅう「があーっ！」
+ひかりをみてあんこくのけしんはこえを
+だしました。しかしよわったようすは
+ありません。
+どんべ「しまった！これじゃだめ
+なのか？」
+光にもらった宮水を
+かけると腕輪が輝きました。
+竜「があーっ！」
+光を見て暗黒の化身は声を
+出しました。しかし弱った様子は
+ありません。
+ドンベ「しまった！これじゃダメ
+なのか？」
+Putting the heavenly water that Hikari gave you on it, the bracelet shines.
+
+Dragon: "Graaah!"
+Upon seeing the light, the incarnation of darkness screamed. However, it did not appear to get weakened.
+
+
+Donbe: "Shoot! It didn't work?"
+
+1
+しまった！みやみずがない！
+しまった！宮水がない！
+Shoot! You don't have heavenly water!
+3
+　ひかりにもらったみやみずを
+かけるとうでわが　かがやきました。
+やった！これでよくみえます。
+光にもらった宮水を
+かけると腕輪が輝きました。
+やった！これで良く見えます。
+Putting the heavenly water that Hikari gave you on it, the bracelet shines.
+
+Alright! With this, you can see better.
+2
+なんともいえないきみのわるいところ
+です。はやくでたいもんです。
+何とも言えない気味の悪い所
+です。速く出たいもんです。
+This place is indescriba- bly creepy. You want to hurry up and get out of there.
+
+1
+あかるくひかっています。
+明るく光っています。
+It is shining brightly.
+2
+あっ！あれはなんでしょう！おかしな
+ところにきました。
+あっ！あれはなんでしょう！おかしな
+所に来ました。
+Ah! What is that! You've come to a strange place.
+
+1
+どこへいくというんですか？
+どこへ行くと言うんですか？
+Where are you saying to go?
+5
+　ねばねばした　いとのようなものが
+まるいものにからみついています。
+おそらく　まるいのがりゅうのたまで、
+いとのようなものは　タマノオという
+たましいをつなぐもののようです。
+ネバネバした糸のような物が
+丸い物に絡みついています。
+おそらく丸いのが竜の玉で、
+糸のような物は玉の緒と言う
+魂をつなぐ物のようです。
+There's a bunch of sticky thread-like things surrounding something round.
+
+Could this round thing be the dragon's core, with the thread being what's called the threads of life connecting it to the souls?
+
+
+1
+みやみずはつかってしまいました。
+宮水は浸かってしまいました。
+It's soaked in heavenly water.
+3
+　たまのおがからまっていてよくみえ
+ませんが　あのたまをとればりゅうを
+ふうじこめられるはずです。
+玉の緒が絡まっていてよく見え
+ませんがあの玉を取れば竜を
+封じ込められるはずです。
+The threads are covering it so you can't get a good look at it, but if you can take that ball you will seal the dragon away.
+
+
+5
+　すごいかずです。いっぽんいっぽんに
+それぞれひとのたましいがあって
+りゅうのにくになっているのです。
+これをきればみんなじぶんのからだへ
+かえることができるでしょう。
+すごい数です。一本一本に
+それぞれ人ん魂があって
+竜の肉になっているのです。
+これを切ればみんな自分の体へ
+返ることができるでしょう。
+There are a great number of them. Each and every one of them represents a human soul and are what makes up the dragon's flesh.
+
+
+If you cut them, everybody's bodies should be able to return to them.
+
+6
+　よし！これをひかりのところ
+までもっていけばこいつをたおせますね
+どんべはてをのばしました。
+どんべ「なんだこいつら！」
+りゅうにこころをうってしまった
+あくりょうたちがこうげきしてきました
+よし！これを光の所
+まで持って行けばこいつを倒せますね
+ドンベは手を伸ばしました。
+ドンベ「なんだこいつら！」
+竜に心を売ってしまった
+悪霊たちが攻撃してきました
+Alright! If you can bring this to Hikari, you should be able to take down the dragon.
+
+You reach your arm out.
+Donbe: "What are these things!?"
+Evil spirits that had sold their soul to the dragon attack.
+
+1
+こんなものとれませんよ。
+こんな物取れませんよ。
+You can't take something like this.
+7
+どんべ「みんなじぶんのからだへ
+かえるんだ」
+どんべはたまのおをきろうとして
+ちかづきました。
+どんべ「なんだこいつら！」
+りゅうにこころをうってしまった　あく
+りょうがこうげきしてきました。
+ドンベ「みんな自分の体へ
+返るんだ」
+ドンベは玉の緒を切ろうとして
+近づきました。
+ドンベ「なんだこいつら！」
+竜に心を売ってしまった悪
+霊が攻撃してきました。
+Donbe: "I'll help everyone return to their own body!"
+
+You draw close to cut the threads.
+
+Donbe: "What are these things!?"
+Evil spirits that had sold their soul to the dragon attack.
+
+3
+おにのすきをついてすすむけいかく
+だったのですが、もたもたしていたので
+おにがもどってきてしまいました。
+鬼の隙をついて進む計画
+だったのですが、もたもたしていたので
+鬼が戻ってきてしまいました。
+The plan was to use the distraction to get through, but you were too slow and the oni have now returned.
+
+
+3
+おにがいるにもかかわらずつっこんで
+いきました。ざんねんながらおにには
+かないません。
+鬼がいるにも関わらず突っ込んで
+行きました。残念ながら鬼には
+叶いません。
+You go in spite of the presence of the oni. Unfortu- nately, the oni stop you.
+
+
+1
+たまのおがからみついてとれません。
+玉の緒が絡みついて取れません。
+The threads are entwined around it, so you can't take it.
+4
+どんべ「おまえたち！じゃまを
+するのか！」
+あくりょう「ここにちかづくやつはだれ
+であろうとゆるすわけにはいかない」
+ドンベ「お前たち！邪魔を
+するのか！」
+悪霊「ここに近づくやつは誰
+であろうと許すわけには行かない」
+Donbe: "Hey you! You're getting in the way!"
+
+Evil spirit: "We won't let anyone come near here."
+
+3
+　ずばっ！ばしゅっ！
+さすがにやせいじです。つぎつぎと
+あくりょうをやっつけました。
+ズバッ!バシュッ！
+さすがにやせいじです。次々と
+悪霊をやっつけました。
+*Slash!* *Splat!*
+Of course, you're a wild boy. You defeat the evil spirits one by one.
+
+6
+　よし！これでじゃまものもいないので
+うまくいきますよ。
+どんべはかたなで　たまのおを
+きりました。ずばっ！
+ずずず…………なにかがくずれるおとが
+します。
+よし！それで邪魔ものもいないので
+うまくいきますよ。
+ドンベは刀で玉の緒を
+切りました。ズバッ！
+ズズズ……何かが崩れる音が
+します。
+Alright! With those hindrances out of the way, everything should go smoothly.
+
+You cut at the threads with your katana. *Slash!*
+
+*Rumble* ......You hear the sound of something collapsing.
+
+5
+かたながないので
+たたかえません。
+どんべは、あくりょうに
+とりつかれてしまいました。
+どろろーん！
+刀がないので
+戦えません。
+ドンベは悪霊に
+取り憑かれてしまいました。
+どろろーん！
+You don't have your katana, so you can't fight.
+
+You get possessed by an evil spirit.
+
+
+6
+「ぎゃあーっ！ごごご…………！」
+どんべ「う、うわーっ！」
+たまのおがきられたため　りゅうの
+からだになっていた　たましいがとび
+さりはじめました。りゅうがほうかい
+します
+「ぎゃあーっ！ごごご……！」
+ドンベ「う、うわーっ！」
+玉の緒が切られたため竜の
+体になっていた魂が飛び
+去り始めました。竜が崩壊
+します
+"Gyaahh! *Rumble*"
+Donbe: "W-wagh!"
+With the threads cut, the souls start leaving the dragon's body. The dragon disinte- grates.
+
+
+
+3
+それとどうじにどんべの
+からだは　くうちゅうへとなげだされ
+ました。
+それと同時にドンベの
+体は空中へと投げ出され
+ました。
+At the same time, your body starts flying through the air.
+
+
+11
+どんべ「ひゃあーっおはなあーっ
+たすけてくれーっ！」
+しかし　おはなは　りゅうにちかづいた
+ときに　きずついて、たかくとべなく
+なってます。
+どんべ「うわあーっ！」
+だめです。このままだと　じめんへ
+まっさかさま…………
+「おーっ…………。おーっ…………。」
+あれ？どこかできいたこえが…………。
+
+ドンベ「ひゃあーっおはなあーっ
+助けてくれーっ！」
+しかしおはなは竜に近づいた
+時に傷ついて、高く飛べなく
+なってます。
+ドンベ「うわーっ！」
+ダメです。このままだと地面へ
+真っ逆さま……
+「おーっ……。おーっ……。」
+あれ？どこかで聞いた声が……。
+
+Donbe: "Hyaahh Ohanaaa, help!"
+
+But Ohana was wounded when she approached the dragon, and can no longer fly high.
+
+
+Donbe: "Ahhh!"
+It's useless. At this rate you'll go headlong into the ground......
+
+"Ooh...... Ooh......"
+Oh? You've heard that voice somewhere ......
+\
+3
+てんぐ「おーっ、なにしてんだ？おー」
+どんべ「あっ！てんぐさん！」
+た、た……たすけてえっ！」
+天狗「おーっ、何してんだ？おー」
+ドンベ「あっ！天狗さん！」
+た、た…助けてえ！」
+Tengu: "Ooh, what are you doing? Ooh"
+Donbe: "Ah! Tengu-san!
+H-h... heeeeelp!"
+5
+てんぐ「おーっおまえとべないのか
+おーっ」
+どんべのからだを　てんぐは
+じめんまで　はこんでくれました。
+
+天狗「おーっお前飛べないのか
+おーっ」
+ドンベの体を天狗は
+地面まで運んでくれました。
+
+Tengu: "Ooh, you can't fly, ooh."
+
+The tengu carries your body down to the ground.
+
+\
+9
+どんべ「ひかり！やったぞ
+みんなじぶんのからだへかえっていく」
+ひかり「まあ、てんぐさん　」
+てんぐ「おーっうれしー。またあえた。
+おまえたち　すきー　」
+ひかり「やったわね」
+どんべ「さあ、りゅうをふうじ
+こめよう」
+
+ドンベ「光！やったぞ
+みんな自分の体へ帰っていく」
+光「まあ、天狗さん　」
+天狗「おーっうれしい。また会えた。
+お前たち好きー」
+光「やったわね」
+ドンベ「さあ、竜を封じ
+込めよう」
+
+Donbe: "Hikari! I did it!
+Everyone is returning to their own bodies."
+Hikari: "Ah, Tengu-san <3"
+Tengu: "Ooh, I'm happy. That we're meeting again.
+I like you two."
+Hikari: "We did it!"
+Donbe: "Alright, let's seal the dragon away."
+
+\
+5
+ひかり「え？でも、わたし
+たまてばこもってない！」
+どんべ「ぼくも　りゅうのたまを
+もってないぞ」
+ひかり「これじゃ　だめよ！」
+光「え？でも、私
+玉手箱持ってない！」
+ドンベ「僕も竜の玉を
+持ってないぞ」
+光「これじゃダメよ！」
+Hikari: "Huh? But, I don't have the jeweled box!"
+
+Donbe: "I don't have the dragon's core either!"
+
+Hikari: "This won't work!"
+4
+「ぎぁーっ！ぐわあーっ！」
+ほねになってしまったりゅうがおそって
+きて　みんなやられてしまいました。
+もうすこしだったのに。ざんねんです。
+「ぎゃーっ！ぐわあーっ！」
+骨になってしまった竜が襲って
+きてみんなやられてしまいました。
+もう少しだったのに。残念です。
+"Gyah! Grah!"
+The dragon, which has become a skeleton, attacks you all.
+
+You were so close. How unfortu- nate.
+1
+それっ！りゅうのたまをとったぞ！
+それっ！竜の玉を取ったぞ！
+There! You take the dragon's core.
+6
+ひかり「え？でも、わたし
+たまてばこもってない！」
+どんべ「そんな！せっかくりゅう
+のたまを　とってきたのに」
+ひかり「ざんねんだわ…………」
+
+光「え？でも、私
+玉手箱持ってない！」
+ドンベ「そんな！せっかく竜
+の玉を取ってきたのに」
+光「残念だわ……」
+
+Hikari: "Huh? But, I don't have the jeweled box!"
+
+Donbe: "No! And I even went to all this trouble to get the dragon's core."
+
+Hikari: "Oh no......"
+\
+5
+ひかり「やだっ！なにこれ！
+まっくらよー！」
+くびかざりのひかりもやくにたちません
+まったくのくらやみです。ここに
+たまてばこがあるというのに…………。
+光「やだっ！何これ！
+真っ暗よー！」
+首飾りの光も役に立ちません
+まったくの暗闇です。ここに
+玉手箱があるというのに……。
+Hikari: "No! What is this?
+It's pitch black!"
+The light from your necklace doesn't help.
+It is completely dark. But the jeweled box is here......
+
+1
+いわのなか
+岩の中
+Inside the rock
+1
+まっくらで　なにもできません。
+真っ暗で何もできません。
+You can't do anything in the dark.
+2
+くらいのですすんでいるのがわかり
+ません。
+暗いので進んでいるのが分かり
+ません。
+You don't know which way to go in the dark.
+
+2
+りんごのはなのおかげででぐちがわか
+りました。
+りんごの鼻のおかげで出口が分かり
+ました。
+Following Ringo's nose, you find the exit.
+
+2
+いまごろどんべはどうしている
+でしょう。
+今頃ドンベはどうしている
+でしょう。
+I wonder how Donbe's doing right now.
+
+2
+ひかり「どう？ばしょわかる？」
+りんご「ええ、においますよ」
+光「どう？場所分かる？」
+りんご「ええ、匂いますよ」
+Hikari: "Well? Do you know where it is?"
+Ringo: "Yes, I'm smelling it."
+1
+りんごについていきました。
+りんごに付いて行きました。
+You follow Ringo.
+2
+りんご「ここほれわんわん」
+ひかり「えっ？ほるの？」
+りんご「ここ掘れわんわん」
+光「えっ？掘るの？」
+Ringo: "Dig here. *bark bark*"
+Hikari: "Huh? Dig?"
+2
+ひかりはりんごのいうばしょを
+ほってみました。
+光はりんごの言う場所を
+掘ってみました。
+You dig in the place that Ringo told you to.
+
+4
+ひかり「ばんざーい！とうとう
+みつけたわ！さあ、どんべが
+りゅうのたまをもってくるわ」
+ひかりたちはそとへでました。
+光「万歳！とうとう
+見つけたわ！さあ、ドンベが
+竜の玉を持ってくるわ」
+光たちは外へ出ました。
+Hikari: "Hurray! We finally found it! Alright, Donbe just needs to get the dragon's core."
+
+
+The two of you go outside.
+1
+もうなかには　ようがありません。
+もう中には用がありません。
+You've already been inside so you have no more business there.
+3
+ひかり「ありがとう
+おてがらよ」
+りんご「いやあ…………」
+光「ありがとう
+お手柄よ」
+りんご「いやあ……」
+Hikari: "Thank you for your service."
+
+Ringo: "It's nothing......"
+1
+もうたまてばこはとりました。
+もう玉手箱は取りました。
+You already took the jeweled box.
+6
+ひかり「はい、たまてばこ」
+どんべ「しまった！りゅうのたま
+をとってきてない！」
+ひかり「えーっ！なんてこと…………
+これじゃだめだわ」
+
+光「はい、玉手箱」
+ドンベ「しまった！竜の玉
+を取ってきてない！」
+光「えーっ！なんてこと……
+これじゃダメだわ」
+
+Hikari: "Here, the jeweled box."
+Donbe: "Shoot! I didn't grab the dragon's core!"
+
+Hikari: "What!? Oh no......
+This won't work!"
+\
+5
+ひかり「はい、たまてばこ」
+どんべ「よし、りゅうのたまだ」
+どんべは、たまてばこのなかに
+りゅうのたまを　いれてふたをしました
+
+光「はい、玉手箱」
+ドンベ「よし、竜の玉だ」
+ドンベは、玉手箱の中に
+竜の玉を入れて蓋をしました
+
+Hikari: "Here, the jeweled box."
+Donbe: "Alright, I've got the dragon's core."
+You put the dragon's core into the jeweled box and put the lid on it.
+
+\
+8
+どんべは、たまてばこのなかに
+りゅうのたまを　いれてふたをしました
+「……………………」
+「……………………」
+「……………………」
+どんべ「なにも　おこらないぞ」
+ひかり「うそ…………」
+
+ドンベは、玉手箱の中に
+竜の玉を入れて蓋をしました
+「…………」
+「…………」
+「…………」
+ドンベ「何も起こらないぞ」
+光「嘘……」
+
+You put the dragon's core into the jeweled box and put the lid on it.
+
+"............"
+"............"
+"............"
+Donbe: "Nothing's happening."
+Hikari: "You're kidding......"
+
+8
+どんべ「なにも　おこらないぞ」
+ひかり「うそ…………」
+「ずず…………ずずず…………ず……」
+どんべ「あっ！みろ！りゅうが」
+ひかり「やったわ！」
+たましいがとびちり、ほねだけになった
+りゅうが　おちていきます。
+
+ドンベ「何も起こらないぞ」
+光「嘘……」
+「ずず……ずずず……ず…」
+ドンベ「あっ！見ろ！竜が」
+光「やったわ！」
+魂が飛び散り、骨だけになった
+竜が落ちていきます。
+
+Donbe: "Nothing's happening."
+Hikari: "You're kidding......"
+*Rumble* ...... *Rumble* ...... *Rumble* ...
+Donbe: "Ah! Look! The dragon!"
+Hikari: "We did it!"
+As the souls scatter, the dragon, now just bones, falls.
+
+\
+2
+ついに　あくのけしんのりゅうを
+たおすことができました。
+ついに悪の化身の竜を
+倒すことができました。
+At last, the dragon, the incarnation of darkness, is defeated.
+
+9
+
+九しょう
+
+ず、ずずうーん。ごごご…………。
+ほねになってしまった　りゅうが
+つちけむりをたてて、おちていきます。
+ひかり「きゃあー！やった！」
+どんべ「ざまあみろーっ！
+あはははは…………」
+
+九章
+
+ず、ずずうーん。ごごご……。
+骨になってしまった竜が
+土煙を立てて、落ちていきます。
+光「きゃあー！やった！」
+ドンベ「ざまあみろーっ！
+あはははは……」
+\
+Chapter 9
+\
+*Fshh* *Rumble...*
+The dragon, which has turned into bones, falls into a cloud of dust.
+
+Hikari: "Ahhh! We did it!"
+Donbe: "Serves you right!
+Hahahaha ......"
+32
+ひかり「ありがとうどんべ
+これでせかいは　すくわれたわ」
+どんべ「おじいさんとおばあさん
+はどうなったんだろう？」
+ひかり「わたし、ふたりに
+あったわ。いまごろは　むらへかえって
+いるはずだわ…………」
+おはな「どんべさん、だいじな
+ときに　たすけられなくてすみません」
+どんべ「まあ、いいさ」
+まつのすけ「おいらは　だいかつやく」
+りんご「なわをはずしただけじゃ
+ないか」
+まつのすけ「おまえだって　においを
+かいだだけじゃねえか！」
+どんべ「おいおい、けんかは
+やめろ」
+ひかり「さあ、おにがしまから
+にげましょう。たまをふうじたから
+すぐに　しずむわ」
+どんべ「よし、まず　うみまで
+でて…………おはな、ひくいところなら
+とべるかい？」
+おはな「ええ、なんとか…………」
+どんべ「よかった。それじゃ
+いこう」
+みんなが　あるきはじめたとき　しまが
+おとをたてて　ゆれはじめました。
+ひかり「じしんよ！はやく！」
+どんべ「いや、まて！これは…………
+これはちがうぞ！」
+「ぐわあーっ！ぎゃあーっ！」
+光「ありがとうドンベ
+これで世界は救われたわ」
+ドンベ「おじいさんとおばあさん
+はどうなったんだろう？」
+光「私、二人に
+会ったわ。今頃は村へ帰って
+いるはずだわ……」
+おはな「ドンベさん、大事な
+時に助けられなくてすみません」
+ドンベ「まあ、いいさ」
+マツノスケ「おいらは大活躍」
+りんご「縄を外しただけじゃ
+ないか」
+マツノスケ「お前だって匂いを
+嗅いだだけじゃないか！」
+ドンベ「おいおい、喧嘩は
+止めろ」
+光「さあ、鬼ヶ島から
+逃げましょう。玉を封じたから
+すぐに沈むわ」
+ドンベ「よし、まず海まで
+出て……おはな、低い所なら
+飛べるかい？」
+おはな「ええ、なんとか……」
+ドンベ「よかった。それじゃ
+行こう」
+みんなが歩き始めた時島が
+音を立てて揺れ始めました。
+光「地震よ！速く！」
+ドンベ「いや、待て！これは……
+これは違うぞ！」
+「ぐわあーっ！ぎゃあーっ！」
+Hikari: "Thank you, Donbe.
+With this, the world is saved."
+Donbe: "What about Grandpa and Grandma?"
+
+Hikari: "I saw them. They should be getting back to the village around now......"
+
+
+Ohana: "Donbe-san, I'm sorry I couldn't help you when it was the most important."
+
+Donbe: "Ah, it's fine."
+Matsuno- suke: "We all did a great job!"
+Ringo: "Wasn't the only thing you did taking off the rope?"
+
+Matsuno- suke: "Well wasn't smelling the only thing you did?"
+
+Donbe: "Hey hey, let's stop fighting."
+
+Hikari: "Well, let's get away from Oniga- shima. The core has been sealed, so it should start sinking soon."
+
+
+Donbe: "Alright, first, we need to cross the sea...... Ohana, are you able to fly low?"
+
+
+Ohana: "Yes, I'll manage......"
+Donbe: "Good. Then let's go."
+
+As you all start to walk, the island begins to shake with a loud noise.
+
+Hikari: "An earthquake! Hurry!"
+Donbe: "No, wait! This......
+this isn't an earth- quake!"
+"Grah! Gyah!"
+3
+りゅうです！ほねのりゅうがまだいきて
+いたのです！
+どんべ「このやろーっ！」
+竜です！骨の竜がまだ生きて
+いたのです！
+ドンベ「このやろーっ！」
+It's the dragon! It's still living as a skeleton!
+
+Donbe: "You bastard!"
+4
+ひかり「どんべーっ！」
+どんべは　りゅうのあたまに
+とびのりました。
+どんべ「うわあーっ！」
+光「ドンベーっ！」
+ドンベは竜の頭に
+飛び乗りました。
+ドンベ「うわあーっ！」
+Hikari: "Donbeee!"
+Donbe jumps on the dragon's head.
+
+Donbe: "Wagh!"
+3
+りゅうのたまを　とったのにうごき
+だしたのは　なぜでしょう。くるった
+ように　あばれています。
+竜の玉を取ったのに動き
+出したのはなぜでしょう。狂った
+ように暴れています。
+Why did it start moving after you removed the core? Now it's raging like mad.
+
+
+1
+はなすあいてがいません。
+話す相手がいません。
+There is no one to talk to.
+1
+へたにうごくと　ふりおとされます。
+下手に動くと振り落とされます。
+If you don't move right, you'll be thrown off.
+3
+りゅうのうごきの　すきをみてかたなを
+ぬき　りゅうのひたいめがけて
+つきさしました。
+竜の動きの隙を見て刀を
+抜き竜の額めがけて
+突き刺しました。
+Seeing an opening, you draw your sword and stab the dragon in the forehead.
+
+
+4
+りゅう「ぎゃあーっ！」
+よりはげしくあばれだしました。
+どんべは　ひっしで　かたなに
+しがみつきました。
+竜「ぎゃあーっ！」
+より激しく暴れだしました。
+ドンベは必死で刀に
+しがみつきました。
+Dragon: "Gyah!"
+The dragon becomes even more furious.
+You hold on to the katana for dear life.
+
+3
+ひたいに　かたなをさされて　いかりに
+くるっています。うっかり　かたなから
+てをはなすと　きけんです。
+額に刀を刺されて怒りに
+狂っています。うっかり刀から
+手を放すと危険です。
+Stabbing its forehead with the katana just made him more angry. It would be dangerous to let go of the katana.
+
+
+1
+りゅうのひたいに　ささっています。
+竜の額に刺さっています。
+It is in the dragon's forehead.
+2
+どんべは　かたなからてをはなし
+ました。
+ドンベは刀から手を放し
+ました。
+You let go of the katana.
+
+4
+どんべ「あーっ………………」
+このたかさからでは　ひとたまりも
+ありません。
+おしまいです。
+ドンベ「あーっ………」
+この高さからではひとたまりも
+ありません。
+おしまいです。
+Donbe: "Ah........."
+Falling from this high, you don't stand a chance.
+
+Game over.
+4
+ここからみると　りゅうのおおきさが
+いっそうよくわかります。そらで
+くるったように　あばれています。
+どんべがしんぱいですね。
+ここから見ると竜の大きさが
+一層よく分かります。空で
+狂ったように暴れています。
+ドンベが心配ですね。
+Looking from here, you realize just how big this dragon is. It is on an angry rampage in the sky.
+
+
+You're worried about Donbe.
+1
+とおくて　よくみえません。
+遠くてよく見えません。
+You can't see him clearly from this far away.
+3
+ごごご………………。
+まだゆれています。どうやら　じしんは
+ほんものだったようですね。
+ごごご………。
+まだ揺れています。どうやら地震は
+本物のだったようですね。
+*Rumble* .........
+It's still shaking. It feels as if it's a real earth- quake.
+
+5
+ひかり「じしんは　ほんもの
+だったのよ。どんべをたすけて
+はやくにげなきゃ」
+りんご「といっても　ここからでは
+てがでませんよ」
+光「地震は本物
+だったのよ。ドンベを助けて
+速く逃げなきゃ」
+りんご「と言ってもここからでは
+手が出ませんよ」
+Hikari: "This earthquake feels real. We have to help Donbe and hurry up and get out of here."
+
+
+Ringo: "You say that, but we have no way to reach him."
+
+2
+ひかり「しまがしずむわ」
+まつのすけ「おいらにげるぜ」
+光「島が沈むわ」
+マツノスケ「おいら逃げるぜ」
+Hikari: "The island is sinking!"
+Matsuno- suke: "We need to get out of here!"
+5
+ひかり「おはな！あそこまで
+とべない？」
+おはな「すみません。ちかくまでなら
+いけそうですが、ちょっと…………」
+ひかり「ちかくまででもいいわ」
+光「おはな！あそこまで
+飛べない？」
+おはな「すみません。近くまでなら
+行けそうですが、ちょっと……」
+光「近くまででもいいわ」
+Hikari: "Ohana! Can you fly up there?"
+
+Ohana: "I'm sorry. I can maybe get close, but it's a little......"
+
+Hikari: "Close is fine!"
+4
+ひかり「あなたならとべるわね」
+てんぐ「おーっあれはだめ！
+こわい　おーっ」
+ひかり「このやくたたず」
+光「あなたなら飛べるわね」
+天狗「おーっあれはダメ！
+怖いおーっ」
+光「この役立たず」
+Hikari: "Can you fly up there?"
+Tengu: "Ooh, I can't!
+It's scary, Ooh!"
+Hikari: "You're useless."
+1
+なにもおこりません。
+何も起こりません。
+Nothing happens.
+1
+どんべを　おいてにげるのですか
+ドンベを置いて逃げるのですか
+Are you planning on leaving Donbe behind and running away?
+4
+ひかり「どんべを
+たすけて」
+みんなは　おはなのせなかにのって
+とびたちました。
+光「ドンベを
+助けて」
+みんなはおはなの背中に乗って
+飛び立ちました。
+Hikari: "Help Donbe!"
+
+Everyone rides on Ohana's back and you all take off.
+
+3
+ひかり「なんか　いいかんがえは
+ないのっ！」
+りんご「だめです。ここからじゃ」
+光「何かいい考えは
+ないのっ！」
+りんご「ダメです。ここからじゃ」
+Hikari: "Do you have any good ideas!?"
+
+Ringo: "No. Not from here."
+3
+まつのすけ「はやくにげようぜ」
+ひかり「どんべを
+たすけるのよ！」
+マツノスケ「速く逃げようぜ」
+光「ドンベを
+助けるのよ！」
+Matsuno- suke: "Let's hurry up and get out of here!"
+Hikari: "We need to save Donbe!"
+
+2
+ひかり「はやく、はやく！」
+おはな「これいじょうはむりです」
+光「速く、速く！」
+おはな「これ以上は無理です」
+Hikari: "Hurry, hurry!"
+Ohana: "I can't go any faster than this."
+3
+ひかり「なにやってんのよー！」
+てんぐ「おーっ！まってくれーっ
+おーっ！おーっ！」
+光「何やってんのよー！」
+天狗「おーっ！待ってくれーっ
+おーっ！おーっ！」
+Hikari: "What are you doing!?"
+Tengu: "Ooh! Wait for meee!
+Ooh! Ooh!"
+2
+ひかり「おはなっ！もっと
+はやくっ！」
+光「おはなっ！もっと
+速くっ！」
+Hikari: "Ohana! Even faster!"
+
+1
+くびかざりをたかくかかげました。
+首飾りを高く掲げました。
+You raise up the necklace.
+5
+おっ！あのひときわ　あかるくかがやく
+ほしは！ひのえさまです。
+ひかりよ、ごくろうだった。
+よくぞここまできた。
+よろしい、わたしもちからをかそう。
+おっ！あの一際明るく輝く
+星は！ヒノエ様です。
+光よ、ご苦労だった。
+よくぞここまで来た。
+よろしい私も力を貸そう。
+Oh! There's a conspicu- ously glowing star! It's Hinoe-sama.
+
+Hikari, thank you for all that you've done.
+You have come a long way.
+I will lend you my power.
+2
+どんべ「あーっ………………」
+ひかり「どんべーっ！」
+ドンベ「あーっ………」
+光「ドンベーッ！」
+Donbe: "Ah........."
+Hikari: "Donbeee!"
+4
+やわらかいおはなのはねがどんべ
+のからだを　うけとめてくれました。
+ひかり「だいじょうぶ？」
+どんべ「うん！ありがとう！」
+柔らかいおはなの羽がドンベ
+の体を受け止めてくれました。
+光「大丈夫？」
+ドンベ「うん！ありがとう！」
+Ohana's soft feathers catch Donbe's body.
+
+Hikari: "Are you okay?"
+Donbe: "Yeah! Thanks!"
+4
+ぴしゃーん！がらがら！
+りゅう「ぎゃあおーっ！」
+ひかり「みてっ！」
+どんべ「おおっ！」
+ピシャーン！ガラガラ！
+竜「ぎゃあおーっ！」
+光「見てっ！」
+ドンベ「おおっ！」
+*Crack!* *Rumble!*
+Dragon: "Gyaaahhh!"
+Hikari: "Look!"
+Donbe: "Ooh!"
+3
+どんべのさした　かたなに
+かみなりが　おちて　りゅうを
+ちょくげきしました。
+ドンベの刺した刀に
+雷が落ちて竜を
+直撃しました。
+Hitting the katana you stabbed it with, lightning directly strikes the dragon.
+
+
+3
+りゅう「ぐわーっ！」
+ひかり「ひのえさまの
+いなずまだわ！」
+竜「ぐわーっ！」
+光「ヒノエ様の
+稲妻だわ！」
+Dragon: "Gwagh!"
+Hikari: "It's Hinoe- sama's lightning bolt!"
+
+4
+ひかり「ばらばらになったわ」
+どんべ「これで　あんしん
+だろう」
+ひかり「さあ　にげましょ」
+光「バラバラになったわ」
+ドンベ「これで安心
+だろう」
+光「さあ、逃げましょ」
+Hikari: "It's been broken into pieces."
+Donbe: "With this, we can be relieved."
+
+Hikari: "Alright, let's get out of here."
+12
+ごごごごご…………。
+どんべ「いそげ」
+ごごごごご…………。
+どんべ「ところで　なぜ　ほねの
+りゅうがうごいたんだろう？」
+ひかり「あんこくのけしんの
+おんねんがのこっていたのか、とらわれ
+たひとたちの　たましいのじゃしんが
+たまっていたのか…………。わたしには
+わからない…………」
+ごごごごご…………。
+どんべ「しかし、おしいなあ」
+ゴゴゴゴゴ……。
+ドンベ「急げ」
+ゴゴゴゴゴ……。
+ドンベ「所でなぜ骨の
+竜が動いたんだろう？」
+光「暗黒の化身の
+怨念が残っていたのか、囚われ
+た人たちの魂の邪心が
+たまっていたのか……。私には
+分からない……」
+ゴゴゴゴゴ……。
+ドンベ「しかし、惜しいなあ」
+*Rumble*....
+Donbe: "Hurry!"
+*Rumble*....
+Donbe: "By the way, why could the dragon's skeleton still move?"
+
+Hikari: "Maybe it was the remaining hatred from the incarnation of darkness, or maybe it was the evil spirits of the souls that were trapped...... I don't know......"
+
+
+
+
+*Rumble*....
+Donbe: "However, it's unfortunate ......"
+31
+ひかり「おしいってなにが？」
+どんべ「おにのしまだから
+たからものでもあったんじゃないか」
+ひかり「ばかね、すこしだったら
+わたしが　りゅうのみやへかえるときに
+もってこさせるわ」
+どんべ「え？かえるってりゅうの
+みやにーっ？」
+ひかり「そうなの…………。さみしい
+けれど　おじいさんとおばあさんに
+よろしくいってね」
+どんべ「もう、あえないの？」
+ひかり「また　いつかあえるわよ
+やっと　わたしたちのたびもおわりね」
+どんべ「ひかり…………
+ほんとにかえらなくちゃならないの
+かい？………………」
+ひかり「ええ……………………」
+どんべ「ぼくもいく！」
+ひかり「だめよ。おじいさんと
+おばあさんは　どうするの？
+それにふつうのにんげんは　はいる
+ことができないのよ……………………。
+きもちは　うれしいけど　それは
+できないわ……………………。
+八ねんかんほんとうにたのしかったわ
+だいじょうぶ。あなたなら　つよく
+いきていけるわね　みすたーうらしま」
+どんべ「えっ………………」
+ひかり「あっ！みてみて！しまが
+くずれるわ」
+光「惜しいって何が？」
+ドンベ「鬼の島だから
+宝物でもあったんじゃないか」
+光「バカね、少しだったら
+私が竜の宮へ帰る時に
+持ってこさせるわ」
+ドンベ「え？帰るって竜の
+宮にーっ？」
+光「そうなの……。寂しい
+けれどおじいさんとおばあさんに
+よろしく行ってね」
+ドンベ「もう、会えないの？」
+光「またいつか会えるわよ
+やっと私たちの旅も終わりね」
+ドンベ「光……
+ほんとに帰らなくちゃならないの
+かい？………」
+光「ええ…………」
+ドンベ「僕も行く！」
+光「ダメよ。おじいさんと
+おばあさんはどうするの？
+それに普通の人間は入る
+ことができないのよ…………。
+気持ちはうれしいけどそれは
+できないわ…………。
+八年間本当に楽しかったわ
+大丈夫。あなたなら強く
+生きていけるわね　ミスター浦島」
+ドンベ「えっ………」
+光「あっ！見て見て！島が
+崩れるわ」
+Hikari: "Huh? Unfortu- nate?"
+Donbe: "Because it's the island of oni, don't you think there's treasure there?"
+
+Hikari: "You idiot, if there was even a bit of treasure I would bring it back with me to the dragon palace."
+
+
+Donbe: "What? Back to the dragon palace?"
+
+Hikari: "Yes...... I'll miss them, but please take care of Grandpa and Grandma."
+
+
+Donbe: "You can't see them again?"
+Hikari: "I'll see them again someday.
+At last, our journey is over."
+Donbe: "Hikari......
+Can you really not come back with me? ............"
+
+Hikari: "Yes...... ......"
+Donbe: "I'm going with you!"
+Hikari: "You can't. What about Grandpa and Grandma?
+
+Further- more, normal humans can't enter...... ......
+
+I'm happy you feel that way, but it's just not possible...... ......
+
+It's been a really fun eight years.
+You'll be fine. You'll live a strong life, <3 Mr. Urashima."
+
+Donbe: "Eh........."
+Hikari: "Ah! Look, look! The island is sinking!"
+
+7
+…………というところで　わしのはなしは
+おわりじゃ。わしのしってるのは
+ここまでじゃ。
+さいごまで　はなしをきいてくれて
+わしはうれしいぞ。
+じゃ、またどこかであおうな。
+さらばじゃ。
+……と言う所でわしの話は
+終わりだ。わしの知ってるのは
+ここまでだ。
+最後まで話を聞いてくれて
+わしはうれしいぞ。
+じゃ、またどこかで会おうな。
+さらばだ。
+......And that's the end of the story. I don't know anything after this.
+
+
+Thank you for listening through to the end.
+
+Well, until next time.
+Farewell.
