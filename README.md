@@ -242,21 +242,151 @@ the best I could think of.
 
 Also, to make the opening and closing of the scrolls look good with the English
 text, the script actually has to redraw significant portions of the screen.  If
-you find some situation where some colors don't look quite right or something,
-let me know.
+you find some situation where something doesn't look quite right related to
+this, let me know.
 
 At the end of chapter one, there is a name input screen.  **On this screen, do
 not push A or B!**  Instead, press start immediately.  If you press start
 without inputting anything else, they will be given the default names どんべ
 (Donbe) and ひかり (Hikari), which is what the script assumes their names will
-be.  If you give them other names, the script will not be able to translate any
-of the messages that include their names.
+be.  Hikari means "light", and as for Donbe, after you get to this point in the
+game, do a google image search for "Donbei" and you should understand where it
+came from.  If you give them other names, the script will not be able to
+translate any of the messages that include their names.
 
 You might notice that one character (Kintaro) speaks strangely.  In the
 original, he spoke in broken and terribly-pronounced English with a sprinkle of
 Japanese mixed in.  To keep it in the vein of being barely understandable, I
 ended up just writing everything he said phonetically.  If you sound out what
 he's saying you should be able to roughly figure out what's going on.
+
+This game has a large number of references to Japanese folklore.  I'll put brief
+summaries of all of the folktales referenced in this game here, ordered very
+roughly from most important to least important:
+
+<details>
+<summary>Momotaro</summary>
+
+There once was an old, childless couple.  One day the old woman goes out to wash
+the laundry and she finds a giant peach floating down the river.  She brings it
+home to her husband, and when they cut it open, a baby boy comes out!  They name
+him Momotaro, or "peach boy".
+
+The old couple raise Momotaro as their own.  When he becomes 15 years old, he
+decides to go to Onigashima, where oni, which are terrible creatures, live.  The
+old woman gives him kibi dango to bring on his journey.  On the way, Momotaro
+meets a dog, a monkey, and a pheasant, and convinces them to come with him by
+giving them the kibi dango.
+
+They reach Onigashima and storm it.  Momotaro sends the pheasant to fly to the
+oni's fortress first, and the rest follow soon afterwards.  They storm the
+fortress, kill the oni, and set the captives there free.  Momotaro also gathers
+the plunder there, including a magic mallet that can grant wishes.  Momotaro
+returns home a hero.
+</details>
+
+<details>
+<summary>The Tale of the Bamboo Cutter</summary>
+
+There once was an old, childless couple.  The old man is a bamboo cutter, and
+one day he finds a shining stalk of bamboo.  He cuts it open, and there's a baby
+girl inside!  He takes the girl home and the old couple raise her as their own,
+naming her Kaguya (which means "shining night").
+
+I'm going to be honest, not much more of the story is important to the game.
+She grows up to be very beautiful, has tons of suitors, and she rejects them
+all (honestly most of the story is all the stuff the suitors try to do to win
+her hand).  She later remembers that she came from the moon and that the people
+from the moon will come to take her back.  Everybody tries to stop this from
+happening, but they are powerless to do so and she gets taken back to the moon.
+</details>
+
+<details>
+<summary>Urashima Taro</summary>
+
+There once was a man named Urashima Taro.  He saved a turtle on a beach, and the
+turtle wanted to thank him, so the turtle brought him to the underwater dragon
+palace.  The princess of the dragon palace thanks him for saving the turtle.  A
+few days later, he wants to go back home, and the princess gives him a jeweled
+box, telling him that he is never to open it.  When he gets back home, he finds
+that somehow, hundreds of years have passed back home, and everybody that he
+knew is dead.  In his grief, he opens the jeweled box.  A white cloud of smoke
+rises, and he turns into an old man.
+</details>
+
+<details>
+<summary>Kintaro</summary>
+
+Honestly the content of this one isn't really referenced other than the main
+character.  Kintaro was raised on Mount Ashigara, was very strong, and was
+friends with some animals.  Things happen in the story but they're not important
+to this game.
+</details>
+
+<details>
+<summary>Crane's Repayment</summary>
+
+A man saves an injured crane.  That night, a woman (I think named Otsu?) appears
+saying that she will be his wife.  She goes into the weaving room and tells the
+man not to enter under any circumstances.  Later, she comes out with beautiful
+cloth.  She keeps making more beautiful pieces of fabric, and finally the man's
+curiousity gets the better of him and he peeks into the room.  Inside, he sees
+that his wife is actually the crane he saved, and the fabric was made with the
+crane's feathers.  When she sees that the man has found out, she leaves, never
+again to return.
+</details>
+
+<details>
+<summary>Kasa Jizo</summary>
+
+A poor, old couple don't enough mochi for New Year's.  The old man goes into
+town to sell his straw hat and raincoat to buy some, but on the way he sees
+several Jizo statues, with one of them missing its straw hat and raincoat.  He
+ends up giving the Jizo statue his hat and raincoat and goes home emptyhanded.
+However, the Jizo statues come by and leave the old couple many things as
+thanks, allowing them to celebrate the new year.
+</details>
+
+<details>
+<summary>Kachi-kachi Yama</summary>
+
+So most of this story isn't important, but at one point in this story a rabbit
+and a tanuki have a race on the water.  The rabbit makes a boat out of wood and
+the tanuki makes a boat out of mud.  The tanuki's boat disintegrates in the
+water and he drowns.
+</details>
+
+<details>
+<summary>Omusubi Kororin</summary>
+
+An old man is eating lunch outside.  He accidentally drops a rice ball and it
+rolls down a hill into a hole.  The man hears singing in the hole, and when he
+gets closer he falls into the hole.  Inside are mice, and they thank him for the
+rice ball.  They give him gifts and he goes back home.  Someone else hears about
+this and he jumps into the hole and pretends to be a cat to scare them away and
+get all of their goods, but they get mad at the man.  Different versions end
+differently, either with him dying or just getting shamed.
+</details>
+
+<details>
+<summary>The Tengu's Magic Cloak</summary>
+
+A boy hears about a cloak that tengus have that makes them turn invisible.  He
+wants the cloak, so the boy grabs a bamboo tube and pretends that he can see
+crazy things in there, and a tengu gets interested and offers to trade the cloak
+for the tube.  The boy then uses the cloak to do mischief.  His mother thinks
+the cloak is garbage and burns it, and the boy then sprinkles the ashes on
+himself to turn invisible again.  However, while he's doing his mischief, the
+ashes fall off of him and he is discovered.
+</details>
+
+<details>
+<summary>Flower-blooming Old Man</summary>
+
+Most of this one is not important, but the main thing is that some old man got
+cherry trees to bloom by sprinkling ashes on them, and he became known as the
+flower-blooming old man.
+</details>
 
 # Technical Details
 
