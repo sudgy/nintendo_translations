@@ -5923,7 +5923,7 @@ Checkpoint
 1
 べんけいがたっています。
 弁慶が立っています。
-There is a strong man standing here.
+Benkei is standing here.
 1
 こわいかおをしてます。
 怖い顔をしてます。
@@ -5934,14 +5934,14 @@ He has a scary face.
 ドンベ「通して」
 弁慶「通すわけには行かーん」
 Donbe: "Let through."
-Strong man: "You can't go through!"
+Benkei: "You can't go through!"
 2
 どんべ「とおして」
 べんけい「いかーんとゆうとろうがー」
 ドンベ「通して」
 弁慶「行かーんと言う徒労がー」
 Donbe: "Let through."
-Strong man: "I said you can't!"
+Benkei: "I said you can't!"
 3
 りんご「わたしだけならなんとかとおれ
 そうですが…………」
@@ -5972,14 +5972,14 @@ You have become the size of a rice grain.
 1
 べんけいにはわいろはききません。
 弁慶には賄賂は聞きません。
-The strong man doesn't listen to your bribe.
+Benkei doesn't listen to your bribe.
 2
 どんべ「どんべっはいりまーす！」
 べんけい「いかーん」
 ドンベ「ドンベっ入りまーす！」
 弁慶「行かーん」
 Donbe: "Coming through!"
-Strong man: "You can't!"
+Benkei: "You can't!"
 1
 みやこはすぐそこなんですよ。
 都はすぐそこなんですよ。
@@ -6020,9 +6020,9 @@ You can't because your body is too small. Ringo is holding the mallet in her mou
 ドンベは踏み潰されて
 しまいました。
 おしまいです。
-Strong man: "Woah!"
+Benkei: "Woah!"
 *Squish!*
-The strong man stumbles and squishes you.
+Benkei stumbles and squishes you.
 
 
 Game over.
@@ -6041,7 +6041,7 @@ Donbe: "Alright, let's go!"
 かんたんにとおれました。
 弁慶は犬など無視しています。
 簡単に通れました。
-The strong man is ignoring things like dogs.
+Benkei is ignoring things like dogs.
 The two of you simply walk right through.
 2
 ひとがたくさん　あるいてきます。
@@ -9859,12 +9859,12 @@ Hikari: "See you tomorrow."
 しもたわ
 じしん、かみなりに　きいつけや
 どぅおほほ」
-光「あ！小太りじいさん」
+光「あ！瘤取りじいさん」
 おじいさん「偉いとこ見つかって
 しもたわ
 自身、雷にきいつけや
 どぅおほほ」
-Hikari: "Ah! It's a plump old man!"
+Hikari: "Ah! The lump-taken old man!"
 Old man: "I found a great place!
 
 You better watch out for lightning!

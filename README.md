@@ -260,9 +260,13 @@ Japanese mixed in.  To keep it in the vein of being barely understandable, I
 ended up just writing everything he said phonetically.  If you sound out what
 he's saying you should be able to roughly figure out what's going on.
 
-This game has a large number of references to Japanese folklore.  I'll put brief
-summaries of all of the folktales referenced in this game here, ordered very
-roughly from most important to least important:
+This game has a large number of references to Japanese culture, in particular
+its folklore.  I'll put brief summaries of all of the folktales and things
+referenced in this game here that I could find, ordered very roughly from most
+important to least important:
+
+<details>
+<summary>Folktales</summary>
 
 <details>
 <summary>Momotaro</summary>
@@ -337,7 +341,7 @@ again to return.
 </details>
 
 <details>
-<summary>Kasa Jizo</summary>
+<summary>The Jizo Statue's Hat</summary>
 
 A poor, old couple don't enough mochi for New Year's.  The old man goes into
 town to sell his straw hat and raincoat to buy some, but on the way he sees
@@ -357,7 +361,7 @@ water and he drowns.
 </details>
 
 <details>
-<summary>Omusubi Kororin</summary>
+<summary>Rolling Riceball</summary>
 
 An old man is eating lunch outside.  He accidentally drops a rice ball and it
 rolls down a hill into a hole.  The man hears singing in the hole, and when he
@@ -366,6 +370,33 @@ rice ball.  They give him gifts and he goes back home.  Someone else hears about
 this and he jumps into the hole and pretends to be a cat to scare them away and
 get all of their goods, but they get mad at the man.  Different versions end
 differently, either with him dying or just getting shamed.
+</details>
+
+<details>
+<summary>The Inch-High Boy</summary>
+
+There once was an old, childless couple.  They are finally blessed with a child,
+but he's only an inch high.  When he grows up, he wants to become a warrior.  In
+the capital, he finds employment.  He saves a girl that was kidnapped by oni by
+getting eaten by the oni and then poking the inside of the oni with a needle.
+He then uses the magic mallet that the oni dropped to turn big, and he marries
+the girl.
+</details>
+
+<details>
+<summary>The Plate Mansion</summary>
+
+There once was a beautiful dishwashing servant.  Her master wanted her to be his
+lover, but she always rejected him.  In an attempt to trick her, he hides one of
+her ten plates that she was responsible for, and then calls her wondering why
+one of his plates was missing.  She freaks out as she counts and recounts only
+nine plates.  He offers to overlook this if she becomes his lover, but she still
+refuses.  He starts torturing her, but she still refuses, and he eventually
+kills her and throws her into a well.
+
+Her ghost comes back to haunt the mansion.  When she appears, she counts to nine
+and then shrieks.  She was finally brought to rest by someone yelling "Ten!"
+after she said nine.
 </details>
 
 <details>
@@ -386,6 +417,85 @@ ashes fall off of him and he is discovered.
 Most of this one is not important, but the main thing is that some old man got
 cherry trees to bloom by sprinkling ashes on them, and he became known as the
 flower-blooming old man.
+</details>
+
+<details>
+<summary>The Fox and the Grapes</summary>
+
+Okay I almost don't want to include this one because it's from the west, from
+Aesop's Fables.  It's about a fox who is trying and trying to get some grapes
+that are out of his reach, and he finally gives up, saying that they were
+probably sour anyway.
+</details>
+
+<details>
+<summary>Tongue-Cut Sparrow</summary>
+
+There once lived an old couple, where the man was honest and kind but the woman
+was arrogant and greedy.  The old man finds an injured sparrow and brings it
+home to nurse back to health.  His wife thinks he's being ridiculous, but he
+continues to take care of it.
+
+One day, he has to go somewhere and leaves the sparrow in the care of his wife.
+His wife doesn't care about the bird at all and goes fishing.  When she gets
+back, she finds that the sparrow had gotten into their food.  She gets so mad
+that she cuts its tongue out and then releases it into the wild.
+
+The old man goes to look for the sparrow, and finds the other sparrows.  They
+want to thank him for taking care of the sparrow and let him choose between a
+large basket and a small basket as a gift.  He takes the small basket and goes
+home, and upon opening it he sees that it's full of treasure.  His wife wants to
+get the large basket and goes to get it.  The sparrows warn her not to open it
+until she gets home, but she opens it anyway, only to find it full of deadly
+snakes and monsters.
+</details>
+
+<details>
+<summary>Lump-taken Old Man</summary>
+
+There once was an old man with a big lump on his cheek.  While hiding in a tree
+from the rain, he sees several oni make a bonfire and party.  The old man joins
+in their dancing.  The oni are entertained by the old man, and want him to
+continue coming back.  They want to ensure this, so they take his lump as
+collateral.
+
+Another old man with a lump hears about this and talks to the first old man to
+let him take his place.  But he's not as good at entertaining the oni, so the
+oni give him "back" his lump, causing him to have two lumps.
+</details>
+
+</details>
+
+<details>
+<summary>Historical Figures</summary>
+
+<details>
+<summary>Ikkyu</summary>
+
+[Ikkyu](https://en.wikipedia.org/wiki/Ikky%C5%AB) was an eccentric Japanese
+monk.  However, there's nobody named Ikkyu in this game.  There is, however,
+someone named Ittai.  In Japanese, Ikkyu is 一休, and Ittai is 一体.
+Furthermore, one of Ittai's distinguishing features is that he only has one
+hair, written in Japanese like 一本.  Thus, Ittai's name is a mixture of Ikkyu's
+and the fact that he has one hair.
+</details>
+
+<details>
+<summary>Benkei</summary>
+
+[Benkei](https://en.wikipedia.org/wiki/Benkei) was a Japanese warrior monk,
+known for his great strength and loyalty.
+</details>
+
+</details>
+
+<details>
+<summary>Other cultural notes</summary>
+
+The only thing that I could figure out that's relevant to the game that's not in
+Japanese folklore is that at the time the game came out, apparently there was a
+huge boom of female college students.  This became dated so quickly that in
+later rereleases of the game they actually changed this reference.
 </details>
 
 # Technical Details
