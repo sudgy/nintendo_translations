@@ -48,6 +48,8 @@ function clear_all()
     Messages.write_lag = 0
     Messages.newlines = 0
     credits_d = -1
+    Messages.need_updating = false
+    Options.need_updating = false
 end
 
 Messages = {}
@@ -468,8 +470,7 @@ function loop()
         end
         draw_scrolls()
     elseif location == 2 then
-        Messages.need_updating = false
-        Options.need_updating = false
+        clear_all()
         --print("Title")
     elseif location == 3 then
         --print("Zenpen credits")
