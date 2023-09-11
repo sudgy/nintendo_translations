@@ -5365,8 +5365,8 @@ The reincar- nation of darkness is spreading evil throughout the world.
 You are the only one that can seal the dragon away.
 
 Donbe: "Wh-what do I do......"
-...The essence of the dragon is its core.
-Take the core and put it into the jeweled box. That is all.
+...The essence of the dragon is its orb.
+Take the orb and put it into the jeweled box. That is all.
 
 Donbe: "Where is the dragon?"
 ...Oniga- shima. To get there, you must pass through Shiraishi Spring, where heavenly water wells up.
@@ -6645,7 +6645,7 @@ But that does not matter.
 Donbe: "Please teach me. About the dragon
 ...what is it?"
 ...This reality is made up of two worlds.
-The dragon has already turned one world...into a world of darkness. These two worlds are connected by the dragon's core.
+The dragon has already turned one world...into a world of darkness. These two worlds are connected by the dragon's orb.
 
 
 Thus, if we're a little negligent, the dragon can fly into this world.
@@ -6658,7 +6658,7 @@ He has come to find joy in sucking people's souls and creating a new body.
 
 Donbe: "The dragon can have a body by using people's souls..."
 
-...That is correct. The souls are connected to the dragon's core. If you can release them, his body will cease to exist.
+...That is correct. The souls are connected to the dragon's orb. If you can release them, his body will cease to exist.
 
 
 The glow from your bracelet weakens.
@@ -9999,7 +9999,7 @@ You barely escaped with your life.
 もえてしまいました。
 根元を残して
 燃えてしまいました。
-The stump is the only thing that remaining that hasn't burned up.
+The stump is the only thing remaining that hasn't burned up.
 
 3
 どんべ「いやーっ…………しかし、
@@ -10144,7 +10144,7 @@ It goes deeper and deeper.
 しているようです。
 水に濡れた岩肌が、ヌメヌメ
 しているようです。
-The rock has gotten wet, and is glistening.
+The rock has gotten wet and is glistening.
 
 2
 どんべ「きをつけろよ」
@@ -10158,7 +10158,7 @@ Matsuno- suke: "Yeah..."
 つもりですか？
 白石の泉を見つけずに戻る
 つもりですか？
-You want to turn back without finding Shiraishi spring?
+You want to turn back without finding Shiraishi Spring?
 
 3
 ひかり「どんべだいじょう
@@ -10501,7 +10501,7 @@ The river's current is intense.
 バシャッ！水が跳ね松明の火が
 消えました。おーっ！水が
 輝いています。
-*Splash!* The splash of the water puts out the torch's flame. Ooh! The water is glowing.
+*Splash!* The splash of water puts out the torch's flame. Ooh! The water is glowing.
 
 
 1
@@ -10646,7 +10646,7 @@ Thank you for the delicious mushrooms, I've been craving them for a long, looong
 
 
 My name is Saburo."
-Donbe: "Is this Shiraishi spring?"
+Donbe: "Is this Shiraishi Spring?"
 
 Saburo: "Hoo hoo hoo, if you want me to tell you, give me more mushrooms."
 
@@ -10660,7 +10660,7 @@ Saburo: "Hoo hoo hoo, if you want me to tell you, give me more mushrooms."
 うまいずら、たまらんずら、最高
 ずら。ああ、もっと食いてえずら」
 You throw the mushroom at Saburo.
-Saburo: "Wow! Th-th-this is sooo good, it's irrestible, it's the best. Ah, I want to eat more!"
+Saburo: "Wow! Th-th-this is sooo good, it's irresistible, it's the best. Ah, I want to eat more!"
 
 
 1
@@ -10696,7 +10696,7 @@ Saburo: "What are you doing!?"
 そういうとサブロウは水の中に
 消えてしまいました。
 Saburo: "Now I'm angry!
-Resenting food is terrible."
+This is terrible."
 With that, Saburo disappears into the water.
 
 2
@@ -10814,7 +10814,7 @@ The two of you nervously go in.
 で囲まれ白く輝いています。
 でも待ってください。何かいます。
 Donbe: "We did it! We found it!
-This is Shiraishi spring!"
+This is Shiraishi Spring!"
 Matsuno- suke: "We've finally done it!"
 True to the name of this place, you are surrounded by glistening white marble.
 
@@ -10882,7 +10882,7 @@ You all go back in the hole.
 りんご「この匂いですよ」
 Donbe: "The strange bird was here just a moment ago."
 
-Hikari: "This is Shiraishi spring."
+Hikari: "This is Shiraishi Spring."
 
 Ringo: "This is the smell."
 3
@@ -10945,7 +10945,7 @@ Upon under- standing this about Hikari, the bird takes the form of a pheasant.
 みんなで泉に飛び込みました。
 Hikari: "It's been a while, Ohana."
 Ohana: "I'm glad to see you safe...... Princess ......"
-Hikari: "You've been keeping watch here for a long time, haven't you."
+Hikari: "You've been keeping watch here for a long time, haven't you?"
 
 Ohana: "Yes...... The dragon has been getting stronger and stronger. You must hurry and seal it away......"
 
@@ -11043,7 +11043,7 @@ You return to the village to see......
 
 Donbe: "The village...... The village......
 Mom! Where are you? Mom!"
-The village had disappeared without a trace.
+The village has disappeared without a trace.
 In the short time that you were in the dragon palace, hundreds of years passed in the village.
 
 
@@ -11235,10 +11235,10 @@ Also, for some reason, it seems to have gotten heavier.
 これは宮水を溜めておくための物
 だったのです！わけて使えるように
 一つずつ外れる仕組みになってます
-Looking closer at it, each ball of the necklace has been filled with water from the spring.
+Looking closer at it, each bead of the necklace has been filled with water from the spring.
 
 
-This is something for storing heavenly water! It was made for removing them one by one.
+This is something for storing heavenly water! It was made so that you could remove the beads one by one.
 
 
 1
@@ -11388,7 +11388,7 @@ Donbe: "Alright! I'll be a decoy and lure the oni. During that time you can look
 
 Hikari: "Got it. I'm sure the jeweled box is there."
 
-Donbe: "I'll search for the dragon's core and will meet up with you later."
+Donbe: "I'll search for the dragon's orb and will meet up with you later."
 
 Hikari: "What about the others?"
 Donbe: "Hm, maybe one of you can come with me?"
@@ -11416,7 +11416,7 @@ Matsuno- suke: "Yeah, I got it."
 ドンベ「様子はどうだ？」
 おはな「建物に鬼がいますね」
 Donbe: "Anything to report?"
-Ohana: "There are oni in the building."
+Ohana: "There are oni at the building."
 1
 けいかくをたててからにしましょう。
 計画を立ててからにしましょう。
@@ -11583,7 +11583,7 @@ There is absolutely no hope for you if you fall.
 通じるわけがありません。
 Donbe: "Hehehe...... Hi."
 Oni: "........."
-It didn't understand.
+It doesn't understand.
 2
 どんべ「やっつけてくれよお」
 りんご「むりですよー」
@@ -11612,14 +11612,14 @@ This does not seem to be the situation to do something like that.
 ドンベ「やーっ！」
 ポキンっ！大事な刀が金棒で
 簡単に折られてしまいました。
-ドンベ「嘘っ！」
+ドンベ「嘘っ？」
 Of course, this place is for boys! You'll attack. You turn towards the oni and slash.
 
 
 Donbe: "Yah!"
 *Snap!* Your important katana is easily cut by the metal bar.
 
-Donbe: "You've gotta be kidding me!"
+Donbe: "No way!"
 1
 ひかりはいません。
 光はいません。
@@ -11627,7 +11627,7 @@ Hikari's not here.
 1
 かたなはおれています！
 刀は折れています！
-Your katana broke!
+Your katana is broken!
 1
 うみにおちますよ。
 海に落ちますよ。
@@ -12137,7 +12137,7 @@ You can't see anything.
 しまった！宮水があればあたりを
 照らすことができるのに……失敗
 したようですね。
-Shoot! If you had heavenly water, you would be able to light the place up......  That's a mistake.
+Shoot! If you had heavenly water, you would be able to light the place up......  That was a mistake.
 
 
 2
@@ -12203,7 +12203,7 @@ You and Ringo enter.
 Putting the heavenly water that Hikari gave you on it, the bracelet shines.
 
 Dragon: "Graaah!"
-Upon seeing the light, the incarnation of darkness screamed. However, it did not appear to get weakened.
+Upon seeing the light, the incarnation of darkness screams. However, it does not appear to get weakened.
 
 
 Donbe: "Shoot! It didn't work?"
@@ -12227,7 +12227,7 @@ Alright! With this, you can see better.
 です。はやくでたいもんです。
 何とも言えない気味の悪い所
 です。速く出たいもんです。
-This place is indescriba- bly creepy. You want to hurry up and get out of there.
+This place is indescriba- bly creepy. You want to hurry up and get out of here.
 
 1
 あかるくひかっています。
@@ -12238,7 +12238,7 @@ It is shining brightly.
 ところにきました。
 あっ！あれはなんでしょう！おかしな
 所に来ました。
-Ah! What is that! You've come to a strange place.
+Ah! What is that!? You've come to a strange place.
 
 1
 どこへいくというんですか？
@@ -12257,7 +12257,7 @@ Where are you saying to go?
 魂をつなぐ物のようです。
 There's a bunch of sticky thread-like things surrounding something round.
 
-Could this round thing be the dragon's core, with the thread being what's called the threads of life connecting it to the souls?
+Could this round thing be the dragon's orb, with the thread being what's called the threads of life connecting it to the souls?
 
 
 1
@@ -12271,7 +12271,7 @@ It's soaked in heavenly water.
 玉の緒が絡まっていてよく見え
 ませんがあの玉を取れば竜を
 封じ込められるはずです。
-The threads are covering it so you can't get a good look at it, but if you can take that ball you will seal the dragon away.
+The threads are covering it so you can't get a good look at it, but if you can take that orb you will seal the dragon away.
 
 
 5
@@ -12285,10 +12285,10 @@ The threads are covering it so you can't get a good look at it, but if you can t
 竜の肉になっているのです。
 これを切ればみんな自分の体へ
 返ることができるでしょう。
-There are a great number of them. Each and every one of them represents a human soul and are what makes up the dragon's flesh.
+There are a great number of them. Each and every one of them represents a human soul and they make up the dragon's flesh.
 
 
-If you cut them, everybody's bodies should be able to return to them.
+If you cut them, everybody should be able to return to their own bodies.
 
 6
 　よし！これをひかりのところ
@@ -12307,7 +12307,7 @@ Alright! If you can bring this to Hikari, you should be able to take down the dr
 
 You reach your arm out.
 Donbe: "What are these things!?"
-Evil spirits that had sold their soul to the dragon attack.
+Evil spirits that had sold their souls to the dragon attack.
 
 1
 こんなものとれませんよ。
@@ -12333,7 +12333,7 @@ Donbe: "I'll help everyone return to their own body!"
 You draw close to cut the threads.
 
 Donbe: "What are these things!?"
-Evil spirits that had sold their soul to the dragon attack.
+Evil spirits that had sold their souls to the dragon attack.
 
 3
 おにのすきをついてすすむけいかく
@@ -12487,7 +12487,7 @@ Oh? You've heard that voice somewhere ......
 天狗「おーっ、何してんだ？おー」
 ドンベ「あっ！天狗さん！」
 た、た…助けてえ！」
-Tengu: "Ooh, what are you doing? Ooh"
+Tengu: "Ooh, what are you doing? Ooh!"
 Donbe: "Ah! Tengu-san!
 H-h... heeeeelp!"
 5
@@ -12528,7 +12528,7 @@ The tengu carries your body down to the ground.
 Donbe: "Hikari! I did it!
 Everyone is returning to their own bodies."
 Hikari: "Ah, Tengu-san <3"
-Tengu: "Ooh, I'm happy. That we're meeting again.
+Tengu: "Ooh, I'm happy. We're meeting again.
 I like you two."
 Hikari: "We did it!"
 Donbe: "Alright, let's seal the dragon away."
@@ -12547,7 +12547,7 @@ Donbe: "Alright, let's seal the dragon away."
 光「これじゃダメよ！」
 Hikari: "Huh? But, I don't have the jeweled box!"
 
-Donbe: "I don't have the dragon's core either!"
+Donbe: "I don't have the dragon's orb either!"
 
 Hikari: "This won't work!"
 4
@@ -12566,7 +12566,7 @@ You were so close. How unfortu- nate.
 1
 それっ！りゅうのたまをとったぞ！
 それっ！竜の玉を取ったぞ！
-There! You take the dragon's core.
+There! You take the dragon's orb.
 6
 ひかり「え？でも、わたし
 たまてばこもってない！」
@@ -12582,7 +12582,7 @@ There! You take the dragon's core.
 
 Hikari: "Huh? But, I don't have the jeweled box!"
 
-Donbe: "No! And I even went to all this trouble to get the dragon's core."
+Donbe: "No! And I even went to all this trouble to get the dragon's orb."
 
 Hikari: "Oh no......"
 \
@@ -12665,7 +12665,7 @@ You dig in the place that Ringo told you to.
 見つけたわ！さあ、ドンベが
 竜の玉を持ってくるわ」
 光たちは外へ出ました。
-Hikari: "Hurray! We finally found it! Alright, Donbe just needs to get the dragon's core."
+Hikari: "Hurray! We finally found it! Alright, Donbe just needs to get the dragon's orb."
 
 
 The two of you go outside.
@@ -12701,7 +12701,7 @@ You already took the jeweled box.
 これじゃダメだわ」
 
 Hikari: "Here, the jeweled box."
-Donbe: "Shoot! I didn't grab the dragon's core!"
+Donbe: "Shoot! I didn't grab the dragon's orb!"
 
 Hikari: "What!? Oh no......
 This won't work!"
@@ -12718,8 +12718,8 @@ This won't work!"
 竜の玉を入れて蓋をしました
 
 Hikari: "Here, the jeweled box."
-Donbe: "Alright, I've got the dragon's core."
-You put the dragon's core into the jeweled box and put the lid on it.
+Donbe: "Alright, I've got the dragon's orb."
+You put the dragon's orb into the jeweled box and put the lid on it.
 
 \
 8
@@ -12739,7 +12739,7 @@ You put the dragon's core into the jeweled box and put the lid on it.
 ドンベ「何も起こらないぞ」
 光「嘘……」
 
-You put the dragon's core into the jeweled box and put the lid on it.
+You put the dragon's orb into the jeweled box and put the lid on it.
 
 "............"
 "............"
@@ -12889,7 +12889,7 @@ Matsuno- suke: "Well wasn't smelling the only thing you did?"
 
 Donbe: "Hey hey, let's stop fighting."
 
-Hikari: "Well, let's get away from Oniga- shima. The core has been sealed, so it should start sinking soon."
+Hikari: "Well, let's get away from Oniga- shima. The orb has been sealed, so the island should start sinking soon."
 
 
 Donbe: "Alright, first, we need to cross the sea...... Ohana, are you able to fly low?"
@@ -12934,7 +12934,7 @@ Donbe: "Wagh!"
 竜の玉を取ったのに動き
 出したのはなぜでしょう。狂った
 ように暴れています。
-Why did it start moving after you removed the core? Now it's raging like mad.
+Why did it start moving after you removed the orb? Now it's raging like mad.
 
 
 1
@@ -12944,7 +12944,7 @@ There is no one to talk to.
 1
 へたにうごくと　ふりおとされます。
 下手に動くと振り落とされます。
-If you don't move right, you'll be thrown off.
+If you don't move the right way, you'll be thrown off.
 3
 りゅうのうごきの　すきをみてかたなを
 ぬき　りゅうのひたいめがけて
@@ -13229,7 +13229,7 @@ Hikari: "It's Hinoe- sama's lightning bolt!"
 だろう」
 光「さあ、逃げましょ」
 Hikari: "It's been broken into pieces."
-Donbe: "With this, we can be relieved."
+Donbe: "What a relief!"
 
 Hikari: "Alright, let's get out of here."
 12
@@ -13335,12 +13335,12 @@ Donbe: "However, it's unfortunate ......"
 Hikari: "Huh? Unfortu- nate?"
 Donbe: "Because it's the island of oni, don't you think there's treasure there?"
 
-Hikari: "You idiot, if there was even a bit of treasure I would bring it back with me to the dragon palace."
+Hikari: "You idiot, if there was even a bit of treasure I would be bringing it back with me to the dragon palace."
 
 
 Donbe: "What? Back to the dragon palace?"
 
-Hikari: "Yes...... I'll miss them, but please take care of Grandpa and Grandma."
+Hikari: "Yes...... I'll miss you all, but please take care of Grandpa and Grandma."
 
 
 Donbe: "You can't see them again?"
@@ -13349,7 +13349,7 @@ At last, our journey is over."
 Donbe: "Hikari......
 Can you really not come back with me? ............"
 
-Hikari: "Yes...... ......"
+Hikari: "No...... ......"
 Donbe: "I'm going with you!"
 Hikari: "You can't. What about Grandpa and Grandma?
 

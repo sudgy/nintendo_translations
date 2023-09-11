@@ -233,7 +233,7 @@ function Options.add_value()
     if #value ~= 0 then
         local trans = Options.translations[string.char(e.unpack(value))]
         if trans then
-            if trans == "\\\\\\\\\\\\\\\\\\\\\\\\\\Place\n" and (total - this + 1 == 1 or total - this + 1 == 2) then
+            if trans == "\\\\\\\\\\\\\\\\\\\\\\\\\\Place\n" and (total - this + 1 == 1 or total - this + 1 == 2 or total - this + 1 == 4) then
                 Options.values[total - this+1] = "\\\\\\\\\\\\\\\\\\\\Deeper\n"
             else
                 Options.values[total - this+1] = trans
