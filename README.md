@@ -30,12 +30,12 @@ There are several caveats that come with this background:
 # How to Use
 
 For technical reasons, to use these scripts, you (currently) must use either
-Mesen or FCEUX as your emulator.  Due to the nature of how the entire concept
-works, you cannot play on original hardware.  If you want to use another
-emulator, you will have to implement it yourself (I have tried to make it easy
-to add support for emulators, but there are limitations, see below).  To play a
-game, download the .lua file corresponding to your emulator and download the
-.lua and .bin files that start with (something similar to) the name of that
+Mesen (but not Mesen 2) or FCEUX as your emulator.  Due to the nature of how the
+entire concept works, you cannot play on original hardware.  If you want to use
+another emulator, you will have to implement it yourself (I have tried to make
+it easy to add support for emulators, but there are limitations, see below).  To
+play a game, download the .lua file corresponding to your emulator and download
+the .lua and .bin files that start with (something similar to) the name of that
 game.  For example, if you wanted to play Famicom Detective Club: The Missing
 Heir on fceux, you would download the files `fceux.lua`, `heir.lua`,
 `heir_messages.bin`, and `heir_options.bin`.  If you don't want to worry about
@@ -69,7 +69,7 @@ base_directory = "FILL THIS IN"
 dofile(base_directory .. "fceux.lua")
 ```
 You need to replace "FILL THIS IN" with the directory that the scripts are in.
-I know this is annoying, but it seems that mesen can't do relative file paths
+I know this is annoying, but it seems that Mesen can't do relative file paths
 for some reason, and to make the scripts as emulator-agnostic as possible, they
 all have to not use relative file paths.  Also, you need to make sure that the
 `dofile` line corresponding to your emulator does *not* have `--` at the
@@ -277,10 +277,9 @@ home to her husband, and when they cut it open, a baby boy comes out!  They name
 him Momotaro, or "peach boy".
 
 The old couple raise Momotaro as their own.  When he becomes 15 years old, he
-decides to go to Onigashima, where oni, which are terrible creatures, live.  The
-old woman gives him kibi dango to bring on his journey.  On the way, Momotaro
-meets a dog, a monkey, and a pheasant, and convinces them to come with him by
-giving them the kibi dango.
+decides to go to Onigashima, where oni live.  The old woman gives him kibi dango
+to bring on his journey.  On the way, Momotaro meets a dog, a monkey, and a
+pheasant, and convinces them to come with him by giving them the kibi dango.
 
 They reach Onigashima and storm it.  Momotaro sends the pheasant to fly to the
 oni's fortress first, and the rest follow soon afterwards.  They storm the
@@ -485,6 +484,45 @@ and the fact that he has one hair.
 
 [Benkei](https://en.wikipedia.org/wiki/Benkei) was a Japanese warrior monk,
 known for his great strength and loyalty.
+</details>
+
+</details>
+
+<details>
+<summary>Creatures</summary>
+
+<details>
+<summary>Oni</summary>
+
+Oni are terrible creatures with superhuman strength.  The term "oni" is
+sometimes translated "ogre", "demon", or "troll", which should give you a decent
+idea as to what these things are like.  In Momotaro, they come from Onigashima,
+or the island of oni.
+</details>
+
+<details>
+<summary>Snow Women</summary>
+
+Snow women (or yuki onna) are pretty much just that: snow women.  While there's
+a lot of stories involving snow women, none of them are really that important
+here.
+</details>
+
+<details>
+<summary>Kappa</summary>
+
+Kappa are turtle-like humanoids that live in the water.  They can get onto land
+by filling the dish on their heads with water.  If the water spills or they lose
+the dish, they become severely weakened.
+</details>
+
+<details>
+<summary>Tengu</summary>
+
+Tengu are mythical creatures that take on characteristics of humans, monkeys,
+and birds.  They are typically portrayed as having red skin with a long nose and
+wings.  In folklore they're often portrayed as being a little silly and easily
+tricked, despite this not being how they're portrayed in mythology.
 </details>
 
 </details>
