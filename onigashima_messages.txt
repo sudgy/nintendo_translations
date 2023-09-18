@@ -5351,8 +5351,8 @@ Donbe: "Hinoe? I heard that somewhere."
 Donbe: "The shrine of the dragon?"
 ...The dragon is sealed away in the jeweled box.
 
-...The jeweled box is in the possession of the princess of the dragon palace.
-The princess must be reincar- nated once every one million years to become young again.
+...The jeweled box is in the possession of Otohime, the princess of the dragon palace.
+She must be reincar- nated once every one million years to become young again.
 
 
 During this time, the jeweled box is left to the animals on the surface, but foolishly, the humans have opened it.
@@ -7840,7 +7840,7 @@ Hikari: "I also heard an oracle from Hinoe-sama while I was sleeping."
 
 Donbe: "So... Do you remember every- thing?"
 
-Hikari: "Yes, I am the princess of the dragon palace... I must seal the incarnation of evil... You will help me."
+Hikari: "Yes, I am Otohime, the princess of the dragon palace... I must seal the incarnation of evil... You will help me."
 
 
 
@@ -9635,7 +9635,7 @@ If that's the case, I would like to help you somehow..."
 光「ありがとう」
 Hikari: "Please,
 <3 Janou-san!"
-Janou: "Ack! Th-that necklace! Are you perhaps the princess of the dragon palace!?"
+Janou: "Ack! Th-that necklace! Are you perhaps Otohime!?"
 
 
 Hikari: "I am, but who are you?"
@@ -10910,7 +10910,7 @@ The large bird appears in front of your eyes.
 きじの姿になりました。
 The bird stares motionlessly at Hikari.
 
-Bird: "That necklace ......Could you be the princess of the dragon palace?"
+Bird: "That necklace ......Could you be Otohime-sama?"
 
 Upon under- standing this about Hikari, the bird takes the form of a pheasant.
 
@@ -11037,7 +11037,7 @@ You begin to lose conscious- ness......
 ............
 You see a dream.
 "You must never open this under any circum- stances."
-Upon saying this, the princess of the dragon palace gives you the jeweled box.
+Upon saying this, Otohime gives you the jeweled box.
 
 You return to the village to see......
 
@@ -11051,7 +11051,7 @@ Saddened, you open the jeweled box.
 
 White smoke rises up.
 The incarnation of darkness rises up into the sky.
-At that time, something pulls on your arm. You, together with the princess of the dragon palace, are brought into a large saucer.
+At that time, something pulls on your arm. You, together with Otohime, are brought into a large saucer.
 
 
 
@@ -11274,7 +11274,7 @@ Hikari: "I'll swim."
 Ringo: "I'm fine with it myself, but Hikari-san, you can't swim in a hakama."
 
 
-Hikari: "I'm the princess of the dragon palace."
+Hikari: "I'm Otohime."
 Ringo: "Ah, that's right. Swimming is your specialty."
 
 3

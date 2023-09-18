@@ -309,12 +309,12 @@ happening, but they are powerless to do so and she gets taken back to the moon.
 
 There once was a man named Urashima Taro.  He saved a turtle on a beach, and the
 turtle wanted to thank him, so the turtle brought him to the underwater dragon
-palace.  The princess of the dragon palace thanks him for saving the turtle.  A
-few days later, he wants to go back home, and the princess gives him a jeweled
-box, telling him that he is never to open it.  When he gets back home, he finds
-that somehow, hundreds of years have passed back home, and everybody that he
-knew is dead.  In his grief, he opens the jeweled box.  A white cloud of smoke
-rises, and he turns into an old man.
+palace.  Otohime, the princess of the dragon palace, thanks him for saving the
+turtle.  A few days later, he wants to go back home, and Otohime gives him a
+jeweled box, telling him that he is never to open it.  When he gets back home,
+he finds that somehow, hundreds of years have passed back home, and everybody
+that he knew is dead.  In his grief, he opens the jeweled box.  A white cloud of
+smoke rises, and he turns into an old man.
 </details>
 
 <details>
