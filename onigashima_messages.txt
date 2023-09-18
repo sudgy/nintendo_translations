@@ -532,7 +532,7 @@ The Jizo statue doesn't say anything.
 かさをきせてあげました。
 おばあさんはお地蔵さまに蓑と
 傘を着せてあげました。
-You put the straw raincoat and the the umbrella on the Jizo statue.
+You put the straw raincoat and the umbrella on the Jizo statue.
 
 1
 うれしそうなかおにみえます。
@@ -2527,10 +2527,10 @@ Donbe: "Huh?"
 光の声が洞窟に響き
 ます。あっ！鈍い音とともにお鍋
 の一部が開きました。
-Hikari reads aloud that an abominable darkness will reincarnate in the dragon palace.
+Hikari reads aloud that an abominable darkness will reincarnate in the shrine of the dragon.
 
 
-The return of my bloodline will set things right.
+I will be reborn and set things right.
 
 It seems to be someone's message ......
 Hikari's voice echoes in the cave. Ah! With a dull sound, a part of the saucer opens.
@@ -11051,7 +11051,7 @@ Saddened, you open the jeweled box.
 
 White smoke rises up.
 The incarnation of darkness rises up into the sky.
-At that time, something pulls on your arm. You, together with the princess of the dragon palace, are brought into a ghostly pot.
+At that time, something pulls on your arm. You, together with the princess of the dragon palace, are brought into a large saucer.
 
 
 
