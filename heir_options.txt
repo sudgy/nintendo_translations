@@ -1,7 +1,7 @@
 ばしょいどう
 Travel
 きく
-Talk
+Talk/Ask
 しらべる
 Investigate
 おもいだす
@@ -141,7 +141,7 @@ Suicide
 びじょ
 Beautiful woman
 かいしゃ
-The company
+Company
 しゃいん
 Employee
 うわさ

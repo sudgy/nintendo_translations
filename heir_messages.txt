@@ -18,7 +18,7 @@ This is a work of fiction.  The appearance of the names of people, places, and o
 朦朧とする意識の中で男の
 声が響いている。
 
-You were carried away by someone.  In your foggy consciousness, you hear a man's voice.
+You have been carried away by someone.  In your foggy consciousness, you hear a man's voice.
 
 
 
@@ -115,7 +115,7 @@ Man: "That was a disaster, wasn't it.  But I'm glad you're safe.  My name is Ama
 アマチ「とりあえずウナカミの崖へ行けば
         何か思い出せるかも知れないね。
 You: "My head is injured.  Is that when this happened?"
-Amachi: "For now, if you go to Unakami cliff, you might remember something."
+Amachi: "For now, if you go to Unakami Cliff, you might remember something."
 
 
 あなた　「うーん、　なにも　おもいだせない・・・
@@ -150,7 +150,7 @@ Amachi: "I may be able to help you, so feel free to meet with me.  You can consu
           そばを通りかかったら道端の
           草むらに君が倒れていた。
 
-Amachi: "I was walking next to Unakami cliff when I happened to find you collapsed in the grass on the side of the road."
+Amachi: "I was walking next to Unakami Cliff when I happened to find you collapsed in the grass on the side of the road."
 
 
 
@@ -174,7 +174,7 @@ Amachi: "It seems that you had somehow fallen off the cliff and onto the grass."
         人も滅多に通らないそうだから
         不幸中の幸いだったよ。
 
-Amachi: "On the other side is the sea.  It seems that people rarely go through there, so it's a good thing I was there."
+Amachi: "On the other side is the sea.  People rarely go through there, so it's a good thing I was there."
 
 
 
@@ -246,7 +246,7 @@ The distance from the top of the cliff to the grass seems to be about 4 or 5 met
 
 
 
-It's Unakami beach.
+It's Unakami Beach.
 
 
 
@@ -294,7 +294,7 @@ You: "According to Amachi-san, I was lying around here.  I must have fallen from
         どこに行っていたの？
         心配したんだから！
 あなた「君は僕の知り合いなんですか？
-Girl: "You didn't even tell me where you're going!  I've been worried!"
+Girl: "You didn't even tell me where you were going!  I've been worried!"
 You: "Do you know me?"
 
 
@@ -318,7 +318,7 @@ Girl: "Are you kidding me?  I'm Ayumi, from the same detective agency as you.  W
         きを失ったらしいですって？
         もし反対側の海の方へ
         落ちてたら助からなかったわよ！
-Ayumi: "It seems that you fell from here onto the grass and lost consciousness?  If you had fallen into the sea on the other side you wouldn't have been saved!"
+Ayumi: "So you fell from here onto the grass and lost consciousness?  If you had fallen into the sea on the other side you wouldn't have been saved!"
 
 
 
@@ -342,7 +342,7 @@ Ayumi: "Alright.  Anyway, please come with me to the office."
         手がかりらしきものは見つからない。
 
 
-You: "I investigated the surroundings for anything that looks like a clue but found nothing."
+You: "I investigated the surroundings for anything that looks like a clue, but found nothing."
 
 
 
@@ -354,7 +354,7 @@ You: "I investigated the surroundings for anything that looks like a clue but fo
 ほとんど人の行き来はないようです。
 
 
-You are at the summit of Unakami cliff.  There are barely any people around.
+You are at the summit of Unakami Cliff.  There are barely any people around.
 
 
 
@@ -546,7 +546,7 @@ Alright!  Now we can start the real investigation!
 ミョウジン駅に降り立っていた。
 
 
-A few hours later, Shmoby got off at Myoujin station.
+A few hours later, you get off at Myoujin station.
 
 
 
@@ -558,7 +558,7 @@ A few hours later, Shmoby got off at Myoujin station.
 このミョウジン村とアマチの
 マンションのあるオオサト市とのほぼ
 中間に当たる場所だった。
-Unakami cliff, where Shmoby's accident was, is located about halfway between Myoujin village and Osato city, where Amachi's apartment is.
+Unakami Cliff, the location of your accident, is located about halfway between Myoujin Village and Osato City, where Amachi's apartment is.
 
 
 
@@ -606,7 +606,7 @@ The station appears to be quite old.
 
 
 
-Station Attendant: "Hm?  I've never heard of it."
+Station Attendant: "Hm?  I've never heard of that."
 
 
 
@@ -666,7 +666,7 @@ Station Attendant: "Even if you suddenly say that..."
     　領主だったそうですが、今は
     　日本有数の資産家として
     　有名です。
-Station Attendant: "It seems that during the Sengoku period they were the lord of this region, but now they are famous for being some of the wealthiest people in Japan."
+Station Attendant: "It seems that during the Sengoku period they were the lords of this region, but now they are famous for being some of the wealthiest people in Japan."
 
 
 
@@ -714,7 +714,7 @@ The president of the Ayashiro company, Kiku, died unexpectedly, causing the butl
 公開の直後に死亡したからだ。
 遺言書に一体何が
 書かれていたと言うんだ?
-It was said that Kiku died shortly after announcing her will.  What could possibly be written in that will?
+It was said that Kiku died shortly after the reading of her will.  What could possibly be written in that will?
 
 
 
@@ -786,7 +786,7 @@ Shmoby: "Actually...  I..."
     　では依頼した調査のないようや
     　私の名前まで
     　忘れてしまわれたのですか！
-Butler: "Huh!  Amnesia!  So that means that you have forgotten about things like the investigation that I requested and my name?"
+Butler: "Huh!  Amnesia!  So that means that you have forgotten about things like my name and the investigation that I requested?"
 
 
 
@@ -918,7 +918,7 @@ Butler: "Kiku-sama was the president of the Ayashiro company, but she was 78 yea
       されたのですが、遺言公開の
       直後にご自分の寝室で
       亡くなられてしまったのです。
-Butler: "Thus, she wrote her will, but right after she announced it, she died in her room."
+Butler: "Thus, she wrote her will, but right after it was read, she died in her room."
 
 
 
@@ -942,7 +942,7 @@ Butler: "Do you still not remember any of this?"
           ご親戚の方が立ち会われただけです。
 
 
-Zenzou: "When the will was announced, the only people present were Kiku-sama's relatives."
+Zenzou: "When the will was read, the only people present were Kiku-sama's relatives."
 
 
 
@@ -1026,7 +1026,7 @@ Zenzou: "After the gathering on that day, everyone has not been living here."
           こちらにお泊まりになるそうです。
           今はどちらかへお出かけの用で、
           いらっしゃいませんが。
-Zenzou: "Only Azusa-sama is staying here for a moment.  Although at the moment she has some business to attend to and is not here."
+Zenzou: "Only Azusa-sama is staying here for now.  Although at the moment she has some business to attend to and is not here."
 
 
 
@@ -1234,6 +1234,18 @@ It's a hanging scroll.
 
 
 
+はなが　いけてあります。
+
+
+
+花が生けてあります。
+
+
+
+There is a flower arrangement here.
+
+
+
 しつじの　ぜんぞうです。
 
 
@@ -1314,7 +1326,7 @@ Kumada: "Well, with the timing, I can understand why the butler thinks it's unna
         亡くなられたとはのう・・・
 
 
-Kumada: "I know that Kiku died on the night that the will was announced..."
+Kumada: "I know that Kiku died on the night that the will was read..."
 
 
 
@@ -1338,7 +1350,7 @@ Kumada: "I don't know what you heard from Zenzou, but he's worrying too much.  K
         私たち兄弟3人はみんな
         屋敷に泊まったわ・・コホン！
 
-Azusa: "On the night that the will was announced, us three siblings were staying at the estate ...*cough!*"
+Azusa: "On the night that the will was read, we three siblings were staying at the estate ...*cough!*"
 
 
 
@@ -1386,7 +1398,7 @@ Azusa: "My aunt?  She was the head of the Ayashiro household, and the president 
         遺言公開の晩に突然
         亡くなったんだから・・コホン
 
-Azusa: "The timing was a little too perfect.  After announcing the will, she suddenly died...*cough*"
+Azusa: "The timing was a little too perfect.  After reading the will, she suddenly died...*cough*"
 
 
 
@@ -1602,7 +1614,7 @@ Genshin: "Nothing in particular.  Kiku-san is resting in peace!"
           語り継がれている気味の悪い
           話なんだ・・　アヤシロの主が
           無念の死を遂げた時・・・
-Genshin: "This disturbing story has been passed down to the villagers from long ago...  When the head of the Ayashiro household dies with regret...
+Genshin: "This disturbing story has been passed down to the villagers from long ago...  When the head of the Ayashiro household dies with things left unresolved...
 
 
 
@@ -1674,8 +1686,8 @@ Genshin: "and those who just barely survived held out in a fort in Myoujin mount
           やがて最後の決戦となったが
           アヤシロの領主は殺された。
           ・・・呪いの言葉を残してな。
-Genshin: "to make an example of them.  Soon afterwards, at the end of a decisive battle, the lord of the Ayashiro house was killed.  ...but he left a curse.
-
+Genshin: "to make an example of them.  Soon afterwards, at the end of a decisive battle, the lord of the Ayashiro house was killed.
+...but he left a curse.
 
 
 げんしん　「いくさが　おわり、　てきの　とのさまが
@@ -1686,7 +1698,7 @@ Genshin: "to make an example of them.  Soon afterwards, at the end of a decisive
           村を訪れたが、まもなく謎の
           死を遂げたのだ。あるものは
           アヤシロの呪いで狂ったといい、
-Genshin: "When the war ended, the enemy's lord visited the village, and soon after he had a strange death.  Some say he went mad by the Ayashiro curse,
+Genshin: "When the war ended, the enemy's lord visited the village, and soon after he had a mysterious death.  Some say he went mad by the Ayashiro curse,
 
 
 
@@ -1782,7 +1794,7 @@ Shmoby: "I'm sorry.  That was not my intention."
           それじゃ、この村の伝説について
           知らんのも無理はないのう。
 ゅゅゅゅ「伝説・・・？
-Genshin: "Oh?  You're not from the village, are you.  Oh, so of course you don't know the legend of this village."
+Genshin: "Oh?  You're not from the village.  Oh, so of course you don't know the legend of this village."
 Shmoby: "Legend...?"
 
 
@@ -1795,6 +1807,18 @@ Shmoby: "Legend...?"
 
 
 Genshin: "Hey!  Don't mess around with the graves!"
+
+
+
+げんしん　「こらっ！　はかを　さわっちゃいかんと
+            いっとろうがっ！
+
+
+ゲンシン「こらっ！墓を触っちゃいかんと
+          いっとろうがっ！
+
+
+Genshin: "Hey!  Didn't I say not to touch the graves?!"
 
 
 
@@ -1842,7 +1866,7 @@ You are at Myoujin station.
       ありませんか。
 
 
-Station Attendant: "Haven't I already told you where they are?"
+Station Attendant: "Haven't I already told you where it is?"
 
 
 
@@ -1926,7 +1950,7 @@ Villager: "It would be better if you didn't snoop around too much.  Kiku-sama mi
       明るい娘だったのに、
       キクさんが亡くなられてからはすっかり
       沈み込んじまったようだの。
-Villager: "The housekeeper at Ayashiro estate?  She used to be a bright young woman, but after Kiku-san passed away she's become extremely depressed."
+Villager: "The housekeeper at Ayashiro estate?  She used to be a bright young woman, but since Kiku-san passed away she's become extremely depressed."
 
 
 
@@ -2058,7 +2082,7 @@ Akane: "On that day, the mistress never came out, so I came here to check on her
         寝室へ戻られてまもなく
         発作を起こされたらしいと、
         クマダ先生がおっしゃっていました。
-Akane: "After announcing the will, she went back to her room.  Dr. Kumada says that it seems like she had a seizure soon afterwards."
+Akane: "After the reading of the will, she went back to her room.  Dr. Kumada says that it seems like she had a seizure soon afterwards."
 
 
 
@@ -2118,7 +2142,7 @@ Akane: "!......"
         皆様居間の方へ
         集まってらっしゃる時に
         庭でアキラ様を見ました。
-Akane: "Come to think of it, on the day that the will was announced, when everyone was gathered in the living room, I saw Akira-sama in the courtyard."
+Akane: "Come to think of it, on the day that the will was read, when everyone was gathered in the living room, I saw Akira-sama in the courtyard."
 
 
 
@@ -2334,7 +2358,7 @@ Ayumi: "It seems likely that investigating the affairs of the Ayashiro company w
         行ってもっと詳しく調査
         してきてね。
 
-Ayumi: "So you should go to Ayashiro estate and investigate things in more detail."
+Ayumi: "So you should go to the Ayashiro estate and investigate things in more detail."
 
 
 
@@ -2383,7 +2407,7 @@ Villager: "You will understand on the night of the full moon..."
       時々柄の悪そうな男が
       来とったようだがそいつかの？
 Shmoby: "Do you know the man named Akira?"
-Villager: "Akira?  Who is that?  I sometimes see a man with a bad figure here, are you talking about him?"
+Villager: "Akira?  Who is that?  I sometimes see a shady-looking man here, are you talking about him?"
 
 
 ぜんぞう　「ゃゃゃゃさま、
@@ -2586,7 +2610,7 @@ Kanji: "It was a surprise how sudden it was.  I wanted her to still be the presi
           メモがある
           まあ、見たまえ。
 ゅゅゅゅ「では拝見します・・・
-Kanji: "I took some notes when the will was announced.  Go ahead, look at them."
+Kanji: "I took some notes when the will was read.  Go ahead, look at them."
 Shmoby: "Then I'll take a look..."
 
 
@@ -2658,8 +2682,8 @@ Kanji: "My son?  He's 23 years old, and lives aimlessly with no job."
           来ておられたそうですが・・
 　カンジ「何っ？わしは知らんぞ！
           第一・・・
-Shmoby: "Apparently Akira was here on the day the will was announced..."
-Kanji: "What?  I didn't know that!  In any case..."
+Shmoby: "Apparently Akira was here on the day the will was read..."
+Kanji: "What?  I didn't know that!  In any case...
 
 
 カンジ　「アキラは　ゆいごんこうかいのことなぞ
@@ -2670,7 +2694,7 @@ Kanji: "What?  I didn't know that!  In any case..."
         知らんはずだ。
 
 
-Kanji: "Akira shouldn't have known about the will being announced."
+Kanji: "Akira shouldn't have known about the will being read."
 
 
 
@@ -2718,7 +2742,7 @@ Kanji: "and even owes people like the president and me.  What a foolish woman."
         い、いや・・
 
 
-Kanji: "About the Ayashiro company, I will...  Uh, I mean..."
+Kanji: "About the Ayashiro company, I will...  Uh, I mean...
 
 
 
@@ -2754,7 +2778,7 @@ Shmoby: "What is the symbol of the heir that was mentioned?"
         アヤシロ家の先代の実の子供や
         孫といった本家筋の
         人間だけが手にできるそうだ。
-Kanji: "I don't know what it is...  It seems that the only people that can obtain it are people who are direct descendents of the Ayashiro family, such as the previous generation's children and grandchildren."
+Kanji: "I don't know what it is...  It seems that the only people that can obtain it are people who are direct descendents of the Ayashiro family, such as the previous generation's children and grandchildren.
 
 
 
@@ -2766,7 +2790,7 @@ Kanji: "I don't know what it is...  It seems that the only people that can obtai
         縁のない代物だよ。
         ただし正当な後継者が
         現れなかった場合、
-Kanji: "Since we're from a branch family, we aren't included.  However, if the true heir doesn't show up,"
+Kanji: "Since we're from a branch family, we aren't included.  However, if the true heir doesn't show up,
 
 
 
@@ -2778,7 +2802,7 @@ Kanji: "Since we're from a branch family, we aren't included.  However, if the t
         手によって運営してゆくことになる。
         ・・・当然だな。
 
-Kanji: "us relatives will manage the Ayashiro company.
+Kanji: "we, the relatives, will manage the Ayashiro company.
 ...naturally."
 
 
@@ -2815,7 +2839,7 @@ Zenzou: "Azusa-sama is out today as well.  She should be returning soon."
           大変美しく、
           心のやさしい方でした。
 Shmoby: "Who is Yuri?"
-Zenzou: "She is Kiku-sama's daughter.  She was tremendously beautiful, and had a kind heart."
+Zenzou: "She is Kiku-sama's daughter.  She was tremendously beautiful, and had a kind heart.
 
 
 ぜんぞう　「あるじじょうで　このいえをでられたまま
@@ -2826,7 +2850,7 @@ Zenzou: "She is Kiku-sama's daughter.  She was tremendously beautiful, and had a
           今ではどこにいらっしゃるのかさえ
           分からないのですが・・・
 
-Zenzou: "For some reason she ran away from this house, and now we have no idea where she is..."
+Zenzou: "For some reason she ran away from this house, and now we have no idea where she is...
 
 
 
@@ -2862,7 +2886,7 @@ Zenzou: "I don't know, but...doesn't it seem like Yuri-sama has it?"
           申し上げにくかったのですが・・・
 
 
-Zenzou: "It was difficult to say this in front of Kanji-sama earlier, but..."
+Zenzou: "It was difficult to say this in front of Kanji-sama earlier, but...
 
 
 
@@ -2934,7 +2958,7 @@ Kanji: "Is that enough?  I'm busy, so excuse me."
           カンダ様も立ち会っておられました。
 
 
-Zenzou: "Oh!  Right, Kanda-sama was present when the will was read as well."
+Zenzou: "Oh!  Right, Kanda-sama was present when the will was read as well.
 
 
 
@@ -2995,7 +3019,7 @@ Secretary: "Yes, this is Kanda's law office.  Kanda is not here at the moment."
 ぜんぞう「はあ、他にご存知な方と言えば
           ジロウ様かアズサ様ぐらいでしょう。
 Shmoby: "I would like to hear about things like Yuri-san and the symbol in more detail..."
-Zenzou: "Ah, perhaps if you ask someone with more knowledge like Jiro-sama or Azusa-sama."
+Zenzou: "Ah, perhaps if you ask someone with more knowledge like Jiro-sama or Azusa-sama.
 
 
 ぜんぞう　「あずささまは　まもなくもどられる
@@ -3054,7 +3078,7 @@ Station Attendant: "Nothing comes to mind."
       たくさんの人の恨みつらみで
       大きくなった家だからな・・
 
-Villager: "That house is cursed...  All of their accomplishments are built from the resentment of many people."
+Villager: "That house is cursed...  All of their accomplishments are built on the resentment of many people.
 
 
 
@@ -3114,7 +3138,7 @@ Villager: "Heh heh, If you want to know about Yuri Ayashiro-san, it seems that D
       そんな物知らねえが、それはきっと
       何かとてつもなき恐ろしいもんに
       違いない！
-Villager: "The symbol for the heir to the Ayashiro house?  I don't know what it is, but it's surely something extravagant and terrifying!
+Villager: "The symbol for the heir to the Ayashiro house?  I don't know what it is, but it's surely something extravagant and terrifying!"
 
 
 
@@ -3138,7 +3162,7 @@ Zenzou: "I would be very grateful if Yuri-sama were to inherit this house in acc
           よくいらっしゃるようになりました。
 
 
-Zenzou: "After the will was announced people have been coming frequently."
+Zenzou: "After the will was read people have been coming frequently."
 
 
 
@@ -3175,8 +3199,8 @@ Zenzou: "At the current moment I am the only one at the estate."
 ゅゅゅゅ「ユリさんのことですか？
   クマダ「ポッ！！　よ、　よく　知っとるのう。
 Kumada: "Among the Ayashiro family...there was a beautiful woman."
-Shmoby: "Are you talking about Kiku-san?"
-Kumada: *Blush!!*  "Y-you know her?"
+Shmoby: "Are you talking about Yuri-san?"
+Kumada: "*Blush!!* Y-you know her?"
 
 くまだ「むらびとから　きいてきたんぢゃろ？
         れんちゅうは　しんじきっておるようぢゃが。
@@ -3258,7 +3282,7 @@ Kumada: "I said get out!"
         どんな物かは知らんなあ。
 
 
-Kumada: "I've heard about it.  I don't know what kind of thing it is though."
+Kumada: "I've heard about it.  I don't know what kind of thing it is, though."
 
 
 
@@ -3294,7 +3318,7 @@ Genshin: "Hey!  Kiku-san could come back to life and terrible things will happen
           あこぎな商売をしとったようだが、
           それももう遠い昔の話だよ。
 
-Genshin: "It seems that Kiku-san's husband was quite cruel in his business, but that is already a story from long ago."
+Genshin: "It seems that Kiku-san's husband was quite cruel in his business, but that is a story from long ago."
 
 
 
@@ -3342,7 +3366,7 @@ Genshin: "......"
           ２０年前この村へ仕事で
           やってきた青年と知り合ったんだ。
 
-Genshin: "Yuri is Kiku-san's only daughter.  20 years ago she met a young man who had come to this village for business."
+Genshin: "Yuri is Kiku-san's only daughter.  20 years ago she met a young man who had come to this village for business.
 
 
 
@@ -3354,7 +3378,7 @@ Genshin: "Yuri is Kiku-san's only daughter.  20 years ago she met a young man wh
           なったんだ。
           じゃがキクさんの旦那が
           二人の中を反対したんだ。
-Genshin: "The two of them fell in love.  However, before long, Kiku-san's husband opposed their relationship."
+Genshin: "The two of them fell in love.  However, before long, Kiku-san's husband opposed their relationship.
 
 
 
@@ -3366,7 +3390,7 @@ Genshin: "The two of them fell in love.  However, before long, Kiku-san's husban
           しかしユリの決心は固く、
           ついに駆け落ちしてしもうたんだよ。
 
-Genshin: "Their social standing was different...  But Yuri's resolve was firm, and in the end they eloped."
+Genshin: "Their social standing was different...  But Yuri's resolve was firm, and in the end they eloped.
 
 
 
@@ -3414,7 +3438,7 @@ Zenzou: "If you're looking for Azusa-sama, she just came home."
         アヤシロ商事でも絶対的
         だったようね。
 
-Azusa: "It seems that Aunt Kiku's voice was absolute at the Ayashiro company."
+Azusa: "It seems that Aunt Kiku's will was absolute at the Ayashiro company."
 
 
 
@@ -3438,7 +3462,7 @@ Azusa: "You already heard about the inheritance from Kanji!  I have a sore throa
         湯勤公開の日もこっちで
         あったけど。
 
-Azusa: "Ah, my brother's indolent son, right?  He was also here on the day the will was announced."
+Azusa: "Ah, my brother's indolent son, right?  He was also here on the day the will was read."
 
 
 
@@ -3462,8 +3486,8 @@ Shmoby: "Huh?  Who in the world was he meeting..."
         探偵さん。
 
 
-Azusa: "Why don't you try investigating this matter yourself?
-Mr. Detective."
+Azusa: "Why don't you try investigating this matter yourself?  Mr. Detective."
+
 
 
 あずさ　「・・・コホン！
@@ -3499,7 +3523,7 @@ Azusa: "I think the person who was troubled the most by my aunt's death was...Ji
           専務のジロウはね、会社の中で
           激しく対立してたのよ・・コホン！
 Shmoby: "What do you mean?"
-Azusa: "In the company, there was an intense confrontation between the CEO, Kanji, and the executive director, Jiro...*cough!*"
+Azusa: "In the company, there was intense conflict between the CEO Kanji, and the executive director Jiro...*cough!*
 
 
 あずさ　「いままでは　おばさまが　いたから
@@ -3510,7 +3534,7 @@ Azusa: "In the company, there was an intense confrontation between the CEO, Kanj
         カンジ兄さんもアヤシロ商事を
         思い通りにできなかったけど・・
         今はもう兄さんの望むままね。
-Azusa: "Until now, with my aunt there, Kanji hasn't been able to do what he likes at the Ayashiro company, but...now, my brother is already trying to take over."
+Azusa: "Until now, with my aunt there, Kanji wasn't able to do what he liked at the Ayashiro company, but...now, he is already trying to take over.
 
 
 
@@ -3522,7 +3546,7 @@ Azusa: "Until now, with my aunt there, Kanji hasn't been able to do what he like
         専務のジロウは会社の中で
         小さくなってなきゃならなくなったのよ。
 
-Azusa: "As long as Kanji is around, Jiro's presence at the company is becoming smaller and smaller."
+Azusa: "As long as Kanji is around, Jiro's presence at the company is diminishing."
 
 
 
@@ -3582,7 +3606,7 @@ Azusa: "I have no idea what that thing is.  It has nothing to do with me."
         伯母様の故人財産なんて
         どうでもいいんじゃないかしら？
         それよりも・・・
-Azusa: "It seems that Kanji doesn't care about my aunt's assets.  Instead..."
+Azusa: "It seems that Kanji doesn't care about my aunt's assets.  Instead...
 
 
 
@@ -3594,7 +3618,7 @@ Azusa: "It seems that Kanji doesn't care about my aunt's assets.  Instead..."
         自由にできることの方がよほど
         魅力的なことに違いないわ。
 
-Azusa: "Surely he cares more about having free reign at the Ayashiro company."
+Azusa: "Surely he cares more about having free reign at the Ayashiro company.
 
 
 
@@ -3618,7 +3642,7 @@ Azusa: "Deep down, isn't he hoping that Yuri-san doesn't show up?"
           何やら大きな荷物を持って
           屋敷の裏にある土蔵の辺りで
           うろついていらっしゃったそうなのです。
-Zenzou: "On that day, Akane saw Akira-sama holding some kind of large package and loitering around the storehouse on the other side of the estate."
+Zenzou: "On that day, Akane saw Akira-sama holding some kind of large package and loitering around the storehouse on the other side of the estate.
 
 
 
@@ -3654,7 +3678,7 @@ Zenzou: "He is a busy person...  Even at this time he is still at work."
           キク様が亡くなられた時
           私の話を親身になって
           聞いてくださいました。
-Zenzou: "He is a splendid man.  When Kiku-sama passed away, he listened to my story with care."
+Zenzou: "He is a splendid man.  When Kiku-sama passed away, he listened to my story with care.
 
 
 
@@ -3679,7 +3703,7 @@ Zenzou: "Then, he suggested that I hire a detective, and he told me about the fa
 ゅゅゅゅ「えっ？そうだったんですか。
 
 Zenzou: "and about the brilliant detective, Dude-sama."
-Shmoby: "Huh?  Is that how it was."
+Shmoby: "Huh?  Is that how it was?"
 
 
 ぜんぞう「どのようなものかは　ぞんじませんが、
@@ -3690,7 +3714,7 @@ Shmoby: "Huh?  Is that how it was."
           それを持つことによって始めて
           アヤシロの本当の後継者と
           認められるしきたりです。
-Zenzou: "I don't know what kind of thing it is, but having it has always been the custom the Ayashiros used for determining the true heir."
+Zenzou: "I don't know what kind of thing it is, but having it has always been the custom the Ayashiros used to determine the true heir."
 
 
 
@@ -3727,7 +3751,7 @@ Azusa: "What is this all of a sudden!  What about it?!"
 ゅゅゅゅ「ああ、満月の晩にキクさんが
           蘇ると言う話ですね。
 Zenzou: "Did you hear any creepy rumors from the villagers?"
-Shmoby: "Yes, I heard something about Kiku-san resurrecting on the night of a full moon."
+Shmoby: "Yes, I heard something about Kiku-san resurrecting on the night of a full moon.
 
 
 ゅゅゅゅ　「きみのわるい　はなしですね。
@@ -3739,7 +3763,7 @@ Shmoby: "Yes, I heard something about Kiku-san resurrecting on the night of a fu
             勝手に騒いでいるだけでございます。
 
 Shmoby: "It is a creepy story."
-Zenzou: "The villagers say many careless things, and all they do is clamor at their own convenience."
+Zenzou: "The villagers say many careless things, and all they do is clamor carelessly.
 
 
 ぜんぞう　「そういえば・・・こんやあたりが
@@ -3774,7 +3798,7 @@ Ayumi: "It's pretty late, isn't it.  I just got back myself as well.  So, about 
         持っていたキクが亡くなったことで、
         アヤシロ商事は大変みたいよ。
         それというのも実は・・・
-Ayumi: "Kiku had total control of the company, so after she died, they have been in a lot of trouble.  Because, in fact...
+Ayumi: "Kiku had total control of the company, so after she died, the Ayashiro company has been in a lot of trouble.  Because, in fact...
 
 
 
@@ -3822,7 +3846,7 @@ Ayumi: "We see that for Kanji, many new issues are going to appear."
 調査を進めていたんだろう？
 思い出せないや・・・それにしても
 イヤな話だな。あの伝説・・・
-Before losing my memories, how far was I in my investigation?  I can't remember...  At any rate, I don't like that story.  The legend...
+Before losing my memory, how far was I in my investigation?  I can't remember...  At any rate, I don't like that story.  The legend...
 
 
 
@@ -3894,7 +3918,7 @@ Ayumi: "It's already late tonight, so let's continue our investigation tomorrow.
           のは誰何だろう・・・
           お、思い出せない・・・
 
-Shmoby: "Who called me to Unakami cliff...  I, I can't remember..."
+Shmoby: "Who called me to Unakami Cliff...  I, I can't remember..."
 
 
 
@@ -3942,7 +3966,7 @@ Shmoby: "No, no, no, it's useless."
 助けられました。
 
 
-You were saved by Amachi's help.
+You were saved by Amachi.
 
 
 
@@ -3990,7 +4014,7 @@ Amachi: "On the other side is my room."
           アヤシロ家の調査のために
           ミョウジン村へ行っていたようなんです。
 
-Shmoby: "Amachi-san, it seems that I had gone to Myoujin village to investigate the Ayashiro family."
+Shmoby: "Amachi-san, it seems that I had gone to Myoujin Village to investigate the Ayashiro family."
 
 
 
@@ -4038,7 +4062,7 @@ Amachi: "...Speaking of the Ayashiro company, it seems that they are now advanci
         ずっと延期されていて、今年が
         その期限だったとも新聞に
         書かれていたよ。
-Amachi: "The newspaper said that the president, Kiku-san, opposed it, and had delayed it for quite some time, but this year is the deadline."
+Amachi: "The newspaper said that the president, Kiku-san, opposed it and had delayed it for quite some time, but this year is the deadline."
 
 
 
@@ -4134,7 +4158,7 @@ Kanji Ayashiro, the CEO of the Ayashiro company,
 もようです。
 
 
-was murdered by someone in the storehouse of the former president's home in Myoujin village.
+was murdered by someone in the storehouse of the former president's home in Myoujin Village.
 
 
 
@@ -4230,7 +4254,7 @@ It seems that people rarely come in here, and there's a thin layer of dust cover
 並べられています。
 
 
-Expensive antiques are lined up on the racks.
+Expensive antiques are lined up on the shelves.
 
 
 
@@ -4314,7 +4338,7 @@ Forensics Officer: "It was between 10:00 and 11:00 last night.  But the butler's
       いきなり正面から刺されたようだ。
       こういう状況は身内による
       犯行の時よく見られるね。
-Forensics Officer: "It seems that he was stabbed from the front with almost no conflict.  In situations like this we often see that it was someone they knew."
+Forensics Officer: "It seems that he was stabbed from the front with almost no conflict.  In situations like this we often find that it was someone they knew."
 
 
 
@@ -4363,7 +4387,7 @@ Shmoby: "There doesn't seem to be that much bleeding.  It's probably because the
 
 
 The knife is very deep in Kanji's chest.
-Forensics Officer: "Doesn't this seem impossible for a woman's strength?"
+Forensics Officer: "Doesn't this seem impossible for a woman to be strong enough to do?"
 
 
 はんこうが　おこなわれた　ばしょにしては
@@ -4470,7 +4494,7 @@ Shmoby: "Then, you found Kanji-san's body at that time?"
           しっかりと鍵がかかっておりました。
           ところが今朝早く土蔵の前を
           通りかかってふと扉を見ましたら、
-Zenzou: "No.  At that time the door to the storehouse was locked tight.  However, early this morning, I looked as I happened to pass by in front of the storehouse,"
+Zenzou: "No.  At that time the door to the storehouse was locked tight.  However, early this morning, I looked as I happened to pass by in front of the storehouse,
 
 
 
@@ -4519,7 +4543,7 @@ Zenzou: "The storehouse was not in use for a long time, so it was always locked.
           なぜかアキラ様は土蔵の近くに
           こられたようですが・・・
 Shmoby: "So people rarely came in here?"
-Zenzou: "That is correct.  But on the day the will was announced it seems that Akira-sama was near the storehouse for some reason..."
+Zenzou: "That is correct.  But on the day the will was read it seems that Akira-sama was near the storehouse for some reason..."
 
 
 ゅゅゅゅ　「どぞうのカギは
@@ -4579,7 +4603,7 @@ Zenzou: "Kiku-sama kept it as a memento of her husband and used it frequently."
           しかし心臓に良くないと
           クマダ先生に言われてからは・・
 Shmoby: "Did Kiku-san smoke...?"
-Zenzou: "In the past, yes,  But then Dr. Kumada said that it was bad for her heart..."
+Zenzou: "In the past, yes,  But then Dr. Kumada said that it was bad for her heart...
 
 
 ぜんぞう　「きんえん　しておられました。
@@ -4674,7 +4698,7 @@ Zenzou: "Hm...  I don't know why it was made."
           骨董品のいくつかが
           無くなっているのです！あのナイフも
           ここにあった物の一つです。
-Zenzou: "Actually, several of the antiques being stored here are missing!  That knife also came from here."
+Zenzou: "Actually, several of the antiques being stored here are missing!  That knife also came from here.
 
 
 
@@ -4878,7 +4902,7 @@ Jiro: "Damn it...  Who the hell killed Kanji!"
         失敬な！
         第一警察の人間でもない
         君に・・
-Jiro: "What?  Are you suspecting me?  How insulting!  First of all, you're not a policeman..."
+Jiro: "What?  Are you suspecting me?  How insulting!  First of all, you're not a policeman...
 
 
 
@@ -4890,7 +4914,7 @@ Jiro: "What?  Are you suspecting me?  How insulting!  First of all, you're not a
         盗んだんじゃないのか！
 
 
-Jiro: "It was probably Akira, who stole them because he wanted money for his own enjoyment!"
+Jiro: "It was probably Akira who stole them because he wanted money for himself!"
 
 
 
@@ -4902,7 +4926,7 @@ Jiro: "It was probably Akira, who stole them because he wanted money for his own
         頑張らねばならんのだ。
         君の相手などしている暇はない！
 
-Jiro: "From now on I have to work hard for Kanji.  I don't have time to deal with people like you!"
+Jiro: "From now on I have to work hard for Kanji's sake.  I don't have time to deal with people like you!"
 
 
 
@@ -4950,7 +4974,7 @@ Jiro: "At this point, Azusa's debt to Kanji is no longer necessary and is theref
         どういう意味よ！
 
 
-Azusa: "Jiro!  Just what are you insinuating!"
+Azusa: "Jiro!  Just what are you insinuating!
 
 
 
@@ -4962,7 +4986,7 @@ Azusa: "Jiro!  Just what are you insinuating!"
         嬉しくって仕方ないんじゃないの？
 
 
-Azusa: "Aren't you the one who can't help but get happy at Kanji's death?"
+Azusa: "Aren't you the one who can't help but be glad that Kanji died?"
 
 
 
@@ -5070,7 +5094,7 @@ Azusa: "I'm certain Akira is the murderer!"
         所を兄さんに見つかって・・・
         あいつならやりかねないわ！
 
-Azusa: "He's been acting like a robber, and when he was found by my brother...he would do anything!"
+Azusa: "He had been acting like a robber, and when found by my brother...he would do anything!"
 
 
 
@@ -5118,7 +5142,7 @@ Azusa: "What.  Are you saying I did it?  This is ridiculous."
 
 
 
-Azusa: "It's obivous that Akira stole them!"
+Azusa: "It's obvious that Akira stole them!"
 
 
 
@@ -5166,7 +5190,7 @@ Shmoby: "Hello...  Yes, this is the Ayashiros, but right now nobody...  Wait, wh
       いつもお世話になってます。
       鑑識の結果をご報告しようと
       お電話をしたのですが・・
-Police Officer: "Ah, from Utsugi-san's...  You're always helping us.  I'm calling about the result of the forensic analysis."
+Police Officer: "Ah, from Utsugi-san's...  You're always helping us.  I'm calling about the result of the forensic analysis.
 
 
 
@@ -5286,7 +5310,7 @@ Zenzou: "I'm not sure myself now..."
           キク様が亡くなられた時すでに
           あのタバコ入れはおりませんでした。
           間違いございません！
-Zenzou: "Come to think of it...  When Kiku-sama died, the tobacco container was already missing.  I'm sure of it!."
+Zenzou: "Come to think of it...  When Kiku-sama died, the tobacco container was already missing.  I'm sure of it!"
 
 
 
@@ -5418,7 +5442,7 @@ Kumada: "Oh?  Come to think of it, it looks like your head is injured.  I hadn't
 
 
 
-Shmoby: "Actually, I was on Unakami cliff..."
+Shmoby: "Actually, I was on Unakami Cliff..."
 
 
 
@@ -5514,7 +5538,7 @@ Genshin: "I-it's just a superstition!  The villagers talk about whatever they pl
 声が聞こえてくるようなきがします。
 
 
-You feel like you can hear the voice of the dead from deep under the earth.
+You feel like you can hear the voices of the dead from deep under the earth.
 
 
 
@@ -5527,6 +5551,18 @@ You feel like you can hear the voice of the dead from deep under the earth.
 
 
 Shmoby: "Just a bit ago, Genshin-san...  What was he really trying to do?"
+
+
+
+げんしんは　もう　いません。
+
+
+
+ゲンシンはもういません。
+
+
+
+Genshin is not here anymore.
 
 
 
@@ -5550,7 +5586,7 @@ Shmoby: "I shouldn't do whatever I want."
 
 
 
-You are at the top of Unakami cliff.
+You are at the top of Unakami Cliff.
 
 
 
@@ -5612,7 +5648,7 @@ Shmoby: "Woah...  Just looking at the cliff makes me dizzy.  It seems to be abou
     老人「わしはこの村に住んどる
 Old man: "Hey!  That's dangerous!"
 Shmoby: "Ah, that frightened me!  Who are you?"
-Old man: "I live in this village."
+Old man: "I live in this village.
 
 ろうじん　「へいきちと　いうもんじゃ。
             ここは　じさつの　めいしょじゃから
@@ -5694,7 +5730,7 @@ Heikichi: "It seems that if you jump from here, by the time you hit the sea you 
           やってくる女の人を
           知らんかのう。
 
-Heikichi: "By the way, do you know anything about a woman who comes here often?"
+Heikichi: "By the way, do you know anything about a woman who comes here often?
 
 
 
@@ -5874,7 +5910,7 @@ With Kanji's death, Jiro has now jumped to the top of the Ayashiro company in on
           誰かに会っていたとアズサが
           言ってたな。アユミちゃん、それが
           誰なのか調べてみてくれないか？
-Shmoby: "Wait, Azusa said that on the day the will was announced, Akira was meeting with someone.  Ayumi-chan, could you look into who this was?"
+Shmoby: "Wait, Azusa said that on the day the will was read, Akira was meeting with someone.  Ayumi-chan, could you look into who this was?"
 
 
 
@@ -6151,7 +6187,7 @@ Shmoby: "What are they talking about?"
 客Ｂ「まったくですな。あの社長の
       計画がもし実現しておれば・・
 Customer A: "...But really, the executive director here was in such a precarious place."
-Customer B: "Indeed.  If the CEO's plan was carried out...
+Customer B: "Indeed.  If the CEO's plan had been carried out...
 
 
 きゃくＢ　「いまごろは　せんむとしての　たちばすら
@@ -6162,7 +6198,7 @@ Customer B: "Indeed.  If the CEO's plan was carried out...
       危うかったでしょうな。
       正直な所犯人には・・
 
-Customer B: "At this point, the executive director's position would be in danger.  Honestly, toward the culprit...
+Customer B: "At this point, the executive director's position would be in danger.  Honestly, about the culprit...
 
 
 
@@ -6174,7 +6210,7 @@ Customer B: "At this point, the executive director's position would be in danger
 客Ａ「しっ！誰かに聞かれますよ！
 ゅゅゅゅ　「！・・・・・・
 
-Customer B: "He is probably grateful, right?"
+Customer B: "Jiro is probably grateful to him, right?"
 Customer A: "Sh!  Someone is listening!"
 Shmoby: "!......"
 
@@ -6258,7 +6294,7 @@ Employee: "Ah!  Executive director!  Good morning!"
 社員「専務！こちらが申しておりました
       書類でございます。
 
-Jiro happened to be walking by.
+Jiro happens to be walking by.
 Employee: "Sir!  Here are the documents that you requested."
 
 
@@ -6318,7 +6354,7 @@ Jiro: "You went out of your way to come here and ask me something like that?  Hm
           誰かと会っていたようですが
           ジロウさんじゃありませんか？
 
-Shmoby: "It seems that Akira-san was meeting with someone on the day the will was announced.  Was it you?"
+Shmoby: "It seems that Akira-san was meeting with someone on the day the will was read.  Was it you?"
 
 
 
@@ -6414,7 +6450,7 @@ Jiro: "I have no idea who you heard that from...  But supposing it was even true
         私がアキラをそそのかして
         兄さんを殺させたと
         思ってるんだろう？
-Jiro: "I know what you want to say.  You're thinking that I instigated Akira to kill my brother?"
+Jiro: "I know what you want to say.  You're thinking that I instigated Akira to kill my brother?
 
 
 
@@ -6426,7 +6462,7 @@ Jiro: "I know what you want to say.  You're thinking that I instigated Akira to 
         どう思おうと君の勝手だが・・・
         君の探偵ごっこに付き合うのは
         まっぴらだよ。
-Jiro: "Heh, what a great deduction.  You can think what you want...  I've had enough of playing along with your little detective game."
+Jiro: "Heh, what a great deduction.  You can think what you want...  I've had enough of playing along with your little detective game.
 
 
 
@@ -6486,7 +6522,7 @@ Station Attendant: "Oh, something terrible has happened!  The villagers are in a
 今にも蘇ったキクが
 現れるような気がする・・・
 
-The villagers are all saying that a resurrected Kiku will appear at any moment...
+The villagers are all saying that the resurrected Kiku will appear at any moment...
 
 
 
@@ -6870,7 +6906,7 @@ Kaori: "My husband only cared about his work and never thought about his family.
         あなた確か探偵さんだったわね、
         アキラを探してちょうだい！
 
-Kaori: "Th-that's right!  You're a detective, right?  Please, find Akira!"
+Kaori: "Th-that's right!  You're a detective, right?  Please, find Akira!
 
 
 
@@ -7242,7 +7278,7 @@ Amachi: "Hm?  Ah, that shirt?  It's my cousin's."
         汚れていたのでクリーニングに
         出してしまったんだ。戻ってくるまで
         そいつを着ていてくれないか。
-Amachi: "Your shirt was quite dirty, so I brought it to the cleaners.  Please wear that until it comes back."
+Amachi: "Your shirt was quite dirty, so I brought it to the dry cleaners.  Please wear that until it comes back."
 
 
 
@@ -7290,7 +7326,7 @@ Shmoby: "As expected, I can't find any clues.  But after what Amachi-san said...
           ウナカミの崖で手がかりに
           なりそうな物は何か見つかったかい？
 ゅゅゅゅ　「・・・・・・
-Amachi: "How'd it go?  Did you find any clues at Unakami cliff?"
+Amachi: "How'd it go?  Did you find any clues at Unakami Cliff?"
 Shmoby: "......"
 
 
@@ -7303,7 +7339,7 @@ Shmoby: "......"
   アマチ「そうか・・残念だったね・・・
           ん？ちょっと待ってくれよ・・・！
 Shmoby: "Well, I tried going there, but as expected, I couldn't find any clues..."
-Amachi: "Is that so...  That's too bad...  Hm?  Wait a moment!"
+Amachi: "Is that so...  That's too bad...  Hm?  Wait a moment!
 
 
 あまち　「そういえば・・・　そうそう　おもいだした！
@@ -7410,7 +7446,7 @@ Woman: "My name is Yukiko Fujimiya.  Are you wondering what I'm doing in a place
         結婚の約束をした恋人を
         待っているの。二人の思いでの
         場所・・・このウナカミの崖で・・・
-Yukiko: "I'm waiting for someone here.  I'm waiting for my lover, for we had promised to get married.  At the place of our memories...Unakami cliff."
+Yukiko: "I'm waiting for someone here.  I'm waiting for my lover, for we had promised to get married.  At the place of our memories...Unakami Cliff."
 
 
 
@@ -7422,7 +7458,7 @@ Yukiko: "I'm waiting for someone here.  I'm waiting for my lover, for we had pro
         必ず成功してきっと
         向かえにくるって・・・そして今年が
         その約束の年なの・・・
-Yukiko: "He told me this when he left town: that he would certainly become successful, and will then return...  And now this year is the year of that promise."
+Yukiko: "He told me this when he left town: that he would certainly become successful, and would then return...  And now this year is the year of that promise."
 
 
 
@@ -7495,7 +7531,7 @@ Yukiko: "He lived with his mother in the neighboring town...  After his mother d
 ゼンゾウ「ど・・・どこでその名前を！？
           いえ、隠していたわけではないのですが、
 Shmoby: "Zenzou-san, do you know who Kazuto Ayashiro is?"
-Zenzou: "Wh...where did you hear that name?!  Sorry, I don't mean to hide it from you,
+Zenzou: "Wh...where did you hear that name?!  Sorry, I didn't mean to hide it from you,
 
 
 ぜんぞう　「じつは　かずとさま　というのは
@@ -7518,7 +7554,7 @@ Shmoby: "!  Yuri-san has a brother...?!"
           お子様ではないのです。
           旦那様はアヤシロ家の席に入れて
           我が子として育てられました。
-Zenzou: "Yes.  But he is not actually Kiku-sama's child.  Her husband took him into the Ayashiro house and raised him as if he was his child.
+Zenzou: "Yes.  But he is not actually Kiku-sama's child.  Her husband took him into the Ayashiro house and raised him as if he was his child."
 
 
 
@@ -7554,7 +7590,7 @@ Zenzou: "After her husband died, Kiku-sama distanced herself from them, and they
           仲のいいご兄弟でした。
           家を出られる時もユリ様は
           カズト様が気がかりでしたでしょう・・
-Zenzou: "Kazuto-sama and Kiku-sama were very close as siblings.  When Yuri-sama left home, she must have been worried about Kazuto-sama.."
+Zenzou: "Kazuto-sama and Yuri-sama were very close as siblings.  When Yuri-sama left home, she must have been worried about Kazuto-sama.."
 
 
 
@@ -7566,7 +7602,7 @@ Zenzou: "Kazuto-sama and Kiku-sama were very close as siblings.  When Yuri-sama 
           カズト様ならユリ様の居所を
           ご存知かも・・・知れませんね。
 
-Zenzou: "...Dude-sama, Kazuto-sama might know of Kiku-san's whereabouts."
+Zenzou: "...Dude-sama, Kazuto-sama might know of Yuri-sama's whereabouts."
 
 
 
@@ -7602,7 +7638,7 @@ Shmoby: "I heard it from a woman named Yukiko Fujimiya, who said she was Kazuto-
           キク様の亡くなられた年に
           戻られるとは何か
           因縁めいたものを感じますね・・
-Zenzou: "Is that so.  Him returning the same year that Kiku-sama died feels like fate..."
+Zenzou: "Is that so.  Him returning the same year that Kiku-sama died feels like fate...
 
 
 
@@ -7638,7 +7674,7 @@ Ayumi: "Welcome back, Shmoby-kun.  Actually, after talking with you on the phone
         アキラはヤクザに借金して
         ずいぶん困っていたらしいの。
         ところが・・・
-Ayumi: "I asked around, and it seems that Akira owed money to the yakuza.  However..."
+Ayumi: "I asked around, and it seems that Akira owed money to the yakuza.  However...
 
 
 
@@ -7662,7 +7698,7 @@ Shmoby: "!....."
         自分は将来アヤシロ商事の
         社長だと言ってたんだって。
         キクさんが死ぬ少し前のことよ・・・
-Ayumi: "Also, he told his friends that he is going to become the future CEO of the Ayashiro company.  He said that just a bit before Kiku-san died..."
+Ayumi: "Also, he told his friends that he is going to become the future CEO of the Ayashiro company.  He said that just a bit before Kiku-san died...
 
 
 
@@ -7674,7 +7710,7 @@ Ayumi: "Also, he told his friends that he is going to become the future CEO of t
         運転していた人のことについては
         それがだれだったのか分かんなかったの。
         ゴメンね。
-Ayumi: "Also, regarding the man that was driving the car Akira was in, I couldn't figure anything out.  Sorry."
+Ayumi: "Also, regarding the man that was driving the car Akira was in, I couldn't figure anything out.  Sorry.
 
 
 
@@ -7722,7 +7758,7 @@ Did Akira sell the stolen antiques to pay off his debt?  And another strange thi
 などと触れ回っていたと言う・・・
 そのアキラと一緒に行動している
 ４０歳ぐらいの男とは誰なのか？
-Why was Akira going around telling people things like that he would be the CEO of the Ayashiro company in the future?  And why was he riding together with a man around 40 years old?
+Why was Akira going around telling people things like that he would be the CEO of the Ayashiro company in the future?  And why was he riding with a man around 40 years old?
 
 
 
@@ -7878,7 +7914,7 @@ While investigating the death of Kiku Ayashiro from heart failure at the request
 ミョウジン村でやがてゅゅゅゅは、
 莫大な遺産を巡る
 複雑な事件に巻き込まれる。
-In Myoujin village there is a legend of resurrection, and before long, Shmoby was embroiled in an intricate case involving a massive inheritance.
+In Myoujin Village there is a resurrection legend, and before long, Shmoby was embroiled in an intricate case involving a massive inheritance.
 
 
 
@@ -7914,7 +7950,7 @@ Shmoby has received a phone call from the butler.  What in the world happened to
 向かったのである！
 
 
-Shmoby will be going to Myoujin village once again!
+Shmoby will be going to Myoujin Village once again!
 
 
 
@@ -7998,7 +8034,7 @@ Ayumi: "Don't touch that!  You don't know what it is!"
 すべて見渡せます。
 
 
-You can look out over Myoujin village from here.
+You can look out over Myoujin Village from here.
 
 
 
@@ -8058,7 +8094,7 @@ He has a terrifying expression on his face.
 二重三重にくくってある。
 
 
-The rope is tied very thoroughly.  It's been tied two or three times.
+The rope is fastened very thoroughly.  It was tied two or three times.
 
 
 
@@ -8118,7 +8154,7 @@ Kumada: "Oh, Shmoby-kun.  As you can see, something terrible has happened!"
 
 
 
-Kumada: "Yes, what is it."
+Kumada: "Yes, what is it?"
 
 
 
@@ -8154,7 +8190,7 @@ Kumada: "It was around 12 to 1 last night.  Zenzou found him this morning while 
 
 
 
-Kumada: "It's as you can see yourself."
+Kumada: "It's as you can see."
 
 
 
@@ -8286,7 +8322,7 @@ Zenzou: "Wh-Why do things like this have to happen...!"
         あなたが何をしてくれるって言うの！
         何もできないくせに！
 
-Azusa: "What!  What are you saying you can do!  You can't do anything!"
+Azusa: "What!  What are you saying you can do?!  You can't do anything!"
 
 
 
@@ -8454,7 +8490,7 @@ It's some paper with a pencil sticking out.
         電話をジロウ様に取り次ぎました。
 
 
-Akane: "Yes.  I'm certain I took the phone call from Kanda-sama for Jiro-sama."
+Akane: "Yes.  I'm certain that I took the phone call from Kanda-sama for Jiro-sama."
 
 
 
@@ -8490,7 +8526,7 @@ Secretary: "This is Kanda's law office.  Kanda is absent at the moment."
           人が伺いませんでしたか？
 
 
-Shmoby: "Were you visited by someone named Jiro Ayashiro?"
+Shmoby: "Were you visited by someone named Jiro Ayashiro last night?"
 
 
 
@@ -8623,7 +8659,7 @@ Secretary: "......"
       部屋になっています。
 
 It's a door.
-Secretary: "The room behind that door is where we bring our guests."
+Secretary: "The room behind that door is where we bring our clients."
 
 
 ひしょ　「せんせいは　ただいま　しゅっちょうちゅう
@@ -8694,7 +8730,7 @@ Secretary: "Is this the man you are saying committed suicide?"
       とても優秀な方です。
       まだ３０代だったと思いますよ。
 
-Secretary: "Despite being young, he is a brilliant person.  I think he's still in his 30s."
+Secretary: "Despite being young, he is a brilliant person.  I think he's still in his 30s.
 
 
 
@@ -8706,7 +8742,7 @@ Secretary: "Despite being young, he is a brilliant person.  I think he's still i
       事件のファイルを熱心に
       見ておられました。
 
-Secretary: "Why just the other day he was fervently looking at a file from an incident he was in charge of in the past."
+Secretary: "Just the other day he was fervently looking at a file from an incident he was in charge of in the past.
 
 
 
@@ -8742,7 +8778,7 @@ Secretary: "He is strict about keeping all files related to past incidents."
       用がないならお引き取りください。
 
 
-Secretary: "What are you doing!  If you don't have business with it, leave it alone."
+Secretary: "What are you doing?!  If you don't have business with it, leave it alone."
 
 
 
@@ -8754,7 +8790,7 @@ Secretary: "What are you doing!  If you don't have business with it, leave it al
       昨日お見えになったのは。
       ああ、この方がアヤシロ商事の
       専務さんでしたか。でも・・・
-Secretary: "I'm certain this is him!  I saw him yesterday.  Ah, this is the executive director of the Ayashiro company.  But..."
+Secretary: "I'm certain this is him!  I saw him yesterday.  Ah, this is the executive director of the Ayashiro company.  But...
 
 
 
@@ -8815,6 +8851,18 @@ Shmoby: "That's the mountain where Jiro..."
 
 
 Station Attendant: "You look stressed."
+
+
+
+ゅゅゅゅ「しまった、　かんがえてみれば
+          ひしょに　きのうきたのが　じろう
+          だったという　かくにんが　とれていないや。
+          しゃしんでも　あればいいんだが。
+ゅゅゅゅ「しまった、考えてみれば
+          秘書に昨日来たのがジロウ
+          だったと言う確認が取れていないや。
+          写真でもあればいいんだが。
+Shmoby: "Shoot, now that I think of it, I was never able to confirm with the secretary whether or not Jiro came last night.  I wish I had a picture of him."
 
 
 
@@ -9210,7 +9258,7 @@ Zenzou: "Yes, how may I help you."
           アカネは暇を欲しいと言って
           実家へ帰ってしまいました。
 
-Zenzou: "Maybe because of everything that's been going on...Akane said she wanted some time off and went back to her parent's house."
+Zenzou: "Maybe because of everything that's been going on...Akane said she wanted some time off and went back to her parents' house."
 
 
 
@@ -9270,7 +9318,7 @@ Zenzou: "Well...  She left and hasn't come back."
           ましたのに・・・
 
 
-Zenzou: "She said that she would be here for the time being..."
+Zenzou: "Despite having said that she would be here for the time being..."
 
 
 
@@ -9294,7 +9342,7 @@ Zenzou: "My one wish is that Yuri-sama returns."
           土蔵の奥の扉のことでしたら・・・
 
 
-Zenzou: "I have the key.  If you're wondering about the door on the back of the storehouse..."
+Zenzou: "I have the key.  If you're wondering about the door on the back of the storehouse...
 
 
 
@@ -9390,7 +9438,7 @@ Ayumi: "As for my investigation,
         一緒にいた男が誰なのかは
         分からなかったの。
 
-Ayumi: "in the end, I couldn't figure out who the man was that was with Akira."
+Ayumi: "in the end, I couldn't figure out who the man was that was with Akira.
 
 
 
@@ -9402,7 +9450,7 @@ Ayumi: "in the end, I couldn't figure out who the man was that was with Akira."
         遺言公開の日を境に
         プッツリと途絶えていることは
         間違いないわ。
-Ayumi: "It's certain that Akira's steps have been cut off after the day the will was announced."
+Ayumi: "It's certain that Akira's steps disappeared after the day the will was read."
 
 
 
@@ -9498,7 +9546,7 @@ Man B: "What?  Me too!  I saw her with my own eyes!  I'm certain it was Kiku-san
       村人たちの様子が変なんです。
 
 
-Station Attendant: "Ah, it's you.  The villager's behavior has been strange."
+Station Attendant: "Ah, it's you.  The villagers' behavior has been strange."
 
 
 
@@ -9510,7 +9558,7 @@ Station Attendant: "Ah, it's you.  The villager's behavior has been strange."
       急に増えちゃってるんですけど・・・
 
 
-Station Attendant: "The number of people saying that they've seen Kiku-san suddenly increased..."
+Station Attendant: "The number of people saying that they've seen Kiku-san has suddenly increased..."
 
 
 
@@ -9630,7 +9678,7 @@ Villager: "The Ayashiro family is cursed.  It's become that way because of the r
       アヤシロ家のせいで自殺した
       家族の話を。
 
-Villager: "I've told you before.  About the family that committed suicide because of the Ayashiro family."
+Villager: "I've told you before, about the family that committed suicide because of the Ayashiro family."
 
 
 
@@ -9678,7 +9726,7 @@ Nurse: "He was thinking about something for quite a long time, and then he sudde
           行っちゃったんだろ。
 
 
-Shmoby: "?  Where did he go."
+Shmoby: "?  Where did he go?"
 
 
 
@@ -9714,7 +9762,7 @@ Nurse: "Once he gets moving, he's like a bullet...  Even at that age."
       キクさんの墓はいっと空っぽだ！
 
 
-Villager: "The legend was really true!  Kiku-san's grave is surely empty!"
+Villager: "The legend is really true!  Kiku-san's grave is surely empty!"
 
 
 
@@ -9858,7 +9906,7 @@ Genshin: "I told you about that last time."
           見たと言って村は
           大騒ぎですが。
 ゲンシン「な、何バカを言っとるのだ！
-Shmoby: "There's a huge uproar in town with people saying that they've seen a resurrected Kiku-san."
+Shmoby: "There's a huge uproar in town with people saying that they've seen the resurrected Kiku-san."
 Genshin: "Wh-what idiot is saying that?!"
 
 
@@ -9918,7 +9966,7 @@ Genshin: "!......"
           伝説に関係ある話か？
           だったら
 
-Genshin: "What is that?  Is it related to the legend?  In that case,"
+Genshin: "What is that?  Is it related to the legend?  In that case,
 
 
 
@@ -9954,7 +10002,7 @@ Shmoby: "What?  Bloodstain?  Genshin-san.  What the hell are you talking about?!
           調べてみると・・・
 
 
-Genshin: "The truth is...  The other day, I thought I would try inspecting the tombstone..."
+Genshin: "The truth is...  The other day, I thought I would try inspecting the tombstone...
 
 
 
@@ -9966,7 +10014,7 @@ Genshin: "The truth is...  The other day, I thought I would try inspecting the t
           動かされたようなんだ。
           おまけにそこには血のような物が
           付いとったんだ。
-Genshin: "The top of the tombstone had been moved.  To top if off, there was blood on it."
+Genshin: "The top of the tombstone had been moved.  To top if off, there was blood on it.
 
 
 
@@ -10016,7 +10064,7 @@ Shmoby: "Are you hiding anything else?"
         それは古びた手鏡だった。
 Genshin: "......Actually, this thing had fallen on the ground."
 \
-It was an old hand mirror.
+It's an old hand mirror.
 
 てかがみのうらには　きみょうな　えが
 かかれていた。
@@ -10026,7 +10074,7 @@ It was an old hand mirror.
 書かれていた。
 
 
-A strange picture had been drawn on the back of the mirror.
+A strange picture has been drawn on the back of the mirror.
 
 
 
@@ -10266,7 +10314,7 @@ Shmoby: "I think there's nothing unusual here..."
 
 
 
-You are in Amachi's apartment.
+You are in Amachi's apartment building.
 
 
 
@@ -10279,7 +10327,7 @@ You are in Amachi's apartment.
 ゅゅゅゅ「いえそれが・・・誰も
           知らないって言うんです。
 Amachi: "Hey there, Shmoby-kun.  How's it going?  Have you figured anything out about the amulet?"
-Shmoby: "No, about it...  Everyone says they don't know."
+Shmoby: "No, about that...  Everyone says they don't know."
 
 
 あまち　「そうか。　じゃあ　きっと　きみの
@@ -10350,7 +10398,7 @@ Amachi: "I don't know either."
         僕だって嬉しいよ。
         事件も大変だろうけど自分の
         ことを疎かにしないようにね。
-Amachi: "I would be happy if you recover your memories completely.  I know the case is difficult, but don't forget to take care of yourself."
+Amachi: "I would be happy if you recovered your memories completely.  I know the case is difficult, but don't forget to take care of yourself."
 
 
 
@@ -10374,7 +10422,7 @@ Amachi: "I'm sure you mentioned an amulet.  I don't think I misheard you."
         留守にするんだ。
 
 
-Amachi: "Actually, I'm going to be leaving for a while for work."
+Amachi: "Actually, I'm going to be gone for a while for work."
 
 
 
@@ -10506,7 +10554,31 @@ Shmoby: "There's nothing that unusual."
           もってのほかだ。
 
 
-Genshin: "Don't do that!  Things like digging up graves is ridiculous."
+Genshin: "Don't do that!  Doing things like digging up graves is ridiculous."
+
+
+
+ゅゅゅゅ　「でも　あのてかがみは　たしかにキクさんと
+            いっしょに　うめたって、　さっき
+            げんしんさんも　いったじゃないですか。
+            おかしいと　おもいませんか。
+ゅゅゅゅ「でもあの手鏡は確かにキクさんと
+          一緒に埋めたって、さっき
+          ゲンシンも言ったじゃないですか。
+          おかしいと思いませんか。
+Shmoby: "But didn't you say just a bit ago that that hand mirror was buried with Kiku-san?  Don't you think that's strange?"
+
+
+
+げんしん　「ううむ、　たしかに・・・・・・
+            いや、　やはり　それだけは・・・
+            できん　そうだんなんじゃ。
+
+ゲンシン「ううむ、確かに・・・・・・
+          いや、やはりそれだけは・・・
+          できんそうだんなんだ。
+
+Genshin: "Yes, surely...... No, even then... You can't!"
 
 
 
@@ -10518,7 +10590,7 @@ Genshin: "Don't do that!  Things like digging up graves is ridiculous."
           血の跡って何だったんだろう？
           カンジが殺される少し前の
           ことだって確か言ってたっけ・・・
-Shmoby: "Why was that bloodstain that Genshin mentioned before there?  He said that it was a bit before Kanji was murdered..."
+Shmoby: "Why was that bloodstain that Genshin mentioned before there?  He said that was a bit before Kanji was murdered..."
 
 
 
@@ -10650,7 +10722,7 @@ Genshin: "That's true...  But Kiku-san deeply regretted doing it.  What was she 
           かもしれん。
           無理もない話だが・・・
 
-Genshin: "He and his mother might have held a grude against Kiku-san.  It's no wonder people tell the stories that they do..."
+Genshin: "He and his mother might have held a grudge against Kiku-san.  It's no wonder people tell the stories that they do..."
 
 
 
@@ -10854,7 +10926,7 @@ Lady: "Soon after Yuri left this house, I received a postcard from her."
       八束町と言う町に
       住んでいたようです。
 
-Lady: "At the time that she sent the postcard, it seems that Yuri was living in Yatsuka."
+Lady: "At the time that she sent the postcard, it seemed that Yuri was living in Yatsuka."
 
 
 
@@ -10866,7 +10938,7 @@ Lady: "At the time that she sent the postcard, it seems that Yuri was living in 
       駆け落ちした方と
       幸せに暮らしていたようで
       私も喜んでいました。
-Lady: "She did have some hardships, but she seemed to be happily living with the man that she eloped with, so I'm happy as well."
+Lady: "She did have some hardships, but she seemed to be living happily with the man that she eloped with, so I was happy as well."
 
 
 
@@ -11084,7 +11156,7 @@ Heikichi: "Hamlet?  That's a small village."
           最初から言わんかい！
 Heikichi: "Hm?"
 Shmoby: "Ugh!  AM-U-LET!"
-Heikichi: "You're too loud!  And why didn't you say that in the first place!"
+Heikichi: "You're too loud!  And why didn't you say that in the first place?!"
 
 へいきち　「ほう　あんひとは　ゆきこ　っちゅうんか？
             きれいな　なまえじゃ。
@@ -11118,7 +11190,7 @@ Heikichi: "You're wanting to meet that girl, right?  I've noticed something grea
 
 
 
-Heikichi: "It's..."
+Heikichi: "It's...
 
 
 
@@ -11142,7 +11214,7 @@ Heikichi: "A SECRET!  Bwahaha!"
 
 
 
-Station Attendant: "Well...it's a pretty person."
+Station Attendant: "Well...it's a pretty lady."
 
 
 
@@ -11370,7 +11442,7 @@ Yukiko: "It seems like it all started when he received a letter from someone one
         法律の矛盾を感じたと、
         言っていたわ。
 
-Yukiko: "After reading that letter, he said that he strongly felt that the law is inconistent."
+Yukiko: "After reading that letter, he said that he strongly felt that the law is inconsistent."
 
 
 
@@ -11382,7 +11454,7 @@ Yukiko: "After reading that letter, he said that he strongly felt that the law i
         彼はすぐに町を出て行ったの。
 
 
-Yukiko: "And, right after his mother died, he left town immediately."
+Yukiko: "And, right after his mother died, he left town."
 
 
 
@@ -11526,7 +11598,7 @@ Person: "I'm sorry.  I just moved in a few days ago..."
     話題のアヤシロ家のことでしょ？
 
 
-Person: "Let's see, are you talking about the Ayashiro family on the news with all the resurrection and murder?"
+Person: "Let's see, are you talking about the Ayashiro family that's on the news with all the stories about resurrection and murder?"
 
 
 
@@ -11598,7 +11670,7 @@ Old lady: "I feel like I remember something...  I've been terribly forgetful lat
         変わりましてなあ。
         昔あった家も人もずいぶん
         少ないなっとりますからなあ。
-Old lady: "This town has changed considerably.  Few of the houses and people that were here long ago are still here."
+Old lady: "This town has changed considerably.  Few of the houses and people that were here long ago are still around."
 
 
 
@@ -11622,7 +11694,7 @@ Shmoby: "Do you happen to know someone named Yuri Ayashiro?"
         何か聞いたことあるような・・・
         この年になると忘れっぽくなって
         いけませんわ。それに
-Old lady: "Yuri Ayashiro?  Ayashiro, huh.  I think I've heard that before...  But at my age I've become quite forgetful.  Besides,"
+Old lady: "Yuri Ayashiro?  Ayashiro, huh.  I think I've heard that before...  But at my age I've become quite forgetful.  Besides,
 
 
 
@@ -11682,7 +11754,7 @@ Shmoby: "This is going nowhere."
         ジロウじゃなかったわ。
 
 
-Ayumi: "The person Akira was meeting with was not Jiro."
+Ayumi: "The person Akira was meeting with was not Jiro.
 
 
 
@@ -11694,7 +11766,7 @@ Ayumi: "The person Akira was meeting with was not Jiro."
         男性だったと言うことは
         間違いないみたいよ。
         それからもう一つ・・・
-Ayumi: "Everyone said they are certain that it was some gentlemen younger than 40 years old.  And there's another thing..."
+Ayumi: "Everyone said they are certain that it was some gentleman younger than 40 years old.  And there's another thing...
 
 
 
@@ -11706,7 +11778,7 @@ Ayumi: "Everyone said they are certain that it was some gentlemen younger than 4
           運営における中心人物、
           相談役のカンダみたいよ。
 ゅゅゅゅ「！・・・・・・
-Ayumi: "Now, the person in charge of the Ayashiro company is the legal consultant, Kanda."
+Ayumi: "Now the person in charge of the Ayashiro company is the legal consultant, Kanda."
 Shmoby: "!......"
 
 
@@ -11730,7 +11802,7 @@ Ayumi: "Look at you all lovestruck...  Hmph!"
 そしてカズトに法律を目指す
 きっかけとなった手紙とは・・・
 
-Does Kazuto have a grude against the Ayashiro family?  And there's also the letter that made him want to study law...
+Does Kazuto have a grudge against the Ayashiro family?  And there's also the letter that made him want to study law...
 
 
 
@@ -11778,7 +11850,7 @@ Villager: "Aaaaaahh!  It's that hand mirror agaaain!"
           おりません。
           きっと立派な法律家に
           なられていることでしょう・・・
-Zenzou: "I haven't met with him for 20 years now.  I'm sure he's become a splendid lawyer."
+Zenzou: "I haven't seen him for 20 years now.  I'm sure he's become a splendid lawyer."
 
 
 
@@ -11802,7 +11874,7 @@ Villager: "Yes, I've also heard the rumors about the suspicious figure."
 
 
 
-A different villager replied.
+A different villager replies.
 
 
 
@@ -12090,7 +12162,7 @@ Villager: "The figure that I saw was Kiku-san, who had killed him and brought hi
 逃げて行ってしまった。
 しかし一体何を見かけたと
 言うんだろう？
-The villager panicked and ran off.  But what in the world did he actually see?
+The villager panics and runs off.  But what in the world did he actually see?
 
 
 
@@ -12127,6 +12199,18 @@ The postcard is written with beautiful handwriting.  The gentle writing seems to
 
 
 Zenzou: "I've already seen it."
+
+
+
+ぜんぞう　「はがきのうらも　およみに　なりましたか。
+
+
+
+ゼンゾウ「ハガキの裏もお読みになりましたか。
+
+
+
+Zenzou: "Have you read the other side of the postcard?"
 
 
 
@@ -12210,7 +12294,7 @@ Dr. Kumada has returned.  He has a very serious expression on his face.
 
 
 
-Shmoby: "Doctor.  Where have you been?"
+Shmoby: "Doctor, where have you been?"
 
 
 
@@ -12234,7 +12318,7 @@ Kumada: "It seems that this has become quite the case..."
         考えとったんだが・・・
         確かにジロウが自殺するのは
         不自然だと思ったわしは
-Kumada: "Actually, I've been thinking since last time...  I really think Jiro's suicide was unnatural,"
+Kumada: "Actually, I've been thinking since last time...  I really think Jiro's suicide was unnatural,
 
 
 
@@ -12246,7 +12330,7 @@ Kumada: "Actually, I've been thinking since last time...  I really think Jiro's 
         やり直させてくれといいに
         警察病院へ行ってきたんだ。
 
-Kumada: "so I went to the police to ask if we could redo Jiro's autopsy."
+Kumada: "so I went to the police to ask if we could redo Jiro's autopsy.
 
 
 
@@ -12258,7 +12342,7 @@ Kumada: "so I went to the police to ask if we could redo Jiro's autopsy."
         しおった。
         で、色々やってみたがやはり
         何にも出てこない。
-Kumada: "They reluctantly let me do it.  So, I tried various things, but nothing came up."
+Kumada: "They reluctantly let me do it.  So, I tried various things, but nothing came up.
 
 
 
@@ -12270,7 +12354,7 @@ Kumada: "They reluctantly let me do it.  So, I tried various things, but nothing
         諦めかけたその時だ！
 
 
-Kumada: "I thought that I was maybe thinking too hard about it, but then, right when I was about to give up!"
+Kumada: "I thought that I was maybe thinking too hard about it, but then, it was at the time that I was about to give up!
 
 
 
@@ -12330,7 +12414,7 @@ Shmoby: "!  So are you telling me that Jiro was poisoned?"
         場所が右手の人差し指と
         中指の辺りだけで他からは
         まったく出んかった。
-Kumada: "But I only found cyanide around the index finger and middle finger of his right hand, and nowhere else."
+Kumada: "But I only found cyanide around the index finger and middle finger of his right hand, and nowhere else.
 
 
 
@@ -12354,7 +12438,7 @@ Kumada: "In the end, I can't say it directly caused his death..."
         あるんだろか？
 
 
-Kumada: "Was there some special method?"
+Kumada: "Is there some special process?"
 
 
 
@@ -12366,7 +12450,7 @@ Kumada: "Was there some special method?"
         どこの２枚目かと思うたら
         わしじゃないか。
 
-Kumada: "Oh!  Th-this is......!  I wonder where the second one was."
+Kumada: "Oh!  Th-this is......!  I wonder where this second one was."
 
 
 
@@ -12390,7 +12474,7 @@ Kumada: "This is a fresh photograph of Yuri-san!  Gimme gimme"
         そうか八束町にのう・・・
 
 
-Kumada: "As expected from Yuri-san.  Beautiful handwriting.  I see, she's in Yatsuka..."
+Kumada: "As expected from Yuri-san.  Beautiful handwriting.  I see, Yatsuka..."
 
 
 
@@ -12570,7 +12654,7 @@ Shmoby: "Do you know someone named Yuri Toyama?"
         よう知っとります。
 
 
-Old lady: "I think I know of Yuri Toyama."
+Old lady: "I think I know of Yuri Toyama.
 
 
 
@@ -12607,6 +12691,18 @@ Old lady: "But I don't know any other Yuri-san."
 
 
 Shmoby: "That beautiful Yuri-san is the person in this photo."
+
+
+
+としより　「ほれ、　ここに　とおやまさんと
+            かいてありますなあ。
+
+
+年より「ほれ、ここにトオヤマさんと
+        書いてありますなあ。
+
+
+Old lady: "Look, Toyama-san wrote right here."
 
 
 
@@ -12942,7 +13038,7 @@ Old lady: "Due to complicated circumstances, the baby was raised like an abandon
           その子はある日何かに
           気づいたのか・・・
 
-Old lady: "I can't tell you that, but one day the child must have realized something..."
+Old lady: "I can't tell you that, but one day the child must have realized something...
 
 
 
@@ -13014,7 +13110,7 @@ Old lady: "Oh?  ...Well, take care..."
           ジロウの死体から出た物の
           死因には結びつかない・・・
 
-Shmoby: "The cyanide found on Jiro's corpse can't be the cause of his death..."
+Shmoby: "The cyanide found on Jiro's corpse can't be the cause of his death...
 
 
 
@@ -13026,7 +13122,7 @@ Shmoby: "The cyanide found on Jiro's corpse can't be the cause of his death..."
           その子供は行方不明で手がかりは
           左肩火傷の跡だけ・・・
 
-Shmoby: "Yuri has already died...  And the only clue to the whereabouts of her child is a burn mark on his shoulder..."
+Shmoby: "Yuri has already died...  And the only clue to the whereabouts of her child is a burn mark on his shoulder...
 
 
 
@@ -13374,7 +13470,7 @@ Kumada: "What!  What did you find?!"
           この頁に！
           ここです・・・読んでみますね。
 
-Shmoby: "This page about cyanide compounds!  Right here...  Read this."
+Shmoby: "This page about cyanide compounds!  Right here...  Read this.
 
 
 
@@ -13386,7 +13482,7 @@ Shmoby: "This page about cyanide compounds!  Right here...  Read this."
           薬品を反応させ、熱を
           加えると・・・
 
-Shmoby: "If this cyanide compound is mixed with certain chemicals, and you add heat..."
+Shmoby: "If this cyanide compound is mixed with certain chemicals, and you add heat...
 
 
 
@@ -13398,7 +13494,7 @@ Shmoby: "If this cyanide compound is mixed with certain chemicals, and you add h
           ガスが発生する。
 
 
-Shmoby: "A poisonus gas called hydrogen cyanide is produced."
+Shmoby: "A poisonus gas called hydrogen cyanide is produced.
 
 
 
@@ -13410,7 +13506,7 @@ Shmoby: "A poisonus gas called hydrogen cyanide is produced."
           中毒を起こし、極めて
           短時間の内に死亡する。
 
-Shmoby: "Inhaling a large amount of the gas is poisonous, and causes death in a short period of time."
+Shmoby: "Inhaling a large amount of the gas is poisonous, and causes death in a short period of time.
 
 
 
@@ -13422,7 +13518,7 @@ Shmoby: "Inhaling a large amount of the gas is poisonous, and causes death in a 
           青酸中毒津特有の
           反応が出ないため・・・
 
-Shmoby: "Since the corpse of someone who died by this gas doesn't have the reactions characteristic of cyanide poisoning..."
+Shmoby: "Since the corpse of someone who died by this gas doesn't have the reactions characteristic of cyanide poisoning...
 
 
 
@@ -13458,7 +13554,7 @@ Kumada: "Hm!  This is a promising clue!"
         昔聞いたことがあるのう。
         これにやられてもほとんど
         死体からは何も分からんそうだが。
-Kumada: "Come to think of it, I've heard of this gas a long time ago.  It seems that you can barely tell anything from a dead body that's been killed by it."
+Kumada: "Come to think of it, I've heard of this gas a long time ago.  It seems that you can barely tell anything from a dead body that's been killed by it.
 
 
 
@@ -13470,7 +13566,7 @@ Kumada: "Come to think of it, I've heard of this gas a long time ago.  It seems 
         するにはどうやってそのガスを
         吸い込ませたかが分からんと
         どう仕様もないのう。
-Kumada: "But it's hopeless to try to prove that this was the cause of Jiro's death unless we figure out how he inhaled it."
+Kumada: "But it's hopeless to try to prove that this was the cause of Jiro's death unless we figure out how he inhaled it.
 
 
 
@@ -13482,7 +13578,7 @@ Kumada: "But it's hopeless to try to prove that this was the cause of Jiro's dea
         収穫だ。
         今日はひとまず引き上げようや。
 
-Kumada: "Just this is a huge find.  Let's go for the day."
+Kumada: "This on its own is a huge find.  Let's leave for the day."
 
 
 
@@ -13494,7 +13590,7 @@ Kumada: "Just this is a huge find.  Let's go for the day."
         あそこにはまたいずれ
         行ってみる必要はありそうだの。
 
-Kumada: "Oh, we're finally back.  But I"m sure we'll have to go back there sooner or later."
+Kumada: "Oh, we're finally back.  But I'm sure we'll have to go there again sooner or later."
 
 
 
@@ -13506,7 +13602,7 @@ Kumada: "Oh, we're finally back.  But I"m sure we'll have to go back there soone
           二つの人影が目撃
           されてたんです。
 
-Shmoby: "When Jiro committed suicide, two figures were seen on that mountain."
+Shmoby: "When Jiro committed suicide, two figures were seen on that mountain.
 
 
 
@@ -13518,7 +13614,7 @@ Shmoby: "When Jiro committed suicide, two figures were seen on that mountain."
           なかったようでもう一方の人に
           引きずられるようにしてたそうです。
 
-Shmoby: "According to the story, one person had lost consciousness and the other one was dragging them along."
+Shmoby: "According to the story, one person had lost consciousness and the other one was dragging them along.
 
 
 
@@ -13542,7 +13638,7 @@ Shmoby: "The eyewitness said that the resurrected Kiku had killed Jiro..."
         死んだもんがいちいち蘇るなら
         病院など不要だ。
 
-Kumada: "Don't be ridiculous.  If the dead always came back to life, hospitals would be unnecessary."
+Kumada: "Don't be ridiculous.  If the dead always came back to life, hospitals would be unnecessary.
 
 
 
@@ -13554,7 +13650,7 @@ Kumada: "Don't be ridiculous.  If the dead always came back to life, hospitals w
         ジロウが運ばれる所を目撃
         したのかもしれんな。
 
-Kumada: "But...maybe he saw someone kill Jiro and drag him off somewhere."
+Kumada: "But...maybe someone killed Jiro and he saw the killer drag him off somewhere."
 
 
 
@@ -13842,7 +13938,7 @@ Shmoby: "...What a ridiculous person."
         先だ。
 
 
-Kumada: "Before that, let's see the beautiful woman first."
+Kumada: "Before that, let's see the beautiful woman."
 
 
 
@@ -13914,7 +14010,7 @@ Shmoby: "Uh, me?  I don't want to..."
 ゅゅゅゅ「知りませんよ。
 
 
-Kumada: "......She's not here, huh."
+Kumada: "......She's not here, huh?"
 Shmoby: "I don't know."
 
 
@@ -13986,7 +14082,7 @@ Kumada: "I won't go back until I meet her!"
         どれ、潮風にでもお立ってくるか。
 
 
-Kumada: "The weather is great today.  I'm going to go to feel the sea breeze."
+Kumada: "The weather is great today.  I'm going to go feel the sea breeze."
 
 
 
@@ -14082,7 +14178,7 @@ Shmoby: "Oh?  Is it Yukiko-san?"
       今の私にはあの人の顔を
       見られるのが唯一の救いです。
 
-Station Attendent: "She's a pretty person.  The only help I get now is seeing her face."
+Station Attendent: "She's a pretty lady.  The only relief I get now is seeing her face."
 
 
 
@@ -14190,7 +14286,7 @@ Kumada: "I-i-it's terrible!  I-in the sea, in the sea, there's a woman floating!
 
 
 
-Shmoby: "What did you say?!  Where!  Ah!"
+Shmoby: "What did you say?!  Where?!  Ah!"
 
 
 
@@ -14214,7 +14310,7 @@ Kumada: "Call the police at once!"
 すぐさま引き上げた。
 それは・・・物を言わぬアズサの
 変わり果てた姿であった。
-The police rushed to the scene and immediately pulled out the woman's corpse.  It was...the ruined figure of Azusa, who hadn't said a thing.
+The police rush to the scene and immediately pull out the woman's corpse.  It is...the ruined figure of Azusa, who had disappeared without saying a thing.
 
 
 
@@ -14239,7 +14335,7 @@ Kumada: "What the hell is going on with the Ayashiro family?!  Shmoby-kun, I'm g
 
 
 Shmoby: "Got it."
-Kumada: "Well, I'm leaving it to you."
+Kumada: "Well, I'm leaving this to you."
 
 
 かんしき　「こうさつだ。
@@ -14250,7 +14346,7 @@ Kumada: "Well, I'm leaving it to you."
       喉元に付いたあざが見えるだろう。
 
 
-Forensics Officer: "She was strangled.  There's a bruise that was left on her neck."
+Forensics Officer: "She was strangled.  There's a bruise on her neck."
 
 
 
@@ -14286,7 +14382,7 @@ Forensics Officer: "Are you involved?  Don't get in the way."
       あって、滅多に死体は
       上がらないんだが、たまたま流れ着いた
       材木に引っかかったんだ。
-Forensics Officer: "This place is mainly known for being a popular suicide spot, but you rarely find any corpses here.  She just so happened to be caught by a drifting log."
+Forensics Officer: "This place is mainly known for being a popular suicide spot, but you rarely find any corpses here.  She just happened to be caught by a drifting log."
 
 
 
@@ -14334,7 +14430,7 @@ Forensics Officer: "Hey, you!  You're getting in the way."
 なさそうだが・・・
 
 
-There doesn't seem to be any clues around...
+There don't seem to be any clues around...
 
 
 
@@ -14346,7 +14442,7 @@ There doesn't seem to be any clues around...
 
 
 
-It's Unakami cliff.
+It's Unakami Cliff.
 
 
 
@@ -14394,7 +14490,7 @@ Forensics Officer: "Hey!  An amateur like you can't investigate whatever you wan
       だめだと言っているだろう！ん・・・
 
 
-Forensics Officer: "Hey!  Cut it off!  I said stop!  Ugh..."
+Forensics Officer: "Hey!  Cut it out!  I said stop!  Ugh..."
 
 
 
@@ -14430,7 +14526,7 @@ Forensics Officer: "Alright, let's see what you've got."
       でもむやみに触らないように
       頼むよ。
 
-Forensics Officer: "You want to try investigating the body yourself?  Just make sure not to recklessly touch anything."
+Forensics Officer: "You want to try investigating the body yourself?  Just make sure not to touch anything recklessly."
 
 
 
@@ -14478,7 +14574,7 @@ Shmoby: "She really does have noticeable bruises."
           じゃ、僕が崖の上で見つけた
           ハイヒールは・・・
 
-Shmoby: "Oh!  She's only wearing one shoe.  Then, the high heel that I found on the cliff..."
+Shmoby: "Oh!  She's only wearing one shoe.  Then the high heel that I found on the cliff..."
 
 
 
@@ -14514,7 +14610,7 @@ Forensics Officer: "Thank you, we'll take care of it."
 崖から突き落とされたようです。
 
 
-It's terrible how she was strangled and then tossed off the cliff.
+It's terrible that she was strangled and then tossed off the cliff.
 
 
 
@@ -14538,7 +14634,7 @@ Forensics Officer: "You're giving up already, huh?"
           調べなくちゃ・・・
           あっ！何かを激しく引っかいた
           ような跡がある！
-Shmoby: "I should check her nails...  Oh!  There's marks that make it look like she was violently scratching something!"
+Shmoby: "I should check her nails...  Oh!  There's evidence that makes it look like she was violently scratching something!"
 
 
 
@@ -14550,7 +14646,7 @@ Shmoby: "I should check her nails...  Oh!  There's marks that make it look like 
       ちょっと待ってくれ。
       すぐに調べるから・・・
 
-Forensics Officer: "What?  Really?  Hold on.  I'll take a look..."
+Forensics Officer: "What?  Really?  Hold on.  I'll take a look...
 
 
 
@@ -14562,7 +14658,7 @@ Forensics Officer: "What?  Really?  Hold on.  I'll take a look..."
       人間の皮膚の一部が検出
       されたぞ。
 
-Forensics Officer: "Oh!  There's some human skin between the victim's fingernails."
+Forensics Officer: "Oh!  There's some human skin under the victim's fingernails.
 
 
 
@@ -14634,7 +14730,7 @@ Shmoby: "Where did you get that scratch?!"
     何でそんなこと聞くんだ？
     えっ！この犯人は引っかき傷の
     ある男！
-Man: "It's just a scratch from a cat.  Why are you asking a thing like that?  What?!  The culprit here is a man with a scratch mark?!"
+Man: "It's just a scratch from a cat.  Why are you asking a thing like that?  What?!  The culprit here is a man with a scratch mark?!
 
 
 
@@ -14646,7 +14742,7 @@ Man: "It's just a scratch from a cat.  Why are you asking a thing like that?  Wh
     わしじゃない信じてくれ！
     実は・・・
 
-Man: "I-i-i-it's not me, you have to believe me!  Actually..."
+Man: "I-i-i-it's not me, you have to believe me!  Actually...
 
 
 
@@ -14682,7 +14778,7 @@ Other person: "That's right.  His mother is absolutely terrifying..."
     見てしもうたんだ！
     女が歩いとったのを！
 
-Man: "Also, that night, I saw her!  A woman walking!"
+Man: "Also, that night, I saw her!  A woman walking!
 
 
 
@@ -14694,7 +14790,7 @@ Man: "Also, that night, I saw her!  A woman walking!"
     思うて逃げ出そうとしたんだが、
     腰が抜けて動けんかった。
     で、よく見たら
-Man: "I was certain it was Kiku-san, so I tried to run off, but my back gave out and I couldn't move.  Then, I saw her..."
+Man: "I was certain it was Kiku-san, so I tried to run off, but my back gave out and I couldn't move.  Then, I saw her...
 
 
 
@@ -14706,7 +14802,7 @@ Man: "I was certain it was Kiku-san, so I tried to run off, but my back gave out
     さらにこの女の後をつけるように
     男が歩いとった！
 
-Man: "It was this woman!  I'm certain that behind this woman was a man following her!"
+Man: "It was this woman!  I'm certain that behind this woman was a man following her!
 
 
 
@@ -14730,7 +14826,7 @@ Man: "I'm certain that it was a man that would sometimes go to the Ayashiro hous
           男と言えばすでに死んでいる
           カンジ、ジロウ、行方不明の
           アキラ、そして他には・・・
-Shmoby: "What??!  The only men that would sometimes go to the Ayashiro house are already dead like Kanji and Jiro, or have gone missing like Akira, which leaves..."
+Shmoby: "What??!  The only men that would sometimes go to the Ayashiro house are already dead, like Kanji and Jiro, or have gone missing like Akira, which leaves...
 
 
 
@@ -14802,7 +14898,7 @@ Zenzou: "Oh!  What?!  The Ayashiro family is done for now!"
           いたんです、
           ただし行方不明ですが、
           僕がきっと・・・
-Shmoby: "But Yuri-san had a child, but the child's whereabouts are currently unknown, but surely I can..."
+Shmoby: "But Yuri-san had a child, although the child's whereabouts are currently unknown, but surely I can..."
 
 
 
@@ -14874,7 +14970,7 @@ Zenzou: "Dude-sama!  Please find Yuri-sama's child.  Please!"
           再び出かけられるまでどなたかと
           電話で話しておられました。
 
-Zenzou: "Before leaving again last night, Azusa-sama was talking on the phone with someone."
+Zenzou: "Before leaving again last night, Azusa-sama was talking on the phone with someone.
 
 
 
@@ -14922,7 +15018,7 @@ Zenzou: "......!  Azusa-sama had a habit of writing notes while on the phone."
           凹んでいる・・・
 
 
-Shmoby: "There's a part that's been indented from strong writing..."
+Shmoby: "There's a section that's been indented from hard writing..."
 
 
 
@@ -14946,7 +15042,7 @@ Shmoby: "Oh, if you rub it with this pencil...!  You can read it now."
           アキラとは関係ない
           間もなく遺産分配・・・
           ユリの子供見つかった！
-Shmoby: "Let's see...  Unakami cliff, 11:30, Akira's not involved, the inheritance is about to be distributed...  Yuri's child was found!"
+Shmoby: "Let's see...  Unakami Cliff, 11:30, Akira's not involved, the inheritance is about to be distributed...  Yuri's child was found!"
 
 
 
@@ -15114,7 +15210,7 @@ Shmoby: "......!!"
 
 
 
-Akane slowly began to tell her story.
+Akane slowly begins to tell her story.
 
 
 
@@ -15126,7 +15222,7 @@ Akane slowly began to tell her story.
         タバコをやめていなかったのです。
         タバコは私がいつも
         買っていました。お止めしたんですが・・・
-Akane: "...The truth is, Kiku-sama didn't quit smoking.  I always bought her tobacco.  I tried to stop her, but..."
+Akane: "...The truth is, Kiku-sama didn't quit smoking.  I always bought her tobacco.  I tried to stop her, but...
 
 
 
@@ -15138,7 +15234,7 @@ Akane: "...The truth is, Kiku-sama didn't quit smoking.  I always bought her tob
         そう言われて断りきれず・・・
 
 
-Akane: "She said that she couldn't sleep without smoking, so I couldn't refuse..."
+Akane: "She said that she couldn't sleep without smoking, so I couldn't refuse...
 
 
 
@@ -15150,7 +15246,7 @@ Akane: "She said that she couldn't sleep without smoking, so I couldn't refuse..
         見えたカンダ先生にも
         こぼしておられました。
 
-Akane: "When Mr. Kanda came to write the will, she admitted this to him."
+Akane: "When Mr. Kanda came to write the will, she admitted this to him.
 
 
 
@@ -15162,7 +15258,7 @@ Akane: "When Mr. Kanda came to write the will, she admitted this to him."
         いつものようにキセルに火を
         つけられ・・・間もなく発作を
         起こされたようでした。
-Akane: "That night, Kiku-sama lit her pipe like usual...  Soon afterwards, she had a seizure."
+Akane: "That night, Kiku-sama lit her pipe like usual...  Soon afterwards, she had a seizure.
 
 
 
@@ -15186,7 +15282,7 @@ Shmoby: "So, about the tobacco container, it was you..."
         いるのを発見した私は
         とっさにキセルとタバコ入れを
         隠しました。
-Akane: "...Yes.  The moment I found that Kiku-sama had died, I hid the pipe and tobacco container."
+Akane: "...Yes.  The moment I found that Kiku-sama had died, I hid the pipe and tobacco container.
 
 
 
@@ -15210,7 +15306,7 @@ Akane: "And right after this I called for Zenzou-san.  I'm so sorry...  *sob*"
         そんなことで止まってしもうものか！
         このクマダが保証してやる。
 
-Kumada: "That's crazy!  That Kiku-san's heart would stop from something like that!  I, Kumada, guarantee it."
+Kumada: "That's crazy!  That Kiku-san's heart would stop from something like that!  I, Kumada, guarantee it.
 
 
 
@@ -15234,7 +15330,7 @@ Kumada: "It's not your fault at all.  So...stop crying already.  Go rest at the 
         ジロウのような不審な点が
         まったくないのう。
 
-Kumada: "The way that Azusa died wasn't suspicious like Kanji and Jiro's deaths were."
+Kumada: "The way that Azusa died wasn't questionable like Kanji and Jiro's deaths were.
 
 
 
@@ -15246,7 +15342,7 @@ Kumada: "The way that Azusa died wasn't suspicious like Kanji and Jiro's deaths 
         すでに死んでいたらしいと
         言うことだし、
         ジロウにしても何か不自然だ・・・
-Kumada: "It seems that Kanji was already dead when he was stabbed, and something was unnatural about Jiro as well..."
+Kumada: "It seems that Kanji was already dead when he was stabbed, and something was unnatural about Jiro as well...
 
 
 
@@ -15342,7 +15438,7 @@ Kumada: "Let's leave her alone."
         だったアズサにしても、タバコの
         好きなやつばかりだのう。
 
-Kumada: "Even though Azusa was trying to quit, both her and Kiku liked nothing but smoking."
+Kumada: "Even though Azusa was trying to quit, both she and Kiku liked nothing but smoking.
 
 
 
@@ -15426,7 +15522,7 @@ Kumada: "...What?  That's not right!"
         火をつけるとガスが発生する！
 
 
-Kumada: "I see!  Lighting a cigarette with cyanide in it releases the gas!"
+Kumada: "I see!  Lighting a cigarette with cyanide in it releases the gas!
 
 
 
@@ -15450,7 +15546,7 @@ Kumada: "And then the gas is inhaled...  I see!  And the cyanide seeped from the
           殺された後自殺のように
           偽装されたんでしょう。
 
-Shmoby: "They probably killed Jiro with the cyanide cigarrete and then made it look like he killed himself."
+Shmoby: "They probably killed Jiro with the cyanide cigarrete and then made it look like he killed himself.
 
 
 
@@ -15462,7 +15558,7 @@ Shmoby: "They probably killed Jiro with the cyanide cigarrete and then made it l
           殺し、土蔵まで運んだ後
           ナイフを突き立てることも
           これならば簡単だ。
-Shmoby: "They could have killed Kanji with this method beforehand and then taken him to the storehouse and stabbed him with the knife."
+Shmoby: "They could have killed Kanji with this method beforehand and then taken him to the storehouse and stabbed him with the knife.
 
 
 
@@ -15474,7 +15570,7 @@ Shmoby: "They could have killed Kanji with this method beforehand and then taken
           この方法は使えなかった。
           だからアズサは・・・ん！
 
-Shmoby: "Azusa was the only one that couldn't be killed with this method because she quit smoking.  Thus, for Azusa...  Wait!"
+Shmoby: "Azusa was the only one that couldn't be killed with this method because she quit smoking.  Thus, for Azusa...  Wait!
 
 
 
@@ -15510,7 +15606,7 @@ Shmoby: "Doctor!  Let's hurry!"
 ことのすべてを話した。
 
 
-Shmoby and Kumada told Genshin everything.
+Shmoby and Kumada tell Genshin everything.
 
 
 
@@ -15570,7 +15666,7 @@ Genshin: "But......"
           と言う噂、そしてあの・・・
 
 
-Shmoby: "With the villagers all claiming that they saw something, and..."
+Shmoby: "With the villagers all claiming that they saw something, and...
 
 
 
@@ -15666,7 +15762,7 @@ What?!  Kiku's body is not in the grave!  Instead, there's a single man's corpse
       こんな所で死んでいたとは！
 
 
-Forensics Officer: "This is Akira Ayashiro.  To think that he died in a place like this!"
+Forensics Officer: "This is Akira Ayashiro.  To think that he's been dead in a place like this!"
 
 
 
@@ -15798,7 +15894,7 @@ Kumada: "Shouldn't you ask the police about that?"
         立っとるようだが・・・
 
 
-Kumada: "It seems that he's been buried here for quite some time..."
+Kumada: "It seems that he's been buried here for quite some time...
 
 
 
@@ -15834,7 +15930,7 @@ Shmoby: "Is this Akira...  I don't think I want to look too closely...  Oh, this
           僕はあの夜ウナカミの崖で・・・
 
 
-Shmoby: "...Oh!  I, I remember now!  That night, when I was at Unakami Cliff..."
+Shmoby: "...Oh!  I, I remember now!  That night, when I was at Unakami Cliff...
 
 
 
@@ -15870,7 +15966,7 @@ Ayumi: "What?!  You were attacked by Akira?!  You remembered something!"
           アヤシロ商事を我が物に
           しようとする人物に
           青酸タバコで殺された
-Shmoby: "All three of Kiku, Kanji, and Jiro were killed with cyanide tobacco by someone who is after the Ayashiro company."
+Shmoby: "All three of Kiku, Kanji, and Jiro were killed with cyanide tobacco by someone who is after the Ayashiro company.
 
 
 
@@ -15882,7 +15978,7 @@ Shmoby: "All three of Kiku, Kanji, and Jiro were killed with cyanide tobacco by 
           タバコを忍ばせたのはそいつに
           利用されたアキラの仕業だ
 
-Shmoby: "That person used Akira to sneak the cyanide-laced tobacco into Kiku's tobacco container."
+Shmoby: "That person used Akira to sneak the cyanide-laced tobacco into Kiku's tobacco container.
 
 
 
@@ -15894,7 +15990,7 @@ Shmoby: "That person used Akira to sneak the cyanide-laced tobacco into Kiku's t
           僕に危険を感じたアキラは
           あの晩僕を電話で崖まで
           呼び出し襲いかかってきた
-Shmoby: "Thus, when I went to investigate, Akira thought I was a threat and called me on the phone to meet on the cliff that night, where he attacked me."
+Shmoby: "Thus, when I went to investigate, Akira thought I was a threat and called me on the phone to meet on the cliff that night, where he attacked me.
 
 
 
@@ -15918,7 +16014,7 @@ Shmoby: "He hit me on the head, and to make it look like an accidental death, he
           都合がよかった。その反面
           もっとも危険な人物だった
           だからキクの次に殺したんだ。
-Shmoby: "Akira was convenient for the culprit in various ways.  On the other hand, Akira was also the most dangerous, so he was killed next after Kiku."
+Shmoby: "Akira was useful for the culprit in various ways.  On the other hand, Akira was also the most dangerous, so he was killed next after Kiku."
 
 
 
@@ -15942,7 +16038,7 @@ Ayumi: "Hey!  Who's actually the culprit?  And why did they even kill Azusa?!"
           遺言公開の日、アキラが誰かと
           会っていたと、言っていたはずだ。
           つまりその人物とは・・・
-Shmoby: "Azusa said that on the day the will was announced, Akira met with someone.  Which means, that person is..."
+Shmoby: "Azusa said that on the day the will was read, Akira met with someone.  Which means, that person is..."
 
 
 
@@ -16099,7 +16195,7 @@ Shmoby: "Oh, Amachi-san isn't here.  But I wanted to talk to him..."
 
 
 *rattle rattle*
-Shmoby: "As expected since he's not home.  It's locked."
+Shmoby: "As expected, since he's not home.  It's locked."
 
 
 ここに　たっていると　あのよるのことが
@@ -16134,7 +16230,7 @@ Shmoby: "There's nothing that looks like a clue...  However, I must keep investi
           襲われたんだ。だが・・・
 
 
-Shmoby: "I'm certain Akira attacked me on this cliff.  But..."
+Shmoby: "I'm certain Akira attacked me on this cliff.  But...
 
 
 
@@ -16170,7 +16266,7 @@ Zenzou: "I heard everything from the police.  It is truly unfortunate..."
           ありまして、ユリ様のお子様が
           見つかったのことです！
 
-Zenzou: "I was just talking with Kanda-sama on the phone, Yuri-sama's child has been found!"
+Zenzou: "I was just talking with Kanda-sama on the phone, Yuri-sama's child has been found!
 
 
 
@@ -16218,7 +16314,7 @@ Zenzou: "What?!  No...  That's ridiculous..."
           色々聞いておられたでしょう。
           後継者の印がどのような
           物かもご存知だったかも・・・しかし
-Zenzou: "He probably heard many things about Yuri-sama from Kiku-sama.  He might know what the symbol of the heir looks like...  However"
+Zenzou: "He probably heard many things about Yuri-sama from Kiku-sama.  He might know what the symbol of the heir looks like...  However,
 
 
 
@@ -16290,7 +16386,7 @@ Akane: "I brought it.  This is the tobacco container."
 
 
 
-The drawer of the tobacco container came off.
+The drawer of the tobacco container comes off.
 
 
 
@@ -16327,7 +16423,7 @@ There's nothing in it anymore.
 取ろうとしたら手が滑って
 落としてしまった！
 *Crash*!
-You tried to take the tobacco container with the drawer removed, but it slipped from your hands and fell down!
+You try to take the tobacco container with the drawer removed, but it slips from your hands and falls down!
 
 
 と、　そのひょうしに　なかから　１まいの
@@ -16338,7 +16434,7 @@ You tried to take the tobacco container with the drawer removed, but it slipped 
 紙切れが出てきた。
 
 
-Oh, a piece of paper came out.
+Oh, a piece of paper comes out.
 
 
 
@@ -16458,7 +16554,7 @@ Secretary: "Just a minute!  What are you doing?!  Stop!"
         大旦那様や昔のことを
         思い出すそうです。
 
-Akane: "Zenzou-san says that seeing the tobacco container makes him think of the master and long ago."
+Akane: "Zenzou-san says that seeing the tobacco container makes him think of the master and the time long ago."
 
 
 
@@ -16614,7 +16710,7 @@ Shmoby: "It seems that he's behind this whole sequence of events.  Can I talk wi
           カンダのことは、誰にも
           話さんつもりだった。
 
-Genshin: "I promised Kiku-san that I wouldn't tell anyone about Kanda."
+Genshin: "I promised Kiku-san that I wouldn't tell anyone about Kanda.
 
 
 
@@ -16626,7 +16722,7 @@ Genshin: "I promised Kiku-san that I wouldn't tell anyone about Kanda."
           聞かれた時から
           わしは何も言わなんだはずだ。
 
-Genshin: "I didn't say anything to you from the beginning whenever you asked about Kanda."
+Genshin: "I didn't say anything to you from the beginning whenever you asked about Kanda.
 
 
 
@@ -16650,7 +16746,7 @@ Genshin: "If you noticed that, you're a great detective..."
           あの男の仕業だったか・・・
           あんたの思っとる通りだ。
 
-Genshin: "I see...  It was all his doing...  It's as you're thinking."
+Genshin: "I see...  It was all his doing...  It's as you're thinking.
 
 
 
@@ -16662,7 +16758,7 @@ Genshin: "I see...  It was all his doing...  It's as you're thinking."
           自殺に追いやられた男こそ
           アヤシロ商事の顧問弁護士・・・
 
-Genshin: "The man whose parents were driven to suicide by Kiku-san's husband is the legal consultant of the Ayashiro company..."
+Genshin: "The man whose parents were driven to suicide by Kiku-san's husband is the legal consultant of the Ayashiro company...
 
 
 
@@ -16674,7 +16770,7 @@ Genshin: "The man whose parents were driven to suicide by Kiku-san's husband is 
 
 
 
-Genshin: "The man named Kanda is not in town."
+Genshin: "The man named Kanda is not in town.
 
 
 
@@ -16686,7 +16782,7 @@ Genshin: "The man named Kanda is not in town."
           知っておったんじゃよ。それでもあえて
           カンダを顧問弁護士に
           決めたんだ。
-Genshin: "Kiku-san knew everything about Kanda.  And yet, she still decided to hire him as her legal consultant."
+Genshin: "Kiku-san knew everything about Kanda.  And yet, she still decided to hire him as her legal consultant.
 
 
 
@@ -16698,7 +16794,7 @@ Genshin: "Kiku-san knew everything about Kanda.  And yet, she still decided to h
           キクさんはこういうとった。
           カンダを顧問弁護士にすることが
           正しいかどうかは分からん・・・
-Genshin: "She was wanting to atone for her sins.  She said something like that.  I'm not sure if hiring him as their legal consultant was the right thing to do..."
+Genshin: "She was wanting to atone for her sins.  She said something like that.  I'm not sure if hiring him as their legal consultant was the right thing to do...
 
 
 
@@ -16710,7 +16806,7 @@ Genshin: "She was wanting to atone for her sins.  She said something like that. 
           それは自分の意志であり・・・
           アヤシロ家の定めだとな・・・
 
-Genshin: "But no matter the consequences, it's what she decided to do...  She said it was the fate of the Ayashiro family..."
+Genshin: "But no matter the consequences, it's what she decided to do...  She said it was the fate of the Ayashiro family...
 
 
 
@@ -16722,7 +16818,7 @@ Genshin: "But no matter the consequences, it's what she decided to do...  She sa
           キクさんも満足しておった。
           まさかカンダがこんな恐ろしいことを
           考えておったとは・・・
-Genshin: "It seems that Kanda worked hard.  Kiku-san was satisfied.  That Kanda would consider doing something as terrifying as this..."
+Genshin: "It seems that Kanda worked hard.  Kiku-san was satisfied.  That Kanda would consider doing something as terrifying as this...
 
 
 
@@ -16734,7 +16830,7 @@ Genshin: "It seems that Kanda worked hard.  Kiku-san was satisfied.  That Kanda 
 
 
 
-Genshin: "I couldn't even imagine..."
+Genshin: "I couldn't even imagine...
 
 
 
@@ -16746,7 +16842,7 @@ Genshin: "I couldn't even imagine..."
           知っておっただろう。
           そんなこともあってユリは屋敷を出る
           覚悟を決めたのかもしれん。
-Genshin: "Yuri probably also knew of Kanda's family's situation.  It might be one of reasons that she decided to leave the estate."
+Genshin: "Yuri probably also knew of Kanda's family's situation.  It might be one of the reasons that she decided to leave the estate.
 
 
 
@@ -16758,7 +16854,7 @@ Genshin: "Yuri probably also knew of Kanda's family's situation.  It might be on
           商売のやり方に
           耐えられんかったようだからな。
           だがのう・・・
-Genshin: "It seems that Yuri already couldn't bear the way the family company did things.  However..."
+Genshin: "It seems that Yuri already couldn't bear the way the family company did things.  However...
 
 
 
@@ -17082,7 +17178,7 @@ Employee: "Amachi-san had asked me to do his laundry, but I was late in doing it
       関係が？
 
 
-Employee: "What does that have to do with cleaning?"
+Employee: "What does that have to do with dry cleaning?"
 
 
 
@@ -17106,7 +17202,7 @@ Employee: "I'm in trouble..."
 
 
 
-A dry-cleaner employee is standing here.
+A dry cleaning employee is standing here.
 
 
 
@@ -17190,7 +17286,7 @@ Employee: "Well, if I may..."
 
 
 
-The dry-cleaner employee has left.
+The dry cleaning employee has left.
 
 
 
@@ -17202,7 +17298,7 @@ The dry-cleaner employee has left.
           じゃあ僕は・・・
           一体どうなってるんだ！
 
-Shmoby: "My clothes were drenched in seawater...!  Then that means that I...  What in the world is going on!"
+Shmoby: "My clothes were drenched in seawater...!  Then that means that I...  What in the world is going on?!"
 
 
 
@@ -17226,7 +17322,7 @@ Ayumi: "What?!  Are you saying that you actually were thrown into the sea?!"
           僕の物らしい服を持った
           クリーニング屋に出会ったんだ。
 
-Shmoby: "The truth is, I ran into a dry-cleaner employee in front of Amachi-san's apartment who had what seemed to be my clothes."
+Shmoby: "The truth is, I ran into a dry cleaning employee in front of Amachi-san's apartment who had what seemed to be my clothes.
 
 
 
@@ -17238,7 +17334,7 @@ Shmoby: "The truth is, I ran into a dry-cleaner employee in front of Amachi-san'
           アマチさんから預かったその服は
           海水でずぶ濡れだったらしいんだ。
 
-Shmoby: "Surprisingly, it seems that the clothes he got from Amachi-san were drenched in seawater."
+Shmoby: "Surprisingly, it seems that the clothes he got from Amachi-san were drenched in seawater.
 
 
 
@@ -17274,7 +17370,7 @@ Ayumi: "Maybe someone brought you to the grass after you fell into the sea.  But
         アマチさんが発見した・・・
 
 
-Ayumi: "And then after that, Amachi-san found you..."
+Ayumi: "And then after that, Amachi-san found you...
 
 
 
@@ -17310,7 +17406,7 @@ Ayumi: "But I'm asking about the case."
           アヤシロ商事の乗っ取りを
           計画したカンダは・・・
 
-Shmoby: "To avenge his parent's death, Kanda took over the Ayashiro corporation..."
+Shmoby: "To avenge his parents' death, Kanda took over the Ayashiro corporation...
 
 
 
@@ -17322,7 +17418,7 @@ Shmoby: "To avenge his parent's death, Kanda took over the Ayashiro corporation.
           知り尽くしている。
           そしてついにユリの息子を
           見つけたようだ。
-Shmoby: "He knows all of the ins and outs of the Ayashiro company.  Finally, it seems that he's found Yuri's child."
+Shmoby: "He knows all of the ins and outs of the Ayashiro company.  Finally, it seems that he's found Yuri's child.
 
 
 
@@ -17334,7 +17430,7 @@ Shmoby: "He knows all of the ins and outs of the Ayashiro company.  Finally, it 
           発言力を持つその人物を
           抱き込んでしまえば・・・
 
-Shmoby: "If he can bring someone with such an influential voice in the Ayashiro company to his side..."
+Shmoby: "If he can bring someone with such an influential voice in the Ayashiro company to his side...
 
 
 
@@ -17358,7 +17454,7 @@ Shmoby: "Kanda will be able to do whatever he wishes with the Ayashiro corporati
         私たちと同じ年くらいよね。
         何も分からない内はカンダの
         言う通りにするでしょうけど・・・
-Ayumi: "However, Yuri-san's son is about our age.  But he'll do whatever Kanda says while he doesn't know anything..."
+Ayumi: "However, Yuri-san's son is about our age.  But he'll do whatever Kanda says while he doesn't know anything...
 
 
 
@@ -17382,7 +17478,7 @@ Ayumi: "Do you really think he'll keep doing what Kanda wants?  Kanda's backgrou
           必要ない！！その子を殺して
           自分の思い道理になるような・・・
 
-Shmoby: "! He doesn't need the real heir!!  Maybe he killed the kid..."
+Shmoby: "! He doesn't need the real heir!!  Maybe he killed the kid...
 
 
 
@@ -17562,7 +17658,7 @@ Shmoby: "Th-that's right, I...  I'm going to go see Motoko-san again!"
 モトコは驚きをもって迎えた。
 遠い過去の記憶がついに
 蘇り始めたゅゅゅゅは、
-As Shmoby rushed, Motoko greeted him with surprise.  Memories of long ago finally started coming back to Shmoby,
+As you rush, Motoko greets you with surprise.  Memories of long ago finally start coming back to you,
 
 
 
@@ -17574,7 +17670,7 @@ As Shmoby rushed, Motoko greeted him with surprise.  Memories of long ago finall
 特別な記憶を持っている
 自分を強く感じていた・・・
 
-and he felt that there was a special memory with this woman that was in front of his eyes...
+and you feel that there is a special memory with this woman that is in front of your eyes...
 
 
 
@@ -17586,7 +17682,7 @@ and he felt that there was a special memory with this woman that was in front of
 すべてを今まさに取り戻そうと
 している！
 
-Shmoby is now recovering all of his lost memories!
+You are now recovering all of your lost memories!
 
 
 
@@ -17634,7 +17730,7 @@ Shmoby is regaining his lost memories...!
         分かりました、すべて話して
         あげましょう。
 
-Motoko: "!...So, you are...  I understand, let me tell you everything."
+Motoko: "!...So, you are...  I understand, let me tell you everything.
 
 
 
@@ -17646,7 +17742,7 @@ Motoko: "!...So, you are...  I understand, let me tell you everything."
         子供に間違いないわ。
         あなた、ゅゅゅゅ君て名前でしょ？
 
-Motoko: "That's right...  You are certainly Yuri-san's child.  Your name is Shmoby-kun, right?"
+Motoko: "That's right...  You are certainly Yuri-san's child.  Your name is Shmoby-kun, right?
 
 
 
@@ -17694,7 +17790,7 @@ Motoko: "Of course you wouldn't know what your mother's face looks like.  You di
         捨て子として育てられたの。
         でも母が何かを隠していると、
         気づいたあなたは
-Motoko: "You were raised like an abandoned child at my mother's orphanage.  But my mother was hiding something, and soon after you figured that out,"
+Motoko: "You were raised like an abandoned child at my mother's orphanage.  But my mother was hiding something, and soon after you figured that out,
 
 
 
@@ -17706,7 +17802,7 @@ Motoko: "You were raised like an abandoned child at my mother's orphanage.  But 
         両親を探すと言う書き置きを
         残して飛び出してしまったの。
 
-Motoko: "you left a note saying you were going to look for your real parents and you ran away."
+Motoko: "you left a note saying you were going to look for your real parents and you ran away.
 
 
 
@@ -17754,7 +17850,7 @@ Motoko: "When Yuri-san died, you were a baby, not even a year old."
         可愛がっていたわ。あなたも母を
         ずいぶん慕っていたそうね。
 
-Motoko: "She loved you like you were her own.  It seems that you loved my mother as well."
+Motoko: "She loved you like you were her own.  It seems that you loved my mother as well.
 
 
 
@@ -17922,7 +18018,7 @@ Shmoby: "So this is why you looked familiar!"
         名前はね、ご両親が
         つけてくださった名前なの。
 
-Motoko: "Your name, Shmoby, was given to you by your parents."
+Motoko: "Your name, Shmoby, was given to you by both of your parents."
 
 
 
@@ -17994,7 +18090,7 @@ Shmoby: "Please wait!  Until today, I didn't know anything about my mother.  Or 
           なぜ捨て子として育てられたのか
           その事情を知らないままなんて・・・
           あんまりです！
-Shmoby: "I have to know why.  Why was I raised like an abandoned child, and what are the circumstances that I don't know...  What is it!"
+Shmoby: "I have to know why.  Why was I raised like an abandoned child, and what are the circumstances that I don't know...  What is it?!"
 
 
 
@@ -18006,7 +18102,7 @@ Shmoby: "I have to know why.  Why was I raised like an abandoned child, and what
         知る権利があるわね。
         ・・・その事情と言うのはあなたの
         お父さんのことなの。
-Motoko: "...You're right.  You have the right to know.  The circumstances I mentioned are about your father."
+Motoko: "...You're right.  You have the right to know.  The circumstances I mentioned before are about your father.
 
 
 
@@ -18018,7 +18114,7 @@ Motoko: "...You're right.  You have the right to know.  The circumstances I ment
         これがお父さんの名前よ。
 
 
-Motoko: "Takao Toyama.  This is your father's name."
+Motoko: "Takao Toyama.  This is your father's name.
 
 
 
@@ -18030,7 +18126,7 @@ Motoko: "Takao Toyama.  This is your father's name."
         評判の中のいい
         ご夫婦だったそうよ。
 
-Motoko: "He was a very manly person, and he and Yuri-san were known to be a great married couple."
+Motoko: "He was a very manly person, and he and Yuri-san were known to be a wonderful married couple.
 
 
 
@@ -18042,7 +18138,7 @@ Motoko: "He was a very manly person, and he and Yuri-san were known to be a grea
         誰もがあなたたちの幸せな
         未来を信じて疑わなかった
         そうなの。でも、そんなある日・・・
-Motoko: "Before long, you were born, and everybody believed you all would have a happy future.  However, on that day..."
+Motoko: "Before long, you were born, and everybody believed you all would have a happy future.  However, on that day...
 
 
 
@@ -18054,7 +18150,7 @@ Motoko: "Before long, you were born, and everybody believed you all would have a
         人が乱暴されているところを
         見てしまったの。
 
-Motoko: "Takao-san saw some bad people assaulting someone."
+Motoko: "Takao-san saw some bad people assaulting someone.
 
 
 
@@ -18066,7 +18162,7 @@ Motoko: "Takao-san saw some bad people assaulting someone."
         向こうはナイフを持ち出して
         向かってきたらしいの。
 
-Motoko: "Takao-san tried to stop them, but they pulled out a knife."
+Motoko: "Takao-san tried to stop them, but they pulled out a knife.
 
 
 
@@ -18102,7 +18198,7 @@ Shmoby: "Th-that's..."
         認められる。みんなそう思ってたの。
 
 
-Motoko: "It was obviously self-defense.  Everyone thought so."
+Motoko: "It was obviously self-defense.  Everyone thought so.
 
 
 
@@ -18114,7 +18210,7 @@ Motoko: "It was obviously self-defense.  Everyone thought so."
         と言うのがこの町の有力者の
         一人息子だったらしいの。
 
-Motoko: "However...  The man he killed was the only son of someone with great influence in the town."
+Motoko: "However...  The man he killed was the only son of someone with great influence in the town.
 
 
 
@@ -18150,7 +18246,7 @@ Shmoby: "!......"
         ユリさんだったかもしれない・・・
         殺人者の妻と言うことで
         それは苦労されたそうよ。
-Motoko: "But Yuri-san's situation might have been even worse...  She was branded the wife of a murderer and dealt with many hardships."
+Motoko: "But Yuri-san's situation might have been even worse...  She was branded the wife of a murderer and dealt with many hardships.
 
 
 
@@ -18162,7 +18258,7 @@ Motoko: "But Yuri-san's situation might have been even worse...  She was branded
         嫌がらせが始まったの。
         あの火事もその連中の
         仕業だったそうよ。
-Motoko: "In addition, the companions of the man who was killed started harassing her.  That fire was also their doing."
+Motoko: "In addition, the companions of the man who was killed started harassing her.  That fire was also their doing.
 
 
 
@@ -18174,7 +18270,7 @@ Motoko: "In addition, the companions of the man who was killed started harassing
         回復されたのだけど、それまでの
         無理がたたってか・・・
 
-Motoko: "Yuri-san even got to the point that she could stand up again, but she had worked too hard..."
+Motoko: "Yuri-san even recovered to the point that she could stand up again, but she had worked too hard...
 
 
 
@@ -18186,7 +18282,7 @@ Motoko: "Yuri-san even got to the point that she could stand up again, but she h
         して、駆けつけた母にユリさんは
         あなたを頼むと、一言
         告げると・・・
-Motoko: "2 or 3 days afterwards, her condition took a sudden turn for the worse, so my mother rushed to Yuri-san, who, after asking her to look after you and saying a few words..."
+Motoko: "Two or three days afterwards, her condition took a sudden turn for the worse, so my mother rushed to her, and after asking my mother to look after you and saying a few words...
 
 
 
@@ -18198,7 +18294,7 @@ Motoko: "2 or 3 days afterwards, her condition took a sudden turn for the worse,
 
 
 
-Motoko: "quietly breathed her last..."
+Motoko: "she quietly breathed her last..."
 
 
 
@@ -18210,7 +18306,7 @@ Motoko: "quietly breathed her last..."
 
 
 
-Motoko: "Do you understand..."
+Motoko: "Do you understand...
 
 
 
@@ -18222,7 +18318,7 @@ Motoko: "Do you understand..."
         亡くなったご両親に私の
         母がしてあげたかったことは・・・
 
-Motoko: "What my mother wanted to do for your parents, who died while entrusting her with your future..."
+Motoko: "What my mother wanted to do for your parents, who died while entrusting her with your future...
 
 
 
@@ -18282,7 +18378,7 @@ Motoko: "When the whole situation happened, they didn't want to cause any more t
         死んだ男の父親からの
         圧力でうやむやになってしまった
         そうなの。
-Motoko: "It was obviously arson, but the dead man's father made sure to make the details vague."
+Motoko: "It was obviously arson, but the dead man's father made sure to make the details vague.
 
 
 
@@ -18294,7 +18390,7 @@ Motoko: "It was obviously arson, but the dead man's father made sure to make the
         取り上げなかったそうだわ。
         ひどい話ね・・・
 
-Motoko: "Even the local newspaper didn't cover the fire.  How cruel..."
+Motoko: "Even the local newspaper didn't cover the fire.  How cruel...
 
 
 
@@ -18318,7 +18414,7 @@ Motoko: "And yet, when Takao-san's situation happened, the newspapers were showi
         小さいころから正義感の
         強い子だったって・・・
 
-Motoko: "I heard from my mother.  Ever since you were a child, you had a strong sense of justice..."
+Motoko: "I heard from my mother.  Ever since you were a child, you had a strong sense of justice...
 
 
 
@@ -18438,7 +18534,7 @@ Motoko: "I heard that when you ran away from the orphanage, the doll was the one
         人形をあなたにって
         何度も何度もおっしゃったそうよ。
 
-Motoko: "While Yuri-san was drawing her last breath, she said over and over again that you should have the doll."
+Motoko: "While Yuri-san was drawing her last breath, she said over and over again that you should have the doll.
 
 
 
@@ -18462,7 +18558,7 @@ Motoko: "I'm certain it's in the photo I showed you a bit ago."
 
 
 
-Shmoby: "Oh?  This is....?!"
+Shmoby: "Oh?  This is....?!
 
 
 
@@ -18534,7 +18630,7 @@ Shmoby: "Kanda was investigating me, then referred me to Zenzou-san...  It was a
           写っていたのは！
 
 
-Shmoby: "This is it!  It's the doll in the photo with Grandma!"
+Shmoby: "This is it!  It's the doll in the photo with Grandma!
 
 
 
@@ -18606,7 +18702,7 @@ Shmoby: "Hm?  It seems to be hollow on the inside."
           後継者の印・・・？
           普通の人形のようだが・・・
 
-Shmoby: "But, is this the symbol of the successor?  It seems to be just an ordinary doll..."
+Shmoby: "But, is this the symbol of the heir?  It seems to be just an ordinary doll...
 
 
 
@@ -18642,7 +18738,7 @@ Shmoby: "...Got it!  Alright, let's look inside
 アヤシロ家の家紋が入った
 お守り袋が隠されていた！
 
-Hiding inside the doll was an amulet bag with the Ayashiro family crest!
+Hiding inside the doll is an amulet bag with the Ayashiro family crest!
 
 
 
@@ -18690,7 +18786,7 @@ Shmoby: "What's this key...?"
 時がいつか必ずやってくると
 母さんは思っていました。今すぐ
 これを持ってミョウジン村のアヤシロ
-Shmoby...  I, your mother, thought you would find this letter at some point.  You need to take this to the Ayashiro family in Myoujin village right away.
+Shmoby...  I, your mother, thought you would find this letter at some point.  You need to take this to the Ayashiro family in Myoujin Village right away.
 
 
 
@@ -19038,7 +19134,7 @@ Shmoby: "If I use this key to open the lock it should be simple."
 錠前に差し込んだ。
 ガチャ！鈍い音とともに
 錠前は外れた。
-Shmoby takes out the key and inserts it into the lock.  *Clang!*  With a dull sound, the lock comes off.
+You take out the key and insert it into the lock.  *Clang!*  With a dull sound, the lock comes off.
 
 
 
@@ -19062,7 +19158,7 @@ Zenzou: "Dude-sama!  I'm going to be waiting here.  Please be careful."
 
 
 
-The lock is disconnected.
+The lock is off.
 
 
 
@@ -19122,7 +19218,7 @@ Shmoby: "Oof...  I can't advance."
           懐中電灯を貸してくれたんだ。
           早速つけなきゃ。
 
-Shmoby: "Ah, that's right, Zenzou-san game me a flashlight.  I should turn it on right away."
+Shmoby: "Ah, that's right, Zenzou-san gave me a flashlight.  I should turn it on right away."
 
 
 
@@ -19302,7 +19398,7 @@ Shmoby: "...Hm?  Did I just hear a shout...or was it just my imagination?"
           さっきのは空耳かな？
 
 
-Shmoby: "And now I can't hear anything...  Did I mishear a bit ago?"
+Shmoby: "And now I can't hear anything...  Did I hear wrong a bit ago?"
 
 
 
@@ -19326,7 +19422,7 @@ On top of the altar is a sparkling golden seal!  And right next to it is a caref
 添えられた紙を手にした。
 
 
-Shmoby took the golden seal and the paper.
+You take the golden seal and the paper.
 
 
 
@@ -19338,7 +19434,7 @@ Shmoby took the golden seal and the paper.
           正統なる後継者とみなす。
           と、書かれている！
 
-Shmoby: ""The one who has this seal shall be regarded as the rightful heir to the Ayashiro house."  That's what it says!"
+Shmoby: "'The one who has this seal shall be regarded as the rightful heir to the Ayashiro house.'  That's what it says!"
 
 
 
@@ -19423,7 +19519,7 @@ Amachi: "You realized too little too late.  I'm Kanda, the lawyer.  Or maybe it 
           どうやら君は私の計画の
           すべてを知ってしまったようだね・・・
 Shmoby: "Why you..."
-Kanda: "The great detective Shmoby-kun...  It seems that you've completely discovered my plan..."
+Kanda: "The great detective Shmoby-kun...  It seems that you've completely discovered my plan...
 
 
 かんだ　「ゆいごんしょを　つくる・・・
@@ -19434,7 +19530,7 @@ Kanda: "The great detective Shmoby-kun...  It seems that you've completely disco
         そう言い出したのがキクにとって
         運のつきさ。私はその日を
         待っていたんだからね。
-Kanda: "Kiku wanted me to write the will...  When she said that, her luck had run out.  I had been waiting for that day to come."
+Kanda: "Kiku wanted me to write the will...  When she said that, her luck ran out.  I had been waiting for that day to come.
 
 
 
@@ -19446,7 +19542,7 @@ Kanda: "Kiku wanted me to write the will...  When she said that, her luck had ru
         教えてくれたよ。
         一服つけなきゃ眠れないてな・・・
 
-Kanda: "At that time, Kiku gave me a hint for how to murder her.  She said that she can't sleep without smoking..."
+Kanda: "At that time, Kiku gave me a hint for how to murder her.  She said that she can't sleep without smoking...
 
 
 
@@ -19458,7 +19554,7 @@ Kanda: "At that time, Kiku gave me a hint for how to murder her.  She said that 
         仕事のことで話があると言えば
         どこへでもすぐ来てくれたよ。
 
-Kanda: "If I told them it was about work, Kanji and Jirou would come immediately to wherever I wanted them to."
+Kanda: "If I told them it was about work, Kanji and Jiro would come immediately to wherever I wanted them to.
 
 
 
@@ -19470,7 +19566,7 @@ Kanda: "If I told them it was about work, Kanji and Jirou would come immediately
         アヤシロ家のやつらには
         おあつらえ向きの方法だろ？
 
-Kanda: "Cyanide tobacco...  It was the most suitable method for the Ayashiros, don't you think?"
+Kanda: "Cyanide tobacco...  It was the most suitable method for the Ayashiros, don't you think?
 
 
 
@@ -19482,7 +19578,7 @@ Kanda: "Cyanide tobacco...  It was the most suitable method for the Ayashiros, d
         借金の方が割を申し出ると
         喜んでキクのタバコ入れに
         青酸タバコを忍ばせてくれたよ。
-Kanda: "Akira owed money to the Yakuza, and when I offered to pay it off, he happily obliged and snuck the cyanide tobacco into Kiku's tobacco container."
+Kanda: "Akira owed money to the Yakuza, and when I offered to pay it off, he happily obliged and snuck the cyanide tobacco into Kiku's tobacco container.
 
 
 
@@ -19494,7 +19590,7 @@ Kanda: "Akira owed money to the Yakuza, and when I offered to pay it off, he hap
         ケチな真似をしてくれたおかげで
         カンジ殺しまで引っかぶってもらった。
         そのアキラが・・・
-Kanda: "To top it off, thanks to his petty antique thievery, I was able to pin Kanji's murder on him."
+Kanda: "To top it off, thanks to his petty antique thievery, I was able to pin Kanji's murder on him.
 
 
 
@@ -19506,7 +19602,7 @@ Kanda: "To top it off, thanks to his petty antique thievery, I was able to pin K
         言い出した。二人でキクを海に捨て、
         墓を元に戻しに行った時
 
-Kanda: "Akira started to say that we had to dispose of Kiku's corpse.  So the two of us threw Kiku into the sea, and on our way back to the grave,"
+Kanda: "Akira started to say that we had to dispose of Kiku's corpse.  So the two of us threw Kiku into the sea, and on our way back to the grave,
 
 
 
@@ -19518,7 +19614,7 @@ Kanda: "Akira started to say that we had to dispose of Kiku's corpse.  So the tw
         やつの指紋だらけの土蔵の鍵を
         いただいた。今頃墓の下で
         社長になった夢でも見ているさ。
-Kanda: "I hit him from behind with the tombstone!  I then took the fingerprint-riddled storehouse key.  I'm sure around now he's dreaming about becoming the CEO."
+Kanda: "I hit him from behind with the tombstone!  I then took the fingerprint-riddled storehouse key.  I'm sure around now he's dreaming about becoming the CEO.
 
 
 
@@ -19530,7 +19626,7 @@ Kanda: "I hit him from behind with the tombstone!  I then took the fingerprint-r
         骨を折ったよ。首吊りに見せかける
         ためにな。
 
-Kanda: "As for Jirou, I had to go through great pains.  I made it look like a suicide."
+Kanda: "As for Jiro, I had to go through great pains.  I made it look like a suicide.
 
 
 
@@ -19542,7 +19638,7 @@ Kanda: "As for Jirou, I had to go through great pains.  I made it look like a su
         見てしまったアズサは何か
         感づいたようだった。
         そして私を揺すろうとした・・・
-Kanda: "Azusa saw me meeting with Akira and seemed to be suspecting us.  Then she tried to blackmail me..."
+Kanda: "Azusa saw me meeting with Akira and seemed to be suspecting us.  Then she tried to blackmail me...
 
 
 
@@ -19554,7 +19650,7 @@ Kanda: "Azusa saw me meeting with Akira and seemed to be suspecting us.  Then sh
         よかった物を・・・おまけに
         禁煙中とは、あのバカが・・・
         こんな傷までつけやがって！
-Kanda: "It's good that she didn't think more about it...  Also, that idiot had quit smoking...  She gave me this scratch!"
+Kanda: "It's good that she didn't think more about it...  Also, that idiot had quit smoking...  She gave me this scratch!
 
 
 
@@ -19566,7 +19662,7 @@ Kanda: "It's good that she didn't think more about it...  Also, that idiot had q
         君の話だ。ユリを調べている内
         すぐに君のことは分かったよ。
 
-Kanda: "Well then Shmoby-kun, let's talk about you next.  While investigating Yuri, I found you right away."
+Kanda: "Well then Shmoby-kun, let's talk about you next.  While investigating Yuri, I found you right away.
 
 
 
@@ -19578,7 +19674,7 @@ Kanda: "Well then Shmoby-kun, let's talk about you next.  While investigating Yu
         屋敷へやってきた。ご苦労なことさ。
         しばらく様子を見ようと
         していた物をアキラのやつが・・・
-Kanda: "You fell into my trap and immediately came to the mansion.  Thanks for your hard work.  I was going to keep an eye on you for a while, but then that Akira..."
+Kanda: "You fell into my trap and immediately came to the mansion.  Thanks for your hard work.  I was going to keep an eye on you for a while, but then that Akira...
 
 
 
@@ -19590,7 +19686,7 @@ Kanda: "You fell into my trap and immediately came to the mansion.  Thanks for y
         呼び出した。それを知った私が、
         すぐに駆けつけてみると
         お前海に浮かんでいた。
-Kanda: "He called you to the cliff to kill you.  The moment I heard about this, I ran over there and found you floating in the sea."
+Kanda: "He called you to the cliff to kill you.  The moment I heard about this, I ran over there and found you floating in the sea.
 
 
 
@@ -19602,7 +19698,7 @@ Kanda: "He called you to the cliff to kill you.  The moment I heard about this, 
         調べてみればお守りなんて
         持っていない。その代わりに
         火傷の跡は確かめたがね・・・
-Kanda: "I quickly pulled you out of the water and checked for the amulet, but it wasn't there.  Instead, I checked to make sure you had the burn mark..."
+Kanda: "I quickly pulled you out of the water and checked for the amulet, but it wasn't there.  Instead, I checked to make sure you had the burn mark...
 
 
 
@@ -19614,7 +19710,7 @@ Kanda: "I quickly pulled you out of the water and checked for the amulet, but it
         お前は幸か不幸か
         記憶を失っていた。
 
-Kanda: "During this, you woke up, and for better or for worse, you had lost your memory."
+Kanda: "During this, you woke up, and for better or for worse, you had lost your memory.
 
 
 
@@ -19626,7 +19722,7 @@ Kanda: "During this, you woke up, and for better or for worse, you had lost your
         打たなきゃならなくなった・・・
         そうか・・・お前はお守りのことを
         知らなかったのか。
-Kanda: "Thus, I had to put on an act...  And...  You didn't know about the amulet."
+Kanda: "Thus, I had to put on an act...  And...  You didn't know about the amulet.
 
 
 
@@ -19638,7 +19734,7 @@ Kanda: "Thus, I had to put on an act...  And...  You didn't know about the amule
         ここらで消えてもらおうか・・・
         くっくっくっ・・・俺は・・・
 
-Kanda: "Well...  Enough chitchat.  Now for you to disappear...  Hehehe...  I..."
+Kanda: "Well...  Enough chitchat.  Now for you to disappear...  Hehehe...  I...
 
 
 
@@ -19650,7 +19746,7 @@ Kanda: "Well...  Enough chitchat.  Now for you to disappear...  Hehehe...  I..."
         はっはっはっはっ！！
 
         カンダの手にナイフが光った！！
-Kanda: "I have defeated the Ayashiro family!  Hahahaha!!
+Kanda: "I have defeated the Ayashiro family!  Hahahaha!!"
 \
 A knife glistens in Kanda's hand!!
 
@@ -19674,7 +19770,7 @@ Shmoby: "Agh!!"
 落としたために辺りは暗闇に
 包まれた！
 
-Shmoby dropped his flashlight, and the area is enshrouded in darkness!
+You drop your flashlight, and the area is enshrouded in darkness!
 
 
 
@@ -19700,7 +19796,7 @@ RAAAAGH!"
 男がいた！
 *Thwack!*  *Bam!*  *Slam!*
 \
-At that moment, a man threw himself at Kanda!"
+At that moment, a man throws himself at Kanda!
 
 かんだ　「く、　くそお！！
 
@@ -19712,7 +19808,7 @@ At that moment, a man threw himself at Kanda!"
       ナイフをその手から落とした。
 Kanda: "D-damn iiit!!"
 \
-The man twisted Kanda's arm, and the knife fell from his hand.
+The man twists Kanda's arm, and the knife falls from his hand.
 
           やがて　かんだは　ぜんぞうの　つうほうで
           かけつけた　けいかんに　とりおさえられた。
@@ -19722,7 +19818,7 @@ The man twisted Kanda's arm, and the knife fell from his hand.
         駆けつけた警官に取り押さえられた。
 
 ゅゅゅゅ「あっあなたは確か!
-Before long, because of Zenzou's report, the police came rushing to the scene and arrested Kanda.
+Before long, because of Zenzou's report, the police come rushing to the scene and arrest Kanda.
 \
 Shmoby: "Y-you're!"
 
@@ -19747,7 +19843,7 @@ Man: "You must be Shmoby-kun.  If I had noticed you when we ran into each other 
 
 
 Shmoby: "Are you...Kazuto-san?"
-Kazuto: "That's right.  I've been searching for you."
+Kazuto: "That's right.  I've been searching for you.
 
 
   かずと　「もとこさんから　ねえさんのはなしを
@@ -19806,7 +19902,7 @@ If something happens to me...  At that time, please Kazuto, help him...  That is
         行きたかった・・・でも同じころ
         僕の母が病に倒れた。
 
-Kazuto: "I wanted to go immediately to my older sister...  But at the same time, my mother got sick."
+Kazuto: "I wanted to go immediately to my older sister...  But at the same time, my mother got sick.
 
 
 
@@ -19818,7 +19914,7 @@ Kazuto: "I wanted to go immediately to my older sister...  But at the same time,
         僕が八束町を訪れたのは
         ５年も後の話何だ。
 
-Kazuto: "Because of that, I didn't get to visit Yatsuka until five years later."
+Kazuto: "Because of that, I didn't get to visit Yatsuka until five years later.
 
 
 
@@ -19830,7 +19926,7 @@ Kazuto: "Because of that, I didn't get to visit Yatsuka until five years later."
         サワコさんから聞いたんだ・・・
         法律家を目指す気持ちが
         変わらない物になったのもその時だ。
-Kazuto: "Then I first heard about the fire from Sawako-san...  It was at that time that my desire to become a lawyer became steadfast."
+Kazuto: "Then I first heard about the fire from Sawako-san...  It was at that time that my desire to become a lawyer became firm.
 
 
 
@@ -19842,7 +19938,7 @@ Kazuto: "Then I first heard about the fire from Sawako-san...  It was at that ti
         話を聞いた僕は、
         サワコさんに君を任せた。
 
-Kazuto: "When I heard that they decided to raise you like an abandoned child, I entrusted you to Sawako-san."
+Kazuto: "When I heard that they decided to raise you like an abandoned child, I entrusted you to Sawako-san.
 
 
 
@@ -19854,7 +19950,7 @@ Kazuto: "When I heard that they decided to raise you like an abandoned child, I 
         司法試験受かった僕は
         大きくなった君に会ってみようと
         八束町へ行ったんだ。
-Kazuto: "And this year, I passed my bar exam, so I decided to go to Yatsuka to see how big you'd grown."
+Kazuto: "And this year, I passed my bar exam, so I decided to go to Yatsuka to see how big you'd grown.
 
 
 
@@ -19866,7 +19962,7 @@ Kazuto: "And this year, I passed my bar exam, so I decided to go to Yatsuka to s
         探している内に、僕は
         君が探偵としてアヤシロ家の
         調査に向かっていることを知った・・・
-Kazuto: "While I was searching for you after hearing Motoko-san's story, I learned that you were doing an investigation for the Ayashiro family as a detective..."
+Kazuto: "While I was searching for you after hearing Motoko-san's story, I learned that you were doing an investigation for the Ayashiro family as a detective...
 
 
 
@@ -19878,7 +19974,7 @@ Kazuto: "While I was searching for you after hearing Motoko-san's story, I learn
         やってきた。そして土蔵の前で
         倒れていたゼンゾウさんを
         見付慌てて中に入ったんだ。
-Kazuto: "I thought it was suspicious so I went to the Ayashiro estate.  And in front of the storehouse I found Zenzou-san on the ground, so I quickly ran inside."
+Kazuto: "I thought it was suspicious so I went to the Ayashiro estate.  And in front of the storehouse I found Zenzou-san on the ground, so I quickly ran inside.
 
 
 
@@ -19902,7 +19998,7 @@ Shmoby: "......!  Ah,"
 カンダのナイフによる穴が開いていた。
 そしてナイフから彼を救ったのは・・・
 鍵の入ったお守り袋だった！！
-Kanda's knife had made a hole in Shmoby's shirt around the left side of the chest.  And he was rescued from the knife by...the amulet case with the key in it!
+Kanda's knife had made a hole in your shirt around the left side of the chest.  And you were rescued from the knife by...the amulet case with the key in it!
 
 
 
@@ -19926,7 +20022,7 @@ Kazuto: "Starting from today, you are the Ayashiro family's heir.  You will beco
 カズトに手渡すとこういった。
 
 
-He said this while Shmoby handed over the golden seal to Kazuto.
+He says this while you hand over the golden seal to Kazuto.
 
 
 

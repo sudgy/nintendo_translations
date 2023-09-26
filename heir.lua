@@ -371,7 +371,7 @@ function display_prologue()
     end
     prologue_count = e.get_framecount() - prologue_start + e.prologue_offset
     function draw_message(color)
-        e.draw_text(81, 73, "If anyone does a wrong", color, e.clear)
+        e.draw_text(81, 73, "If anyone does wrong", color, e.clear)
         e.draw_text(81, 89, "to the Ayashiro house,", color, e.clear)
         e.draw_text(81, 105, "I,", color, e.clear)
         e.draw_text(81, 121, "from the world of the dead,", color, e.clear)
