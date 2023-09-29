@@ -245,6 +245,9 @@ text, the script actually has to redraw significant portions of the screen.  If
 you find some situation where something doesn't look quite right related to
 this, let me know.
 
+The game never says this, but you can save at any moment by pressing the start
+button.  This helps make deaths much less brutal.
+
 At the end of chapter one, there is a name input screen.  **On this screen, do
 not push A or B!**  Instead, press start immediately.  If you press start
 without inputting anything else, they will be given the default names どんべ

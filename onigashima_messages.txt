@@ -7131,6 +7131,13 @@ You run away for now.
 でちゃいました。
 出ちゃいました。
 You come out.
+2
+どんべ「もういちどいってくる」
+りんご「きをつけてくださいね」
+ドンベ「もう一度行ってくる」
+りんご「気をつけてくださいね」
+Donbe: "I'm going to go in one more time."
+Ringo: "Please be careful."
 1
 あっ！やばい！おにがきました。
 あっ！ヤバい！鬼が来ました。
@@ -7430,6 +7437,13 @@ Oh! The Buddha statue is crying.
 なみだをながしています。
 涙を流しています。
 Tears are flowing down its face.
+2
+どんべ「ないているぞ」
+りんご「かなしそうですね」
+ドンベ「泣いているぞ」
+りんご「悲しそうですね」
+Donbe: "It's crying."
+Ringo: "It looks sad."
 2
 とろうとして　うでをのばしたとき
 なみだがうでわに　かかりました。
@@ -8458,7 +8472,7 @@ Donbe: "Hey, do you know of a place called Shiraishi Spring?"
 Fox cub: "I......don't know......
 But maybe Chuntaro- kun's father..."
 Donbe: "Chuntaro- kun?"
-Fox cub: "The sparrow's friend......"
+Fox cub: "The sparrow's child......"
 3
 どんべ「ほかにしってること
 ないかな？」
@@ -10590,6 +10604,13 @@ You cross while holding the vines that are tied to the stalactites.
 ?...There is a faint light leaking through the crevice in the wall.
 
 2
+あなのむこうは　まっしろなふうけいが
+ひろがっています。
+穴の向こうは真っ白な風景
+広がっています。
+On the other side of the wall, a pure white landscape spreads out.
+
+2
 どんべ「ひかりがもれている」
 まつのすけ「きみわりー」
 ドンベ「光が漏れている」
@@ -10603,6 +10624,16 @@ Matsuno- suke: "It's creepy."
 降りていきます。
 You follow the vines down the hole.
 
+3
+どんべ「あなのなかにおおきな
+なまずがいたぞ！」
+まつのすけ「ひぇーっ、きもちわりー」
+ドンベ「穴の中に大きな
+なまずがいたぞ！」
+マツノスケ「ひぇーっ、気持ち悪い」
+Donbe: "There was a huge catfish in the hole!"
+
+Matsuno- suke: "Wow, that's creepy."
 2
 いけめがけ　きのこをなげました。
 ばしゃん　なにかがはねたみたいです。
@@ -10671,6 +10702,32 @@ There is just Saburo.
 ぼよよーん　でかいかおです。
 ボヨヨーンでかい顔です。
 Boing! He has a huge face.
+2
+こんな　おおなまずとたたかうつもり
+ですか？
+こんな大なまずと戦うつもり
+ですか？
+You want to attack a catfish that's this big?
+
+6
+どんべ「せいばいしてくれるわ」
+どんべは　かたなをぬき
+なまずにきりかかりました。
+どんべ「うわーっ」
+なまずはおおきなくちをあけ
+どんべをたべてしまいました。
+ドンベ「成敗してくれるわ」
+ドンベは刀を抜き
+なまずに斬りかかりました。
+ドンベ「うわーっ」
+なまずは大きな口を開け
+ドンベを食べてしまいました。
+Donbe: "Take this!"
+You draw your katana and attack the catfish.
+
+Donbe: "Wagh!"
+The catfish opens its huge mouth and swallows you.
+
 2
 どんべ「おしえてくれ」
 さぶろう「いいから　よこすずら」
@@ -10910,7 +10967,7 @@ The large bird appears in front of your eyes.
 きじの姿になりました。
 The bird stares motionlessly at Hikari.
 
-Bird: "That necklace ......Could you be Otohime-sama?"
+Bird: "That necklace ......Could you be Otohime- sama?"
 
 Upon under- standing this about Hikari, the bird takes the form of a pheasant.
 
