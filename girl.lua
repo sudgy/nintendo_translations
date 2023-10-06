@@ -21,6 +21,7 @@ end
 
 function clear_all()
     Options.values = {}
+    Options.last_index = 255
     Messages.searching = false
     Messages.index = -1
     Messages.current_message = nil
@@ -32,11 +33,11 @@ function read_last_message(length)
     local last_index = e.read(0x2D)
     local first_index = last_index - length
     if first_index >= 0 then
-        return memory.readbyterange(0x300 + first_index, length)
+        return e.read_range(0x300 + first_index, length)
     else
         first_index = first_index + 256
-        first_string = memory.readbyterange(0x300 + first_index, 0x100 - first_index)
-        second_string = memory.readbyterange(0x300, last_index)
+        first_string = e.read_range(0x300 + first_index, 0x100 - first_index)
+        second_string = e.read_range(0x300, last_index)
         return first_string .. second_string
     end
 end
@@ -127,7 +128,7 @@ end
 function Messages.value_changed()
     local start_byte = e.read(0x0048) * 0x100 + e.read(0x0047)
     --print(string.format("%x", start_byte))
-    local too_much = memory.readbyterange(start_byte, 0x80)
+    local too_much = e.read_range(start_byte, 0x80)
     local end_index = string.find(too_much, string.char(255))
     local message = string.sub(too_much, 1, end_index)
     orig_message = message
@@ -199,18 +200,21 @@ function Options.load_options()
     end
 end
 Options.load_options()
-function Options.reset_values()
-    Options.values = {}
-end
-function Options.add_value()
-    if not Options.changed then
+Options.last_index = 255
+function Options.add_value(this_value)
+    local this_index = (e.read(0x042B) + 1) % 256
+    if this_index < Options.last_index then
         Options.values = {}
     end
+    Options.last_index = this_index
     Options.changed = true
     local value = {}
     for i=0,6 do
         local this_char = e.read(0x0474 + i)
         local this_dak = e.read(0x046C + i)
+        if i == 6 and this_value ~= -1 then
+            this_char = this_value
+        end
         if this_char == 0 then break end
         if this_char == 70 and #Options.values > 0 then return end
         if this_dak ~= 0 then table.insert(value, this_dak) end
@@ -220,16 +224,13 @@ function Options.add_value()
     table.insert(Options.values, string.char(e.unpack(value)))
 end
 function Options.display_values()
-    if Options.changed then
-        Options.add_value()
-    end
-    Options.changed = false
     if at_loading() then
         Options.values = {}
     end
     if #Options.values == 0 then return end
     for i=1,7 do
         if Options.values[i] == nil then return end
+        --e.log(tostring(string.byte(Options.values[i], 1, 16)))
         if string.byte(Options.values[i]) ~= 0 and string.byte(Options.values[i]) ~= 70 then
             local trans = Options.translations[Options.values[i]]
             if trans then
@@ -396,9 +397,8 @@ function display_prologue()
     end
 end
 
-e.register_write(0x047A, Options.add_value)
 e.register_save(clear_all)
-
+e.register_write(0x047A, Options.add_value)
 e.register_exec(0x89E7, Messages.value_changed)
 
 previous_action = 0

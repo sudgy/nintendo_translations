@@ -10,6 +10,9 @@ end
 local function read(address)
     return memory.readbyteunsigned(address)
 end
+local function read_range(address, length)
+    return memory.readbyterange(address, length)
+end
 local function get_pixel(x, y)
     local res = emu.getscreenpixel(x, y, true)
     if res == 0 then return 0
@@ -48,6 +51,7 @@ e = {
     draw_text = draw_text,
     log = log,
     read = read,
+    read_range = read_range,
     get_pixel = get_pixel,
     get_pixel2 = get_pixel2,
     get_framecount = get_framecount,

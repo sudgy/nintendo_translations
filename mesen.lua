@@ -10,6 +10,13 @@ end
 local function read(address)
     return emu.read(address, emu.memType.cpuDebug)
 end
+local function read_range(address, length)
+    result = {}
+    for i = 1,length do
+        result[i] = emu.read(address + i - 1, emu.memType.cpuDebug)
+    end
+    return string.char(table.unpack(result))
+end
 local function get_pixel(x, y)
     local res = emu.getPixel(x, y)
     if res == 0 then return 0
@@ -44,6 +51,7 @@ e = {
     draw_text = draw_text,
     log = log,
     read = read,
+    read_range = read_range,
     get_pixel = get_pixel,
     get_pixel2 = get_pixel2,
     get_framecount = get_framecount,
