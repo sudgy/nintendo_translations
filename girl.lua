@@ -25,6 +25,7 @@ function clear_all()
     Messages.index = -1
     Messages.current_message = nil
     Messages.finished = true
+    Messages.message_timer = 0
 end
 
 function read_last_message(length)
@@ -47,6 +48,7 @@ Messages.start_search = -1
 Messages.end_search = -1
 Messages.current_message = nil
 Messages.finished = true
+Messages.message_timer = 0
 function Messages.load_messages()
     local file = assert(io.open(messages_filename), "rb")
     local data = file:read("*all")
@@ -95,10 +97,15 @@ function Messages.update_waiting()
     end
 end
 function Messages.update_blank()
-    Messages.searching = false
-    Messages.current_message = nil
-    Messages.index = -1
-    Messages.finished = false
+    if Messages.message_timer == 0 then
+        Messages.searching = false
+        Messages.current_message = nil
+        Messages.index = -1
+        Messages.finished = false
+    else
+        Messages.message_timer = Messages.message_timer - 1
+        Messages.display()
+    end
 end
 function Messages.get(index)
     return string.byte(Messages.translations[index][1], Messages.index)
@@ -149,6 +156,8 @@ function Messages.value_changed()
         e.log("Unable to find translation for current message")
         e.log(tostring(string.byte(message, 1, 128)))
         e.log(tostring(string.byte(orig_message, 1, 128)))
+    else
+        Messages.message_timer = 10
     end
 end
 
@@ -242,8 +251,9 @@ function at_end_of_message()
 end
 
 function at_title()
-    return e.read(0x0400) == 22 and
-           e.read(0x0405) == 56
+    return e.read(0x0400) == 22 and e.get_pixel2(140, 15) ~= e.get_pixel2(140, 16)
+    --return e.read(0x0400) == 22 and
+           --e.read(0x0405) == 56
 end
 
 load_message = string.char(21, 35, 48, 17, 0, 14, 40, 26, 17, 25, 20, 11)
@@ -277,9 +287,10 @@ end
 function display_title()
     local title_color = e.get_pixel2(0, 8)
     local title_color2 = e.get_pixel2(54, 86)
+    local title_color3 = e.get_pixel2(97, 121)
     e.draw_rect(96, 114, 160, 164, title_color)
-    e.draw_text(97, 121, "Start Investigation", e.white, e.clear)
-    e.draw_text(97, 137, "Continue Investigation", e.white, e.clear)
+    e.draw_text(97, 121, "Start Investigation", title_color3, e.clear)
+    e.draw_text(97, 137, "Continue Investigation", title_color3, e.clear)
     e.draw_text(54, 93, "Famicom Detective Club", title_color2, e.clear)
 end
 
