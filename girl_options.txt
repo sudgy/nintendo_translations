@@ -12,3 +12,19 @@ About yourself
 Surround- ings
 おとこ
 Man
+よぶ
+Call
+とる
+Take
+ちょうさやめる
+Stop investigation
+ばしょいどう
+Travel
+すいりする
+Deduce
+かわら
+Riverbed
+どこ？
+Where?
+なに？
+What?

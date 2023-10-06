@@ -27,6 +27,19 @@ function clear_all()
     Messages.finished = true
 end
 
+function read_last_message(length)
+    local last_index = e.read(0x2D)
+    local first_index = last_index - length
+    if first_index >= 0 then
+        return memory.readbyterange(0x300 + first_index, length)
+    else
+        first_index = first_index + 256
+        first_string = memory.readbyterange(0x300 + first_index, 0x100 - first_index)
+        second_string = memory.readbyterange(0x300, last_index)
+        return first_string .. second_string
+    end
+end
+
 Messages = {}
 Messages.searching = false
 Messages.index = -1
@@ -47,7 +60,7 @@ function Messages.load_messages()
         end_index = string.find(data, "\0", start_index)
         local english = string.sub(data, start_index, end_index - 1)
         start_index = end_index + 1
-        table.insert(Messages.translations, {japanese, english})
+        Messages.translations[japanese] = english
     end
 end
 Messages.load_messages()
@@ -74,33 +87,12 @@ function Messages.update_writing()
     end
     if Messages.index == -1 then
         Messages.searching = true
-        Messages.index = 1
-        Messages.start_search = 1
-        Messages.end_search = #Messages.translations
     end
 end
 function Messages.update_waiting()
-    if not Messages.finished then
-        Messages.finished = true
-        local current = Messages.translations[Messages.start_search]
-        if #current[1] == Messages.index - 1 then
-            Messages.current_message = current[2]
-        else
-            if Messages.get(Messages.start_search) ~= value then
-                if Messages.current_message == nil then
-                    e.log("Unable to find translation for current message")
-                else
-                    e.log("Sorry, false positive, this translation doesn't exist")
-                    Messages.current_message = nil
-                end
-                Messages.searching = false
-                return
-            end
-        end
+    if Messages.current_message ~= nil then
+        Messages.display()
     end
-    Messages.searching = false
-    -- This can happen if a translation wasn't found
-    if Messages.current_message ~= nil then Messages.display() end
 end
 function Messages.update_blank()
     Messages.searching = false
@@ -111,70 +103,53 @@ end
 function Messages.get(index)
     return string.byte(Messages.translations[index][1], Messages.index)
 end
-function Messages.value_changed0(value)
-    if e.read(0x002D) % 4 == 1 then Messages.value_changed(value) end
-end
-function Messages.value_changed1(value)
-    if e.read(0x002D) % 4 == 2 then Messages.value_changed(value) end
-end
-function Messages.value_changed2(value)
-    if e.read(0x002D) % 4 == 3 then Messages.value_changed(value) end
-end
-function Messages.value_changed3(value)
-    if e.read(0x002D) % 4 == 0 then Messages.value_changed(value) end
-end
-function Messages.value_changed(value)
-    if value == 0 then return end
-    if bitand(e.read(0x004E), 0x7F) ~= 3 then return end
-    if Messages.finished then return end
-    if Messages.searching then
-        local temp_end = Messages.end_search
-        while Messages.get(Messages.start_search) ~= value do
-            local temp_index = math.floor((Messages.start_search + temp_end)/2)
-            if temp_index == Messages.start_search then
-                Messages.start_search = temp_end
-                break
-            end
-            if Messages.get(temp_index) < value then
-                Messages.start_search = temp_index
-            else
-                temp_end = temp_index
-            end
-        end
-
-        if Messages.get(Messages.start_search) ~= value then
-            e.log("Unable to find translation for current message")
-            Messages.searching = false
-            Messages.finished = true
-            return
-        end
-
-        local temp_start = Messages.start_search
-        while Messages.get(Messages.end_search) ~= value do
-            local temp_index = math.floor((temp_start + Messages.end_search)/2)
-            if temp_index == temp_start then
-                Messages.end_search = temp_start
-            end
-            if Messages.get(temp_index) == value then
-                temp_start = temp_index
-            else
-                Messages.end_search = temp_index
-            end
-        end
-
-        if Messages.start_search == Messages.end_search then
-            Messages.searching = false
-            Messages.current_message = Messages.translations[Messages.end_search][2]
-        end
-    else
-        if Messages.get(Messages.start_search) ~= value then
-            e.log("Sorry, false positive, this translation doesn't exist")
-            Messages.current_message = nil
-            Messages.finished = true
-        end
+function Messages.value_changed()
+    local start_byte = e.read(0x0048) * 0x100 + e.read(0x0047)
+    --print(string.format("%x", start_byte))
+    local too_much = memory.readbyterange(start_byte, 0x80)
+    local end_index = string.find(too_much, string.char(255))
+    local message = string.sub(too_much, 1, end_index)
+    orig_message = message
+    message = string.gsub(message, string.char(138) .. ".", "")
+    message = string.gsub(message, ".", function(d)
+        return string.byte(d) ~= 0 and
+               string.byte(d) ~= 134 and
+               string.byte(d) ~= 139 and
+               string.byte(d) ~= 140 and
+               (string.byte(d) < 198 or string.byte(d) > 207) and
+               string.byte(d) ~= 254 and
+               string.byte(d) ~= 255 and d or '' end)
+    if string.byte(message, 1) == 137 then
+        message = message:sub(3)
     end
-
-    Messages.index = Messages.index + 1
+    message = string.gsub(message, ".", function(d)
+        return string.byte(d) == 208 and string.char(12, 21, 52, 34, 84, 85) or d end)
+    message = string.gsub(message, ".", function(d)
+        return string.byte(d) == 209 and string.char(71, 71, 71) or d end)
+    message = string.gsub(message, ".", function(d)
+        return string.byte(d) == 210 and string.char(36, 160, 34, 68) or d end)
+    message = string.gsub(message, ".", function(d)
+        return string.byte(d) == 211 and string.char(10, 46, 41, 68) or d end)
+    message = string.gsub(message, ".", function(d)
+        return string.byte(d) == 212 and string.char(12, 27, 145, 68) or d end)
+    message = string.gsub(message, ".", function(d)
+        return string.byte(d) == 213 and string.char(25, 149, 16, 68) or d end)
+    message = string.gsub(message, ".", function(d)
+        return string.byte(d) == 214 and string.char(19, 40, 154, 68) or d end)
+    message = string.gsub(message, ".", function(d)
+        return string.byte(d) == 215 and string.char(19, 12, 26, 56, 12) or d end)
+    message = string.gsub(message, ".", function(d)
+        return string.byte(d) == 216 and string.char(47, 12, 19) or d end)
+    message = string.gsub(message, ".", function(d)
+        return string.byte(d) == 217 and string.char(23, 55, 23, 11) or d end)
+    Messages.searching = false
+    Messages.finished = true
+    Messages.current_message = Messages.translations[message]
+    if Messages.current_message == nil then
+        e.log("Unable to find translation for current message")
+        e.log(tostring(string.byte(message, 1, 128)))
+        e.log(tostring(string.byte(orig_message, 1, 128)))
+    end
 end
 
 Options = {}
@@ -271,17 +246,15 @@ function at_title()
            e.read(0x0405) == 56
 end
 
+load_message = string.char(21, 35, 48, 17, 0, 14, 40, 26, 17, 25, 20, 11)
 function at_loading()
-    return e.read(0x0004) >= 196 and
-           e.read(0x00FE) ~= 6
+    return load_message == read_last_message(12) and
+        e.get_pixel(80, 170) ~= e.get_pixel(81, 170)
 end
 
-function at_switch()
-    return e.read(0x0100) == 128
-end
-
+save_message = string.char(45, 43, 50, 0, 71, 71, 71, 0, 83, 110, 99, 121)
 function at_save()
-    return e.read(0x0001) == 218
+    return save_message == read_last_message(12)
 end
 
 function at_name()
@@ -313,6 +286,32 @@ end
 function display_loading()
     e.draw_rect(16, 148, 239, 216, e.black)
     e.draw_text(76, 180, "Please wait a moment.", e.white, e.black)
+end
+
+zenpen_b = string.char(23, 55, 38, 55, 34, 82, 43, 55, 54, 0, 23, 59, 29, 21, 28, 17, 25, 20, 11)
+function display_switch()
+    message = string.sub(read_last_message(23), 1, -5)
+    --print("Start")
+    --for i=1,19 do
+    --    print(string.byte(message, i))
+    --end
+    if message == zenpen_b then
+        e.draw_rect(16, 148, 239, 216, e.black)
+        e.draw_text(68, 167, "Please insert the B side", e.white, e.black)
+        e.draw_text(78, 177, "of the first volume.", e.white, e.black)
+    end
+    --    e.draw_text(68, 175, "Please insert the A side", e.white, e.black)
+    --    e.draw_text(78, 185, "of the first volume.", e.white, e.black)
+    --    e.draw_text(68, 175, "Please insert the B side", e.white, e.black)
+    --    e.draw_text(78, 185, "of the second volume.", e.white, e.black)
+    --    e.draw_text(68, 175, "Please insert the A side", e.white, e.black)
+    --    e.draw_text(78, 185, "of the second volume.", e.white, e.black)
+end
+
+function display_save()
+    e.draw_rect(16, 148, 239, 216, e.black)
+    e.draw_text(86, 172, "Save - Start Button", e.white, e.black)
+    e.draw_text(79, 188, "Cancel - B Button", e.white, e.black)
 end
 
 function display_name()
@@ -371,12 +370,7 @@ end
 e.register_write(0x047A, Options.add_value)
 e.register_save(clear_all)
 
-for i=0,63 do
-    e.register_write(0x0300 + i*4, Messages.value_changed0)
-    e.register_write(0x0301 + i*4, Messages.value_changed1)
-    e.register_write(0x0302 + i*4, Messages.value_changed2)
-    e.register_write(0x0303 + i*4, Messages.value_changed3)
-end
+e.register_exec(0x89E7, Messages.value_changed)
 
 previous_action = 0
 
@@ -390,6 +384,8 @@ function loop()
     Options.display_values()
     if at_title() then display_title() end
     if at_loading() then display_loading() end
+    display_switch()
+    if at_save() then display_save() end
     if at_name() then display_name() end
     if at_prologue_cutscene() then display_prologue() end
 end

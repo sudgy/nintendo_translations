@@ -623,12 +623,12 @@ Utsugi: "What is your name?"
 
 
 あなた　「ぼく、
-          ああああ　いいいいと、　いいます。
-うつぎ　「よし　いいいいくん、
+          ぁ　ぃと、　いいます。
+うつぎ　「よし　ぃくん、
           いこうか！
 あなた「僕、
-        アアアアイイイイと、言います。
-ウツギ「よしイイイイ君、
+        ァィと、言います。
+ウツギ「よしィ君、
         行こうか！
 You: "My name is Shmoby Dude."
 Utsugi: "Alright Shmoby-kun, let's go!"
@@ -680,5 +680,77 @@ I dealt with several cases. And then...
 
 This, the dreadful story...
 That I encountered... Then it happened...
+
+
+ぁ　ぃが　うつぎのじょしゅとして
+かれのもとに　みをよせてから
+すでに、　すうかげつのつきひが
+すぎさった。
+ァィがウツギの助手として
+彼の元に身を寄せてから
+すでに、数ヶ月の月日
+過ぎ去った。
+Several months have already passed since you met Utsugi and became his assistant.
+
+
+
+そんなあるあさ、　その　うつぎじむしょに、
+おそろしいじけんの　まくあけをつげる
+でんわのべルが　なりひびいた！
+
+そんなある朝、そのウツギ事務所に、
+恐ろしい事件の幕開けを告げる
+電話のベルが鳴り響いた！
+
+Then one morning, at Utsugi office, the terrifying case opens with the ringing of a telephone!
+
+
+
+      ぃ　「せんせい　けいさつから　でんわです。
+            またなにか　じけんのようですよ。
+  うつぎ　「なに？
+            よし、　とにかく　いってみよう。
+      ィ「先生警察から電話です。
+          また何か事件のようですよ。
+  ウツギ「何？
+          よし、とにかく言ってみよう。
+Shmoby: "Detective, the police are calling. It seems like there's another case."
+Utsugi: "What? Alright, let me talk to them."
+
+
+うつぎと　ぃが　かけつけた　かわらには
+みしらぬ　少女のしたいが　しずかに
+よこたわっていた。
+
+ウツギとィが駆けつけた河原には
+見知らぬ少女の死体が静かに
+横たわっていた。
+
+You and Utsugi rush to the riverbed, where the corpse of an unfamiliar girl is silently lying.
+
+
+
+けいかん　「うつぎたんていじむしょの
+            ぁくんだね、　ごくろうさまです。
+
+
+警官「ウツギ探偵事務所の
+      ァ君だね、ご苦労様です。
+
+
+Police Officer: "Ah, it's Dude-kun from Utsugi Detective Agency. Thank you for your hard work."
+
+
+
+うつぎ　たんていじむしょです。
+
+
+
+ウツギ探偵事務所です。
+
+
+
+You are at Utsugi Detective Agency.
+
 
 
