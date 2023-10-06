@@ -285,9 +285,20 @@ function at_save()
 end
 
 function at_name()
-    return e.read(0x004E) == 3 and
-           e.read(0x005A) == 6 and
-           e.read(0x005B) == 17
+    return e.read(0x0402) == 39 and
+           e.read(0x044C) == 4 and
+           e.read(0x0023) == 127
+end
+
+function at_prologue_cutscene()
+    return e.read(0x0023) == 14
+    -- Other addresses/values you can use:
+    -- 0x0024: 98
+    -- 0x0026: 98
+    -- 0x00A7: 5
+    -- 0x01FC: 12
+    -- 0x0493: 2
+    -- 0x070E: 5
 end
 
 function display_title()
@@ -302,6 +313,59 @@ end
 function display_loading()
     e.draw_rect(16, 148, 239, 216, e.black)
     e.draw_text(76, 180, "Please wait a moment.", e.white, e.black)
+end
+
+function display_name()
+    clear_all()
+    e.draw_rect(15, 156, 158, 172, e.black)
+    e.draw_rect(32, 176, 230, 196, e.black)
+    e.draw_rect(44, 192, 118, 212, e.black)
+    e.draw_rect(130, 192, 230, 212, e.black)
+    e.draw_text(46, 161, "Please enter your name.", e.white, e.black)
+    e.draw_text(33, 184, "Select with D-pad, confirm with A button", e.white, e.black)
+    e.draw_text(49, 200, "Space", e.white, e.black)
+    e.draw_text(136, 200, "End registration", e.white, e.black)
+end
+
+prologue_count = 0
+prologue_start = 0
+
+function display_prologue()
+    if prologue_start == 0 then
+        prologue_start = e.get_framecount()
+    end
+    prologue_count = e.get_framecount() - prologue_start + e.prologue_offset
+    if prologue_count < 300 then
+        local text_color = e.get_pixel2(104, 104)
+        e.draw_rect(16, 116, 239, 216, e.black)
+        e.draw_text(96, 120, "Made in 1989", text_color, e.clear)
+    elseif prologue_count < 1400 then
+        -- ひとりで　がっこうに　いると
+        -- うしろから　だれかのよぶこえがする
+        -- ふりむくと　そこには
+        -- ひとりの少女が　たっている・・・
+        -- なにかを　いいたげな　さみしい少女が
+        -- あなたのうしろに　たっている
+        -- 一人で学校にいると
+        -- 後ろから誰かの呼ぶ声がする
+        -- 振り向くとそこには
+        -- 一人の少女が立っている・・・
+        -- 何かを言いたげな寂しい少女が
+        -- あなたの後ろに立っている
+        color = e.get_pixel2(56, 72)
+        e.draw_rect(0, 0, 400, 400, e.black)
+        e.draw_text(57, 73, "When you are alone at school,", color, e.clear)
+        e.draw_text(57, 89, "you hear someone calling from behind.", color, e.clear)
+        e.draw_text(57, 105, "Turning around, you see", color, e.clear)
+        e.draw_text(57, 121, "a lone girl standing there...", color, e.clear)
+        e.draw_text(57, 137, "A lonely girl, looking like she wants", color, e.clear)
+        e.draw_text(57, 153, "to say something, standing behind you.", color, e.clear)
+    else
+        title_color = e.get_pixel2(56, 72)
+        subtitle_color = e.get_pixel2(60, 145)
+        e.draw_text(58, 89, "Famicom Detective Club", title_color, e.clear)
+        e.draw_text(66, 174, "The Girl Who Stands Behind", subtitle_color, e.clear)
+    end
 end
 
 e.register_write(0x047A, Options.add_value)
@@ -326,6 +390,8 @@ function loop()
     Options.display_values()
     if at_title() then display_title() end
     if at_loading() then display_loading() end
+    if at_name() then display_name() end
+    if at_prologue_cutscene() then display_prologue() end
 end
 
 e.register_frame(loop)
