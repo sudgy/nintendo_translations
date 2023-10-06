@@ -67,9 +67,23 @@ function Messages.load_messages()
 end
 Messages.load_messages()
 function Messages.display()
+    if Messages.slow_timer < Messages.total_time then
+        Messages.slow_timer = Messages.slow_timer + 1
+    end
     e.draw_rect(16, 148, 239, 216, e.black)
+    local modified_message = string.gsub(Messages.current_message, "\\", "")
+    local message_length = math.floor(
+        #modified_message * Messages.slow_timer / Messages.total_time) + 1
+    local index1 = 1
+    local index2 = 1
+    for c in Messages.current_message:gmatch"." do
+        if index1 == message_length then break end
+        if c ~= "\\" then index1 = index1 + 1 end
+        index2 = index2 + 1
+    end
+    local current_message = Messages.current_message:sub(1, index2) .. "\n"
     local i = 0
-    for line in Messages.current_message:gmatch("(.-)\n") do
+    for line in current_message:gmatch("(.-)\n") do
         local x_offset = 1
         while string.byte(line, x_offset) == 92 do x_offset = x_offset + 1 end
         e.draw_text(
@@ -152,6 +166,10 @@ function Messages.value_changed()
     Messages.searching = false
     Messages.finished = true
     Messages.current_message = Messages.translations[message]
+    local _, pause1 = message:gsub("[" .. string.char(63, 66, 67) .. "]", "")
+    local _, pause2 = message:gsub("[" .. string.char(62) .. "]", "")
+    Messages.total_time = #message * 5 + pause1*28 + pause2*4
+    Messages.slow_timer = 0
     if Messages.current_message == nil then
         e.log("Unable to find translation for current message")
         e.log(tostring(string.byte(message, 1, 128)))
