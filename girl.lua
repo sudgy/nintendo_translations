@@ -223,14 +223,25 @@ function Options.add_value(this_value)
     if #value == 0 then value = {0} end
     table.insert(Options.values, string.char(e.unpack(value)))
 end
+Options.clear_timer = 0
 function Options.display_values()
-    if at_loading() then
-        Options.values = {}
+    local black = e.get_pixel2(0, 0)
+    local found = false
+    for i = 1,16 do
+        if black ~= e.get_pixel2(172, 29 + i) then
+            found = true
+            break
+        end
+    end
+    if found then
+        Options.clear_timer = 0
+    else
+        Options.clear_timer = Options.clear_timer + 1
+        if Options.clear_timer == 1 then Options.values = {} end
     end
     if #Options.values == 0 then return end
     for i=1,7 do
         if Options.values[i] == nil then return end
-        --e.log(tostring(string.byte(Options.values[i], 1, 16)))
         if string.byte(Options.values[i]) ~= 0 and string.byte(Options.values[i]) ~= 70 then
             local trans = Options.translations[Options.values[i]]
             if trans then
@@ -318,20 +329,23 @@ function display_loading()
     e.draw_text(76, 180, "Please wait a moment.", e.white, e.black)
 end
 
-zenpen_b = string.char(23, 55, 38, 55, 34, 82, 43, 55, 54, 0, 23, 59, 29, 21, 28, 17, 25, 20, 11)
+zenpen_a = string.char(23, 55, 38, 55, 34, 82, 43, 55, 54, 0, 23, 59, 29, 21, 28, 17, 25, 20, 11)
+zenpen_b = string.char(34, 82, 43, 55, 54, 0, 23, 59, 29, 21, 28, 17, 25, 20, 11, 1, 34, 171, 83)
 function display_switch()
-    message = string.sub(read_last_message(23), 1, -5)
+    message = read_last_message(19)
     --print("Start")
     --for i=1,19 do
     --    print(string.byte(message, i))
     --end
-    if message == zenpen_b then
+    if message == zenpen_a then
+        e.draw_rect(16, 148, 239, 216, e.black)
+        e.draw_text(68, 167, "Please insert the A side", e.white, e.black)
+        e.draw_text(78, 177, "of the first volume.", e.white, e.black)
+    elseif message == zenpen_b then
         e.draw_rect(16, 148, 239, 216, e.black)
         e.draw_text(68, 167, "Please insert the B side", e.white, e.black)
         e.draw_text(78, 177, "of the first volume.", e.white, e.black)
     end
-    --    e.draw_text(68, 175, "Please insert the A side", e.white, e.black)
-    --    e.draw_text(78, 185, "of the first volume.", e.white, e.black)
     --    e.draw_text(68, 175, "Please insert the B side", e.white, e.black)
     --    e.draw_text(78, 185, "of the second volume.", e.white, e.black)
     --    e.draw_text(68, 175, "Please insert the A side", e.white, e.black)
