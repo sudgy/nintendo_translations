@@ -2527,7 +2527,7 @@ Donbe: "Huh?"
 光の声が洞窟に響き
 ます。あっ！鈍い音とともにお鍋
 の一部が開きました。
-Hikari reads aloud that an abominable darkness will reincarnate in the shrine of the dragon.
+Hikari reads aloud that an abominable darkness will reincarnate in the palace of the dragon.
 
 
 I will be reborn and set things right.
@@ -5779,7 +5779,7 @@ The boat is made of wood.
 すっています。
 おいでおいでをしています。タバコを
 吸っています。
-It's beckoning people to come. It's smoking a cigarette.
+It's beckoning people to come. It's smoking a pipe.
 
 2
 こわいかおをしておこりました。とれ
@@ -5820,9 +5820,9 @@ Rabbit: "Alright, get on the boat."
 船に燃え移った！
 The current makes you sway rapidly, but it feels pleasant.
 
-The rabbit is happily smoking his cigarette, but...... Ah!
+The rabbit is happily smoking his pipe, but...... Ah!
 
-You idiot rabbit! The fire from the cigarette spread onto the boat!
+You idiot rabbit! The fire from the pipe spread onto the boat!
 
 4
 きのふねは　ひによわいようです。
@@ -5867,7 +5867,7 @@ But over here we use wood. Come on, ride, ride!"
 にひをつけました。よくもえてます。
 うさぎのタバコの火をもらって松明
 に火をつけました。よく燃えてます。
-The rabbit lets you use the fire from his cigarette to light the torch.  It is now burning brightly.
+The rabbit lets you use the fire from his pipe to light the torch.  It is now burning brightly.
 
 1
 ほうかのつみはおもいですよ。

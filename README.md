@@ -142,10 +142,11 @@ since these English words have a different meaning than the honorifics.  Thus, I
 consider using these English words to be an example of changing the meaning of
 the original text, so I prefer not doing this as well.  **This means that the
 only option left is leaving the honorifics untranslated**, even though I prefer
-not to do this as much as possible.  In case you don't know Japanese honorifics,
-here are all of the ones that I've seen in the games included here (since I'm
-still learning Japanese it's definitely possible that these descriptions aren't
-quite correct):
+not to do this as much as possible.  (In the rare case where a particular
+English word does fit, I will use the English word instead of the Japanese
+honorific.) In case you don't know Japanese honorifics, here are all of the ones
+that I've seen in the games included here (since I'm still learning Japanese
+it's definitely possible that these descriptions aren't quite correct):
  - san: The "default" honorific, which shows a basic level of respect for the
    person.  Often used for people you don't know well or want to treat politely.
  - kun: An honorific that is used to refer to someone of equal or lesser status,
@@ -156,7 +157,8 @@ quite correct):
    social level than the speaker is.  It's not used as much in modern Japanese,
    but there are still situations where it's used.
  - no honorific: Either indicates a very close relationship, or that the speaker
-   thinks that the person doesn't deserve respect.
+   thinks that the person doesn't deserve respect.  Also often used when
+   referring to a third party.
 
 If you don't like that I'm leaving the honorifics untranslated, you can just
 ignore them.  I've found that you get used to them pretty quickly.
