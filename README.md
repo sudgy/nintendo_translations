@@ -174,7 +174,8 @@ memory at once and instead puts the characters into memory one at a time while
 they are being displayed on the screen.  Thus, I can't tell what Japanese
 message is being displayed right away.  I did write a relatively complicated
 algorithm to determine what message it is as soon as possible, but sometimes it
-takes a while to figure out.
+takes a while to figure out.  I have recently gotten ideas for how to improve
+this, but I haven't implemented them yet.
 
 Another note is that at the end of the prologue is a naming screen.  To make
 sure that the name wouldn't conflict with anything else, I named the main
