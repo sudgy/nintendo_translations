@@ -227,6 +227,24 @@ many Japanese characters can have a little mark that looks like a quotation mark
 after a character, like changing と to ど.  The game puts all of these modified
 versions of characters after the normal versions of all of them.
 
+## Famicom Detective Club Part II: The Girl Who Stands Behind
+
+THIS GAME IS NOT COMPLETE YET!  It's the one I'm currently working on.  By the
+chapter numbering in the Switch remake, I've only finished chapter one
+currently.
+
+If you've played the first game already using my scripts, you may notice
+something interesting: the messages appear in a much nicer way!  I spent some
+extra effort getting this game to work better, and I'm hoping to port this to
+the first game at some point, but currently I would rather focus on getting this
+game translated.
+
+At the end of the prologue, there's a name input screen.  Thankfully, unlike the
+other games on here, it doesn't matter what you name yourself!  The script will
+be able to understand no matter what your name is.  If you want to contribute
+yourself, in `girl_messages.txt` you must use ぃ for the first name and ぁ for
+the last name.  Note that these are not い and あ.
+
 ## Famicom Mukashibanashi: Shin Onigashima
 
 The most important thing to note is that in the original, all of the text was
