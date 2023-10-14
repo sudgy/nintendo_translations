@@ -28,3 +28,65 @@ Riverbed
 Where?
 なに？
 What?
+でんわ
+Phone
+けいかん
+Police officer
+うつぎ
+Utsugi
+したい
+Corpse
+しいん
+Cause of death
+しぼうじかん
+Time of death
+きづいたこと
+What they know
+はっけんばしょ
+Place she was found
+てちょう
+Notebook
+かんしき
+Forensics officer
+少女
+Girl
+なまえ
+Name
+ようこのこと
+About Yoko
+ひびの
+Hibino
+あゆみ
+Ayumi
+あゆみのこと
+About Ayumi
+ひびののこと
+About Hibino
+アりバイ
+Alibi
+たんていクラブ
+Detective club
+ようこのいえ
+Yoko's house
+ははおや
+Mother
+うわさ
+Rumor
+がっこうのこと
+About the school
+せいとたち
+Students
+うしろの少女
+Girl who stands behind
+こまだのこと
+About Komada
+びじゅつしつ
+Art room
+こまだ
+Komada
+ゆくえふめい
+Missing girl
+うつぎじむしょ
+Utsugi office
+がっこうのまえ
+In front of the school

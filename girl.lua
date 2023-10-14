@@ -1,4 +1,4 @@
-base_directory = "FILL THIS IN"
+base_directory = "/home/sudgy/programs/emulators/nintendo_translations/"
 --dofile(base_directory .. "mesen.lua")
 dofile(base_directory .. "fceux.lua")
 
@@ -167,7 +167,7 @@ function Messages.value_changed()
     Messages.searching = false
     Messages.finished = true
     Messages.current_message = Messages.translations[message]
-    local _, pause1 = message:gsub("[" .. string.char(63, 66, 67) .. "]", "")
+    local _, pause1 = message:sub(1, -2):gsub("[" .. string.char(63, 66, 67) .. "]", "")
     local _, pause2 = message:gsub("[" .. string.char(62) .. "]", "")
     Messages.total_time = #message * 5 + pause1*28 + pause2*4
     Messages.slow_timer = 0
@@ -250,7 +250,12 @@ function Options.display_values()
                     trans = trans .. "\n"
                     local j = 0
                     for line in trans:gmatch("(.-)\n") do
-                        e.draw_text(169, 13+j*8 + i*16, line, e.white, e.clear)
+                        if line == "stands behind" then
+                            e.draw_text(169, 13+j*8 + i*16, "stands", e.white, e.clear)
+                            e.draw_text(200, 13+j*8 + i*16, "behind", e.white, e.clear)
+                        else
+                            e.draw_text(169, 13+j*8 + i*16, line, e.white, e.clear)
+                        end
                         j = j+1
                     end
                 else
