@@ -1,4 +1,4 @@
-base_directory = "/home/sudgy/programs/emulators/nintendo_translations/"
+base_directory = "FILL THIS IN"
 --dofile(base_directory .. "mesen.lua")
 dofile(base_directory .. "fceux.lua")
 
@@ -21,7 +21,6 @@ end
 
 function clear_all()
     Options.values = {}
-    Options.last_index = 255
     Messages.searching = false
     Messages.index = -1
     Messages.current_message = nil
@@ -200,13 +199,12 @@ function Options.load_options()
     end
 end
 Options.load_options()
-Options.last_index = 255
+Options.new_timer = 0
 function Options.add_value(this_value)
-    local this_index = (e.read(0x042B) + 1) % 256
-    if this_index < Options.last_index then
+    if Options.new_timer ~= 0 then
         Options.values = {}
     end
-    Options.last_index = this_index
+    Options.new_timer = 0
     Options.changed = true
     local value = {}
     for i=0,6 do
@@ -225,6 +223,7 @@ function Options.add_value(this_value)
 end
 Options.clear_timer = 0
 function Options.display_values()
+    Options.new_timer = Options.new_timer + 1
     local black = e.get_pixel2(0, 0)
     local found = false
     for i = 1,16 do

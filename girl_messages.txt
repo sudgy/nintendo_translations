@@ -1830,7 +1830,7 @@ Utsugi: "Talk with her."
 
 
 
-He's not here.
+They're not here.
 
 
 
@@ -3582,7 +3582,7 @@ Komada: "It's an uncanny story."
         聞きに来た女生徒がいたのう・・・
 
 
-Komada: "Now that I think of it, there was a female student who came here to ask about the girl who stands behind..."
+Komada: "Now that I think of it, there was a female student who came to ask about the girl who stands behind..."
 
 
 
@@ -3919,6 +3919,1542 @@ Utsugi: "I was entrusted with this by the police. Could you give it to that girl
 
 
 Shmoby: "He left in the end... I'll sleep for today."
+
+
+
+うしみつこうこうです。
+あたりには　せいとがいます。
+
+
+丑美津高校です。
+辺りには生徒がいます。
+
+
+You are at Ushimitsu high school. There are students in the area.
+
+
+
+せいと　「なんだい？
+
+
+
+生徒「なんだい？
+
+
+
+Student: "What is it?"
+
+
+
+せいと　「？　うちの　せいとてちょうだ・・・
+
+
+
+生徒「？内の生徒手帳だ・・・
+
+
+
+Student: "? This is a student id from here..."
+
+
+
+せいと　「このあいだ　ころされた
+          たんていクラブの　女のコだね・・・
+
+
+生徒「この間殺された
+      探偵クラブの女の子だね・・・
+
+
+Student: "She's the girl from the detective club that was killed the other day..."
+
+
+
+せいと　「たんていクラブの　かわいいコだろ。
+
+
+
+生徒「探偵クラブのかわいい子だろ。
+
+
+
+Student: "That's the cute girl from the detective club, right?"
+
+
+
+せいと　「えいごの　せんせいだよ。
+
+
+
+生徒「英語の先生だよ。
+
+
+
+Student: "He's the English teacher."
+
+
+
+せいと　「いいがっこうだよ。
+          せんせいがたは　きょういくねっしんだし。
+
+
+生徒「いい学校だよ。
+      先生方は教育熱心だし。
+
+
+Student: "It's a good school. The teachers are passionate about their work."
+
+
+
+せいと　「いまぐらいの　じきに、
+          よく　あらわれる　っていう　はなしだよ。
+
+
+生徒「今ぐらいの時期に、
+      よく現れるって言う話だよ。
+
+
+Student: "People say that she appears a lot more around this time of year."
+
+
+
+せいと　「みんな　きみわるがってるのに
+          それを　しらべてるコが　いるそうなんだ。
+
+
+生徒「みんな気味悪がってるのに
+      それを調べてる子がいるそうなんだ。
+
+
+Student: "Even though everybody's creeped out by it, it seems that some girl is investigating it."
+
+
+
+せいと　「びじゅつの　せんせいだよ。
+
+
+
+生徒「美術の先生だよ。
+
+
+
+Student: "He's the art teacher."
+
+
+
+せいと　「きみ　ほんとに　たんていなの？！
+          かっこいいじゃん！
+
+
+生徒「君ほんとに探偵なの？！
+      かっこいいじゃん！
+
+
+Student: "Are you really a detective?! That's so cool!"
+
+
+
+ぃ　「このコが、
+      こじま　ようこさんなんだけど。
+
+
+ぃ「この子が、
+    コジマヨウコさんなんだけど。
+
+
+Shmoby: "This girl is Yoko Kojima."
+
+
+
+せいと　「・・・！
+          ぼく　このコを　２、３にちまえに
+          がっこうのうらにある
+          きゅうこうしゃのまえで　みかけたよ。
+生徒「・・・！
+      僕この子を２、３日前に
+      学校の裏にある
+      旧校舎の前で見かけたよ。
+Student: "...!
+I saw this girl in front of the old school building behind the school 2 or 3 days ago!"
+
+
+ぃ　「こまだせんせいは　いないようだ。
+
+
+
+ぃ「コマダ先生はいないようだ。
+
+
+
+Shmoby: "Mr. Komada doesn't seem to be here."
+
+
+
+きゅうこうしゃ　です。
+
+
+
+旧校舎です。
+
+
+
+You are at the old school building.
+
+
+
+こんなところで　ようこは
+いったい　なにをしていたんだろう？
+
+
+こんな所でヨウコは
+一体何をしていたんだろう？
+
+
+What in the world was Yoko doing in a place like this?
+
+
+
+しずかなばしょです。
+うすぐらく、　ひとのよりつくところでは
+ないようです。
+
+静かな場所です。
+薄暗く人の寄り付く所では
+ないようです。
+
+This place is silent. It is gloomy and doesn't seem to be a place where people would gather.
+
+
+
+きが　ならんでいます。
+
+
+
+木が並んでいます。
+
+
+
+The trees are in a line.
+
+
+
+きゅうこうしゃの　かべ　です。
+
+
+
+旧校舎の壁です。
+
+
+
+It's the wall of the old school building.
+
+
+
+ぃ　「う・・・　うごかないっ！
+
+
+
+ぃ「う・・・動かないっ！
+
+
+
+Shmoby: "Urgh... It won't budge!"
+
+
+
+せいと　「せんせいに　ようがあるの？
+          いま　しょくいんかいぎ　ちゅうだから
+          チャイムが　なるまで　あえないよ。
+
+生徒「先生に用があるの？
+      今職員会議中だから
+      チャイムがなるまで会えないよ。
+
+Student: "Do you have business with him? He's in a staff meeting right now, so you can't meet with him until the bell rings."
+
+
+
+せいと　「さっきの　しゃしんのコが
+          こじま　ようこさん　だったのか・・・
+
+
+生徒「さっきの写真の子が
+      コジマヨウコさんだったのか・・・
+
+
+Student: "So the girl in that photo is Yoko Kojima..."
+
+
+
+せいと　「しゃしんでみるより、
+          クライかんじだったなあ・・・
+
+
+生徒「写真で見るより、
+      暗い感じだったなあ・・・
+
+
+Student: "She seemed darker than in the picture..."
+
+
+
+せいと　「ほかには　もう、　しらないなあ。
+
+
+
+生徒「他にはもう、知らないなあ。
+
+
+
+Student: "I don't know anything else."
+
+
+
+ぃ　「こまだせんせいは　かいぎちゅうだ。
+
+
+
+ぃ「コマダ先生は会議中だ。
+
+
+
+Shmoby: "Mr. Komada is in a meeting."
+
+
+
+おや・・・
+このかべだけが　ほかのと　いろがちがう。
+
+
+おや・・・
+この壁だけが他のと色が違う。
+
+
+Oh...
+Only this part of the wall is a different color.
+
+
+これだけ　あとから　ぬりなおされたようだ。
+
+
+
+これだけ後から塗りなおされたようだ。
+
+
+
+It seems that just this part was repainted later.
+
+
+
+おとこ　「おい！　かべに　いたずらするな！
+
+
+
+男「おい！壁にいたずらするな！
+
+
+
+Man: "Hey! Don't mess around with that wall!"
+
+
+
+おとこ　「ここで　なにしとる！
+          あんた　うちのせいとじゃないな。
+
+
+男「ここで何している！
+    あんた内の生徒じゃないな。
+
+
+Man: "What are you doing here?! You're not a student here."
+
+
+
+ぃ　「あなたはいったい・・・
+
+
+
+ぃ「あなたは一体・・・
+
+
+
+Shmoby: "Who in the world..."
+
+
+
+おとこ　「せいとでもないなら　こんなところに
+          ようはないじゃろ、　かえったかえった。
+
+
+男「生徒でもないならこんな所に
+    用はないだろう、帰った帰った。
+
+
+Man: "If you're not a student, you don't belong in a place like this. Get out, get out!"
+
+
+
+ぃ　「もう　ほとんどのせいとたちは
+      かえってしまったようだな。
+
+
+ぃ「もうほとんどの生徒たちは
+    帰ってしまったようだな。
+
+
+Shmoby: "It seems that most of the students have already gone home."
+
+
+
+このひとは　せんせいなのだろうか・・・
+としは、　６０まえと　いうところだ。
+
+
+この人は先生なのだろうか・・・
+年は、６０前と言う所だ。
+
+
+This person is probably a teacher... He seems to be around 60 years old.
+
+
+
+おとこ　「ここで　なにしとる？
+
+
+
+男「ここで何している？
+
+
+
+Man: "What are you doing here?"
+
+
+
+あたりは　しずまりかえっています。
+
+
+
+辺りは静まり返っています。
+
+
+
+The area has become completely silent.
+
+
+
+おとこ　「またもどって　きたんか。
+
+
+
+男「また戻って来たんか。
+
+
+
+Man: "You came back?"
+
+
+
+おとこ　「？　せいとてちょうを
+          もってるじゃないか。
+          そうか、　てんこうせいじゃな。
+
+男「？生徒手帳を
+    持ってるじゃないか。
+    そうか、転校生じゃな。
+
+Man: "? You have a student id? Oh, so you're a transfer student."
+
+
+
+せいとだと　おもわれてるほうが
+つごうがよさそうだ・・・
+てちょうのなかみは　まだ　みせないでおこう。
+
+生徒だと思われてる方が
+都合がよさそうだ・・・
+手帳の中身はまだ見せないでおこう。
+
+He seems to think that you're a student... You shouldn't show him the contents of the student id.
+
+
+
+おとこ　「わしは　たざき　と、　いうもんだ。
+
+
+
+男「わしはタザキと、言うもんだ。
+
+
+
+Man: "My name is Tazaki."
+
+
+
+たざき　「ここの　ようむいんになって
+          かれこれ　２０ねんだわい。
+
+
+タザキ「ここの用務員になって
+        かれこれ２０年だわい。
+
+
+Tazaki: "I've been the janitor here for around 20 years now."
+
+
+
+たざき　「・・・・・・
+
+
+
+タザキ「・・・・・・
+
+
+
+Tazaki: "......"
+
+
+
+あけられません。
+
+
+
+開けられません。
+
+
+
+That can't be opened.
+
+
+
+たざき　「！　だれのことじゃ？
+    ぃ　「せんじつ　ころされた
+          ここの　せいとです。
+          じけんのことは　ごぞんじですね？
+タザキ「！誰のことじゃ？
+    ぃ「先日殺された
+        ここの生徒です。
+        事件のことはご存知ですね？
+Tazaki: "! About who?"
+Shmoby: "She's a student here who was killed the other day. Do you know anything about it?"
+
+
+たざき　「！・・・・・・
+
+
+
+タザキ「！・・・・・・
+
+
+
+Tazaki: "!......"
+
+
+
+たざき　「つまらん　うわさじゃ。
+
+
+
+タザキ「つまらん噂だ。
+
+
+
+Tazaki: "It's a foolish rumor."
+
+
+
+たざき　「そんなことに　きょうみをもつと
+          おそろしいめに　あうぞ！
+
+
+タザキ「そんなことに興味を持つと
+        恐ろしい目にあうぞ！
+
+
+Tazaki: "You'll only suffer by being interested in such things!"
+
+
+
+ぃ　「この　しゃしんのコが
+      こじま　ようこさんですが。
+
+
+ぃ「この写真の子が
+    コジマヨウコさんですが。
+
+
+Shmoby: "The girl in this photo is Yoko Kojima."
+
+
+
+きゅうに　そわそわしだした
+ようにみえるが・・・
+
+
+急にそわそわし出した
+ように見えるが・・・
+
+
+It looks like he suddenly got nervous...
+
+
+
+たざき　「お、　おい、　ちょっと　まってくれ
+          あんた　なにものじゃ？！
+
+
+タザキ「お、おい、ちょっと待ってくれ
+        あんた何者だ？！
+
+
+Tazaki: "H-hold on, who are you?!"
+
+
+
+ぃ　「こじま　ようこさんのことを
+      ちょうさするために　きました。
+      しっていることは　ありませんか？
+
+ぃ「コジマヨウコさんのことを
+    調査するために来ました。
+    知っていることはありませんか？
+
+Shmoby: "I came here to investigate things related to Yoko Kojima-san. Do you know anything?"
+
+
+
+たざき　「さ、　さあのう。
+
+
+
+タザキ「さ、さあのう。
+
+
+
+Tazaki: "N-no."
+
+
+
+たざき　「わ、　わしはいそがしいから　もう　いくぞ。
+
+
+
+タザキ「わ、わしは忙しいからもう行くぞ。
+
+
+
+Tazaki: "I-I'm busy, so I'll be leaving now."
+
+
+
+たざきは　いってしまった。
+
+
+
+タザキは行ってしまった。
+
+
+
+Tazaki has left.
+
+
+
+もう　ここにいても　むだかな・・・
+しかし　あの　ようむいん
+ちょっときになるな・・・
+
+もうここにいても無駄かな・・・
+しかしあの用務員
+ちょっと気になるな・・・
+
+There doesn't seem to be any point in sticking around here... But something about that janitor seemed a bit off...
+
+
+
+ぃ　「しょくいんかいぎも
+      まだおわらない　みたいだ・・・
+
+
+ぃ「職員会議も
+    まだ終わらないみたいだ・・・
+
+
+Shmoby: "The staff meeting doesn't seem to be finished yet..."
+
+
+
+ぃ　「？　あれは・・・・・・
+      あゆみちゃんだ。
+      どこへゆくんだろう？
+      よし、　ついていってみよう。
+ぃ「？あれは・・・・・・
+    あゆみちゃんだ。
+    どこへ行くんだろう？
+    よし、ついていってみよう。
+Shmoby: "? That's...Ayumi-chan, right? Where is she going? Alright, I'll go catch up to her."
+
+
+
+あゆみは、　おおきな　カガミのまえで
+たたずんでいる。
+
+
+アユミは、大きな鏡の前で
+たたずんでいる。
+
+
+Ayumi is standing in front of a large mirror.
+
+
+
+あゆみ　「あら、　ぃくん。
+
+
+
+あゆみ「あら、ぃ君。
+
+
+
+Ayumi: "Oh, Shmoby-kun."
+
+
+
+あゆみ　「？・・・・・・
+
+
+
+あゆみ「？・・・・・・
+
+
+
+Ayumi: "?......"
+
+
+
+しずかな　ばしょだ・・・
+このカガミのまえで
+ゆきどまりに　なっている。
+
+静かな場所だ・・・
+この鏡の前で
+行き止まりになっている。
+
+It's a quiet place...
+This mirror is at a dead end.
+
+
+まどです。
+
+
+
+窓です。
+
+
+
+It's a window.
+
+
+
+おおきなカガミです。
+
+
+
+大きな鏡です。
+
+
+
+It's a large mirror.
+
+
+
+あゆみ　「ぃくん、　やっぱりようこは
+          うしろの少女のことを　いろんなひとに
+          きいてまわっていた　みたいよ。
+          ちょうど　いっしゅうかんほどまえから・・・
+あゆみ「ぃ君、やっぱりヨウコは
+        後ろの少女のことをいろんな人に
+        聞いてまわっていたみたいよ。
+        ちょうど一週間ほど前から・・・
+Ayumi: "Shmoby-kun, as we thought, it seems that Yoko was going around asking various people about the girl who stands behind. Starting exactly one week ago..."
+
+
+
+あゆみ　「ようこが
+          うしろの少女のことを　しらべていたことは
+          まちがいないと　おもうわ、　でも・・・
+
+あゆみ「ようこが
+        後ろの少女のことを調べていたことは
+        間違いないと思うわ、でも・・・
+
+Ayumi: "I'm pretty certain about Yoko investigating the girl who stands behind, but..."
+
+
+
+あゆみ　「かのじょが　ころされたことと
+          どう　つながるのかしら・・・
+
+
+あゆみ「彼女が殺されたことと
+        どうつながるのかしら・・・
+
+
+Ayumi: "Is it really connected to her murder..."
+
+
+
+あゆみ　「？　ようむいんの　たざきさんね。
+
+
+
+あゆみ「？用務員のタザキさんね。
+
+
+
+Ayumi: "? Tazaki-san the janitor?"
+
+
+
+あゆみ　「あのひとが　どうかしたの？
+
+
+
+あゆみ「あの人がどうかしたの？
+
+
+
+Ayumi: "What about him?"
+
+
+
+あゆみ　「！・・・・・・
+
+
+
+あゆみ「！・・・・・・
+
+
+
+Ayumi: "!......"
+
+
+
+ぃ　「けいさつが　かえしてくれたんだ。
+      あゆみちゃん　もっておいてよ。
+
+
+ぃ「警察が返してくれたんだ。
+    あゆみちゃん持っておいてよ。
+
+
+Shmoby: "The police returned it. You should have it, Ayumi-chan."
+
+
+
+あゆみ　「じゃあ　あずかっとくね。
+
+
+
+あゆみ「じゃあ預かっとくね。
+
+
+
+Ayumi: "Alright, I'll hold on to it."
+
+
+
+なにかを　かんがえている　ようすだが・・・
+
+
+
+何かを考えている様子だが・・・
+
+
+
+It looks like she's thinking about something...
+
+
+
+あゆみは　なぜ、
+ここへ　やってきたのだろう・・・？
+
+
+あゆみはなぜ、
+ここへやってきたのだろう・・・？
+
+
+Why did Ayumi come here...?
+
+
+
+あゆみ　「ぃ　くん、
+          ・・・じつは、　ここで
+          ようこが　こんなことをいったのを
+          おもいだしたの・・・
+あゆみ「ぃ君、
+        ・・・実は、ここで
+        ヨウコがこんなことを言ったのを
+        思い出したの・・・
+Ayumi: "Shmoby-kun,
+...The truth is, I remember Yoko saying something here."
+
+
+あゆみ　「ようこのようすが　かわってから
+          すこしたった　あるひ・・・
+          わたし、　この　カガミのまえに
+          たっていたの。
+あゆみ「ヨウコの様子が変わってから
+        少したったある日・・・
+        私、この鏡の前に
+        立っていたの。
+Ayumi: "One day, a little after Yoko's behavior changed...
+I was standing in front of this mirror.
+
+
+あゆみ　「すると、
+          うしろから　ちかよってきた　ようこが
+          わたしに　こういったの・・・
+
+あゆみ「すると、
+        後ろから近寄ってきたヨウコが
+        私にこういったの・・・
+
+Ayumi: "Then, Yoko came up behind me and said..."
+
+
+
+ようこ　「あゆみ・・・
+          あの、　うしろの少女のことだけど・・
+
+
+ヨウコ「あゆみ・・・
+        あの、後ろの少女のことだけど・・
+
+
+Yoko: "Ayumi...
+Um, about the girl who stands behind..
+
+
+ようこ　「かのじょ　ほんとうに・・・
+          あなたのうしろに
+          たっているかも、　しれないわよ・・・
+
+ヨウコ「彼女本当に・・・
+        あなたの後ろに
+        立っているかも、しれないわよ・・・
+
+Yoko: "She really...might be standing behind you..."
+
+
+
+ぃ　「それじゃ　まるで、
+      ようこさんが　じぶんのことを
+      うしろの少女だって
+      いったみたいじゃない？！
+ぃ「それじゃまるで、
+    ヨウコさんが自分のことを
+    後ろの少女だって
+    言ったみたいじゃない？！
+Shmoby: "Didn't that sound like Yoko-san was saying that she herself is the girl who stands behind?!"
+
+
+
+あゆみ　「・・・でも　それだけしか　いわなかったの。
+
+
+
+あゆみ「・・・でもそれだけしか言わなかったの。
+
+
+
+Ayumi: "...However, she didn't say anything more than that."
+
+
+
+あゆみ　「ようこ　いったい、
+          なにを　いいたかったのかしら・・・
+
+
+あゆみ「ヨウコ一体、
+        何を言いたかったのかしら・・・
+
+
+Ayumi: "What in the world was Yoko trying to say..."
+
+
+
+あゆみ　「わたし・・・なんだか　こわいわ。
+
+
+
+あゆみ「私・・・なんだか怖いわ。
+
+
+
+Ayumi: "I'm...a little scared."
+
+
+
+ぃ　「？　しょくいんかいぎが　おわったようだな。
+
+
+
+ぃ「？職員会議が終わったようだな。
+
+
+
+Shmoby: "? It seems that the staff meeting finished."
+
+
+
+・・・　！
+こまだせんせいに　しゃしんを　みせれば
+はなしをききにいったのが　ようこかどうか
+かくにんできる。
+・・・！
+コマダ先生に写真を見せれば
+話を聞きに行ったのがヨウコかどうか
+確認できる。
+...!
+If I show the picture to Mr. Komada, he should be able to confirm whether or not the one who went to talk to him was Yoko.
+
+
+ぃ　「さっきの　せいとてちょう、
+      もうすこし　かしておいてくれない？
+
+
+ぃ「さっきの生徒手帳、
+    もう少し貸しておいてくれない？
+
+
+Shmoby: "Could I have that student id for just a bit longer?"
+
+
+
+あゆみ　「いいわよ　あなたがもってて、
+          はいこれ。
+
+
+あゆみ「いいわよあなたが持ってて、
+        はいこれ。
+
+
+Ayumi: "Sure, you can have it. Here you go."
+
+
+
+あゆみ　「わたし　そろそろかえるね、
+          さよなら。
+
+
+あゆみ「私そろそろ帰るね、
+        さよなら。
+
+
+Ayumi: "I'll be going home soon, goodbye."
+
+
+
+カンバスです。
+
+
+
+カンバスです。
+
+
+
+It's a canvas.
+
+
+
+つくえです。
+
+
+
+机です。
+
+
+
+It's a desk.
+
+
+
+みずうみが　かかれています。
+
+
+
+湖が描かれています。
+
+
+
+It's a painting of a lake.
+
+
+
+せいとのさくひん　のようです。
+
+
+
+生徒の作品のようです。
+
+
+
+It looks like a student's work.
+
+
+
+がざいなどが　しまわれています。
+
+
+
+画材などがしまわれています。
+
+
+
+Art supplies and the like are stored here.
+
+
+
+こまだ　「はんにんの　めぼしはついたんか？
+
+
+
+コマダ「犯人の目星は付いたんか？
+
+
+
+Komada: "Have you figured anything out about the culprit?"
+
+
+
+こまだ　「ようむいんぢゃ。　かわりものぢゃが
+          わるいおとこでも　ないぞ。
+
+
+コマダ「用務員だ。変わり者だが
+        悪い男でもないぞ。
+
+
+Komada: "He's the janitor.  He's odd, but he isn't a bad man."
+
+
+
+こまだ　「たざきは　ようむいんになるまえ
+          さかんや　だったそうぢゃ。
+
+
+コマダ「タザキは用務員になる前
+        左官屋だったそうだ。
+
+
+Komada: "It seems that Tazaki was a plasterer before becoming a janitor."
+
+
+
+ぃ　「もしや、　あの　きゅうこうしゃの
+      かべをぬったのは・・・
+
+
+ぃ「もしや、あの旧校舎の
+    壁を塗ったのは・・・
+
+
+Shmoby: "Maybe he's the one that painted the wall of the old school building..."
+
+
+
+こまだ　「？　あの　かべのことか。
+          さよう、　たざきがぬったんぢゃ。
+
+
+コマダ「？あの壁のことか。
+        さよう、タザキが塗ったんだ。
+
+
+Komada: "? That wall? That's right, he did paint it."
+
+
+
+こまだ　「かなりまえ　あれが　くずれおちたとき、
+          たざきがしゅうり　したんぢゃ。
+
+
+コマダ「かなり前あれが崩れ落ちた時、
+        タザキが修理したんだ。
+
+
+Komada: "Quite some time ago, when it collapsed, Tazaki repaired it."
+
+
+
+こまだ　「？　なにかを　おしえてやろうと
+          おもっとったのに・・・？
+
+
+コマダ「？何かを教えてやろうと
+        思っていたのに・・・？
+
+
+Komada: "? I thought I was going to tell you something...?"
+
+
+
+？　そういえば　ここへきたのが
+ようこかどうか　はっきりしていない・・・
+
+
+？そういえばここへ来たのが
+ヨウコかどうかはっきりしていない・・・
+
+
+? Come to think of it, I don't know whether or not Yoko is the one that came here...
+
+
+
+こまだ　「たずねてきたのは　そのコだったぞ、
+          たぶん。
+
+
+コマダ「訪ねてきたのはその子だったぞ、
+        多分。
+
+
+Komada: "The girl who visited me was probably her."
+
+
+
+こまだ　「やたら　はなしを　ききたがる
+          かのぢょの　ようすは
+          きみがわるい　ほどぢゃったぞ。
+
+コマダ「やたら話を聞きたがる
+        彼女の様子は
+        気味が悪いほどだったぞ。
+
+Komada: "It was a little creepy how much she wanted to hear everything that I was saying."
+
+
+
+！　せんせいに　てちょうをみせれば
+ここへきたのが　ようこかどうか　わかるんだ。
+あゆみちゃん　まだ　いるかな・・・？
+
+！先生に手帳を見せれば
+ここへ来たのがヨウコかどうか分かるんだ。
+あゆみちゃんまだいるかな・・？
+
+! If I show the id to him, I'll know whether or not Yoko is the one who came here. Is Ayumi-chan still here...?
+
+
+
+こまだ　「！　そのコぢゃよ。
+          わしのところへ　きたのは！
+
+
+コマダ「！その子だよ。
+        わしの所へ来たのは！
+
+
+Komada: "! This is her! The one who came to my place!"
+
+
+
+こまだ　「そうそう！
+          しっそうした　ぢょせいとを
+          しらべてみると・・・
+
+コマダ「そうそう！
+        失踪した女生徒を
+        調べてみると・・・
+
+Komada: "That's right!
+She was investigating the female student that disappeared...
+
+
+こまだ　「あさかわ　しのぶ　という
+          とうじ　１ーＡの　せいとだったことが
+          わかったんぢゃよ！
+
+コマダ「アサカワシノブと言う
+        当時１ーＡの生徒だったことが
+        分かったんだよ！
+
+Komada: "I found out that her name was Shinobu Asakawa, and she was in class 1-A at the time."
+
+
+
+ぃ　「あさかわ　しのぶ・・・？
+
+
+
+ぃ「アサカワシノブ・・・？
+
+
+
+Shmoby: "Shinobu Asakawa...?"
+
+
+
+こまだ　「・・・　どんなせいとだったか
+          きおくには　ないんぢゃ。
+
+
+コマダ「・・・どんな生徒だったか
+        記憶にはないんだ。
+
+
+Komada: "...I don't remember what kind of student she was."
+
+
+
+こまだ　「ただ　かのぢょは　なにかのじけんに
+          まきこまれたのでは　と、　いう
+          うわさだったとおもうが。
+
+コマダ「ただ彼女は何かの事件に
+        巻き込まれたのではと、言う
+        噂だったと思うが。
+
+Komada: "I think the rumors said that she had gotten caught up in some incident."
+
+
+
+こまだ　「ぁくん、
+          すまんが　きょうは　かえらせてもらうぞ。
+          さらばぢゃ。
+
+コマダ「ぁ君、
+        すまんが今日は帰らせてもらうぞ。
+        さらばだ。
+
+Komada: "Dude-kun,
+I'm sorry, but I would like to go home for the day. Goodbye."
+
+
+よくみると　なかなか・・・
+かわいくない、　かわいくない！
+
+
+よく見るとなかなか・・・
+かわいくない、かわいくない！
+
+
+Looking closer, he's...
+Not cute, not cute!
+
+
+りゆうはどうあれ、　こじま　ようこが
+「うしろの少女」を　しらべていたのは
+まちがいないようだ。
+
+理由はどうあれ、コジマヨウコが
+「後ろの少女」を調べていたのは
+間違いないようだ。
+
+Whatever the reason, it seems certain that Yoko Kojima was investigating "the girl who stands behind".
+
+
+
+そして　うわさの　もとになったとみられる
+１５ねんまえ　とつぜん　ゆくえふめいになった
+少女は・・・
+
+そして噂の元になったと見られる
+１５年前突然行方不明になった
+少女は・・・
+
+And the one who is believed to have started the rumor, a girl who suddenly disappeared 15 years ago...
+
+
+
+あさかわ　しのぶ　という
+うしみつこうこうの　せいとだった。
+かのじょは　なにかのじけんに　まきこまれて
+しまった　ようだが・・・
+アサカワシノブと言う
+丑美津高校の生徒だった。
+彼女は何かの事件に巻き込まれて
+しまったようだが・・・
+Shinobu Asakawa, a student at Ushimitsu high school. It seems that she had been caught up in some incident...
+
+
+
+！　そういえば、
+あの　たざきという　ようむいんの
+あわてぶりは　なんだったんだろう？
+
+！そういえば、
+あのタザキと言う用務員の
+あわてぶりはなんだったんだろう？
+
+! Come to think of it, why was that janitor named Tazaki acting so flustered?
+
+
+
+うつぎ　「ちょうさは　じゅんちょうかい？
+
+
+
+ウツギ「調査は順調かい？
+
+
+
+Utsugi: "Is your investigation going well?
+
+
+
+うつぎ　「ぼくのほうは、
+          たのまれた　じけんのあらましを
+          せつめいして　もらったところだ。
+
+ウツギ「僕の方は、
+        頼まれた事件のあらましを
+        説明してもらったところだ。
+
+Utsugi: "On my part, I just received the outline of the case that I had requested.
+
+
+
+うつぎ　「１５ねんまえに　かねだ　げんじろうという、
+          このまちの　スナックのオーナーが
+          ころされたらしい。
+
+ウツギ「１５年前にカネダゲンジロウと言う、
+        この町のスナックのオーナーが
+        殺されたらしい。
+
+Utsugi: "It seems that 15 years ago, Genjiro Kaneda, the owner of a bar in this town, was murdered.
+
+
+
+うつぎ　「とうじ、　ゆうりょくようぎしゃと　みられた
+          だんせいが　いたそうだが・・・
+
+
+ウツギ「当時有力容疑者と見られた
+        男性がいたそうだが・・・
+
+
+Utsugi: "At the time, there was a man that seemed like a likely suspect, but...
+
+
+
+うつぎ　「すうじつごに
+          じさつしたいで　はっけんされたんだ。
+
+
+ウツギ「数日後に
+        自殺死体で発見されたんだ。
+
+
+Utsugi: "Several days later, he was discovered dead by suicide.
+
+
+
+うつぎ　「つまり　ほんとうのことは
+          なにもわかっていない　ままなんだよ。
+    ぃ　「てがかりは　なにも　ないんですか？
+
+ウツギ「つまり本当のことは
+        何も分かっていないままなんだよ。
+    ぃ「手がかりは何もないんですか？
+
+Utsugi: "Basically, we don't know anything about what actually happened."
+Shmoby: "Don't you have any clues?"
+
+
+うつぎ　「うん、　はんこうじ　そのげんばに
+          いあわせたと　みられたじんぶつが
+          いたそうだ。
+
+ウツギ「うん、犯行時その現場に
+        居合わせたと見られた人物が
+        いたそうだ。
+
+Utsugi: "Yes, it seems that a person was seen at the scene of the crime.
+
+
+
+うつぎ　「そのじんぶつは、
+          とうじ　うしみつこうこうの
+          １ねんせいで・・・
+
+ウツギ「その人物は、
+        当時丑美津高校の
+        １年生で・・・
+
+Utsugi: "At the time, that person was a first year student at Ushimitsu high school...
+
+
+
+うつぎ　「あさかわ　しのぶ　という
+          女のコ　だったと・・・
+
+
+ウツギ「アサカワシノブと言う
+        女の子だったと・・・
+
+
+Utsugi: "...a girl named Shinobu Asakawa..."
+
+
+
+ぃ　「！　そのコ　それいらい
+      ゆくえふめい　なんでしょ？！
+
+
+ぃ「！その子それ以来
+    行方不明なんでしょ？！
+
+
+Shmoby: "! And that girl went missing after that?!"
+
+
+
+うつぎ　「！・・・・・・
+
+
+
+ウツギ「！・・・・・・
+
+
+
+Utsugi: "!......"
+
+
+
+ぃ　「せんせい！
+      ふたつの　じけんには
+      なにか　かかわりがありそうですよ。
+
+ぃ「先生！
+    二つの事件には
+    何か関わりがありそうですよ。
+
+Shmoby: "Detective!
+It seems that our cases are connected somehow."
+
+
+うつぎ　「ぃくん、
+          いまから　けいさつにいって
+          はなしを　きいてきたまえ。
+
+ウツギ「ぃ君、
+        今から警察に行って
+        話を聞いてきたまえ。
+
+Utsugi: "Shmoby-kun,
+you should go and talk with the police right now."
+
+
+ぃ　「ええ、　そうします！
+
+
+
+ぃ「ええ、そうします！
+
+
+
+Shmoby: "Alright!"
 
 
 
