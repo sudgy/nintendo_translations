@@ -167,36 +167,25 @@ ignore them.  I've found that you get used to them pretty quickly.
 
 ## Famicom Detective Club: The Missing Heir
 
-The main thing you will notice upon playing the game for a bit is that you will
-often see a bit of Japanese text before the English text pops up.  Sadly, I
-couldn't find a way around this.  The game doesn't put the whole message in
-memory at once and instead puts the characters into memory one at a time while
-they are being displayed on the screen.  Thus, I can't tell what Japanese
-message is being displayed right away.  I did write a relatively complicated
-algorithm to determine what message it is as soon as possible, but sometimes it
-takes a while to figure out.  I have recently gotten ideas for how to improve
-this, but I haven't implemented them yet.
-
-Another note is that at the end of the prologue is a naming screen.  To make
-sure that the name wouldn't conflict with anything else, I named the main
-character "ゃゃゃゃ　ゅゅゅゅ".  Note that this is NOT "やややや　ゆゆゆゆ".
-The characters used in the name are small.  They're in the rightmost column on
-the name selection screen.  If you don't name yourself this, the game will not
-recognize any of the messages that have your name in it and none of them will be
-translated.  Also, because I'm doing all of this for the sake of my brother, the
-name used in the English translations is "Shmoby Dude", which is the name that
-he wanted to use.  After he plays it I might change the name to something
-better, but for now, that's what it is.  If you want to change it yourself, note
-that the name is also in `heir.lua` itself, so you'll need to change it there
-too.
+At the end of the prologue is a naming screen.  Thankfully, you can name
+yourself whatever you want!  The script will be able to understand no matter
+what name you pick.  You yourself won't see the Japanese name after the name
+screen so you can pick whatever you want.  Because I'm doing all of this for the
+sake of my brother, the name used in the English translations is "Shmoby Dude",
+which is the name that he wanted to use.  After he plays it I might change the
+name to something better, but for now, that's what it is.  If you want to change
+it yourself, note that the name is also in `heir.lua` itself, so you'll need to
+change it there too.  If you want to contribute yourself, in `heir_messages.txt`
+you must use ぃ for the first name and ぁ for the last name.  Note that these
+are not い and あ.
 
 Near the end of the game, you have to actually input some things yourself that
-you should have figured out.  I couldn't actually translate these, so you'll
-have to input them yourself in Japanese.  I'll provide both the English and
-Japanese answers here so you can still progress once you get to that point.
-These are obviously major spoilers in the game (especially the second one), so
-only look at them once you have figured them out yourself if you want to
-experience the game how the developers intended.
+you should have figured out.  I couldn't actually change this to English input,
+so you'll have to input them yourself in Japanese.  I'll provide both the
+English and Japanese answers here so you can still progress once you get to that
+point.  These are obviously major spoilers in the game (especially the second
+one), so only look at them once you have figured them out yourself if you want
+to experience the game how the developers intended.
 
 <details>
 <summary>First answer</summary>
@@ -230,7 +219,7 @@ versions of characters after the normal versions of all of them.
 ## Famicom Detective Club Part II: The Girl Who Stands Behind
 
 THIS GAME IS NOT COMPLETE YET!  It's the one I'm currently working on.  By the
-chapter numbering in the Switch remake, I've only finished chapter one
+chapter numbering in the Switch remake, I've only finished chapter two
 currently.
 
 If you've played the first game already using my scripts, you may notice
@@ -239,11 +228,15 @@ extra effort getting this game to work better, and I'm hoping to port this to
 the first game at some point, but currently I would rather focus on getting this
 game translated.
 
-At the end of the prologue, there's a name input screen.  Thankfully, unlike the
-other games on here, it doesn't matter what you name yourself!  The script will
-be able to understand no matter what your name is.  If you want to contribute
-yourself, in `girl_messages.txt` you must use ぃ for the first name and ぁ for
-the last name.  Note that these are not い and あ.
+At the end of the prologue, there's a name input screen.  Thankfully, it doesn't
+matter what you name yourself!  You yourself won't see the Japanese name after
+the name screen so you can pick whatever you want.  The script will be able to
+understand no matter what your name is.  Because I'm doing all of this for the
+sake of my brother, the name used in the English translations is "Shmoby Dude",
+which is the name that he wanted to use.  After he plays it I might change the
+name to something better, but for now, that's what it is.  If you want to
+contribute yourself, in `girl_messages.txt` you must use ぃ for the first name
+and ぁ for the last name.  Note that these are not い and あ.
 
 ## Famicom Mukashibanashi: Shin Onigashima
 

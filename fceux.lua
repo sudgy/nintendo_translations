@@ -31,6 +31,9 @@ local function register_write(address, callback)
     end
     memory.register(address, f)
 end
+local function register_read(address, callback)
+    memory.registerread(address, callback)
+end
 local function register_exec(address, callback)
     memory.registerexec(address, callback)
 end
@@ -56,6 +59,7 @@ e = {
     get_pixel2 = get_pixel2,
     get_framecount = get_framecount,
     register_write = register_write,
+    register_read = register_read,
     register_exec = register_exec,
     register_save = register_save,
     register_frame = register_frame,

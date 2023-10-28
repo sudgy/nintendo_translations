@@ -34,6 +34,9 @@ local function register_write(address, callback)
     end
     emu.addMemoryCallback(f, emu.memCallbackType.cpuWrite, address)
 end
+local function register_read(address, callback)
+    emu.addMemoryCallback(callback, emu.memCallbackType.cpuRead, address)
+end
 local function register_exec(address, callback)
     emu.addMemoryCallback(callback, emu.memCallbackType.cpuExec, address)
 end
@@ -56,6 +59,7 @@ e = {
     get_pixel2 = get_pixel2,
     get_framecount = get_framecount,
     register_write = register_write,
+    register_read = register_read,
     register_exec = register_exec,
     register_save = register_save,
     register_frame = register_frame,
