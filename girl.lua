@@ -214,7 +214,7 @@ function Options.add_value(this_value)
             this_char = this_value
         end
         if this_char == 0 then break end
-        if this_char == 70 and #Options.values > 0 then return end
+        if this_char == 70 and #Options.values > 0 and i == 0 then return end
         if this_dak ~= 0 then table.insert(value, this_dak) end
         table.insert(value, this_char)
     end

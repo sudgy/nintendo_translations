@@ -5034,7 +5034,7 @@ Komada: "Have you figured anything out about the culprit?"
         悪い男でもないぞ。
 
 
-Komada: "He's the janitor.  He's odd, but he isn't a bad man."
+Komada: "He's the janitor. He's odd, but he isn't a bad man."
 
 
 
@@ -5455,6 +5455,1866 @@ you should go and talk with the police right now."
 
 
 Shmoby: "Alright!"
+
+
+
+けいさつしょです。
+たくさんの　ひとたちが
+めまぐるしく　はたらいています。
+
+警察署です。
+たくさんの人たちが
+めまぐるしく働いています。
+
+You are at the police station. There are many people busily working.
+
+
+
+ふけい　「こんなところまで　はいってきちゃだめよ。
+          なにか　ごようなの？
+
+
+婦警「こんな所まで入ってきちゃダメよ。
+      何かご用なの？
+
+
+Policewoman: "You can't come to a place like this. What are you doing here?"
+
+
+
+ふじんけいかん　です、
+わりと　ボインですね。
+
+
+婦人警官です、
+割とボインですね。
+
+
+She's a female police officer, and has rather large boobs.
+
+
+
+ロッカーです。
+
+
+
+ロッカーです。
+
+
+
+It's a locker.
+
+
+
+こうつうきどうたいの　メットです。
+
+
+
+交通機動隊のメットです。
+
+
+
+It's a helmet for the traffic riot police.
+
+
+
+ん？　むむっ？・・・　なにが　かいてあるか
+よめない・・・
+
+
+ん？むむっ？・・・何が書いてあるか
+読めない・・・
+
+
+Huh? Hmmm?... Something was written but you can't read it...
+
+
+
+そうさしりょうが　ならんでいます。
+
+
+
+捜査資料が並んでいます。
+
+
+
+Investigative documents are lined up.
+
+
+
+ながいすです。
+
+
+
+長椅子です。
+
+
+
+It's a couch.
+
+
+
+けいじの　つくえです。
+
+
+
+刑事の机です。
+
+
+
+It's a detective's desk.
+
+
+
+ふけい　「ちょっと！　どこ　みてんのよ！
+          なかみは　ホンモノよ、　いっとくけど。
+
+
+婦警「ちょっと！どこ見てんのよ！
+      中身は本物よ、言っとくけど。
+
+
+Policewoman: "Hey! Where do you think you're looking?! For your information, it's the real thing in there!"
+
+
+
+オ、　オトナじゃん・・・
+
+
+
+お、大人じゃん・・・
+
+
+
+S-she's really an adult...
+
+
+
+ふけい　「・・・・・・
+          スケべそーな　かお　しちゃって、
+          こんどやったら　しょうちしないわよ！
+
+婦警「・・・・・・
+      スケベそうな顔しちゃって、
+      今度やったら承知しないわよ！
+
+Policewoman: "......
+You're a pervert, I won't let you do it next time!"
+
+
+ゲーム　オーバー
+
+
+
+ゲームオーバー
+
+
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\Game Over
+
+
+
+ふけい　「と、　いうのは　ジョーダンよ。
+
+
+
+婦警「と、言うのは冗談よ。
+
+
+
+Policewoman: "That was a joke."
+
+
+
+        ルルルルル・・・
+けいじ　「はい！　そうさ１か！・・・　えっ？
+          やまさんの　たんとうしている　やまが
+          ついに　やまをむかえたって！　へーえ。
+ルルルルル・・・
+刑事「はい！捜査１課！・・・えっ？
+      ヤマさんの担当している山が
+      ついに山を迎えたって！へーえ。
+*Ring ring ring ring*...
+Detective: "Yes! This is investigation department 1! ...Huh? You're saying that it's the case that Yama-san's case will finally be encased! Heh."
+
+
+だれをよべば　はなしをきけるのだろう？
+
+
+
+誰を呼べば話を聞けるのだろう？
+
+
+
+Who should I call and talk to?
+
+
+
+ぃ　「あの、　すみません。
+
+
+
+ぃ「あの、すみません。
+
+
+
+Shmoby: "Um, excuse me."
+
+
+
+ふけい　「なんですか？　どういう　ごようなの。
+
+
+
+婦警「何ですか？どういうご用なの。
+
+
+
+Policewoman: "What is it? What are you doing here?"
+
+
+
+ぃ　「うつぎたんていじむしょの
+      ぁと　もうしますが。
+
+
+ぃ「ウツギ探偵事務所の
+    ぁと申しますが。
+
+
+Shmoby: "My name is Dude, from Utsugi Detective Agency."
+
+
+
+ふけい　「えっ？　あなたが・・・
+          はい、　うつぎさんから　れんらくを
+          うけています。
+
+婦警「えっ？あなたが・・・
+      はい、ウツギさんから連絡を
+      受けています。
+
+Policewoman: "Huh? You are...
+Yes, we've been in contact with Utsugi-san."
+
+
+ふけい　「かねだ　げんじろうじけんの　ことですね。
+          いま　たんとうのものを　よびますので
+          ちょっと　まっててください。
+
+婦警「カネダゲンジロウ事件のことですね。
+      今担当の物を呼びますので
+      ちょっと待っててください。
+
+Policewoman: "It's about Genjiro Kaneda's case, right? I'll go call the person in charge of it right away, so please wait a moment."
+
+
+
+けいじらしい　おとこが　あらわれました。
+
+
+
+刑事らしい男が現れました。
+
+
+
+A man that looks like a detective appears.
+
+
+
+けいじ　「ほう、
+          きみが　うつぎさんのじょしゅ　って
+          ひとなのか。
+
+刑事「ほう、
+      君がウツギさんの助手って
+      人なのか。
+
+Detective: "Oh,
+So you're Utsugi-san's assistant, right?"
+
+
+けいじ　「はじめまして、　そうさ１かの
+          まるやまと　もうします。
+
+
+刑事「はじめまして、捜査１課の
+      マルヤマと申します。
+
+
+Detective: "Nice to meet you, I'm Maruyama from investigation department 1."
+
+
+
+こじま　ようこの　じけんと
+あさかわ　しのぶのしっそうには
+なにか　かんけいが　あるのだろうか？
+
+コジマヨウコの事件と
+アサカワシノブの失踪には
+何か関係があるのだろうか？
+
+Do Yoko Kojima's case and Shinobu Asakawa's disappearance have anything to do with each other?
+
+
+
+まるやま　「なんだね？
+
+
+
+マルヤマ「何だね？
+
+
+
+Maruyama: "What is it?"
+
+
+
+まるやま　「かねだ　げんじろう　さつじんじけんの
+            はなしをききたい　そうだね。
+            できるはんいのことを　はなしてあげよう。
+
+マルヤマ「カネダゲンジロウ殺人事件の
+          話を聞きたいそうだね。
+          できる範囲のことを話してあげよう。
+
+Maruyama: "So you want to hear about Genjiro Kaneda's murder. I'll tell you everything I can."
+
+
+
+まるやま　「かねだ　げんじろう　というおとこは
+            １５ねんまえの　２がつに
+            このまちへ　ひっこしてきて
+            スナックをはじめたんだ。
+マルヤマ「カネダゲンジロウと言う男は
+          １５年前の２月に
+          この町へ引っ越してきて
+          スナックを始めたんだ。
+Maruyama: "The man named Genjiro Kaneda moved to this town 15 years ago in February and opened a bar."
+
+
+
+まるやま　「そして　そのとしの１１がつ１０かの
+            ごご　９じごろ　じたくでころされたんだ。
+
+
+マルヤマ「そしてその年の１１月１０日の
+          午後９時ごろ自宅で殺されたんだ。
+
+
+Maruyama: "And on November 10th of that year around 9 PM, he was killed in his house."
+
+
+
+まるやま　「げんじろうの　しいんは、
+            はもので　めったづきに　されたことによる
+            しゅっけつ　たりょうだ。
+
+マルヤマ「ゲンジロウの死因は、
+          刃物でめった突きにされたことによる
+          出血多量だ。
+
+Maruyama: "Genjiro's cause of death was excessive bleeding from being stabbed by a knife."
+
+
+
+まるやま　「はんこうの　てぐちから　みて、
+            とうじ、　げんじろうにたいして
+            かなり　ふかい　うらみをもつものの
+            はんこうだと　はんだんしたんだ。
+マルヤマ「犯行の手口からから見て、
+          当時、ゲンジロウに大して
+          かなり深い恨みを持つものの
+          犯行だと判断したんだ。
+Maruyama: "Because of how the crime was commited, I think it was done by someone who had a very deep grude against Genjiro."
+
+
+
+まるやま　「スナックと　げんじろうのじたくは
+            べつのばしょに　あったんだ。
+
+
+マルヤマ「スナックとゲンジロウの自宅は
+          別の場所にあったんだ。
+
+
+Maruyama: "The bar and Genjiro's house were separate places."
+
+
+
+ぃ　「かねだ　げんじろうは
+      ひとの　うらみをかうようなことを
+      なにか　していたんですか。
+
+ぃ「カネダゲンジロウは
+    人の恨みを買うようなことを
+    何かしていたんですか。
+
+Shmoby: "Did Genjiro Kaneda do anything to make people resent him?"
+
+
+
+まるやま　「げんじろうは　おもてむきは
+            スナックのオーナーと　いうことだけど、
+            これがまた　なかなかの　わる　だったんだ。
+
+マルヤマ「ゲンジロウは表向き
+          スナックのオーナーと言うことだけど、
+          これがまたなかなかの悪だったんだ。
+
+Maruyama: "On the surface he was a bar owner, but he was also a fairly shady individual.
+
+
+
+まるやま　「おおくのひとに　かねをかしては
+            ひどい　りしを　とりたてていたんだ。
+            おまけに　げんじろうは・・・
+
+マルヤマ「多くの人に金を貸しては
+          ひどい利子を取り立てていたんだ。
+          おまけにゲンジロウは・・・
+
+Maruyama: "He loaned money to many people with harsh interest rates. In addition, Genjiro...
+
+
+
+まるやま　「サギし　でもあったんだ。
+            これも　おおくのひとが　ひがいに
+            あっている。
+
+マルヤマ「詐欺師でもあったんだ。
+          これも多くの人が被害に
+          あっている。
+
+Maruyama: "was also a swindler. He brought harm to many people."
+
+
+
+まるやま　「そうとう　あくどいことを　つづけていた
+            ようなんだが、　わるぢえが
+            はたらくおとこで　なかなか　しっぽを
+            ださないんだ。
+マルヤマ「相当あくどいことを続けていた
+          ようなんだ、悪知恵が
+          働く男でなかなかしっぽを
+          出さないんだ。
+Maruyama: "He continued to do terrible things, while never showing his true colors at work.
+
+
+
+まるやま　「ひがいを　うったえるこえが　ひろがってきて
+            けいさつも　やっと、　ほんかくてきな
+            そうさに　のりだそうとした　やさきに・・・
+            ころされて　しまったんだ。
+マルヤマ「被害を訴える声が広がってきて
+          警察もやっと、本格的な
+          捜査に乗り出そうとした矢先に・・・
+          殺されてしまったんだ。
+Maruyama: "With the cries of the victims spreading, the police were finally going to launch a full-fledged investigation, but right then...he was killed."
+
+
+
+ぃ　「つまり　かねだ　げんじろうを
+      うらんでいたひとは、
+      そうとう　いたわけですね。
+
+ぃ「つまりカネダゲンジロウを
+    恨んでいた人は、
+    相当いたわけですね。
+
+Shmoby: "Basically, there are many people who resented Genjiro Kaneda."
+
+
+
+まるやま　「そのとおり、
+            とても　しぼりきれない　かずだった。
+            おまけに・・・
+
+マルヤマ「その通り、
+          とても絞りきれない数だった。
+          おまけに・・・
+
+Maruyama: "That's right,
+it was very hard to narrow down the suspects. In addition...
+
+
+まるやま　「きょうきさえ　いまだに　みつかっていない
+            ありさまなんだよ・・・
+
+
+マルヤマ「凶器さえ未だに見つかっていない
+          有様なんだよ・・・
+
+
+Maruyama: "We still haven't even found the murder weapon..."
+
+
+
+まるやま　「げんじろうには、　とうじ　１６さいの
+            ごろうという　ひとりむすこが　いたんだ。
+
+
+マルヤマ「ゲンジロウには、当時１６歳の
+          ゴロウと言う一人息子がいたんだ。
+
+
+Maruyama: "Genjiro had a single son named Goro who was around 16 years old at the time."
+
+
+
+まるやま　「とうじ、　スナックは　このまちの
+            ふりょう　しょうねん、　少女たちの
+            たまりば　だったんだよ。
+
+マルヤマ「当時、スナックはこの町の
+          不良少年、少女たちの
+          溜まり場だったんだよ。
+
+Maruyama: "Back then, the bar was a popular hangout spot for delinquent boys and girls."
+
+
+
+まるやま　「とうじから　かなりのあそびにんで
+            いまでも　ぶらぶらしているようだ。
+
+
+マルヤマ「当時からかなりの遊び人で
+          今でもぶらぶらしているようだ。
+
+
+Maruyama: "Since then, he has been quite the playboy and even now just idles about."
+
+
+
+まるやま　「スナックで　ごろうとしりあった
+            少女たちの　なんにんかは、
+            そのうち　いえにまで　あそびに
+            いくように　なったんだ。
+マルヤマ「スナックでゴロウと知り合った
+          少女たちの何人かは、
+          そのうち家にまで遊びに
+          行くようになったんだ。
+Maruyama: "It seems that over time, several of the girls that had met Goro at the bar started going to his house.
+
+
+
+まるやま　「とくに　うしみつこうこうの　じょせいとが
+            おおかったようだ。
+            それというのも・・・
+
+マルヤマ「特に丑美津高校の女性とが
+          多かったようだ。
+          それというのも・・・
+
+Maruyama: "There were especially a lot of women from Ushimitsu high school.
+Because...
+
+
+まるやま　「かねだのいえは　うしみつこうこうの
+            わりとちかくに　あったからなんだよ。
+            がっこうのかえりに　たちよっていた
+            ようだね。
+マルヤマ「カネダの家は丑美津高校の
+          割と近くにあったからなんだよ。
+          学校の帰りに立ち寄っていた
+          ようだね。
+Maruyama: "Kaneda's house was relatively close to Ushimitsu high school. They probably would stop by on their way home from school."
+
+
+
+まるやま　「じけんのあったばん、
+            ごろうと　あそびにいく　やくそくをしていた
+            ３にんの　少女が　かねだのいえで
+            ごろうのかえりを　まっていたそうだ。
+マルヤマ「事件のあった晩、
+          ゴロウと遊びにいく約束をしていた
+          ３人の少女がカネダの家で
+          ゴロウの帰りを待っていたそうだ。
+Maruyama: "The night of the incident,
+three girls were waiting for Goro at Kaneda's house because they had promised to meet with him.
+
+
+まるやま　「ところが　いつまでたっても　ごろうが
+            かえらないので　うち、　ふたりは
+            さきに　かえったんだが、
+
+マルヤマ「所がいつまでたってもゴロウが
+          帰らないのでうち、二人は
+          先に帰ったんだが、
+
+Maruyama: "No matter how long they waited, Goro didn't come back, so two of them left,
+
+
+
+まるやま　「ひとりだけ　もうすこし　まってみるといって
+            いえにのこったんだ。
+
+
+マルヤマ「一人だけもう少し待ってみると言って
+          家に残ったんだ。
+
+
+Maruyama: "and the last one said that she would wait a little longer a remained at the house."
+
+
+
+ぃ　「それが、　あさかわ　しのぶ
+      なんですね？
+
+
+ぃ「それが、アサカワシノブ
+    なんですね？
+
+
+Shmoby: "And that was Asakawa Shinobu?"
+
+
+
+まるやま　「！　そのとおりだ。
+            はんこうは　あさかわ　しのぶ
+            ひとりをのこし、　ほかのふたりが
+            かえったちょくごに　おこなわれたようだ。
+マルヤマ「！その通りだ。
+          犯行はアサカワシノブ
+          一人を残し、他の二人が
+          帰った直後に行われたようだ。
+Maruyama: "! That's right.
+The crime seems to have been commited right after the other two left, with only Shinobu Asakawa remaining."
+
+
+まるやま　「かのじょは　なんらかのかたちで
+            じけんに　まきこまれたのだろう　と、　いう
+            なぞをのこしたまま、
+            ゆくえふめいに　なってしまった。
+マルヤマ「彼女は何らかの形で
+          事件に巻き込まれたのだろうと、言う
+          なぞを残したまま、
+          行方不明になってしまった。
+Maruyama: "She disappeared, which seems to suggest that she got involved in the incident in some way."
+
+
+
+まるやま　「かのじょのあしどりは　じけんいらい
+            プッツりと　とだえている。
+            しょうじきなところ　あさかわ　しのぶは
+            もう、　しんでいるとおもうよ。
+マルヤマ「彼女の足取りは事件以来
+          プッツリと途絶えている。
+          正直な所アサカワシノブは
+          もう、死んでいると思うよ。
+Maruyama: "Since then, all traces of her have completely vanished. To be honest, I think Shinobu Asakawa is already dead.
+
+
+
+まるやま　「と、　いうのも
+            かねだのいえから　１０すうメートルはなれた
+            どうろに　あさかわ　しのぶとおなじ
+            ＡＢがたの　けつえきが　みつかったんだ。
+マルヤマ「と、言うのも
+          カネダの家から１０数メートルはなれた
+          道路にアサカワシノブと同じ
+          ＡＢ型の血液が見つかったんだ。
+Maruyama: "Because, about 10 meters from Kaneda's house, we found AB type blood, which is the same as Shinobu Asakawa's.
+
+
+
+まるやま　「いままでのはなしは　わかったかい？
+            いちど　せいりしておいたほうが
+            いいんじゃないか？
+
+マルヤマ「今までの話は分かったかい？
+          一度整理しておいたほうが
+          いいんじゃないか？
+
+Maruyama: "Do you understand everything so far? Shouldn't you spend a bit of time sorting things out?"
+
+
+
+ぃ　「かねだ　げんじろうは、　１５ねんまえの
+      １１がつ１０かの　ごご　９じごろ
+      はものによって　さつがいされた。
+      そして　そのとき・・・
+ぃ「カネダゲンジロウは、１５年前の
+    １１月１０日の午後９時ごろ
+    は物によって殺害された。
+    そしてその時・・・
+Shmoby: "Genjiro Kaneda was killed 15 years ago on November 10th around 9 PM.  Also, at that time...
+
+
+
+ぃ　「げんじろうの　いえには
+      ごろうのかえりをまっていた
+      あさかわ　しのぶが　いた・・・
+
+ぃ「ゲンジロウの家には
+    ゴロウの帰りを待っていた
+    アサカワシノブがいた・・・
+
+Shmoby: "Shinobu Asakawa was at Genjiro's house, waiting for Goro to come home.
+
+
+
+ぃ　「そこへ　はんにんが　やってきて
+      げんじろうを　はもので　めったづきにした。
+
+
+ぃ「そこへ犯人がやってきて
+    ゲンジロウを刃物でめった突きにした。
+
+
+Shmoby: "The culprit went there and stabbed Genjiro with a knife.
+
+
+
+ぃ　「ものおとにきづいた　あさかわ　しのぶが
+      かけつけると　そこには
+      ちだらけでたおれている　げんじろうと
+      はんにんがいた・・・
+ぃ「物音に気づいたアサカワシノブが
+    駆けつけるとそこには
+    血だらけで倒れているゲンジロウと
+    犯人がいた・・・
+Shmoby: "Hearing something, Shinobu Asakawa rushed there, finding the culprit and Genjiro lying there, covered in blood...
+
+
+
+ぃ　「あさかわ　しのぶは　おもてへにげた。
+      ところが　かおをみられた　はんにんは
+      あさかわ　しのぶを　おった、
+
+ぃ「アサカワシノブは表へ逃げた。
+    所が顔を観られた犯人は
+    アサカワシノブを追った、
+
+Shmoby: "Shinobu Asakawa ran outside. However, because she had seen their face, the culprit chased after her,
+
+
+
+ぃ　「そして、　かのじょは　はんにんに
+      つかまり　つれさられてしまった・・・
+
+
+ぃ「そして、彼女は犯人に
+    捕まり連れさられてしまった・・・
+
+
+Shmoby: "then, the culprit caught her and took her away...
+
+
+
+ぃ　「そのとき　あさかわは　はんにんによって
+      ケガを　させられたか、　あるいは・・・
+
+
+ぃ「その時アサカワは犯人によって
+    ケガをさせられたか、あるいは・・・
+
+
+Shmoby: "At that time, Asakawa was either injured by the culprit, or..."
+
+
+
+まるやま　「ころされたかも　しれんと　いうことだ。
+
+
+
+マルヤマ「殺されたかもしれんと言うことだ。
+
+
+
+Maruyama: "Maybe she was killed."
+
+
+
+まるやま　「いまの　きみのすいりは　とうじのけいさつの
+            けんかいと　まったくおなじだ。
+            いや、　たいしたものだよ。
+
+マルヤマ「今の君の推理は当時の警察の
+          見解とまったく同じだ。
+          いや、大した物だよ。
+
+Maruyama: "Your reasoning now is exactly the same as what the police thought back then. Good job.
+
+
+
+まるやま　「しかし、　とうじわれわれは
+            あさかわ　しのぶについて
+            もうひとつ　かせつを　たてていたんだよ。
+
+マルヤマ「しかし、当時我々は
+          アサカワシノブについて
+          もう一つ仮説を立てていたんだよ。
+
+Maruyama: "However, at the time we had one more hypothesis regarding Shinobu Asakawa."
+
+
+
+ぃ　「その、　かせつとは　いったい・・・
+
+
+
+ぃ「その、仮説とは一体・・・
+
+
+
+Shmoby: "What is that hypothesis..."
+
+
+
+まるやま　「あさかわ　しのぶ　はんにんせつだ。
+            なにぶん、　はんこうげんばから
+            じけんごすぐ　すがたを　けして
+            いるんだからね。
+マルヤマ「アサカワシノブ犯人説だ。
+          何分、犯行現場から
+          事件後すぐ姿を消して
+          いるんだからね。
+Maruyama: "That Shinobu Asakawa is the culprit. Because she disappeared immediately after the murder.
+
+
+
+まるやま　「そのことを　かんがえて
+            とうじ　みせいねんだった　あさかわの
+            なまえを　ほうどうしないように
+            マスコミを　しどうしたんだ。
+マルヤマ「そのことを考えて
+          当時未成年だったアサカワの
+          名前を報道しないように
+          マスコミを指導したんだ。
+Maruyama: "With that in mind, and because she was a minor at the time, we told the media not to mention Asakawa's name.
+
+
+
+まるやま　「がっこうからの　ようせいもあって
+            ききこみにも　かなり　きをつかったものだ。
+            とうじにも　きみのような　ひとがいれば
+            われわれも　たすかったんだがね・・・
+マルヤマ「学校からの要請もあって
+          聞き込みにもかなり気を遣ったものだ。
+          当時にも君のような人がいれば
+          我々も助かったんだがね・・・
+Maruyama: "The school also asked us to be careful when gathering information. It would have helped us if we had someone like you back then...
+
+
+
+まるやま　「だから　ちょくせつのかんけいしゃ　いがいは
+            じけんのことを　はっきりしらないだろう。
+            もっとも　いろんなうわさは
+            あっただろうけどね、　しかし・・・
+マルヤマ「だから直接の関係者以外は
+          事件のことをはっきり知らないだろう。
+          もっともいろんな噂は
+          あっただろうけどね、しかし・・・
+Maruyama: "So nobody knows about the incident other than the people directly involved. There's probably various rumors, but...
+
+
+
+まるやま　「ぼくは　やはり
+            はんにんは　べつにいて　あさかわ　しのぶは
+            ころされていると　おもうな。
+
+マルヤマ「僕はやはり
+          犯人は別にいてアサカワシノブは
+          殺されていると思うな。
+
+Maruyama: "I still think the culprit is someone else and they killed Shinobu Asakawa."
+
+
+
+まるやま　「すべてのはんこうが　おこなわれたちょくご
+            かえってきた　ごろうが、
+            すでに　こときれていた　げんじろうを
+            はっけんし、
+マルヤマ「すべての犯行が行われた直後
+          帰ってきたゴロウが、
+          すでに事切れていたゲンジロウを
+          発見し、
+Maruyama: "Right after the crime had been done, Goro came back and found that Genjiro was already dead.
+
+
+
+まるやま　「けいさつに　つうほうしてきたんだ。
+
+
+
+マルヤマ「警察に通報してたんだ。
+
+
+
+Maruyama: "He reported it to the police."
+
+
+
+まるやま　「はんこうの　ちょくごに　きたくした
+            かねだ　ごろうは、
+
+
+マルヤマ「犯行の直後に帰宅した
+          カネダゴロウは、
+
+
+Maruyama: "Coming back right after the time of the crime,
+
+
+
+まるやま　「かえる　とちゅうのみちで
+            いちだいの　くるまと　すれちがった
+            と、　いっていたんだ。
+
+マルヤマ「帰る途中の道で
+          一台の車とすれ違った
+          と、言っていたんだ。
+
+Maruyama: "Goro Kaneda said he saw a car pass by while on the road home."
+
+
+
+ぃ　「？　くるま・・・
+
+
+
+ぃ「？車・・・
+
+
+
+Shmoby: "? A car..."
+
+
+
+まるやま　「くろい　じょうようしゃ　だというだけで
+            しゃしゅも　ナンバーも
+            みていなかったらしい。
+
+マルヤマ「黒い乗用車だと言うだけで
+          車種もナンバーも
+          見ていなかったらしい。
+
+Maruyama: "All he said was that it was a black car, and that he didn't even see what model it was or the license plate."
+
+
+
+まるやま　「むりもないだろう、
+            じけんをしったのは　そのあとなんだからね。
+            しかし、　はんこうに　くるまがつかわれた
+            かのうせいは　おおきいね、
+マルヤマ「無理もないだろう、
+          事件を知ったのはその後なんだからね。
+          しかし、犯行に車が使われた
+          可能性は大きいね、
+Maruyama: "It's understandable, since he didn't know what had happened at the time. However, there's a decent chance that the car was used for the crime.
+
+
+
+まるやま　「げんばちかくに　なぜか、
+            きゅうブレーキの　あとが　あったし、
+            あさかわ　しのぶを　つれさるためにも
+            くるまは　ひつようだ。
+マルヤマ「現場近くになぜか、
+          急ブレーキの跡があったし、
+          アサカワシノブを連れ去るためにも
+          車は必要だ。
+Maruyama: "There were tire marks nearby, and it would be necessary for kidnapping Shinobu Asakawa."
+
+
+
+ぃ　「なるほど・・・
+      ところで、　ようぎしゃとみられた　ひとが
+      じさつしたいで　みつかったと
+      いうことですが・・・
+ぃ「なるほど・・・
+    ところで、容疑者と見られた人が
+    自殺死体で見つかったと
+    言うことですが・・・
+Shmoby: "I see...
+By the way, I heard that there was someone who was seen as a suspect who was later found dead by suicide..."
+
+
+まるやま　「ほう、　よくしってるね。
+            そう、　じけんのちょくごに・・・
+
+
+マルヤマ「ほう、よく知ってるね。
+          そう、事件の直後に・・・
+
+
+Maruyama: "Oh, you've done your homework. Yes, right after the crime...
+
+
+
+まるやま　「うちだ　てるひこ　というおとこが
+            じさつしていたんだよ。
+
+
+マルヤマ「ウチダテルヒコと言う男が
+          自殺していたんだよ。
+
+
+Maruyama: "A man named Teruhiko Uchida committed suicide."
+
+
+
+ぃ　「うちだ　てるひこ？
+
+
+
+ぃ「ウチダテルヒコ？
+
+
+
+Shmoby: "Teruhiko Uchida?"
+
+
+
+まるやま　「うちだ　てるひこは　ちいさな　まちこうばを
+            けいえいしていたんだが、
+            げんじろうによって　そのこうじょうを
+            だましとられて　しまったんだ。
+マルヤマ「ウチダテルヒコは小さな町工場を
+          経営していたんだが、
+          ゲンジロウによってその工場を
+          だまし取られてしまったんだ。
+Maruyama: "Teruhiko Uchida ran a small factory in town, but Genjiro cheated his way into taking control of the factory."
+
+
+
+まるやま　「さんこうにんとして
+            じじょうをきこうと　したところ、
+            うちだは　はんこうの　すうじつまえから
+            すがたを　くらましていたため・・・
+マルヤマ「参考人として
+          事情を聞こうとした所、
+          ウチダは犯行の数日前から
+          姿をくらましていたため・・・
+Maruyama: "We tried to question him because he was a potential suspect, but he had disappeared a few days before the crime...
+
+
+
+まるやま　「きゅうきょ、　ゆくえを　さがしたんだが
+            すうじつごに　したいとなって
+            はっけんされたんだ。
+
+マルヤマ「急遽、行方を探したんだが
+          数日後に死体となって
+          発見されたんだ。
+
+Maruyama: "In a rush, we searched for his whereabouts, but several days later we found him dead."
+
+
+
+まるやま　「うちだには
+            どうきとみられる　じじょうがある。
+            げんじろうを　ころして　じさつしたとも
+            かんがえられるのだが・・・
+マルヤマ「ウチダには
+          動機とみられる事情がある。
+          ゲンジロウを殺して自殺したとも
+          考えられるのだが・・・
+Maruyama: "Due to the circumstances, Uchida had a motive. It's thought that he killed Genjiro and then committed suicide, but...
+
+
+
+まるやま　「それを　うらづける　かくしょうはなにもない
+            ほかにも　ようぎしゃは　いたんだが、
+            アりバイが　くずせなかったんだよ。
+
+マルアマ「それを裏付ける確証は何もない
+          他にも容疑者はいたんだが、
+          アリバイが崩せなかったんだよ。
+
+Maruyama: "There's no supporting evidence, and while there were other suspects, their alibis couldn't be broken.
+
+
+
+まるやま　「そして　ことし、　じこうをもくぜんに
+            ひかえて　しまったんだ・・・
+
+
+マルヤマ「そして今年、時効を目前に
+          ひかえてしまったんだ・・・
+
+
+Maruyama: "And this year, the statute of limitations is before our eyes...
+
+
+
+まるやま　「これが
+            かねだ　げんじろう　さつじんじけんの
+            だいたいの　あらましだ。
+
+マルヤマ「これが
+          カネダゲンジロウ殺人事件の
+          大体のあらましだ。
+
+Maruyama: "That's the gist of the Genjiro Kaneda murder case."
+
+
+
+まるやま　「いま　はなしたこといがい
+            おしえてあげられることは　もうないな。
+            はなしてもいいが、　おなじことしか
+            いわないよ。
+マルヤマ「今話したこと以外
+          教えてあげられることはもうないな。
+          話してもいいが、同じことしか
+          言わないよ。
+Maruyama: "There's nothing else for me to tell you. It's fine to talk, but I can't say anything but what I said before.
+
+
+
+まるやま　「それでもよければ　はなしてあげるよ。
+
+
+
+マルヤマ「それでも良ければ話してあげるよ。
+
+
+
+Maruyama: "If you want to, I'll still talk with you."
+
+
+
+・・・あさかわ　しのぶが　まきこまれた
+じけんのことは　だいたいわかった。
+そろそろ　じむしょへひきあげて
+すいりしてみよう。
+・・・アサカワシノブが巻き込まれた
+事件のことは大体分かった。
+そろそろ事務所へ引き上げて
+推理してみよう。
+...I mostly understand the situation that Shinobu Asakawa was involved in. I should go back to the office to try to deduce further.
+
+
+
+まるやま　「どうしたんだい？
+            きゅうに　かんがえこんだりして・・・
+
+
+マルヤマ「どうしたんだい？
+          急に考え込んだりして・・・
+
+
+Maruyama: "What's wrong?
+You're suddenly lost in thought...
+
+
+まるやま　「きみは、　せんじつころされた
+            こじま　ようこという　少女のちょうさを
+            しているんだったね。
+
+マルヤマ「君は、先日殺された
+          コジマヨウコと言う少女の調査を
+          しているんだったね。
+
+Maruyama: "Weren't you investigating the girl named Yoko Kojima that died the other day?
+
+
+
+まるやま　「それと　いま　はなしたじけんと
+            なにか　かんけいが　あるのかい？
+
+
+マルヤマ「それと今話した事件と
+          何か関係があるのかい？
+
+
+Maruyama: "Is there some relationship with the case we were talking about just now?"
+
+
+
+ぃ　「じつは　こじま　ようこは
+      うしみつこうこうで　うわさになっている、
+      「うしろの少女」という
+      ゆうれいを　しらべていたらしいんです。
+ぃ「実はコジマヨウコは
+    丑美津高校で噂になっている、
+    「後ろの少女」と言う
+    幽霊を調べていたらしいんです。
+Shmoby: "Actually, Yoko Kojima was investigating a rumor at Ushimitsu high school about a ghost called 'the girl who stands behind'.
+
+
+
+ぃ　「そして　その　うわさのもとと　なったのが
+      あさかわ　しのぶ　かもしれないんです。
+
+
+ぃ「そしてその噂の元となったのが
+    アサカワシノブかもしれないんです。
+
+
+Shmoby: "And it's possible that Shinobu Asakawa is the source of this rumor."
+
+
+
+まるやま　「ゆうれい？
+            なかなか　おもしろそうな　はなしだね。
+            ぜひ　きみのはなしを　ききたいものだが・・
+
+マルヤマ「幽霊？
+          なかなか面白そうな話だね。
+          ぜひ君の話を聞きたい物だが・・
+
+Maruyama: "A ghost?
+Sounds like an interesting story. I wish I could talk with you more, but..
+
+
+まるやま　「ざんねんながら　あまりじかんが　ないんだ。
+            また　こんどにするよ。
+
+
+マルヤマ「残念ながらあまり時間がないんだ。
+          また今度にするよ。
+
+
+Maruyama: "Unfortunately, we don't have time. Maybe some other time."
+
+
+
+ぃ　「ぼく、　そろそろ　しつれいします。
+      どうも　ありがとうございました。
+
+
+ぃ「僕、そろそろ失礼します。
+    どうもありがとうございました。
+
+
+Shmoby: "Excuse me, I should get going now. Thank you very much for everything."
+
+
+
+うつぎは　でかけています。
+
+
+
+ウツギは出かけています。
+
+
+
+Utsugi isn't here.
+
+
+
+あさかわ　しのぶという　少女は
+かねだじけんに　まきこまれて　いたようだ。
+
+
+アサカワシノブと言う少女は
+カネダ事件に巻き込まれていたようだ。
+
+
+It seems that the girl named Shinobu Asakawa was involved in Kaneda's case.
+
+
+
+おそらく　しのぶは　ころされたのだ、
+という　うわさがもととなり、
+「うしろの少女」のことが
+ささやかれ　はじめたのだろう。
+おそらくシノブは殺されたのだ、
+と言う噂が元となり、
+「後ろの少女」のことが
+ささやかれ始めたのだろう。
+The rumor about "the girl who stands behind" was probably started by people saying that Shinobu was killed.
+
+
+
+じけんから１５ねんたった　いまも
+かねだごろしの　しんはんにん
+そして、　しのぶのゆくえは
+なぞにつつまれたままだ。
+事件から１５年たった今も
+カネダ殺しの真犯人
+そして、シノブの行方は
+あぞに包まれたままだ。
+Even now, 15 years later, the identity of the one that killed Kaneda and Shinobu's whereabouts are unknown.
+
+
+
+ゆうりょく　ようぎしゃとみられた
+うちだ　というおとこは　じさつしてしまった。
+やはり　うちだが　はんにんだったの
+だろうか？
+有力容疑者とみられた
+ウチダと言う男は自殺してしまった。
+やはりウチダが犯人だったの
+だろうか？
+The man named Uchida, who was thought to be a likely suspect, ended up committing suicide. Was Uchida actually the culprit?
+
+
+
+・・・？　まてよ、
+ようこは　「うしろの少女」を
+しらべているうちに・・・
+
+・・・？待てよ、
+ヨウコは「後ろの少女」を
+調べているうちに・・・
+
+...? Wait,
+Yoko, while investigating "the girl who stands behind"...
+
+
+かねだじけんに　きづいたかもしれない！
+
+
+
+カネダ事件に気づいたかもしれない！
+
+
+
+might have learned about Kaneda's case!
+
+
+
+そして、
+ちょうさをすすめていった　ようこが
+かねだじけんの　じゅうような　てがかりを
+みつけだし・・・
+そして、
+調査を進めていったヨウコが
+カネダ事件の重要な手がかりを
+見つけ出し・・・
+Thus,
+Yoko, while continuing to investigate, discovered an important clue in Kaneda's case...
+
+
+そのけっか、　たどりついた
+はんにんの　しょうたいが、
+うちだ　いがいの
+にんげんだったとすれば・・・・
+その結果、たどり着いた
+犯人の正体が、
+ウチダ以外の
+人間だったとすれば・・・
+As a result, if Yoko managed to figure out the true identity of the culprit, and if it was someone other than Uchida...
+
+
+
+！　ようこは
+そのはんにんによって・・・？！
+
+
+！ヨウコは
+その犯人によって・・・？！
+
+
+! Did the culprit also...?!
+
+
+
+ただし、　この　すいりを
+うらづけるためには・・・
+
+
+ただし、この推理を
+裏付けるためには・・・
+
+
+However, to prove this idea...
+
+
+
+ようこが　かねだじけんを
+しっていたのか、　たしかめるひつようが
+あるわけだ・・・
+
+ヨウコが　カネダ事件を
+知っていたのか、確かめる必要が
+あるわけだ・・・
+
+It is vital to verify that Yoko actually knew about Kaneda's case...
+
+
+
+？　ようこが　かねだじけんを
+しっていたのかを　しらべるためには
+まず、　かのじょのいえに　いってみたほうが
+いいかもしれない。
+？ヨウコがカネダ事件を
+知っていたのかを調べるためには
+まず、彼女の家に行ってみた方が
+いいかもしれない。
+? To investigate whether or not Yoko knew about Kaneda's case, I should probably try going to her house.
+
+
+
+せいと　「なあに？
+          あっ、　あなたね、　さいきんよくみかける
+          たんていクン　って。
+
+生徒「なあに？
+      あっ、あなたね、最近よく見かける
+      探偵クンって。
+
+Student: "What is it?
+Ah, it's you, the one we've been seeing a lot recently, detective-kun."
+
+
+ぃ　「た、　たんていクン・・・
+
+
+
+ぃ「た、探偵クン・・・
+
+
+
+Shmoby: "D-detective-kun..."
+
+
+
+せいと　「なあに　たんていクン？
+
+
+
+生徒「なあに探偵クン？
+
+
+
+Student: "What is it detective-kun?"
+
+
+
+せいと　「かのじょ、　なぜ　ころされちゃったの？
+          ああ、　それを　しらべてるのね。
+
+
+生徒「彼女、なぜ殺されちゃったの？
+      ああ、それを調べてるのね。
+
+
+Student: "Why would she get murdered? Ah, that's what you're investigating.
+
+
+
+せいと　「・・・・・・
+
+
+
+生徒「・・・・・・
+
+
+
+Student: "......"
+
+
+
+せいと　「こわい　はなしよ。
+          かのじょ、　ほんとうにでるわよ・・・
+
+
+生徒「怖い話よ。
+      彼女、本当に出るわよ・・・
+
+
+Student: "It's a scary story.
+She really does appear..."
+
+
+せいと　「？　なんなのそれ。
+
+
+
+生徒「？なんなのそれ。
+
+
+
+Student: "? What are you talking about?"
+
+
+
+ぃ　「じつは　１５ねんまえにおきた
+      さつじんじけん　なんです。
+
+
+ぃ「実は１５年前に起きた
+    殺人事件何です。
+
+
+Shmoby: "It's actually a murder case that happened 15 years ago."
+
+
+
+せいと　「しらないわねえ・・・
+
+
+
+生徒「知らないわねえ・・・
+
+
+
+Student: "I don't know..."
+
+
+
+せいと　「ずいぶん　むかしのはなしね・・・
+          わたしじゃ　わかんないけど、
+
+
+生徒「ずいぶん向かしの話ね・・・
+      私じゃ分かんないけど、
+
+
+Student: "A story from that long ago...
+I don't know about it, but,
+
+
+せいと　「こまだせんせいなら　しってるかもね。
+
+
+
+生徒「コマダ先生なら知ってるかもね。
+
+
+
+Student: "Mr. Komada might know."
+
+
+
+さっきのせいとが　まだいます。
+
+
+
+さっきの生徒がまだいます。
+
+
+
+The student from a bit ago is still here.
+
+
+
+が、　すみっこのほうに
+びじゅつぶいんが　ひとりいます。
+
+
+が、隅っこの方に
+美術部員が一人います。
+
+
+However, there is a single art club member in the corner.
+
+
+
+せいと　「いま、　えを　かいてるんだから
+          はなしかけないで！
+
+
+生徒「今、絵を書いてるんだから
+      話しかけないで！
+
+
+Student: "I'm painting a picture right now, don't talk to me!"
+
+
+
+おこられてしまった・・・
+
+
+
+怒られてしまった・・・
+
+
+
+She got mad...
+
+
+
+ぃ　「あの・・・
+
+
+
+ぃ「あの・・・
+
+
+
+Shmoby: "Um..."
+
+
+
+せいと　「うるさいわね！　あっちへいってよ！
+
+
+
+生徒「うるさいわね！あっちへ行ってよ！
+
+
+
+Student: "Shut up! Go away!"
+
+
+
+びじゅつぶいんが　あぶらえを　かいている。
+
+
+
+美術部員が油絵を書いている。
+
+
+
+The art club member is painting an oil painting.
+
+
+
+ぃ　「おっ、　すばらしい　えじゃないか！
+      ぜつみょうな　いろづかいだよ。
+
+
+ぃ「おっ、素晴らしい絵じゃないか！
+    絶妙な色づかいだよ。
+
+
+Shmoby: "Oh, this painting is amazing! What beautiful colors!"
+
+
+
+せいと　「！　あなた　ゲージュツが　わかるひとね。
+
+
+
+生徒「！あなた芸術が分かる人ね。
+
+
+
+Student: "! So you're someone who understands art."
+
+
+
+せいと　「なにか　ごようかしら。
+
+
+
+生徒「何かご用かしら。
+
+
+
+Student: "What do you want?"
+
+
+
+ぃ　「こまだせんせいは？
+
+
+
+ぃ「コマダ先生は？
+
+
+
+Shmoby: "Where is Mr. Komada?"
+
+
+
+せいと　「がっこうの　どこかに
+          いらっしゃると　おもうよ、
+          また　もどるって　いってたもん。
+
+生徒「学校のどこかに
+      いらっしゃると思うよ、
+      また戻るって言ってたもん
+
+Student: "I think he's somewhere here at school, he said he would be back."
+
+
+
+せいと　「ゲージュツは　バクハツよ！
+    ぃ　「ふ、　ふるい・・・
+
+
+生徒「芸術は爆発よ！
+  ぃ「ふ、古い・・・
+
+
+Student: "Art is an explosion!"
+Shmoby: "Th-that's an old saying..."
+
+
+せいと　「かわいそうにね・・・
+
+
+
+生徒「かわいそうにね・・・
+
+
+
+Student: "She's cute..."
+
+
+
+    ぃ　「こまだせんせい　みなかった？
+せいと　「みなかったわよ。
+
+
+  ぃ「コマダ先生見なかった？
+生徒「見なかったわよ。
+
+
+Shmoby: "Have you seen Mr. Komada?"
+Student: "I haven't seen him."
+
+
+ははおや　「いったい　なんの　はなしですか・・・
+
+
+
+母親「一体なんの話ですか・・・
+
+
+
+Mother: "What in the world are you talking about..."
+
+
+
+ははおや　「？！・・・・・・
+
+
+
+母親「？！・・・・・・
+
+
+
+Mother: "?!......"
+
+
+
+ははおや　「それと　むすめが
+            どう、　かんけいあるって
+            おっしゃるんですの・・・
+
+母親「それと娘が
+      どう、関係あるって
+      おっしゃるんですの・・・
+
+Mother: "What does this have to do with my daughter..."
+
+
+
+ぃ　「これらのことは　ようこさんのじけんに
+      おおきく　かかわっているかも
+      しれないんです。
+      こころあたりは　ありませんか？！
+ぃ「これらのことはヨウコさんの事件に
+    大きく関わっているかも
+    しれないんです。
+    心当たりはありませんか？！
+Shmoby: "These things might be a major part of Yoko-san's case.
+Can't you think of something?!"
+
+
+ははおや　「わたし、　てがかりに　なるものがないか
+            ようこのへやを　みてきます、
+            まっててください。
+
+母親「私、手がかりになるものがないか
+      ヨウコの部屋を見てきます、
+      待っててください。
+
+Mother: "I'll go check Yoko's room to see if there's any clues, please wait."
+
+
+
+ははおや　「ぁさん、　それらしいものは
+            ありませんでした。　とりあえず
+            あのこの　カバンを　もってきましたので
+            しらべて　みてください。
+母親「ぁさん、それらしい物は
+      ありませんでした。とりあえず
+      あの子のカバンを持ってきましたので
+      調べてみてください。
+Mother: "Dude-san, there's nothing like that. For now, I have her bag, so please try to investigate it."
+
+
+
+ようこの　カバンだ。
+
+
+
+ヨウコのカバンだ。
+
+
+
+It's Yoko's bag.
+
+
+
+きょうかしょにまじって　ノートが
+はいってる。
+
+
+教科書にまじってノートが
+入ってる。
+
+
+There are notebooks mixed in with the textbooks.
+
+
+
+ノートを　とりました。
+
+
+
+ノートを取りました。
+
+
+
+You take a notebook.
+
+
+
+べつの　ノートを　とりました。
+
+
+
+別のノートを取りました。
+
+
+
+You take another notebook.
+
+
+
+それらしいことは　かかれてない・・・
+
+
+
+それらしいことは書かれてない・・・
+
+
+
+There's nothing like that written in here...
+
+
+
+かねだじけんの　しんぶんきじの　コピーが
+びっしり　はりつけてある！
+ようこが　かねだじけんを　しっていたことは
+まちがいないようだ。
+カネダ事件の新聞記事のコピーが
+びっしり貼り付けてある！
+ヨウコがカネダ事件を知っていたことは
+間違いないようだ。
+There's a copy of a newspaper article about Kaneda's case attached inside!
+It's almost certain that Yoko knew about Kaneda's case.
+
+
+かねだじけんは　うつぎせんせいが
+しらべている・・・
+
+
+カネダ事件はウツギ先生が
+調べている・・・
+
+
+Detective Utsugi is investigating Kaneda's case...
+
+
+
+ぼくは　うしみつこうこうでの　ききこみを
+つづけよう、　てがかりは　きっとある！
+
+
+僕は丑美津高校での聞き込みを
+続けよう、手がかりはきっとある！
+
+
+I'll keep investigating at Ushimitsu high school, surely there's a clue there!
 
 
 
