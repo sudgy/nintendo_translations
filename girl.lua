@@ -52,6 +52,7 @@ Messages.message_timer = 0
 function Messages.load_messages()
     local file = assert(io.open(messages_filename), "rb")
     local data = file:read("*all")
+    data = data:gsub(string.char(1), string.char(26))
     Messages.translations = {}
     local start_index = 1
     while true do
@@ -185,6 +186,7 @@ Options.values = {}
 function Options.load_options()
     local file = assert(io.open(options_filename), "rb")
     local data = file:read("*all")
+    data = data:gsub(string.char(1), string.char(26))
     Options.translations = {}
     local start_index = 1
     while true do

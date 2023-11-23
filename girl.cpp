@@ -157,20 +157,24 @@ void write_letter(std::vector<std::uint8_t>& output, const std::string& letter)
     if (this_char >= 128 + 107 + 15) {
         this_char -= (128 + 15);
         output.push_back(61);
-        output.push_back(this_char);
+        if (this_char == 26) output.push_back(1);
+        else output.push_back(this_char);
     }
     else if (this_char >= 128 + 35 + 80) {
         this_char -= (128 + 80);
         output.push_back(61);
-        output.push_back(this_char);
+        if (this_char == 26) output.push_back(1);
+        else output.push_back(this_char);
     }
     else if (this_char >= 128) {
         this_char -= 128;
         output.push_back(60);
-        output.push_back(this_char);
+        if (this_char == 26) output.push_back(1);
+        else output.push_back(this_char);
     }
     else {
-        output.push_back(this_char);
+        if (this_char == 26) output.push_back(1);
+        else output.push_back(this_char);
     }
 }
 
@@ -238,7 +242,10 @@ void write_messages()
                     line = line.substr(line.find_first_not_of(' '));
                     for (int j = 0; j < ssize(line) / 3; ++j) {
                         auto letter = rom_letters.at(line.substr(j*3, 3));
-                        if (letter) current_japanese.push_back(letter);
+                        if (letter) {
+                            if (letter == 26) current_japanese.push_back(1);
+                            else current_japanese.push_back(letter);
+                        }
                     }
                 }
             }
