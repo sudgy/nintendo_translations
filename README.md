@@ -46,11 +46,22 @@ Before booting the game, you need to make sure that you provide the correct rom.
 Because of how long these games were, they were split across two cartridges.
 You were supposed to swap cartridges in the middle of gameplay, but most
 emulators don't support this.  Instead, you need to merge your two roms into a
-single rom.  On linux it's easy: just run something like `cat zenpen.fds
-kouhen.fds > merged.fds`.  If you're on Windows you're on your own.  Google is
-your friend.  Once you have done this, the emulator will just see the game as
-having four sides, rather than two different roms having two sides each, so you
-can use your emulator's usual FDS disk-switching functionality.
+single rom.  On linux, you can just run something like `cat zenpen.fds
+kouhen.fds > merged.fds`.  On Windows, you can use `type zenpen.fds kouhen.fds >
+merged.fds`.  If you don't want to use the command line, look for a utility that
+can concatenate binary files.  Once you have done this, the emulator will just
+see the game as having four sides, rather than two different roms having two
+sides each, so you can use your emulator's usual FDS disk-switching
+functionality.
+
+It turns out that merging roms is much more involved than I initially thought.
+First, there are two types of FDS roms: with headers and without headers.  If
+your rom doesn't have headers, everything should be simple and you can just
+concatenate the files like in the previous paragraph.  However, if the rom does
+have headers, you will have to modify the roms.  After concatenating the roms,
+open the concatenated rom in a hex editor.  Within the first several bytes there
+should be a byte with the value 0x02.  Change it to 0x04.  After doing this, the
+emulator should be able to detect all four sides.
 
 Note that I've had issues on fceux with swapping cartridges at times.
 If this happens to you, here's a workaround I found: Name the zenpen, kouhen,
