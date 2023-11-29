@@ -2730,7 +2730,7 @@ Ayumi: "I'm gonna go talk to everyone!"
 
 
 
-Ayumi has run off...
+Ayumi has left...
 
 
 
@@ -6138,7 +6138,7 @@ Maruyama: "Do you understand everything so far? Shouldn't you spend a bit of tim
     １１月１０日の午後９時ごろ
     は物によって殺害された。
     そしてその時・・・
-Shmoby: "Genjiro Kaneda was killed 15 years ago on November 10th around 9 PM.  Also, at that time...
+Shmoby: "Genjiro Kaneda was killed 15 years ago on November 10th around 9 PM. Also, at that time...
 
 
 
@@ -7317,4 +7317,2212 @@ Detective Utsugi is investigating Kaneda's case...
 I'll keep investigating at Ushimitsu high school, surely there's a clue there!
 
 
+
+せいと　「そうねえ・・・
+          あ、　そうそう　さっき　がっこうから
+          へんなおとこが　でてったわよ。
+    ぃ　「？！　おとこ？
+生徒「そうねえ・・・
+      あ、そうそうさっき学校から
+      変な男が出てったわよ。
+  ぃ「？！男？
+Student: "Let's see...
+Oh, a strange man left school a bit ago."
+Shmoby: "?! A man?"
+
+せいと　「３０さいくらいの　めつきのわるいおとこ。
+          だれだか　しらないけど・・・
+
+
+生徒「３０歳くらいの目つきの悪い男。
+      誰だか知らないけど・・・
+
+
+Student: "He was a man around 30 years old with a bad look in his eyes. I don't know who he is..."
+
+
+
+せいと　「！　たんていクン　ほら、　こまだせんせいが
+          あるいてく、　びじゅつしつのほうへ
+          いくみたいよ！
+
+生徒「！探偵クンほら、コマダ先生が
+      歩いてく、美術室の方へ
+      行くみたいよ！
+
+Student: "! Hey detective-kun, I saw Mr. Komada walking, and it looked like he was heading towards the art room!"
+
+
+
+ぃ　「！　ほんとだ。
+
+
+
+ぃ「！ほんとだ。
+
+
+
+Shmoby: "Really."
+
+
+
+せいと　「じつはね、　うしろの少女を
+          さいしょにみたって　いうひとを
+          しってるんだ・・・
+
+生徒「実はね、後ろの少女を
+      最初に見たって言う人を
+      知ってるんだ・・・
+
+Student: "Actually, I know who said that they saw the girl who stands behind for the first time..."
+
+
+
+ぃ　「！　なんていうひと？
+
+
+
+ぃ「！なんていう人？
+
+
+
+Shmoby: "! Who is it?"
+
+
+
+せいと　「わたしから　きいたって　いわないでね。
+          あのね、
+
+
+生徒「私から聞いたって言わないでね。
+      あのね、
+
+
+Student: "Don't tell people I told you. Um,
+
+
+
+せいと　「せいぶつの　はやませんせいが、
+          うしろの少女を　さいしょにみたという
+          うわさなんだけど・・・
+
+生徒「生物のハヤマ先生が、
+      後ろの少女を最初に見たと言う
+      噂なんだけど・・・
+
+Student: "There's a rumor that Ms. Hayama, the biology teacher, was the first to see the girl who stands behind."
+
+
+
+ぃ　「はやませんせい？
+
+
+
+ぃ「ハヤマ先生？
+
+
+
+Shmoby: "Ms. Hayama?"
+
+
+
+せいと　「ほんにんは　ちがうって
+          いってる　みたいだけど・・・
+
+
+生徒「本人は違うって
+      言ってるみたいだけど・・・
+
+
+Student: "She says it's not true, but...
+
+
+
+せいと　「たんていクン、
+          わたし　そろそろ　かえっちゃっても
+          いいかしら？
+
+生徒「探偵クン、
+      私そろそろ帰っちゃっても
+      いいかしら？
+
+Student: "Detective-kun, is it alright if I go home now?"
+
+
+
+ぃ　「いろいろ　ありがとう、
+      ところで　ひとつ　きいてもいい？
+
+
+ぃ「色々ありがとう、
+    所で一つ聞いてもいい？
+
+
+Shmoby: "Thanks for everything. Is it okay if I ask you one more thing?"
+
+
+
+ぃ　「きみ　おとこのコなのに　どうして
+      そんな　しゃべりかたなの？
+
+
+ぃ「君男の子なのにどうして
+    そんなしゃべり方なの？
+
+
+Shmoby: "Why do you talk like that when you're a boy?"
+
+
+
+せいと　「！　そんなの　かってでしょ！
+          オカマで　わるかったわね。
+          ぷんぷん！
+
+生徒「！そんなの勝手でしょ！
+      オカマで悪かったわね。
+      プンプン！
+
+Student: "! How rude! Excuse me for being a feminine guy. Hmph!"
+
+
+
+オカマくんは　いってしまった・・・
+
+
+
+オカマ君は行ってしまった・・・
+
+
+
+Feminine-kun has left...
+
+
+
+こまだ　「おお、　ぃくん。
+          きょうは　なんぢゃ？
+
+
+コマダ「おお、ぃ君。
+        今日はなんだ？
+
+
+Komada: "Oh, Shmoby-kun.
+What is it today?"
+
+
+そばに　います。
+
+
+
+そばに　います。
+
+
+
+They're right next to you.
+
+
+
+こまだ　「うわさのもとは
+          おそらく　あさかわ　しのぶのしっそうぢゃ。
+
+
+コマダ「噂の元は
+        おそらくアサカワシノブの失踪だ。
+
+
+Komada: "It does seem like the source of the rumor is Shinobu Asakawa's disappearance."
+
+
+
+こまだ　「？・・・
+          ！　そのじけんなら　おぼえとるぞ。
+
+
+コマダ「？・・・
+        ！その事件なら覚えているぞ。
+
+
+Komada: "?...
+! I do remember that case."
+
+
+こまだ　「まえに　はなしたぢゃろが。
+
+
+
+コマダ「前に話しただろうが。
+
+
+
+Komada: "Didn't you ask me that already?"
+
+
+
+ぃ　「ごろうは、　げんじろうのむすこで
+      だいいち　はっけんしゃです。
+
+
+ぃ「ゴロウは、ゲンジロウの息子で
+    第一発見者です。
+
+
+Shmoby: "Goro is Genjiro's son and the first person to find him."
+
+
+
+こまだ　「そら　しらんかった。
+
+
+
+コマダ「それは知らなかった。
+
+
+
+Komada: "I didn't know that."
+
+
+
+ぃ　「うちだ　というおとこは
+      ゆうりょくようぎしゃ　でしたが、
+      なにも　わからないまま　じさつしました。
+
+ぃ「ウチダと言う男は
+    有力容疑者でしたが、
+    何も分からないまま自殺しました。
+
+Shmoby: "A man named Uchida was a prime suspect, but he committed suicide before we could figure anything out about him."
+
+
+
+ぃ　「かねだ　げんじろう　というのが
+      じけんの　ひがいしゃなんです。
+
+
+ぃ「カネダゲンジロウと言うのが
+    事件の被害者なんです。
+
+
+Shmoby: "Genjiro Kaneda is the name of the victim in the case."
+
+
+
+こまだ　「そんな　なまえ　だったかのう。
+
+
+
+コマダ「そんな名前だったかのう。
+
+
+
+Komada: "So he had that kind of name."
+
+
+
+ぃ　「はやまという　せんせいが
+      うしろの少女を　さいしょにみたという
+      うわさですが。
+
+ぃ「ハヤマと言う先生が
+    後ろの少女を最初に見たと言う
+    噂ですが。
+
+Shmoby: "I heard that a teacher named Hayama was the first one to say that they had seen the girl who stands behind."
+
+
+
+こまだ　「まさか、　きょうしが　いっしょになって
+          ゆうれいのはなしでも　ないぢゃろうて。
+
+
+コマダ「まさか、教師が一緒になって
+        幽霊の話でもないだろうて。
+
+
+Komada: "Certainly not, us teachers wouldn't talk about ghosts."
+
+
+
+こまだ　「それが　こんどのじけんと
+          かんけいあるんか？
+
+
+コマダ「それが今度の事件と
+        関係あるんか？
+
+
+Komada: "Is this related to the current case?"
+
+
+
+ぃ　「かねだじけんの　はんこうげんばに
+      いあわせた　とみられ・・・
+
+
+ぃ「カネダ事件の犯行現場に
+    居合わせたと見られ・・・
+
+
+Shmoby: "It's believed that she was at the scene of the crime in Kaneda's case..."
+
+
+
+ぃ　「そのまま　ゆくえふめいに　なってしまった
+      少女が　あさかわ　しのぶなんですよ。
+
+
+ぃ「そのまま行方不明になってしまった
+    少女がアサカワシノブなんですよ。
+
+
+Shmoby: "The girl who went missing there was Shinobu Asakawa."
+
+
+
+こまだ　「！　あのじけんに　まきこまれとったんか。
+
+
+
+コマダ「！あの事件に巻き込まれていたんか。
+
+
+
+Komada: "! She was involved in that case?"
+
+
+
+こまだ　「で、　こじまが　ころされたことと
+          かねだじけんが　どうつながるんぢゃ？
+
+
+コマダ「で、コジマが殺されたことと
+        カネダ事件がどうつながるんだ？
+
+
+Komada: "So, how is Kojima being killed related to Kaneda's case?
+
+
+
+こまだ　「かのぢょが　しらべていた　うしろの少女が
+          あさかわ　しのぶ　だからといって
+          なぜ　ころされるんぢゃ？
+
+コマダ「彼女が調べていた後ろの少女が
+        アサカワシノブだからと言って
+        なぜ殺されるんだ？
+
+Komada: "Why would she be killed for investigating and figuring out that the girl who stands behind is Shinobu Asakawa?"
+
+
+
+ぃ　「うしろの少女を　しらべていた
+      こじま　ようこは、
+      ぐうぜん　しってしまった
+      かねだじけんの　しんはんにんに・・・
+ぃ「後ろの少女を調べていた
+    コジマヨウコは、
+    偶然知ってしまった
+    カネダ事件の真犯人に・・・
+Shmoby: "While investigating the girl who stands behind, Yoko Kojima happened to figure out who the true culprit was in Kaneda's case...
+
+
+
+ぃ　「ころされたんじゃないか
+      と、　おもうんですよ。
+
+
+ぃ「殺されたんじゃないか
+    と、思うんですよ。
+
+
+Shmoby: "who then killed her, or at least that's what I think."
+
+
+
+こまだ　「？！・・・・・
+
+
+
+コマダ「？！・・・・・
+
+
+
+Komada: "?!....."
+
+
+
+こまだ　「かねだじけんが　かいけつすれば
+          こじまを　ころした　はんにんが
+          わかるかも　しれんわけぢゃな？
+
+コマダ「カネダ事件が解決すれば
+        コジマを殺した犯人が
+        分かるかもしれんわけだな？
+
+Komada: "If we can solve Kaneda's case, we might figure out who killed Kojima, right?"
+
+
+
+こまだ　「さいしょにみたのが　はやまくんだとすれば
+          それは　１５ねんまえの　はずぢゃ。
+
+
+コマダ「最初に見たのがハヤマ君だとすれば
+        それは１５年前のはずだ。
+
+
+Komada: "If Hayama-kun was the first one to see it, that would have been 15 years ago.
+
+
+
+こまだ　「かのぢょが　ここのきょうしになって
+          まだ　１０ねんあまりぢゃ。
+
+
+コマダ「彼女がここの教師になって
+        まだ１０年あまりだ。
+
+
+Komada: "She's only been a teacher here for a little over 10 years.
+
+
+
+こまだ　「どうせ　ただの　デマぢゃろう・・・
+          あっ！
+
+
+コマダ「どうせただのデマだろう・・・
+        あっ！
+
+
+Komada: "Anyway, it's just a baseless rumor...
+Ah!"
+
+
+こまだ　「おもいだした！　はやまくんは　ここの
+          そつぎょうせいぢゃ。
+
+
+コマダ「思い出した！ハヤマ君はここの
+        卒業生だ。
+
+
+Komada: "I just remembered! Hayama-kun graduated from here.
+
+
+
+こまだ　「かのぢょなら
+          ほかにも　なにか　しっとるかもしれん。
+
+
+コマダ「彼女なら
+        他にも何か知っているかもしれない。
+
+
+Komada: "She might know something else."
+
+
+
+こまだ　「よし、
+          はやまくんを　よんできてやる！
+
+
+コマダ「よし、
+        ハヤマ君を呼んできてやる！
+
+
+Komada: "Alright,
+I'll go call Hayama-kun!"
+
+
+こまだ　「ぢゃーん！　よんできたぞ。
+
+
+
+コマダ「じゃーん！呼んできたぞ。
+
+
+
+Komada: "Ta-dah! Here she is."
+
+
+
+はやま　「はやまですけど・・・
+
+
+
+ハヤマ「ハヤマですけど・・・
+
+
+
+Hayama: "I'm Hayama..."
+
+
+
+はやま　「・・・・・・
+
+
+
+ハヤマ「・・・・・・
+
+
+
+Hayama: "......"
+
+
+
+はやまがいます。
+としは　３０さいくらいかな？
+
+
+ハヤマがいます。
+年は３０年くらいかな？
+
+
+It's Hayama.
+She seems to be about 30 years old?
+
+
+ぃ　「さいしょに　みたのは
+      あなただと　ききましたが・・・
+
+
+ぃ「最初に見たのは
+    あなただと聞きましたが・・・
+
+
+Shmoby: "I heard that you were the first one to see it..."
+
+
+
+はやま　「！　し、　しらないわよ。
+
+
+
+ハヤマ「！し、知らないわよ。
+
+
+
+Hayama: "! I, I don't know."
+
+
+
+はやま　「かねだ　ごろうの　ことでしょ。
+          もともと　あそびにん　だったけど・・・
+
+
+ハヤマ「カネダゴロウのことでしょ。
+        元々遊び人だったけど・・・
+
+
+Hayama: "About Goro Kaneda...
+He's always been a playboy, but...
+
+
+はやま　「あのじけんで　いさんそうぞくをして
+          いまでも　ハデに　あそんでるそうよ。
+
+
+ハヤマ「あの事件で遺産相続をして
+        今でも派手に遊んでいるそうよ。
+
+
+Hayama: "It seems that after receiving an inheritance from that incident, he's still playing around."
+
+
+
+はやま　「？　こころあたりが　ないわ。
+
+
+
+ハヤマ「？心当たりがないわ。
+
+
+
+Hayama: "? I don't have any idea what you're talking about."
+
+
+
+はやま　「かねだじけんの　ひがいしゃでしょ。
+
+
+
+ハヤマ「カネダ事件の被害者でしょ。
+
+
+
+Hayama: "He was the victim in Kaneda's case."
+
+
+
+はやま　「さつじんげんばに　いあわせた
+          あさかわさんが　はんにんに　ころされ、
+
+
+ハヤマ「殺人現場に居合わせた
+        アサカワさんが犯人に殺され、
+
+
+Hayama: "Asakawa-san happened to be at the scene of the murder, and the culprit killed her.
+
+
+
+はやま　「うしろの少女となって
+          がっこうに　あらわれるようになった
+          と、　いうのが　とうじからの　うわさよ。
+
+ハヤマ「後ろの少女となって
+        学校に現れるようになった
+        と、言うのが当時からの噂よ。
+
+Hayama: "Since then, the rumor has been that she became the girl who stands behind and started appearing at school."
+
+
+
+はやま　「で、　でも　いいだしたのは
+          わたしじゃないわよ。
+
+
+ハヤマ「で、でも言い出したのは
+        私じゃないわよ。
+
+
+Hayama: "B-but I'm not the one who said it."
+
+
+
+はやま　「？　いま　いりぐちに　女のコが
+          いた　みたいだけど・・・
+          きのせいかしら？
+
+ハヤマ「？今入り口に女の子が
+        いたみたいだけど・・・
+        気のせいかしら？
+
+Hayama: "? It looks like a girl is at the door... Am I just imagining things?"
+
+
+
+なにかさがしている　ようです。
+
+
+
+何か探しているようです。
+
+
+
+He seems to be searching for something.
+
+
+
+はやま　「じゃあ　わたし、　かえるわね。
+          ちからになれなくて　ごめんなさい・・・
+
+
+ハヤマ「じゃあ私、帰るわね。
+        力になれなくてごめんなさい・・・
+
+
+Hayama: "Well, I'll be leaving now.
+I'm sorry I couldn't help..."
+
+
+はやま　「まだ　かえっちゃ　だめ？
+
+
+
+ハヤマ「まだ帰っちゃダメ？
+
+
+
+Hayama: "I still can't go?"
+
+
+
+こまだ　「いま　さがしものを　してるんぢゃよ。
+
+
+
+コマダ「今探し物をしているんだよ。
+
+
+
+Komada: "I'm looking for something."
+
+
+
+ぃ　「？なにを　さがしているんですか？
+
+
+
+ぃ「？何を探しているんですか？
+
+
+
+Shmoby: "? What are you looking for?"
+
+
+
+こまだ　「タバコぢゃよ・・・
+          かいにいったほうが　はやそうぢゃ。
+
+
+コマダ「タバコだよ・・・
+        買いに行った方が速そうだ。
+
+
+Komada: "Cigarettes...
+It would probably be faster to just go to the store and buy them."
+
+
+だれもいなく　なってしまった・・・
+
+
+
+誰もいなくなってしまった・・・
+
+
+
+No one is here anymore...
+
+
+
+？　はやませんせいが　もどってきた、
+どうしたんだろ？
+
+
+？ハヤマ先生が戻ってきた、
+どうしたんだろ？
+
+
+? Ms. Hayama came back, what's going on?
+
+
+
+はやま　「まって！
+          はなすことがあって　もどってきたの。
+
+
+ハヤマ「待って！
+        話すことがあって戻ってきたの。
+
+
+Hayama: "Wait!
+I came back to tell you something.
+
+
+はやま　「・・・・・・じつは、
+          うわさどおり　うしろの少女を
+          さいしょにみたのは、　わたしです。
+
+ハヤマ「・・・・・・実は、
+        噂どおり後ろの少女を
+        最初に見たのは、わたしです。
+
+Hayama: "......Actually,
+as you heard, the one who first saw the girl who stands behind was me."
+
+
+はやま　「さっき　はなさなかったのは
+          こまだせんせいが　いらっしゃったからなの。
+
+
+ハヤマ「さっき話さなかったのは
+        コマダ先生がいらっしゃったからなの。
+
+
+Hayama: "I didn't mention it a bit ago because Mr. Komada was there.
+
+
+
+はやま　「・・・　うわさの　ちょうほんにんが
+          きょうしだなんて　マズいでしょ・・・
+
+
+ハヤマ「・・・噂の張本人が
+        教師だなんてマズいでしょ・・・
+
+
+Hayama: "...It's bad that the person who started the rumor is a teacher...
+
+
+
+はやま　「ずいぶん　まよったんだけど、
+          てがかりに　なるかもしれないから
+          はなします・・・
+
+ハヤマ「ずいぶん迷ったんだけど、
+        手がかりになるかもしれないから
+        話します・・・
+
+Hayama: "I've been hesitating for a while, but I'll tell you because it might be a clue..."
+
+
+
+はやま　「・・・そのひは　１５ねんまえの
+          １１がつ１０かのことです。
+          とうじ　わたしは
+          ここの　２ねんせいでした。
+ハヤマ「・・・その日は１５年前の
+        １１月１０日のことです。
+        当時私は
+        ここの２年生でした。
+Hayama: "...The day was November 10th, 15 years ago. I was a second-year student here at the time."
+
+
+
+ぃ　「！　１１がつ１０かといえば
+      かねだが　ころされたひ、　ですね？
+
+
+ぃ「！１１月１０日といえば
+    カネダが殺された日、ですね？
+
+
+Shmoby: "! Wasn't November 10th the day that Kaneda was killed?"
+
+
+
+はやま　「ええ、　だからはっきり
+          おぼえているんです。
+
+
+ハヤマ「ええ、だからはっきり
+        覚えているんです。
+
+
+Hayama: "Yes, that's why I remember it so clearly."
+
+
+
+はやま　「そのひの　ごご１０じごろ
+          わたしは　しゅくだいのプりントを
+          がっこうに　わすれてきたことに
+          きづいたんです。
+ハヤマ「その日の午後１０時ごろ
+        私は宿題のプリントを
+        学校に忘れてきたことに
+        気づいたんです。
+Hayama: "On that day, at around 10 PM, I noticed that I had forgotten my homework printout at school.
+
+
+
+はやま　「よせばいいのに　わたしったら
+          いえをぬけだして
+          こっそり　がっこうへ　とりにいったの。
+
+ハヤマ「よせばいいのに私ったら
+        家を抜け出して
+        こっそり学校へ取りに行ったの。
+
+Hayama: "Even though I shouldn't have, I snuck out of the house and secretly came to school to get it.
+
+
+
+はやま　「がっこうには　だれも　いないようすでした。
+          プりントをもって
+          かえろうとした　そのとき、
+
+ハヤマ「学校には誰もいない様子でした。
+        プリントを持って
+        帰ろうとしたその時、
+
+Hayama: "There was no one at school. I got the printout and right when I tried to go home,
+
+
+
+はやま　「・・・うしろから　だれかによばれたような、
+          きがしたんです。
+
+
+ハヤマ「・・・後ろから誰かに呼ばれたような、
+        気がしたんです。
+
+
+Hayama: "...I heard what sounded like someone's voice from behind me.
+
+
+
+はやま　「やばい！　とおもってふりかえると・・・
+
+
+
+ハヤマ「ヤバい！と思って振り返ると・・・
+
+
+
+Hayama: "'Oh no!' I thought, and I turned my head...
+
+
+
+はやま　「ある　きょうしつの　まどのところに、
+          ちにまみれた　少女が　たっていたんです！
+
+
+ハヤマ「ある教室の窓の所に、
+        血にまみれた少女が立っていたんです！
+
+
+Hayama: "Standing there behind the window of the classroom was a blood-covered girl!"
+
+
+
+はやま　「もう、　びっくりして
+          きがとおくなりそうでした。
+          それで　もういちど　みたんですけど・・・
+
+ハヤマ「もう、ビックリして
+        気が遠くなりそうでした。
+        それでもう一度見たんですけど・・・
+
+Hayama: "I got so surprised that I almost lost consciousness. I then looked again, but...
+
+
+
+はやま　「そこには、　だれもいませんでした・・・
+
+
+
+ハヤマ「そこには、誰もいませんでした・・・
+
+
+
+Hayama: "There was no one there...
+
+
+
+はやま　「わたし、　あわててにげたわ。
+          しんぞうが　とまるかとおもった。
+
+
+ハヤマ「私、あわてて逃げたわ。
+        心臓が止まるかと思った。
+
+
+Hayama: "I ran away in a panic.
+I thought my heart was going to stop."
+
+
+はやま　「あれはぜったいに　みまちがいじゃない！
+          ぼんやりと　たっていた　あのすがたは・・・
+
+
+ハヤマ「あれは絶対に見間違いじゃない！
+        ぼんやりと立っていたあの姿は・・・
+
+
+Hayama: "I'm certain that I actually saw it! That figure standing there...
+
+
+
+はやま　「おもいだしたくも　ないわ。
+
+
+
+ハヤマ「思い出したくもないわ。
+
+
+
+Hayama: "I wish I couldn't remember."
+
+
+
+はやま　「うしろの少女は　きっと、　しのぶさんの
+          ゆうれいよ。
+
+
+ハヤマ「後ろの少女はきっと、シノブさんの
+        幽霊よ。
+
+
+Hayama: "The girl who stands behind must be Shinobu-san's ghost."
+
+
+
+ぃ　「！　ちぞめの少女は
+      しのぶさん　だったんですか？
+
+
+ぃ「！血染めの少女は
+    シノブさんだったんですか？
+
+
+Shmoby: "Was the bloodstained girl Shinobu-san?"
+
+
+
+はやま　「それが・・・
+          こわかったし　うすぐらかったから
+          かおまでは　わからなかったわ。
+
+ハヤマ「それが・・・
+        怖かったし薄暗かったから
+        顔までは分からなかったわ。
+
+Hayama: "That's...
+I was scared, and it was dim, so I couldn't really make out her face.
+
+
+はやま　「でも、　ひとつはっきり　いえることが
+          あるわ・・・
+
+
+ハヤマ「でも、一つはっきり言えることが
+        あるわ・・・
+
+
+Hayama: "But, there is one thing I can say for sure...
+
+
+
+はやま　「そのゆうれい、
+          セーラーふくを　きていたの・・・
+
+
+ハヤマ「その幽霊、
+        セーラー服を着ていたの・・・
+
+
+Hayama: "That ghost was wearing our school uniform..."
+
+
+
+はやま　「・・・　いまと　おなじはなしを　わたし、
+          こじまさんにも　はなしたの、
+          なぜか　ことわりきれなくてね・・・
+
+ハヤマ「・・・今と同じ話を私、
+        コジマさんにも話したの、
+        なぜか断り切れなくてね・・・
+
+Hayama: "...I told the same story to Kojima-san, I just couldn't refuse her for some reason..."
+
+
+
+はやま　「そのあと　かのじょ、　ころされたでしょ
+          うしろの少女の　のろいだなんて　さわぐ
+          せいともいるし・・・
+
+ハヤマ「その後彼女、殺されたでしょ
+        後ろの少女の呪いだなんて騒ぐ
+        生徒もいるし・・・
+
+Hayama: "After that, she was killed. Students are now going off on how it was the curse of the girl who stands behind...
+
+
+
+はやま　「おねがい、　ナイショにしといて！
+
+
+
+ハヤマ「お願い、内緒にしといて！
+
+
+
+Hayama: "Please, keep this a secret!"
+
+
+
+はやま　「・・・あっ、　そうだ！
+          わたしの　はなしをききにきたあと、
+
+
+ハヤマ「・・・あっ、そうだ！
+        私の話を聞きにきた後、
+
+
+Hayama: "...Ah, that's right!
+After asking me about it,
+
+
+はやま　「こじまさんと　たざきさんが
+          いいあらそっているのを　みかけたわ。
+
+
+ハヤマ「コジマさんとタザキさんが
+        言い争っているのを見かけたわ。
+
+
+Hayama: "I happened to see Kojima-san and Tazaki-san arguing."
+
+
+
+はやま　「たざきさんなら
+          ようむいんしつに　いるはずよ。
+
+
+ハヤマ「タザキさんなら
+        用務員室にいるはずよ。
+
+
+Hayama: "Tazaki-san should be in the janitor's room."
+
+
+
+たざきに　あわなければ！
+
+
+
+タザキに会わなければ！
+
+
+
+You need to talk with Tazaki!
+
+
+
+ようむいんしつです。
+
+
+
+用務員室です。
+
+
+
+You are in the janitor's room.
+
+
+
+たざき　「ま、　またあんたか、　いったい　なんじゃ？
+
+
+
+タザキ「ま、またあんたか、一体なんじゃ？
+
+
+
+Tazaki: "I-it's you again, what in the world are you doing here?"
+
+
+
+おちつかない　ようすだが・・・
+
+
+
+落ち着かない様子だが・・・
+
+
+
+He doesn't seem calm...
+
+
+
+ぃ　「あっ！　たたみに　こげが・・・　ない。
+
+
+
+ぃ「あっ！畳に焦げが・・・ない。
+
+
+
+Shmoby: "Ah! The tatami mat is...not burned."
+
+
+
+ちゃぶだいです。
+
+
+
+ちゃぶ台です。
+
+
+
+It's a small table.
+
+
+
+ぃ　「みぽりんの　ドラマ　やってないかな？
+      などと　いってる　ばあいじゃない！
+
+
+ぃ「ミポリンのドラマやってないかな？
+    などと言ってる場合じゃない！
+
+
+Shmoby: "Is that Miporin's drama?
+This is not the place for such things!"
+
+
+たざき　「そんなやつ、　わしはしらん！
+
+
+
+タザキ「そんなやつ、わしは知らない！
+
+
+
+Tazaki: "I don't know what you're talking about!"
+
+
+
+とだなです。
+
+
+
+戸棚です。
+
+
+
+It's a cupboard.
+
+
+
+すいじばです。
+
+
+
+炊事場です。
+
+
+
+It's a kitchen.
+
+
+
+ぃ　「あなた、　ころされた　こじま　ようこさんと
+      いいあらそいを　しましたね？
+
+
+ぃ「あなた、殺されたコジマヨウコさんと
+    言い争いをしましたね？
+
+
+Shmoby: "You argued with Yoko Kojima-san, who was killed, right?"
+
+
+
+たざき　「！　な、　なんのはなしじゃ！
+
+
+
+タザキ「！な、何の話じゃ！
+
+
+
+Tazaki: "! Wh-what are you saying?!"
+
+
+
+ぃ　「あなたと　かのじょが　いいあらそって
+      いるところを　みかけたひとも
+      いるんですよ！
+
+ぃ「あなたと彼女が言い争って
+    いる所を見っけた人も
+    いるんですよ！
+
+Shmoby: "There's someone who saw you arguing with her!"
+
+
+
+たざき　「！　し、　しらん
+          みにおぼえの　ないことじゃ！
+
+
+タザキ「！し、知らない
+        みに覚えの何ことだ！
+
+
+Tazaki: "! I, I don't know what you're talking about!"
+
+
+
+たざきは　あきらかに　なにかをかくしている。
+この　うろたえかたは　ただごとじゃない。
+
+
+タザキは明らかに何かを隠している。
+このうろたえかたはただごとじゃない。
+
+
+It's clear as day that Tazaki is hiding something. The way he's fretting is not normal.
+
+
+
+たざき　「うるさい！　なにも　はなすことはない！
+
+
+
+タザキ「うるさい！何も話すことはない！
+
+
+
+Tazaki: "Shut up! I have nothing to say!"
+
+
+
+ぃ　「なんなら　けいさつを　よんでも
+      いいんですよ。
+
+
+ぃ「何なら警察を呼んでも
+    いいんですよ。
+
+
+Shmoby: "If I have to, I'll call the police."
+
+
+
+たざき　「い、　いいがかりは　よしてくれ！
+          わしは　けっぱくじゃ！
+
+
+タザキ「い、言いがかりはよしてくれ！
+        わしは潔白だ！
+
+
+Tazaki: "St-stop it with the false accusations! I'm innocent!"
+
+
+
+しらべてみる　べきだろうか・・・
+ようこが　ころされたひの
+たざきのこうどうを・・・
+
+調べてみるべきだろうか・・・
+ヨウコが殺された日の
+タザキの行動を・・・
+
+What I should investigate...
+is Tazaki's actions on the day Yoko was killed.
+
+
+それよりも　まず、
+たざきにアりバイを　きいてみよう。
+
+
+それよりもまず、
+タザキにアリバイを聞いてみよう。
+
+
+Thus, I should first ask Tazaki for his alibi.
+
+
+
+ぃ　「では、
+      こじま　ようこが　ころされたじかん
+      あなたは　どこで　なにをしていたのですか？
+
+ぃ「では、
+    コジマヨウコが殺された時間
+    あなたはどこで何をしていたのですか？
+
+Shmoby: "Well then,
+at the time that Yoko Kojima was killed, where were you and what were you doing?"
+
+
+ぃ　「たざきさん、
+      しょうじきに　はなしてくださいよ！
+
+
+ぃ「タザキさん、
+    正直に話してくださいよ！
+
+
+Shmoby: "Tazaki-san,
+please tell the truth!"
+
+
+たざき　「で、　でていけ！
+
+
+
+タザキ「で、出ていけ！
+
+
+
+Tazaki: "G-go away!"
+
+
+
+あゆみ　「どうしたの　ふたりとも・・・
+
+
+
+あゆみ「どうしたの二人とも・・・
+
+
+
+Ayumi: "What's wrong, you two..."
+
+
+
+ぃ　「あゆみちゃん、　どうして　ここへ？
+
+
+
+ぃ「あゆみちゃん、どうしてここへ？
+
+
+
+Shmoby: "Ayumi-chan, what are you doing here?"
+
+
+
+あゆみ　「ぃくんに　はなしがあったの。
+          さがしていたら　ここから　おおごえが
+          きこえたから　のぞいたのよ。
+
+あゆみ「ぃ君に話があったの。
+        探していたらここから大声が
+        聞こえたから覗いたのよ。
+
+Ayumi: "I came to talk to you. While I was looking, I heard yelling from here and came to take a look.
+
+
+
+あゆみ　「たざきさんと　なにかあったの？
+
+
+
+あゆみ「タザキさんと何かあったの？
+
+
+
+Ayumi: "What's going with Tazaki-san?"
+
+
+
+あゆみ　「きゃっ！　なにするの！
+
+
+
+あゆみ「きゃっ！何するの！
+
+
+
+Ayumi: "Ah! What are you doing?!"
+
+
+
+ぃ　「ぼくに　はなしって？
+
+
+
+ぃ「僕に話って？
+
+
+
+Shmoby: "You wanted to talk to me?"
+
+
+
+あゆみ　「きのう、
+          ようこのしたいが　はっけんされた　かわらへ
+          おはなを　そなえにいったの。
+
+あゆみ「昨日、
+        ヨウコの死体が発見された河原へ
+        お花を供えに行ったの。
+
+Ayumi: "Yesterday,
+I went to the riverbed where Yoko's body was found to offer flowers.
+
+
+あゆみ　「そのとき　ついでに
+          ききこみをしてみると・・・
+          ちょっときになる　はなしがきけたの！
+
+あゆみ「その時ついでに
+        聞き込みをしてみると・・・
+        ちょっと気になる話が聞けたの！
+
+Ayumi: "I thought I would try to gather information at the same time, and...
+I heard something interesting!
+
+
+あゆみ　「ようこが　ころされたばん、
+          あの　かわらで・・・
+
+
+あゆみ「ヨウコが殺された晩、
+        あの河原で・・・
+
+
+Ayumi: "The night that Yoko was killed, at that riverbed...
+
+
+
+あゆみ　「きょどうふしんな　しょろうのだんせいが
+          もくげき　されていたの！
+
+
+あゆみ「挙動不審な初老の男性が
+        目撃されていたの！
+
+
+Ayumi: "People saw an older man acting suspiciously!
+
+
+
+あゆみ　「かおは　わからなかった　ようだけど、
+          はなしからすれば・・・
+
+
+あゆみ「顔は分からなかったようだけど、
+        話からすれば・・・
+
+
+Ayumi: "They couldn't make out his face, but from what they told me...
+
+
+
+あゆみ　「ちょうど　たざきさん　くらいの・・・
+
+
+
+あゆみ「ちょうどタザキさんくらいの・・・
+
+
+
+Ayumi: "It seemed just like Tazaki-san..."
+
+
+
+たざき　「！　お、　おまえら　よってたかって
+          ひとのことを・・・！
+
+
+タザキ「！お、お前らよってたかって
+        人のことを・・・！
+
+
+Tazaki: "! Y-you two, ganging up on me like that...!
+
+
+
+たざき　「か、　かえれ！　かえってくれ！
+
+
+
+タザキ「か、帰れ！帰ってくれ！
+
+
+
+Tazaki: "L-leave! Get out of here!"
+
+
+
+ぃ　「らんぼう　しないでください！
+
+
+
+ぃ「乱暴しないでください！
+
+
+
+Shmoby: "Please don't be violent!"
+
+
+
+あゆみ　「たざきさん　どうしたのかしら？
+          あんなに　むきになって・・・
+
+
+あゆみ「タザキさんどうしたのかしら？
+        あんなに向きになって・・・
+
+
+Ayumi: "What's going on with Tazaki-san?
+To get to that point..."
+
+
+かのじょに　えがおがもどるのは
+いつなんだろう・・・
+
+
+彼女に笑顔が戻るのは
+いつなんだろう・・・
+
+
+When will she smile again...
+
+
+
+あゆみ　「！　ようこを　ころしたはんにんを
+          わたし・・・
+          ぜったいに　ゆるさないわ！
+
+あゆみ「！ヨウコを殺した犯人を
+        私・・・
+        絶対に許さないわ！
+
+Ayumi: "Yoko's murderer...
+I'll never forgive them!"
+
+
+あゆみ　「うしろの少女が　わたしのうしろに
+          たっている　ってことば、
+          いったい　なんだったのかしら・・・
+
+あゆみ「後ろの少女が私の後ろに
+        立っているって言葉、
+        一体なんだったのかしら・・・
+
+Ayumi: "What was she talking about, saying that the girl who stands behind was behind me..."
+
+
+
+あゆみ　「やさしい　ひとだったのに・・・
+          ひとが　かわっちゃったみたい・・・
+
+
+あゆみ「やさしい人だったのに・・・
+        人が変わっちゃったみたい・・・
+
+
+Ayumi: "He used to be a kind person...
+He's changed..."
+
+
+あゆみ　「そういえば　このあいだ・・・
+          みなれない　おとこが　がっこうにきたわ。
+          だれかしら・・・？
+
+あゆみ「そういえばこの間・・・
+        見慣れない男が学校に来たわ。
+        誰かしら・・・？
+
+Ayumi: "Now that I think of it, the other day... An unfamiliar man came to school.  Who was it...?"
+
+
+
+だれかが　がっこうへ
+きているようだ　なにもの　なんだろ・・・？
+と、　いうところで
+そろそろ　かえろうかな・・・
+誰かが学校へ
+来ているようだ何者何だろう・・・？
+と、言うところで
+そろそろ帰ろうかな・・・
+Who is it that's coming to the school...?
+Oh, it's about time to go home...
+
+
+ぃ　「あゆみちゃん、
+      かえるんだったら　おくってくよ。
+
+
+ぃ「あゆみちゃん、
+    帰るんだったら送ってくよ。
+
+
+Shmoby: "Ayumi-chan, if you're going, let me walk you home."
+
+
+
+あゆみ　「わたし　これから
+          しょくいんしつに　いくの。
+          いっしょにいく？
+
+あゆみ「私これから
+        職員室に行くの。
+        一緒に行く？
+
+Ayumi: "I was going to go to the faculty room. Want to come with me?"
+
+
+
+ぃ　「そういえば　じけんのひ　いらい
+      ひびのせんせいに　あっていないな・・・
+      いっしょにいくよ。
+
+ぃ「そういえば事件の日以来
+    ヒビノ先生に会っていないな・・・
+    一緒に行くよ。
+
+Shmoby: "Now that I think of it, I haven't met Mr. Hibino since the day the case started... Let's go."
+
+
+
+ぃ　「？　だれかに　みられていたような・・・？
+
+
+
+ぃ「？誰かに見られていたような・・・？
+
+
+
+Shmoby: "? I feel like someone's watching me...?"
+
+
+
+しょくいんしつです。
+
+
+
+職員室です。
+
+
+
+You are in the faculty room.
+
+
+
+ひびのが　そばにいます。
+まだ、　ショックから　かんぜんに
+たちなおっては　いないようです。
+
+ヒビノがそばにいます。
+まだ、ショックから完全に
+立ち直ってはいないようです。
+
+Hibino is in front of you.
+It seems like he's still shocked and hasn't completely recovered.
+
+
+ひびの　「ああ、　きみは・・・
+
+
+
+ヒビノ「ああ、君は・・・
+
+
+
+Hibino: "Ah, it's you..."
+
+
+
+ひびの　「すまないが　まだ、
+          きみのしつもんに　こたえられる
+          しんきょうじゃ　ないんだ・・・
+
+ヒビノ「すまないがまだ、
+        君の質問に答えられる
+        心境じゃないんだ・・・
+
+Hibino: "I'm sorry, but I'm still not in the state of mind to answer your questions..."
+
+
+
+べつのせんせいと　はなしています。
+
+
+
+別の先生と話しています。
+
+
+
+She's talking with a different teacher.
+
+
+
+いそがしそうで　きづいてくれない。
+
+
+
+忙しそうで気づいてくれない。
+
+
+
+They look busy and don't notice you.
+
+
+
+ぃ　「こうこうの　きょうかしょは　ムズい・・・
+
+
+
+ぃ「高校の教科書はむずい・・・
+
+
+
+Shmoby: "High school textbooks are difficult..."
+
+
+
+せんせい　「・・・・・・
+
+
+
+先生「・・・・・・
+
+
+
+Teacher: "......"
+
+
+
+ひびの　「こじまが、
+          あんなところで・・・
+
+
+ヒビノ「コジマが、
+        あんな所で・・・
+
+
+Hibino: "Kojima,
+at a place like that...
+
+
+ぃ　「ちょっと　おききしたいことが・・・
+
+
+
+ぃ「ちょっとお聞きしたいことが・・・
+
+
+
+Shmoby: "I'd like to ask you something..."
+
+
+
+ようこのこと　いがいは
+まったく　とりあってくれない
+むだあし　だったかな・・・
+
+ヨウコのこと以外は
+全く取り合ってくれない
+無駄足だったかな・・・
+
+Except when it comes to Yoko, he's not paying attention to me at all. This is useless...
+
+
+
+ひびの　「・・・・・・ん？
+          いまだれか　よばなかったか？
+
+
+ヒビノ「・・・・・・ん？
+        今誰か呼ばなかったか？
+
+
+Hibino: "......Hm?
+Did someone just call for me?"
+
+
+・・・　「ひびのくん・・・ひびのくん！
+
+
+
+・・・「ヒビノ君・・・ヒビノ君！
+
+
+
+..."Hibino-kun... Hibino-kun!"
+
+
+
+しょろうの　だんせいが　あらわれました。
+
+
+
+初老の男性が現れました。
+
+
+
+An older man appears.
+
+
+
+いかにも　しんし、　というひとだ。
+としは　６０まえかな？
+
+
+いかにも紳士と言う人だ。
+年は６０前かな？
+
+
+He looks just like a gentleman. He seems to be almost 60 years old?
+
+
+
+おとこ　「ひびのくん、　どうしたんだね？
+          さっきから　よんでいたんだよ。
+
+
+男「ヒビノ君、どうしたんだね？
+    さっきから呼んでいたんだよ。
+
+
+Man: "Hibino-kun, what's wrong?
+I've been calling for you for a while."
+
+
+おとこ　「おや？　きみは・・・
+          ああ、　きみが　たんていの
+          ぁくん　だね？
+
+男「おや？君は・・・
+    ああ、君が探偵の
+    ぁ君だね？
+
+Man: "Oh? You are...
+Ah, you're the detective Dude-kun, right?"
+
+
+おとこ　「はじめまして　こうちょうの　うらべ　です。
+
+
+
+男「はじめまして校長のウラベです。
+
+
+
+Man: "Nice to meet you. I'm Urabe, the principal."
+
+
+
+うらべ　「もうしわけない、
+          ひびのくんと　はなしがありますので
+          こんどに　していただけますか。
+
+ウラベ「申し訳ない、
+        ヒビノ君と話がありますので
+        今度にしていただけますか。
+
+Urabe: "I'm very sorry, but I need to talk with Hibino-kun, so can we continue this next time?"
+
+
+
+あゆみ　「なあに？　わたしのようじは　おわったわよ。
+
+
+
+あゆみ「何？私の用事は終わったわよ。
+
+
+
+Ayumi: "What is it? I finished what I came here for."
+
+
+
+あゆみ　「ステキな　こうちょうせんせいよ、
+          みんなから　そんけいされてるわ。
+
+
+あゆみ「素敵な校長先生よ、
+        みんなから尊敬されてるわ。
+
+
+Ayumi: "He's our fantastic principal, and has everyone's respect."
+
+
+
+あゆみ　「ねえ　ぃくん、
+          わたし　あなたの　おてつだいをする！
+          はんにんを　はやく　みつけたいの！
+
+あゆみ「ねえぃ君、
+        私あなたのお手伝いをする！
+        犯人を速く見つけたいの！
+
+Ayumi: "Hey Shmoby-kun,
+I want to help you! I want to find the culprit quickly!"
+
+
+あゆみ　「うちあわせも　したいし・・・
+          かえりに　じむしょへ
+          おじゃましても　いいでしょ？
+
+あゆみ「打ち合わせもしたいし・・・
+        帰りに事務所へ
+        おじゃましてもいいでしょ？
+
+Ayumi: "I want to meet to talk about it...
+Can I come back with you to the office?"
+
+
+あゆみ　「じむしょで　おはなし　しましょ！
+
+
+
+あゆみ「事務所でお話しましょ！
+
+
+
+Ayumi: "Let's talk at the office!"
+
+
+
+あゆみちゃんの　きもちは　よくわかる。
+だが・・・
+
+
+あゆみちゃんの気持ちはよく分かる。
+だが・・・
+
+
+I understand Ayumi-chan's feelings.
+But...
+
+
+かのじょの　あんぜんのためにも
+かかわらせちゃ　いけない・・・
+
+
+彼女の安全のためにも
+関われせちゃいけない・・・
+
+
+For her own safety, she can't be involved...
+
+
+
+ぃ　「あゆみちゃん・・・
+      きみは　じけんに　かかわっちゃだめだ。
+      きけんすぎるよ。
+
+ぃ「あゆみちゃん・・・
+    君は事件に関わっちゃダメだ。
+    危険過ぎるよ。
+
+Shmoby: "Ayumi-chan...
+You can't get involved in this case. It's too dangerous."
+
+
+あゆみ　「・・・わたし、　よけいなこと
+          いっちゃったみたいね・・・
+          ごめんなさい・・・
+
+あゆみ「・・・私、余計なこと
+        行っちゃったみたいね・・・
+        ごめんなさい・・・
+
+Ayumi: "...I went too far...
+I'm sorry..."
+
+
+ぃ　「あゆみちゃん・・・
+
+
+
+ぃ「あゆみちゃん・・・
+
+
+
+Shmoby: "Ayumi-chan..."
+
+
+
+せんせい　「きみ、　そろそろ　とじまりをするから
+            かえって　くれたまえよ。
+
+
+先生「君、そろそろ戸締りをするから
+      帰ってくれた前よ。
+
+
+Teacher: "We're going to be locking up soon, so you should be going home."
+
+
+
+はやまという　せんせいが　うしろの少女の
+さいしょの　もくげきしゃだった。
+
+
+ハヤマと言う先生が後ろの少女の
+最初の目撃者だった。
+
+
+The teacher named Hayama was the first one to see the girl who stands behind.
+
+
+
+そのひは　１５ねんまえに
+かねだが　ころされたひ、　と　いっちする。
+
+
+その日は１５年前に
+カネダが殺された日、と一致する。
+
+
+It happened on the exact same day 15 years ago that Kaneda was killed.
+
+
+
+うしろの少女は
+あさかわ　しのぶの
+ゆうれいだという　うわさだが・・・
+
+後ろの少女は
+アサカワシノブの
+幽霊だと言う噂だが・・・
+
+The rumor is that the girl who stands behind is Shinobu Asakawa's ghost...
+
+
+
+ゆうれいなんて　ほんとうに
+いるのだろうか・・・？
+
+
+幽霊なんて本当に
+いるのだろうか・・・？
+
+
+Is it really something like a ghost...?
+
+
+
+ふしんなおとこが、　がっこうで
+もくげきされて　いるようだが・・・
+
+
+不審な男が、学校で
+目撃されているようだが・・・
+
+
+People have been seeing a suspicous man at school, but...
+
+
+
+いまもっとも　あやしいのは　たざきだ。
+きっと　なにかをしっている！
+
+
+今最も怪しいのはタザキだ。
+きっと何かを知っている！
+
+
+The most suspicious person at the moment is Tazaki. He surely knows something!
+
+
+
+・・・しのぶは　つれさられたとき、
+ケガをしていたと　いうことだったな・・・
+！　まてよ・・・
+
+・・・シノブは連れ去られた時、
+怪我をしていたということだったな・・・
+！待てよ・・・
+
+...When Shinobu was kidnapped, it seems that she got injured...
+! Wait...
+
+
+もし、　しのぶが　はんにんによって
+なぜか、　がっこうへ
+つれさられたとしたら・・・
+
+もし、シノブが犯人によって
+なぜか、学校へ
+連れ去られたとしたら・・・
+
+What if Shinobu was taken to the school by the killer for some reason...
+
+
+
+はやまが　みたのは、
+ケガをして　ちにまみれた
+あさかわ　しのぶ　だったのでは？！
+
+ハヤマが見たのは、
+怪我をして血にまみれた
+アサカワシノブだったのでは？！
+
+And the one that Hayama saw was Shinobu Asakawa, injured and covered in blood?!
+
+
+
+じかんてきな　むりはない！
+しかし　いったいだれが？
+しかも　なぜがっこうへ・・・・・・？
+
+時間的な無理はない！
+しかし一体誰が？
+しかもなぜ学校へ・・・・・・？
+
+The timing makes sense!
+But who in the world was it?
+Moreover, why the school......?
 
