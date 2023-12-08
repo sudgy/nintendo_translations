@@ -155,9 +155,12 @@ the original text, so I prefer not doing this as well.  **This means that the
 only option left is leaving the honorifics untranslated**, even though I prefer
 not to do this as much as possible.  (In the rare case where a particular
 English word does fit, I will use the English word instead of the Japanese
-honorific.) In case you don't know Japanese honorifics, here are all of the ones
-that I've seen in the games included here (since I'm still learning Japanese
-it's definitely possible that these descriptions aren't quite correct):
+honorific.  A notable example of this is in Famicom Detective Club 2, where
+students often use -sensei to refer to their teachers, and it's common in
+English for minors to call adults, especially teachers, with things like Mr.,
+Mrs., and Ms.) In case you don't know Japanese honorifics, here are all of the
+ones that I've seen in the games included here (since I'm still learning
+Japanese it's definitely possible that these descriptions aren't quite correct):
  - san: The "default" honorific, which shows a basic level of respect for the
    person.  Often used for people you don't know well or want to treat politely.
  - kun: An honorific that is used to refer to someone of equal or lesser status,
@@ -229,9 +232,8 @@ versions of characters after the normal versions of all of them.
 
 ## Famicom Detective Club Part II: The Girl Who Stands Behind
 
-THIS GAME IS NOT COMPLETE YET!  It's the one I'm currently working on.  By the
-chapter numbering in the Switch remake, I've only finished chapter two
-currently.
+THIS GAME IS NOT COMPLETE YET!  It's the one I'm currently working on.  I'm
+about halfway through it.
 
 If you've played the first game already using my scripts, you may notice
 something interesting: the messages appear in a much nicer way!  I spent some
@@ -248,6 +250,36 @@ which is the name that he wanted to use.  After he plays it I might change the
 name to something better, but for now, that's what it is.  If you want to
 contribute yourself, in `girl_messages.txt` you must use ぃ for the first name
 and ぁ for the last name.  Note that these are not い and あ.
+
+At some parts of this game, you have to actually input some things yourself that
+you should have figured out.  I couldn't actually change this to English input,
+so you'll have to input them yourself in Japanese.  One thing to note is that
+some Japanese letters have a little marker on the top right that either looks
+like a quotation mark or a degree sign.  These are input separately and after
+the character they are attached to.  For example, if you want to input はびぷ,
+you must input "はひ゛ふ゜" (note that there are no spaces in this string, it's
+just that ゛ and ゜ have a lot of extra space in most fonts).
+
+To not spoil the game, I'll just list all of the names that are three letters
+long in Japanese letters in this game, sorted alphabetically in English.  You
+can use this list to answer any of the questions involving characters in the
+game:
+
+<details>
+<summary>List of character names</summary>
+
+Ayumi: あゆみ\
+Goro: ごろう\
+Hayama: はやま\
+Hibino: ひびの\
+Kaneda: かねだ\
+Kojima: こじま\
+Komada: こまだ\
+Tazaki: たざき\
+Urabe: うらべ\
+Utsugi: うつぎ\
+Yoko: ようこ
+</details>
 
 ## Famicom Mukashibanashi: Shin Onigashima
 

@@ -175,8 +175,13 @@ function Messages.value_changed()
         e.log("Unable to find translation for current message")
         e.log(tostring(string.byte(message, 1, 128)))
         e.log(tostring(string.byte(orig_message, 1, 128)))
+        Messages.message_timer = 0
     else
-        Messages.message_timer = 10
+        if Messages.current_message == "You take the phone.\n" then
+            Messages.message_timer = 6
+        else
+            Messages.message_timer = 10
+        end
     end
 end
 
@@ -309,6 +314,12 @@ function at_name()
            e.read(0x0023) == 127
 end
 
+function at_deduce1()
+    return e.read(0x0402) == 39 and
+           e.read(0x044C) == 7 and
+           e.read(0x0023) == 144
+end
+
 function at_prologue_cutscene()
     return e.read(0x0023) == 14
     -- Other addresses/values you can use:
@@ -324,10 +335,16 @@ function display_title()
     local title_color = e.get_pixel2(0, 8)
     local title_color2 = e.get_pixel2(54, 86)
     local title_color3 = e.get_pixel2(97, 121)
-    e.draw_rect(96, 114, 160, 164, title_color)
-    e.draw_text(97, 121, "Start Investigation", title_color3, e.clear)
-    e.draw_text(97, 137, "Continue Investigation", title_color3, e.clear)
+    local title_color4 = e.get_pixel2(98, 153)
+    e.draw_rect(96, 114, 180, 164, title_color)
     e.draw_text(54, 93, "Famicom Detective Club", title_color2, e.clear)
+    e.draw_text(97, 137, "Continue Investigation", title_color3, e.clear)
+    if title_color3 == title_color4 then
+        e.draw_text(97, 121, "Start From Disk 1", title_color3, e.clear)
+        e.draw_text(97, 153, "Start From Disk 2", title_color3, e.clear)
+    else
+        e.draw_text(97, 121, "Start Investigation", title_color3, e.clear)
+    end
 end
 
 function display_loading()
@@ -371,6 +388,19 @@ function display_name()
     e.draw_rect(44, 192, 118, 212, e.black)
     e.draw_rect(130, 192, 230, 212, e.black)
     e.draw_text(46, 161, "Please enter your name.", e.white, e.black)
+    e.draw_text(33, 184, "Select with D-pad, confirm with A button", e.white, e.black)
+    e.draw_text(49, 200, "Space", e.white, e.black)
+    e.draw_text(136, 200, "End registration", e.white, e.black)
+end
+
+function display_deduce1()
+    clear_all()
+    e.draw_rect(15, 148, 134, 172, e.black)
+    e.draw_rect(160, 148, 230, 172, e.black)
+    e.draw_rect(44, 192, 118, 212, e.black)
+    e.draw_rect(32, 176, 230, 192, e.black)
+    e.draw_rect(130, 192, 230, 212, e.black)
+    e.draw_text(24, 152, "Shmoby: \"Hmm, isn't it      ?\"", e.white, e.clear);
     e.draw_text(33, 184, "Select with D-pad, confirm with A button", e.white, e.black)
     e.draw_text(49, 200, "Space", e.white, e.black)
     e.draw_text(136, 200, "End registration", e.white, e.black)
@@ -425,7 +455,7 @@ previous_action = 0
 
 function loop()
     local action = bitand(e.read(0x004E), 0x7f)
-    if action == 3 then Messages.update_writing()
+    if action == 2 or action == 3 then Messages.update_writing()
     elseif action == 4 then Messages.update_waiting()
     else Messages.update_blank()
     end
@@ -436,6 +466,7 @@ function loop()
     display_switch()
     if at_save() then display_save() end
     if at_name() then display_name() end
+    if at_deduce1() then display_deduce1() end
     if at_prologue_cutscene() then display_prologue() end
 end
 
