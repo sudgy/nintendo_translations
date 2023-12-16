@@ -152,3 +152,45 @@ Person
 About the wall
 コーヒー
 Coffee
+たざきのいえ
+Tazaki's house
+まちをさがす
+Search in town
+あたりのひと
+Person in the area
+たざきのドア
+Tazaki's door
+となりのドア
+Neighbor's door
+まえへすすむ
+Go forward
+みぎをむく
+Turn right
+ひだりをむく
+Turn left
+アパートへいく
+Go to the apartment
+はんかがいへ
+To downtown
+よびこみ
+Club promoter
+はんかがい
+Downtown
+かきおき
+Note
+しゃしん
+Picture
+こづつみ
+Package
+まるふくむら
+Marufuku village
+ふみのこと
+About Fumi
+たざきのじっか
+Tazaki's old home
+せっとくする
+Persuade
+とびかかる
+Charge
+いいところ
+Strong point

@@ -141,9 +141,7 @@ function Messages.value_changed()
                (string.byte(d) < 198 or string.byte(d) > 207) and
                string.byte(d) ~= 254 and
                string.byte(d) ~= 255 and d or '' end)
-    if string.byte(message, 1) == 137 then
-        message = message:sub(3)
-    end
+    message = string.gsub(message, string.char(137) .. ".", "")
     message = string.gsub(message, ".", function(d)
         return string.byte(d) == 208 and string.char(12, 21, 52, 34, 84, 85) or d end)
     message = string.gsub(message, ".", function(d)
@@ -354,12 +352,10 @@ end
 
 zenpen_a = string.char(23, 55, 38, 55, 34, 82, 43, 55, 54, 0, 23, 59, 29, 21, 28, 17, 25, 20, 11)
 zenpen_b = string.char(34, 82, 43, 55, 54, 0, 23, 59, 29, 21, 28, 17, 25, 20, 11, 1, 34, 171, 83)
+kouhen_a = string.char(21, 28, 17, 25, 20, 11, 1, 34, 171, 83, 2, 34, 166, 19, 12, 1, 34, 171, 82)
+kouhen_b = string.char(0, 23, 59, 29, 21, 28, 17, 25, 20, 11, 1, 34, 171, 83, 2, 34, 166, 19, 12)
 function display_switch()
     message = read_last_message(19)
-    --print("Start")
-    --for i=1,19 do
-    --    print(string.byte(message, i))
-    --end
     if message == zenpen_a then
         e.draw_rect(16, 148, 239, 216, e.black)
         e.draw_text(68, 167, "Please insert the A side", e.white, e.black)
@@ -368,11 +364,15 @@ function display_switch()
         e.draw_rect(16, 148, 239, 216, e.black)
         e.draw_text(68, 167, "Please insert the B side", e.white, e.black)
         e.draw_text(78, 177, "of the first volume.", e.white, e.black)
+    elseif message == kouhen_a then
+        e.draw_rect(16, 148, 239, 216, e.black)
+        e.draw_text(68, 167, "Please insert the A side", e.white, e.black)
+        e.draw_text(74, 177, "of the second volume.", e.white, e.black)
+    elseif message == kouhen_b then
+        e.draw_rect(16, 148, 239, 216, e.black)
+        e.draw_text(68, 167, "Please insert the B side", e.white, e.black)
+        e.draw_text(74, 177, "of the second volume.", e.white, e.black)
     end
-    --    e.draw_text(68, 175, "Please insert the B side", e.white, e.black)
-    --    e.draw_text(78, 185, "of the second volume.", e.white, e.black)
-    --    e.draw_text(68, 175, "Please insert the A side", e.white, e.black)
-    --    e.draw_text(78, 185, "of the second volume.", e.white, e.black)
 end
 
 function display_save()
