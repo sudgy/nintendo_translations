@@ -26,6 +26,7 @@ function clear_all()
     Messages.current_message = nil
     Messages.finished = true
     Messages.message_timer = 0
+    Messages.position = 4
 end
 
 function read_last_message(length)
@@ -52,7 +53,7 @@ Messages.message_timer = 0
 function Messages.load_messages()
     local file = assert(io.open(messages_filename), "rb")
     local data = file:read("*all")
-    data = data:gsub(string.char(1), string.char(26))
+    data = data:gsub(string.char(5), string.char(26))
     Messages.translations = {}
     local start_index = 1
     while true do
@@ -71,7 +72,11 @@ function Messages.display()
     if Messages.slow_timer < Messages.total_time then
         Messages.slow_timer = Messages.slow_timer + 1
     end
-    e.draw_rect(16, 148, 239, 216, e.black)
+    if (Messages.position == 4) then
+        e.draw_rect(16, 148, 239, 216, e.black)
+    else
+        e.draw_rect(72, 0, 320, 216, e.black)
+    end
     local modified_message = string.gsub(Messages.current_message, "\\", "")
     local message_length = math.floor(
         #modified_message * Messages.slow_timer / Messages.total_time) + 1
@@ -84,17 +89,30 @@ function Messages.display()
     end
     local current_message = Messages.current_message:sub(1, index2) .. "\n"
     local i = 0
+    local big_line = false
     for line in current_message:gmatch("(.-)\n") do
         local x_offset = 1
+        local y_offset = 0
+        local x_offset2 = 0
+        if (Messages.position ~= 4) then
+            y_offset = 72*Messages.position - 200
+            x_offset2 = 56
+        end
         while string.byte(line, x_offset) == 92 do x_offset = x_offset + 1 end
+        if big_line then
+            y_offset = 5
+        end
         e.draw_text(
-            23 + x_offset,
-            152 + i*11,
+            23 + x_offset + x_offset2,
+            153 + i*11 + y_offset,
             string.sub(line, x_offset),
             e.white,
             e.black
         )
         i = i + 1
+        if line == "Shmoby: \"The owner of the fountain pen..." then
+            big_line = true
+        end
     end
 end
 function Messages.update_writing()
@@ -165,18 +183,26 @@ function Messages.value_changed()
     Messages.searching = false
     Messages.finished = true
     Messages.current_message = Messages.translations[message]
-    local _, pause1 = message:sub(1, -2):gsub("[" .. string.char(63, 66, 67) .. "]", "")
-    local _, pause2 = message:gsub("[" .. string.char(62) .. "]", "")
-    Messages.total_time = #message * 5 + pause1*28 + pause2*4
-    Messages.slow_timer = 0
     if Messages.current_message == nil then
         e.log("Unable to find translation for current message")
         e.log(tostring(string.byte(message, 1, 128)))
         e.log(tostring(string.byte(orig_message, 1, 128)))
         Messages.message_timer = 0
     else
+        Messages.position = Messages.current_message:byte(1)
+        Messages.current_message = string.sub(Messages.current_message, 2)
+        local _, pause1 = message:sub(1, -2):gsub("[" .. string.char(63, 66, 67) .. "]", "")
+        local _, pause2 = message:gsub("[" .. string.char(62) .. "]", "")
+        Messages.total_time = #message * 5 + pause1*28 + pause2*4
+        Messages.slow_timer = 0
         if Messages.current_message == "You take the phone.\n" then
             Messages.message_timer = 6
+        elseif Messages.current_message == "Shmoby: \"? We got a new phone.\"\n" then
+            Messages.message_timer = 6
+        elseif Messages.current_message == "Shmoby: \"Can I borrow your phone?\"\n" then
+            Messages.message_timer = 6
+        elseif Messages.current_message == "That is...\nTo his real son...\n" then
+            Messages.message_timer = 185
         else
             Messages.message_timer = 10
         end
@@ -312,10 +338,28 @@ function at_name()
            e.read(0x0023) == 127
 end
 
+-- I'm honestly worried about these three functions
 function at_deduce1()
     return e.read(0x0402) == 39 and
            e.read(0x044C) == 7 and
-           e.read(0x0023) == 144
+           e.read(0x0023) == 144 and
+           e.read(0x0027) == 241
+end
+
+function at_deduce2()
+    return e.read(0x0402) == 39 and
+           e.read(0x044C) == 7 and
+           e.read(0x0023) == 144 and
+           e.read(0x0027) == 199 and
+           e.read(0x070E) == 4
+end
+
+function at_deduce3()
+    return e.read(0x0402) == 39 and
+           e.read(0x044C) == 7 and
+           e.read(0x0023) == 144 and
+           e.read(0x0027) == 199 and
+           e.read(0x070E) == 2
 end
 
 function at_prologue_cutscene()
@@ -400,7 +444,33 @@ function display_deduce1()
     e.draw_rect(44, 192, 118, 212, e.black)
     e.draw_rect(32, 176, 230, 192, e.black)
     e.draw_rect(130, 192, 230, 212, e.black)
-    e.draw_text(24, 152, "Shmoby: \"Hmm, isn't it      ?\"", e.white, e.clear);
+    e.draw_text(24, 153, "Shmoby: \"Hmm, isn't it      ?\"", e.white, e.clear);
+    e.draw_text(33, 184, "Select with D-pad, confirm with A button", e.white, e.black)
+    e.draw_text(49, 200, "Space", e.white, e.black)
+    e.draw_text(136, 200, "End registration", e.white, e.black)
+end
+
+function display_deduce2()
+    clear_all()
+    e.draw_rect(88, 148, 230, 172, e.black)
+    e.draw_rect(44, 192, 118, 212, e.black)
+    e.draw_rect(32, 176, 230, 192, e.black)
+    e.draw_rect(130, 192, 230, 212, e.black)
+    e.draw_text(88, 153, "'s initials...", e.white, e.clear);
+    e.draw_text(33, 184, "Select with D-pad, confirm with A button", e.white, e.black)
+    e.draw_text(49, 200, "Space", e.white, e.black)
+    e.draw_text(136, 200, "End registration", e.white, e.black)
+end
+
+function display_deduce3()
+    clear_all()
+    e.draw_rect(24, 148, 230, 160, e.black)
+    e.draw_rect(96, 148, 230, 175, e.black)
+    e.draw_rect(44, 192, 118, 212, e.black)
+    e.draw_rect(32, 176, 230, 192, e.black)
+    e.draw_rect(130, 192, 230, 212, e.black)
+    e.draw_text(24, 153, "Shmoby: \"The owner of the fountain pen...", e.white, e.clear);
+    e.draw_text(97, 169, ", right?\"", e.white, e.clear);
     e.draw_text(33, 184, "Select with D-pad, confirm with A button", e.white, e.black)
     e.draw_text(49, 200, "Space", e.white, e.black)
     e.draw_text(136, 200, "End registration", e.white, e.black)
@@ -467,6 +537,8 @@ function loop()
     if at_save() then display_save() end
     if at_name() then display_name() end
     if at_deduce1() then display_deduce1() end
+    if at_deduce2() then display_deduce2() end
+    if at_deduce3() then display_deduce3() end
     if at_prologue_cutscene() then display_prologue() end
 end
 

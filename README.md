@@ -232,15 +232,6 @@ versions of characters after the normal versions of all of them.
 
 ## Famicom Detective Club Part II: The Girl Who Stands Behind
 
-THIS GAME IS NOT COMPLETE YET!  It's the one I'm currently working on.  I'm
-about halfway through it.
-
-If you've played the first game already using my scripts, you may notice
-something interesting: the messages appear in a much nicer way!  I spent some
-extra effort getting this game to work better, and I'm hoping to port this to
-the first game at some point, but currently I would rather focus on getting this
-game translated.
-
 At the end of the prologue, there's a name input screen.  Thankfully, it doesn't
 matter what you name yourself!  You yourself won't see the Japanese name after
 the name screen so you can pick whatever you want.  The script will be able to
@@ -272,10 +263,16 @@ Ayumi: あゆみ\
 Goro: ごろう\
 Hayama: はやま\
 Hibino: ひびの\
+Hitomi: ひとみ\
 Kaneda: かねだ\
+Kato: かとう\
 Kojima: こじま\
 Komada: こまだ\
+Sayaka: さやか\
+Tadashi: ただし\
+Tatsuya: たつや\
 Tazaki: たざき\
+Uchida: うちだ\
 Urabe: うらべ\
 Utsugi: うつぎ\
 Yoko: ようこ

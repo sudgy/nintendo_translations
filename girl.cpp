@@ -178,7 +178,7 @@ void write_letter(std::vector<std::uint8_t>& output, const std::string& letter)
     }
 }
 
-std::string space_english(const std::vector<std::string>& lines)
+std::string space_english(const std::vector<std::string>& lines, int position)
 {
     std::vector<int> spacings;
     for (const auto& line : lines) {
@@ -186,6 +186,7 @@ std::string space_english(const std::vector<std::string>& lines)
     }
     const int spacing = *std::ranges::max_element(spacings);
     std::string result;
+    const auto C_max_width = position == 4 ? 207 : 143;
     for (int i = 0; i < ssize(lines); ++i) {
         auto line = lines[i];
         while (!line.empty()) {
@@ -195,7 +196,7 @@ std::string space_english(const std::vector<std::string>& lines)
                 line.insert(0, std::string(spacing - get_line_spacing(line), '\\'));
                 pos = 0;
                 auto previous_pos = 0UL;
-                while (get_fceux_width(line.substr(0, pos)) < 207) {
+                while (get_fceux_width(line.substr(0, pos)) < C_max_width) {
                     if (pos == std::string::npos) {
                         previous_pos = std::string::npos;
                         break;
@@ -235,15 +236,21 @@ void write_messages()
     int i = 0;
     auto current_japanese = std::vector<std::uint8_t>();
     auto current_english = std::vector<std::string>();
+    auto position = 4;
     for (std::string line; std::getline(messages_file, line);) {
         if (i < 4) {
             try {
                 if (!line.empty()) {
+                    if (line[0] != ' ' and
+                            static_cast<std::uint8_t>(line[0]) <= 127) {
+                        position = line[0] - '0';
+                        line = line.substr(1);
+                    }
                     line = line.substr(line.find_first_not_of(' '));
                     for (int j = 0; j < ssize(line) / 3; ++j) {
                         auto letter = rom_letters.at(line.substr(j*3, 3));
                         if (letter) {
-                            if (letter == 26) current_japanese.push_back(1);
+                            if (letter == 26) current_japanese.push_back(5);
                             else current_japanese.push_back(letter);
                         }
                     }
@@ -263,10 +270,13 @@ void write_messages()
         ++i;
         if (i == 12) {
             i = 0;
+            auto english = space_english(current_english, position);
+            english.insert(english.begin(), position);
+            position = 4;
             current_japanese.push_back(0);
             output_data.push_back(output_t{
                 std::move(current_japanese),
-                space_english(current_english)
+                std::move(english)
             });
             current_japanese = {};
             current_english = {};
