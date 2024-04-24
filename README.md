@@ -145,19 +145,18 @@ originally said in Japanese since understanding this is not too difficult.
 The other big aspect of names is honorifics.  There are many different
 honorifics that are used in different scenarios, and they can often be used when
 reading to determine the relationship between characters at a glance.
-Furthermore, while I haven't seen any examples of this in video games yet, there
-are often situations where the honorific used is important to the story.  As
-such, I don't want to just leave them untranslated.  However, translating them
-as things like "Mr." or "Sir" as is often done isn't usually correct either,
-since these English words have a different meaning than the honorifics.  Thus, I
-consider using these English words to be an example of changing the meaning of
-the original text, so I prefer not doing this as well.  **This means that the
-only option left is leaving the honorifics untranslated**, even though I prefer
-not to do this as much as possible.  (In the rare case where a particular
-English word does fit, I will use the English word instead of the Japanese
-honorific.  A notable example of this is in Famicom Detective Club 2, where
-students often use -sensei to refer to their teachers, and it's common in
-English for minors to call adults, especially teachers, with things like Mr.,
+Furthermore, there are often situations where the honorific used is important to
+the story.  As such, I don't want to just leave them untranslated.  However,
+translating them as things like "Mr." or "Sir" as is often done isn't usually
+correct either, since these English words have a different meaning than the
+honorifics.  Thus, I consider using these English words to be an example of
+changing the meaning of the original text, so I prefer not doing this as well.
+**This means that the only option left is leaving the honorifics untranslated**,
+even though I prefer not to do this as much as possible.  (In the rare case
+where a particular English word does fit, I will use the English word instead of
+the Japanese honorific.  A notable example of this is in Famicom Detective Club
+2, where students often use -sensei to refer to their teachers, and it's common
+in English for minors to call adults, especially teachers, with things like Mr.,
 Mrs., and Ms.) In case you don't know Japanese honorifics, here are all of the
 ones that I've seen in the games included here (since I'm still learning
 Japanese it's definitely possible that these descriptions aren't quite correct):

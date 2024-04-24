@@ -835,7 +835,7 @@ Shmoby: "...It's busy."
   いざと言う時助けてやらんぞ！
 
 "Yes, this is 119.
-...Hey! We won't help you in an emergency if you're playing a prank!"
+...Hey! We won't help you in an actual emergency if you're playing a prank now!"
 
 
 「はい、　かんだべんとうです。
@@ -1182,7 +1182,7 @@ You pick up the notebook. It looks like a notebook from a high school student.
     コジマヨウコと書かれている。
     そして写真は・・・
     確かにこの、女の子だ！
-Shmoby: "...Ushimitsu high school, year 1, class A, and Yoko Kojima were written on here. And this picture... There's no doubt about it, it's this girl!"
+Shmoby: "...Ushimitsu High School, year 1, class A, and Yoko Kojima were written on here. And this picture... There's no doubt about it, it's this girl!"
 
 
 
@@ -1362,7 +1362,7 @@ Forensics officer: "That could be from when she was floating in the river."
 
 
 
-There doesn't seem to be any clues...
+There don't seem to be any clues...
 
 
 
@@ -1434,7 +1434,7 @@ Forensics officer: "What is it?!"
 
 
 
-Shmoby: "There's marks that she was strangled!"
+Shmoby: "There's marks showing that she was strangled!"
 
 
 
@@ -1471,7 +1471,7 @@ Forensics officer: "What?!...You're right, looking closer at it, this is definit
 聞き覚えのない少女の声が
 響き渡った！
 At that moment,
-an unfamiliar girl's voice echos across the suddenly busy scene!
+an unfamiliar girl's voice echoes across the suddenly busy scene!
 
 
 女のコ　「ようこ！
@@ -1506,7 +1506,7 @@ An unfamiliar girl and a single man come rushing to the riverbed.
 まず、話を聞いてみなければ。
 
 
-They seem to know the victim. First, you need to hear what they have to say.
+They seem to know the victim. First, I need to hear what they have to say.
 
 
 
@@ -1542,7 +1542,7 @@ Say something! Please...!"
 なさそうだ。
 
 
-She's lost her composure, so it seems that it's not possible.
+She's lost her composure, so it seems that talking to her is impossible.
 
 
 
@@ -1951,7 +1951,7 @@ Shmoby: "Do you have any ideas about anything related to Yoko-san's murder?"
         事情があったとも思えない。
         ただ・・・
 Ayumi: "I don't know...
-I can't think of any situations that would make someone have a grudge against her.
+I can't think of any situation that would make someone have something against her.
 But...
 
 あゆみ　「ひとつ　きになることが、　あるんです。
@@ -2166,7 +2166,7 @@ You are at the victim Yoko Kojima's house.
 
 
 
-Shmoby: "My name is Dude, a detective."
+Shmoby: "My name is Shmoby Dude, a detective."
 
 
 
@@ -2334,7 +2334,7 @@ Shmoby: "You can't think of any reason that someone might have a grudge against 
       考えられません。
 
 
-Mother: "I can't think of anything like that for her."
+Mother: "I can't think of anything like that with her."
 
 
 
@@ -2394,7 +2394,7 @@ Mother: "She would come back late at night, then would do something in her room.
       心配していた矢先でした・・・
 
 
-Mother: "She wasn't lively, so I was worried at that time..."
+Mother: "She wasn't spirited, so I was worried at that time..."
 
 
 
@@ -2455,7 +2455,7 @@ According to her mother, this is what Yoko said...
 
 
 ...Mom.
-Last night, I saw a strange dream...
+Last night, I had a strange dream...
 
 
 ゆめのなかで　わたし、　がっこうのろうかを
@@ -2550,7 +2550,7 @@ Shmoby: "? Alright, let's go. Please excuse us."
 郊外に立つ静かな学校です。
 コジマヨウコもここの生徒でした。
 
-This is Ushimitsu high school, where Ayumi goes. It's a quiet school in the suburbs. Yoko Kojima was also a student here.
+This is Ushimitsu High School, where Ayumi goes. It's a quiet school in the suburbs. Yoko Kojima was also a student here.
 
 
 
@@ -2574,7 +2574,7 @@ Ayumi: "? What is it?"
 
 
 
-This is Ushimitsu high school.
+This is Ushimitsu High School.
 
 
 
@@ -2706,7 +2706,7 @@ Ayumi: "Let's see, I think it was...about a week ago!"
         ヨウコが調べていたのは
         この、幽霊の噂だったんじゃ
         ないかしら？！
-Ayumi: "! Maybe the thing that Yoko was studying was possibly this rumor about the ghost?"
+Ayumi: "! Maybe the thing that Yoko was studying was this rumor about the ghost?"
 
 
 
@@ -2802,7 +2802,7 @@ Student B: "Don't you watch too much TV?"
 
 
 
-They don't believe in me...
+They don't believe me...
 
 
 
@@ -3078,7 +3078,7 @@ Turning around, there's no one there...
 前を向くと・・・
 
 
-You think it's just your imagination, and then, when you turn forward again...
+You think it's just your imagination, and then, when you turn back around...
 
 
 
@@ -3246,7 +3246,7 @@ The students have gone home.
 会ってみよう。
 
 
-At any rate, you need to try to meet up with that teacher named Komada.
+At any rate, you need to try to meet with that teacher named Komada.
 
 
 
@@ -3366,7 +3366,7 @@ Komada: "What is it?"
         被害者は。
 
 
-Komada: "She's one of Hibino's students, and the victim, right?"
+Komada: "She's one of Hibino's students, and the victim."
 
 
 
@@ -3498,7 +3498,7 @@ Oh! There's one thing I remember."
         女生徒が行方不明に
         なったんだ。
 
-Komada: "Around November 15 years ago, a female student went missing."
+Komada: "Around November, 15 years ago, a female student went missing."
 
 
 
@@ -3726,7 +3726,7 @@ Yoko Kojima was probably studying the rumor about the ghost called "the girl who
 ある女生徒が失踪したようだ・・・
 
 
-Around when that rumor was spreading, a female student disappeared...
+Around the time when that rumor began spreading, a female student disappeared...
 
 
 
@@ -3930,7 +3930,7 @@ Shmoby: "He left in the end... I'll sleep for today."
 辺りには生徒がいます。
 
 
-You are at Ushimitsu high school. There are students in the area.
+You are at Ushimitsu High School. There are students in the area.
 
 
 
@@ -5274,7 +5274,7 @@ And the one who is believed to have started the rumor, a girl who suddenly disap
 丑美津高校の生徒だった。
 彼女は何かの事件に巻き込まれて
 しまったようだが・・・
-Shinobu Asakawa, a student at Ushimitsu high school. It seems that she had been caught up in some incident...
+Shinobu Asakawa, a student at Ushimitsu High School. It seems that she had been caught up in some incident...
 
 
 
@@ -5310,7 +5310,7 @@ Utsugi: "Is your investigation going well?
         頼まれた事件のあらましを
         説明してもらったところだ。
 
-Utsugi: "On my part, I just received the outline of the case that I had requested.
+Utsugi: "On my part, I just received the case outline that I had requested.
 
 
 
@@ -5382,7 +5382,7 @@ Utsugi: "Yes, it seems that a person was seen at the scene of the crime.
         当時丑美津高校の
         １年生で・・・
 
-Utsugi: "At the time, that person was a first year student at Ushimitsu high school...
+Utsugi: "At the time, that person was a first year student at Ushimitsu High School...
 
 
 
@@ -5490,7 +5490,7 @@ Policewoman: "You can't come to a place like this. What are you doing here?"
 割とボインですね。
 
 
-She's a female police officer, and has rather large boobs.
+She's a female police officer and has rather large boobs.
 
 
 
@@ -5599,7 +5599,7 @@ S-she's really an adult...
       今度やったら承知しないわよ！
 
 Policewoman: "......
-You're a pervert, I won't let you do it next time!"
+You're a pervert. I won't let you do it next time!"
 
 
 ゲーム　オーバー
@@ -5646,7 +5646,7 @@ Detective: "Yes! This is investigation department 1! ...Huh? You're saying that 
 
 
 
-Who should I call and talk to?
+Who should I talk to?
 
 
 
@@ -5826,7 +5826,7 @@ Maruyama: "Genjiro's cause of death was excessive bleeding from being stabbed by
           当時、ゲンジロウに大して
           かなり深い恨みを持つものの
           犯行だと判断したんだ。
-Maruyama: "Because of how the crime was commited, I think it was done by someone who had a very deep grude against Genjiro."
+Maruyama: "Because of how the crime was committed, I think it was done by someone who had a very deep grudge against Genjiro."
 
 
 
@@ -6006,7 +6006,7 @@ Maruyama: "It seems that over time, several of the girls that had met Goro at th
           多かったようだ。
           それというのも・・・
 
-Maruyama: "There were especially a lot of women from Ushimitsu high school.
+Maruyama: "There were especially a lot of women from Ushimitsu High School.
 Because...
 
 
@@ -6018,7 +6018,7 @@ Because...
           割と近くにあったからなんだよ。
           学校の帰りに立ち寄っていた
           ようだね。
-Maruyama: "Kaneda's house was relatively close to Ushimitsu high school. They probably would stop by on their way home from school."
+Maruyama: "Kaneda's house was relatively close to Ushimitsu High School. They probably would stop by on their way home from school."
 
 
 
@@ -6054,7 +6054,7 @@ Maruyama: "No matter how long they waited, Goro didn't come back, so two of them
           家に残ったんだ。
 
 
-Maruyama: "and the last one said that she would wait a little longer a remained at the house."
+Maruyama: "and the last one said that she would wait a little longer and remained at the house."
 
 
 
@@ -6079,7 +6079,7 @@ Shmoby: "And that was Shinobu Asakawa?"
           一人を残し、他の二人が
           帰った直後に行われたようだ。
 Maruyama: "! That's right.
-The crime seems to have been commited right after the other two left, with only Shinobu Asakawa remaining."
+The crime seems to have been committed right after the other two left, with only Shinobu Asakawa remaining."
 
 
 まるやま　「かのじょは　なんらかのかたちで
@@ -6186,7 +6186,7 @@ Shmoby: "Hearing something, Shinobu Asakawa rushed there, finding the culprit an
     所が顔を観られた犯人は
     アサカワシノブを追った、
 
-Shmoby: "Shinobu Asakawa ran outside. However, because she had seen their face, the culprit chased after her,
+Shmoby: "Shinobu Asakawa ran outside. However, because she had seen the culprit's face, the culprit chased after her,
 
 
 
@@ -6558,7 +6558,7 @@ Maruyama: "That's the gist of the Genjiro Kaneda murder case."
           教えてあげられることはもうないな。
           話してもいいが、同じことしか
           言わないよ。
-Maruyama: "There's nothing else for me to tell you. It's fine to talk, but I can't say anything but what I said before.
+Maruyama: "There's nothing else for me to tell you. It's fine to talk, but I can't say anything other than what I said before.
 
 
 
@@ -6630,7 +6630,7 @@ Maruyama: "Is there some relationship with the case we were talking about just n
     丑美津高校で噂になっている、
     「後ろの少女」と言う
     幽霊を調べていたらしいんです。
-Shmoby: "Actually, Yoko Kojima was investigating a rumor at Ushimitsu high school about a ghost called 'the girl who stands behind'.
+Shmoby: "Actually, Yoko Kojima was investigating a rumor at Ushimitsu High School about a ghost called 'the girl who stands behind'.
 
 
 
@@ -6870,7 +6870,7 @@ Shmoby: "D-detective-kun..."
 
 
 
-Student: "What is it detective-kun?"
+Student: "What is it, detective-kun?"
 
 
 
@@ -6882,7 +6882,7 @@ Student: "What is it detective-kun?"
       ああ、それを調べてるのね。
 
 
-Student: "Why would she get murdered? Ah, that's what you're investigating.
+Student: "Why would she get murdered? Ah, that's what you're investigating."
 
 
 
@@ -7314,7 +7314,7 @@ Detective Utsugi is investigating Kaneda's case...
 続けよう、手がかりはきっとある！
 
 
-I'll keep investigating at Ushimitsu high school, surely there's a clue there!
+I'll keep investigating at Ushimitsu High School, surely there's a clue there!
 
 
 
@@ -7638,7 +7638,7 @@ Shmoby: "I heard that a teacher named Hayama was the first one to say that they 
         幽霊の話でもないだろうて。
 
 
-Komada: "Certainly not, us teachers wouldn't talk about ghosts."
+Komada: "Certainly not, we teachers wouldn't talk about ghosts."
 
 
 
@@ -8274,7 +8274,7 @@ Hayama: "Standing there behind the window of the classroom was a blood-covered g
         気が遠くなりそうでした。
         それでもう一度見たんですけど・・・
 
-Hayama: "I got so surprised that I almost lost consciousness. I then looked again, but...
+Hayama: "I got so surprised that I almost fainted. I then looked again, but...
 
 
 
@@ -8322,7 +8322,7 @@ Hayama: "I'm certain that I actually saw it! That figure standing there...
 
 
 
-Hayama: "I wish I couldn't remember."
+Hayama: "I wish I could forget it."
 
 
 
@@ -8778,7 +8778,7 @@ Ayumi: "I came to talk to you. While I was looking, I heard yelling from here an
 
 
 
-Ayumi: "What's going with Tazaki-san?"
+Ayumi: "What's going on with Tazaki-san?"
 
 
 
@@ -8982,7 +8982,7 @@ He's changed..."
         見慣れない男が学校に来たわ。
         誰かしら・・・？
 
-Ayumi: "Now that I think of it, the other day... An unfamiliar man came to school. Who was it...?"
+Ayumi: "Now that I think of it, the other day...an unfamiliar man came to school. Who was it...?"
 
 
 
@@ -8994,7 +8994,7 @@ Ayumi: "Now that I think of it, the other day... An unfamiliar man came to schoo
 来ているようだ何者何だろう・・・？
 と、言うところで
 そろそろ帰ろうかな・・・
-Who is it that's coming to the school...?
+Who is it that's been coming to the school...?
 Oh, it's about time to go home...
 
 
@@ -9090,7 +9090,7 @@ Hibino: "Ah, it's you..."
         君の質問に答えられる
         心境じゃないんだ・・・
 
-Hibino: "I'm sorry, but I'm still not in the state of mind to answer your questions..."
+Hibino: "I'm sorry, but I'm still not in a state of mind to answer your questions..."
 
 
 
@@ -9426,7 +9426,7 @@ The teacher named Hayama was the first one to see the girl who stands behind.
 カネダが殺された日、と一致する。
 
 
-It happened on the exact same day 15 years ago that Kaneda was killed.
+It happened on the exact same day that Kaneda was killed 15 years ago.
 
 
 
@@ -9524,7 +9524,7 @@ And the one that Hayama saw was Shinobu Asakawa, injured and covered in blood?!
 
 The timing makes sense!
 But who in the world was it?
-Moreover, why the school......?
+Moreover, why to the school......?
 
 ぃ　「？　でんわだ。
 
@@ -9547,7 +9547,7 @@ Shmoby: "? It's the phone."
 
 
 Shmoby: "Yes,
-this is Utsugi detective agency..."
+this is Utsugi Detective Agency..."
 
 
 うつぎ　「あっ、　ぃくん　まだいたね。
@@ -9594,7 +9594,7 @@ Shmoby: "! Who was it...?!"
         関係者なんだ。
         君も知っていると思うから・・・
 
-Utsugi: "They're connected to Ushimitsu high school. I think you know of them...
+Utsugi: "They're connected to Ushimitsu High School. I think you know of them...
 
 
 
@@ -9714,7 +9714,7 @@ Utsugi: "It's strange, but somebody had asked him to repair the wall and verifie
         ウラベ校長だったんだ。
 
 
-Utsugi: "It was Urabe, the principal at Ushimitsu high school.
+Utsugi: "It was Urabe, the principal at Ushimitsu High School.
 
 
 
@@ -10014,7 +10014,7 @@ you know a lot about Kaneda's case, don't you?"
     当時のアリバイに嘘がないのなら
     話を聞かせてください。
 
-Shmoby: "If you're not guilty, and if your alibi at the time wasn't false, please talk with me."
+Shmoby: "If you're not guilty, and if your alibi at the time wasn't a lie, please talk with me."
 
 
 
@@ -10099,7 +10099,7 @@ Shmoby: "The principal can vouch for your alibi, right?"
         時々様子を見に来なさった
         校長が証人だ！
 Tazaki: "Th-that's right.
-Wh-while I was plastered the wall, the principal came to check on it from time to time!"
+Wh-while I was plastering the wall, the principal came to check on it from time to time!"
 
 
 たざき　「も、　もうええじゃろ、
@@ -10554,7 +10554,7 @@ Teacher: "He is exactly what I would call a true educator!"
 
 
 
-Teacher: "I don't about a case from long ago..."
+Teacher: "I don't know about a case from long ago..."
 
 
 
@@ -10578,7 +10578,7 @@ Student: "He's the janitor."
       いたずらするとタザキさんに
       しかられちゃうよ。
 
-Student: "Huh? What wrong with the wall? If you mess with it, Tazaki-san will scold you."
+Student: "Huh? What's wrong with the wall? If you mess with it, Tazaki-san will scold you."
 
 
 
@@ -10866,7 +10866,7 @@ Oh, I see, that's probably right."
         私ったら気が動転
         しちゃったせいか・・・
 
-Hayama: "That night, I got so flustered when I saw the girl who stands behind and ran away, and then...
+Hayama: "That night, I got so flustered when I saw the girl who stands behind and I ran away, and then...
 
 
 
@@ -11179,7 +11179,7 @@ Ayumi: "Shmoby-kun...
         犯人なの？
 
 Ayumi: "Please tell me...
-Is Tazaki-san really the one that killed Yoko?
+Is Tazaki-san really the one that killed Yoko?"
 
 
 あゆみ　「もし、　そうなら　わたし・・・
@@ -11442,7 +11442,7 @@ Shmoby Dude, a boy detective at Utsugi Detective Agency,
 コジマヨウコ殺人事件を
 調査していた。
 
-was investigating the murder of Yoko Kojima at private Ushimitsu high school.
+was investigating the murder of Yoko Kojima at Ushimitsu High School, a private school.
 
 
 
@@ -11454,7 +11454,7 @@ was investigating the murder of Yoko Kojima at private Ushimitsu high school.
 古くから伝わる、
 「後ろの少女」と言う幽霊の噂を
 調べている途中・・・
-She was investigating a rumor from Ushimitsu high school about a ghost called "the girl who stands behind"...
+She was investigating a rumor from Ushimitsu High School about a ghost called "the girl who stands behind"...
 
 
 
@@ -11466,7 +11466,7 @@ She was investigating a rumor from Ushimitsu high school about a ghost called "t
 殺人事件の犯人の正体を
 知ってしまったようだ・・・
 
-She had just figured out the true culprit of a murder case whose statute of limitations was about to run out...
+She had just figured out the true culprit of a murder case for which the statute of limitations was about to run out...
 
 
 
@@ -11490,7 +11490,7 @@ And then she was killed...
 タザキトシオが
 最も疑わしい人物だった。
 
-The janitor at Ushimitsu high school, Toshio Tazaki, was the prime suspect.
+The janitor at Ushimitsu High School, Toshio Tazaki, was the prime suspect.
 
 
 
@@ -11514,7 +11514,7 @@ However, Tazaki...
 
 
 
-Disappeared right in front of you.
+disappeared right in front of you.
 
 
 
@@ -11634,7 +11634,7 @@ Ayumi is already gone.
 睡眠薬の瓶を発見した！
 
 
-You found a bottle of sleeping pills on the floor!
+You find a bottle of sleeping pills on the floor!
 
 
 
@@ -12090,7 +12090,7 @@ You are downtown.
 
 
 
-Shmoby: "Ayumi-chan... Where are you!"
+Shmoby: "Ayumi-chan... Where are you?!"
 
 
 
@@ -12318,7 +12318,7 @@ Man: "Really?"
 
 
 
-Club promoter: "Yes, 1 customer coming in!"
+Club promoter: "Yes, one customer coming in!"
 
 
 
@@ -12498,7 +12498,7 @@ Shmoby: "Who is that man with the frightening face that's with him...?"
 誰かがぃを呼んだ。
 
 
-Then, someone's calls for you from behind.
+Then, someone calls for you from behind.
 
 
 
@@ -12510,7 +12510,7 @@ Then, someone's calls for you from behind.
 
 
 
-...: "...Shmoby-kun?"
+???: "...Shmoby-kun?"
 
 
 
@@ -12582,7 +12582,7 @@ Shmoby: "! That was after she came to the office!"
       来ただけだって言ってたんだけど・・・
 
 
-Mother: "She said that he was just coming to offer incense to Yoko...
+Mother: "She said that she was just coming to offer incense to Yoko...
 
 
 
@@ -12594,7 +12594,7 @@ Mother: "She said that he was just coming to offer incense to Yoko...
       みたいなのよ・・・
 
 
-Mother: "She seemed to be bothered over something..."
+Mother: "She seemed to be bothered by something..."
 
 
 
@@ -12630,7 +12630,7 @@ She wasn't anywhere...
       電話をしても誰もでないし、
       探したのよ！
 
-Mother: "I tried calling you to talk with you, but nobody was there, I've been looking for you!"
+Mother: "I tried calling you to talk with you, but nobody was there. I've been looking for you!"
 
 
 
@@ -12738,7 +12738,7 @@ If so, this is bad!
 
 
 
-Shmoby: "I'm going to Tazaki's house!"
+Shmoby: "I'm going to Tazaki's apartment!"
 
 
 
@@ -12918,7 +12918,7 @@ Man: "I saw Tazaki-san running away.
     渡そうと出てきたんだけど・・・
 
 
-Man: "At that time, I came out to give him a package I had been holding on for him, but..."
+Man: "At that time, I came out to give him a package I had been holding onto for him, but..."
 
 
 
@@ -13530,7 +13530,7 @@ Tazaki: "What now... I won't be fooled!"
 タザキが一瞬顔を背けた！
 
 
-At that moment, because of a strong gust of wind, Tazaki turned his face away momentarily!
+At that moment, because of a strong gust of wind, Tazaki turns his face away momentarily!
 
 
 
@@ -14046,7 +14046,7 @@ Tazaki: "Ayumi asked me to tell the truth, and I lost my temper and said terribl
         みんな・・・殺してやる！
         あの探偵にそう言っとけと・・・
 
-Tazaki: "Any fool that follows me around...I'll kill them! Tell that to that detective too..."
+Tazaki: "'Any fool that follows me around...I'll kill them! Tell that to that detective too...'"
 
 
 
@@ -14430,7 +14430,7 @@ Shmoby: "! Wait a minute!"
 
 
 
-You are at Ushimitsu high school, and there are students around.
+You are at Ushimitsu High School, and there are students around.
 
 
 
@@ -14874,7 +14874,7 @@ Hayama: "Wait, Shmoby-kun."
         聞こえなかった？
 
 
-Hayama: "I was calling you from the faculty room, have you not heard me?
+Hayama: "I was calling you from the faculty room, did you not hear me?
 
 
 
@@ -15114,7 +15114,7 @@ Urabe: "I told a false testimony for Tazaki's sake. It is unforgivable, but...I 
         私は・・・
         大切な物を失いました・・・
 
-Urabe: "...From that case...
+Urabe: "...Because of that case...
 I lost something important."
 
 
@@ -15534,8 +15534,8 @@ Teacher: "Tachibana has you, so she's safe!"
       もし、おかしなやつなら
       校長が黙っちゃいないさ。
 
-Teacher: "I don't know who that is, but...
-If it's someone suspicious, the principal won't keep quiet about it."
+Teacher: "I don't know who he is, but...
+If he's someone suspicious, the principal won't keep quiet about it."
 
 
 せんせい　「だれだか　わからないよ。
@@ -15546,7 +15546,7 @@ If it's someone suspicious, the principal won't keep quiet about it."
 
 
 
-Teacher: "I don't know who that is."
+Teacher: "I don't know who he is."
 
 
 
@@ -15570,7 +15570,7 @@ Teacher: "Since the incident, he's become depressed..."
       一番慕っているのはヒビノ君だね。
 
 
-Teacher: "Also, the one that admires the principal the most is Hibino-kun.
+Teacher: "Also, the one who admires the principal the most is Hibino-kun.
 
 
 
@@ -15726,7 +15726,7 @@ Teacher: "What happened? So sudden..."
 校長は出かけたようだ。
 
 
-The blinds are closed, the principal seems to have left.
+The blinds are closed. The principal seems to have left.
 
 
 
@@ -15774,7 +15774,7 @@ That man isn't here anymore...
 
 
 
-Then, someone strange appeared.
+Then, someone strange appears.
 
 
 
@@ -15822,7 +15822,7 @@ Delinquent: "......"
           ちょっちツラかしな。
 
 
-Delinquent: "...You're acting too close with me, come here."
+Delinquent: "...You're acting too familiar with me, come here."
 
 
 
@@ -16266,7 +16266,7 @@ Hitomi-chan!"
           カワイひとみだ、よろしく！
 
 
-Delinquent: "I'm the head honcho at Ushimitsu high school, Hitomi Kawai, nice to meet you!"
+Delinquent: "I'm the head honcho at Ushimitsu High School, Hitomi Kawai, nice to meet you!"
 
 
 
@@ -16590,7 +16590,7 @@ It seems like I'm not going to hear anything important...
 ウラベたちに会えるかもしれない。
 
 
-I should try going downtown, maybe Urabe is meeting with the man there.
+I should try going downtown. Maybe Urabe is meeting with the man there.
 
 
 
@@ -17010,7 +17010,7 @@ Mizuno: "It seems that Goro was adopted, and not actually related to his father.
         噂になったんだよ。
 
 
-Mizuno: "That being the case, he was cable of anything... At least, that's what the rumors said."
+Mizuno: "That being the case, he was capable of anything... At least, that's what the rumors said."
 
 
 
@@ -17106,7 +17106,7 @@ now that I think of it, I got a phone call from an old friend last month.
         金を貸せと行ってきたらしいんだ。
 
 
-Mizuno: "Apparently Goro had squandered his fortune, and came to him asking for money.
+Mizuno: "Apparently Goro had squandered his fortune, and came to my friend asking for money.
 
 
 
@@ -17298,7 +17298,7 @@ Ayumi: "Ah, Shmoby-kun."
 
 
 
-Ayumi: "I haven't been able to hear anything important..."
+Ayumi: "I haven't been able to learn anything important..."
 
 
 
@@ -17514,7 +17514,7 @@ Hibino: "Could you stop talking about that..."
       よほど重要なことなのかい？
 
 
-Teacher: "Is that that important to your investigation?"
+Teacher: "Is is that important to your investigation?"
 
 
 
@@ -17622,7 +17622,7 @@ Hitomi: "It seems the guy first appeared the day after Yoko died."
         なおさらこんな所へ
         来ないだろうし・・・
 
-Hitomi: "However, if he was the culprit, you would think he would come less to a place like this...
+Hitomi: "However, if he was the culprit, you would think he wouldn't come as often to a place like this...
 
 
 
@@ -17658,7 +17658,7 @@ Hitomi: "I swore to Yoko that I would be reborn as a righteous delinquent...
 
 
 
-Hitomi: "and will surely take out our enemies..."
+Hitomi: "and would surely take out our enemies..."
 
 
 
@@ -17910,7 +17910,7 @@ Komada: "? Nobody has come here."
         生徒が騒ぎ出すんだよ。
 
 
-Komada: "The students have recently been an uproar about it."
+Komada: "The students have recently been in an uproar about it."
 
 
 
@@ -18246,7 +18246,7 @@ Ryoko: "?......"
           最初にできた友達なんです。
 
 
-Ryoko: "She was the first friend I made at Ushimitsu high school."
+Ryoko: "She was the first friend I made at Ushimitsu High School."
 
 
 
@@ -18402,7 +18402,7 @@ Ryoko: "I was so surprised that I couldn't speak, and the girl...
           コジマヨウコだと名乗ったのよ。
 
 
-Ryoko: "said she was Yoko Kojima, from Ushimitsu high school."
+Ryoko: "said she was Yoko Kojima, from Ushimitsu High School."
 
 
 
@@ -18426,7 +18426,7 @@ Shmoby: "! Yoko came here...?!"
           ずいぶん感じが違って見えるわ・・・
 
 
-Ryoko: "? This is Yoko, but the feeling she gives off is completely different..."
+Ryoko: "? This is Yoko, but the feeling she gives is completely different..."
 
 
 
@@ -18474,7 +18474,7 @@ Ryoko: "Then, as she was leaving, she said this...
 いまでもきっと、丑美津高校の
 ある場所にいます・・・
 
-...Shinobu-san is surely still at Ushimitsu high school...
+...Shinobu-san is surely still at Ushimitsu High School...
 
 
 
@@ -18570,7 +18570,7 @@ Shmoby: "Uchida...?!"
           顔を知ってるていどなの。
 
 
-Ryoko: "He also went to Ushimitsu high school, but I didn't know more than what he looked like."
+Ryoko: "He also went to Ushimitsu High School, but I didn't know more than what he looked like."
 
 
 
@@ -18582,7 +18582,7 @@ Ryoko: "He also went to Ushimitsu high school, but I didn't know more than what 
     ウチダ、と言うのですが・・・
 
 
-Shmoby: "One of the subjects in Kaneda's case was also called Uchida..."
+Shmoby: "One of the suspects in Kaneda's case was also called Uchida..."
 
 
 
@@ -18786,7 +18786,7 @@ Student: "What?"
       何しに来るのかしら・・・
 
 
-Student: "Oh, that weird guy, what is he doing here..."
+Student: "Oh, that weird guy, what has he been doing here..."
 
 
 
@@ -18846,7 +18846,7 @@ Ayumi: "Shmoby-kun, were you able to learn anything from Shinobu-san's friend?"
     その家を訪ねて行ったらしいんだ。
 
 
-Shmoby: "Actually, it seems that Yoko-san went to visit that house."
+Shmoby: "Actually, it seems that Yoko-san went to visit her."
 
 
 
@@ -19410,7 +19410,7 @@ Teacher: "...I don't believe in ghosts...
       学校のどこかにいるような
       気がするよ・・・
 
-Teacher: "But it feels like the girl who stands behind is actually somewhere at school...
+Teacher: "But it feels like the girl who stands behind is actually somewhere at school..."
 
 
 
@@ -19711,7 +19711,7 @@ Komada: "At that time, he was a teacher like me, and he was blessed with a child
         出産に耐えられず・・・
 
 Komada: "However,
-his wife, who had a weak hard, wasn't able to handle giving birth..."
+his wife, who had a weak heart, wasn't able to handle giving birth..."
 
 
 ぃ　「あかちゃんも　たすからなかった
@@ -19962,7 +19962,7 @@ Hayama: "For this to happen while the principal is absent... At any rate, I need
         やっぱりいるのよ、
         私が見たあの日からずっと・・・
 
-Hayama: "...The girl who stands behind is still here, since the day that I saw her..."
+Hayama: "...The girl who stands behind has still been here since the day that I saw her..."
 
 
 
@@ -20034,7 +20034,7 @@ Shmoby: "?! What's with that getup??"
 
 
 
-He put on non-prescription sunglasses and a wig.
+He put on non-prescription glasses and a wig.
 
 
 
@@ -20730,7 +20730,7 @@ Customer: "? Who is that?"
     なかったよ。
 
 
-Customer: "He's not great guy."
+Customer: "He's not a great guy."
 
 
 
@@ -21090,7 +21090,7 @@ With your call, Utsugi and the police come rushing!
         なってしまったね。
         これはカネダゴロウだ！
 
-Utsugi: "Shmoby-kun, something terrible has happened, hasn't it. This is Goro Kaneda!"
+Utsugi: "Shmoby-kun, something terrible has happened, hasn't it? This is Goro Kaneda!"
 
 
 
@@ -21150,7 +21150,7 @@ Shmoby: "There wasn't anybody in the room, but I saw someone running off outside
           非常口から逃げたのだろう。
 
 
-Maruyama: "! That could be the culprit, he probably escaped from the emergency exit."
+Maruyama: "! That could be the culprit, he probably escaped through the emergency exit."
 
 
 
@@ -21426,7 +21426,7 @@ There don't seem to be any witnesses for anything conclusive...
 
 
 
-Utsugi: "How's it going Shmoby-kun?"
+Utsugi: "How's it going, Shmoby-kun?"
 
 
 
@@ -21750,7 +21750,7 @@ Shmoby: "Did the detective not come back last night too?"
     今日でちょうど２週間だ、
     頑張らなきゃ！
 
-Shmoby: "! It's been exactly two weeks since Yoko was killed, I have to keep going!"
+Shmoby: "! It's been exactly two weeks since Yoko was killed. I have to keep going!"
 
 
 
@@ -21774,7 +21774,7 @@ why isn't there a single person here?!"
 
 
 
-Komada: "What all this noise?"
+Komada: "What's all this noise?"
 
 
 
@@ -21858,7 +21858,7 @@ Komada: "Really?!"
     犯人を脅したために
     殺されたのかもしれんませんよ。
 
-Shmoby: "It's possible that Goro was killed because he was threatening the culprit of Kaneda's case."
+Shmoby: "It's possible that Goro was killed because he was threatening the culprit in Kaneda's case."
 
 
 
@@ -22054,6 +22054,78 @@ Komada: "That the principal is the culprit?
 Don't say something so absurd."
 
 
+ぃ　「・・・ぼくは　せんせいを
+      たよりにしてたんです。
+
+
+ぃ「・・・僕は先生を
+    たよりにしてたんです。
+
+
+Shmoby: "I was relying on you."
+
+
+
+ぃ　「なのに　からかうなんて・・・
+
+
+
+ぃ「なのにからかうなんて・・・
+
+
+
+Shmoby: "And yet you made fun of me..."
+
+
+
+ぃ　「・・・ちょうさを　つづける
+      じしんが　なくなりました、
+      ざんねんですが　これで・・・
+
+ぃ「・・・調査を続ける
+    自信がなくなりました、
+    残念ですがこれで・・・
+
+Shmoby: "...It's unfortunate, but I've lost the confidence to continue the investigation, so..."
+
+
+
+こまだ　「ま、　まってくれ！
+          わるかった、　かんがえなおしてくれ！
+
+
+コマダ「ま、待ってくれ！
+        悪かった、考え直してくれ！
+
+
+Komada: "W-Wait!
+I'm sorry, please reconsider!
+
+
+こまだ　「と、　いうと　おもったぢゃろ？
+          そんなてで　ひっかけようとは、
+          まだまだ　あまいのう・・・
+
+コマダ「と、言うと思っただろう？
+        そんな手で引っ掛けようとは、
+        まだまだ甘いのう・・・
+
+Komada: "You thought I would say that? You're still naive if you think you can catch me with that.
+
+
+
+ぃ　「ばれてた・・・
+
+
+
+ぃ「バレてた・・・
+
+
+
+Shmoby: "I was found out..."
+
+
+
 ぃ　「？　でかけたあいだに
       でんわがあった　ようだぞ。
 
@@ -22074,8 +22146,8 @@ Shmoby: "? We got a phone call while I was out."
 今日ウチダ君やシノブと
 中学が一緒だった・・・
 
-It's Katsuragi,
-someone who went to middle school with Uchida and Shinobu...
+Hi, it's Katsuragi.
+Someone who went to middle school with Uchida and Shinobu...
 
 
 いしばし　さやかと　いうひとが
@@ -22542,7 +22614,7 @@ Bartender: "I can't see the TV from here, so I don't know what he saw."
           来るようになったのは、本当に
           運が向いてきたみたいだぜ・・・
           おっと、電話だ。
-Bartender: "Since then, he started coming regularly, so I guess he luck really did return...
+Bartender: "Since then, he started coming regularly, so I guess his luck really did return...
 Sorry, the phone is ringing."
 
 
@@ -22698,7 +22770,7 @@ Ryoko: "Oh, you were watching TV. I brought her here."
         だいたいの話はリョウコから
         聞いております。
 
-Sayaka: "Nice to meet you. My name is Sayaka Ishibashi. I've heard pretty much everything from Yoko."
+Sayaka: "Nice to meet you. My name is Sayaka Ishibashi. I've heard pretty much everything from Ryoko."
 
 
 
@@ -23466,7 +23538,7 @@ Shmoby: "...It seems that Goro was threatening...
     持ち主を脅していたようです。
     その人物は・・・
 
-Shmoby: "...the owner of the black car that ran off from the scene of the crime.  That person...
+Shmoby: "...the owner of the black car that ran off from the scene of the crime. That person...
 
 
 
@@ -23634,7 +23706,7 @@ But owning a black car is nothing unusual. Futhermore...
         遠い所におられる、
         どうやってゴロウを殺せるんだ！
 
-Komada: "The principal is at a far away place on a business trip, so how could he have killed Gorou?
+Komada: "The principal is at a far away place on a business trip, so how could he have killed Goro?
 
 
 
@@ -24030,7 +24102,7 @@ Shmoby: "You too, what are you doing here?"
         ここを通らなきゃ帰れないのよ・・・
         あっ！
 
-Hayama: "Someone parked their care in front of the gate, so I have to pass through here to get home...
+Hayama: "Someone parked their car in front of the gate, so I have to pass through here to get home...
 Ah!
 
 
@@ -24054,7 +24126,7 @@ Hayama: "That's right! On that night, I passed through this way because...
         いたからよ、だから私とっさに
         こっちへ逃げたのよ！
 
-Hayama: "someone parked their car in front of the gate, so I quickly ran away this way!"
+Hayama: "someone parked their car in front of the gate, so I quickly ran this way!"
 
 
 
@@ -24126,7 +24198,7 @@ Hayama: "?!......"
     後ろの少女は、
     あの夜、黒い車で学校へ
     連れて来られた・・・
-Shmoby: "On the night that you saw the girl who stands behind, she was brought to school in a black car...
+Shmoby: "On the night that you saw the girl who stands behind, someone was brought to school in a black car...
 
 
 
@@ -24138,7 +24210,7 @@ Shmoby: "On the night that you saw the girl who stands behind, she was brought t
     しれません・・・
 
 
-Shmoby: "She might have been Shinobu Asakawa..."
+Shmoby: "It might have been Shinobu Asakawa..."
 
 
 
@@ -24666,7 +24738,7 @@ Utsugi: "! Wait a minute. As we speak, the police are searching for Urabe.
         今から警察へ行かなきゃならない
         じゃあ行ってくるよ。
 
-Utsugi: "I need to go help the police too for the final part of their search.  I'll be back."
+Utsugi: "I need to go help the police also for the final part of their search.  I'll be back."
 
 
 
@@ -24714,7 +24786,7 @@ But, maybe he gave false testimony for Tazaki's alibi for his own sake. And furt
 タザキに罪を押し付けることまで
 考えていたのだろうか・・・？
 
-Was he thinking about pushing the guilt onto Tazaki when he got in danger...?
+Was he thinking about putting the suspicion onto Tazaki when he himself got in danger...?
 
 
 
@@ -24774,7 +24846,7 @@ Oh, the phone.
 
 
 
-Shmoby: "Hello, this is Utsugi detective agency."
+Shmoby: "Hello, this is Utsugi Detective Agency."
 
 
 
@@ -24786,7 +24858,7 @@ Shmoby: "Hello, this is Utsugi detective agency."
         あんたに誰も知らない話を
         教えてやろう・・・
 
-...: "Dude-san...
+???: "Dude-san...
 I'll tell you a story that nobody else knows...
 
 
@@ -24798,7 +24870,7 @@ I'll tell you a story that nobody else knows...
         昔、カネダの詐欺に
         手を貸していたんだぜ・・・
 
-...: "Urabe of Ushimitsu high school... Long ago, he helped Kaneda in his scams..."
+???: "Urabe of Ushimitsu High School... Long ago, he helped Kaneda in his scams..."
 
 
 
@@ -24822,7 +24894,7 @@ Shmoby: "?! Wh-what are you saying?! Hello? Who in the world are you?!"
         心から憎んでいる男だ・・・
         やつは今、学校にいるぜ・・・
 
-...: "I'm a man who hates that hypocrite Urabe from the bottom of my heart... That guy is at school right now..."
+???: "I'm a man who hates that hypocrite Urabe from the bottom of my heart... That guy is at school right now..."
 
 
 
@@ -24918,7 +24990,7 @@ you haven't seen the principal around, have you?"
         私と先生しかいないはずよ。
         でも、
 
-Ayumi: "It's just Mr. Hibino and I left here at school. But,
+Ayumi: "It's just Mr. Hibino and me left here at school. But,
 
 
 
@@ -24966,7 +25038,7 @@ Hibino: "...The principal hasn't come back from his business trip."
     いませんでした、
     そして・・・
 
-Shmoby: "...The principal wasn't at his destination, and..."
+Shmoby: "...The principal wasn't at his destination, and...
 
 
 
@@ -25110,7 +25182,7 @@ Shmoby: "Are all the windows locked too?!"
 
 
 
-Shmoby: "? There's an envelope next to the corpse!"
+Shmoby: "? There's an envelope next to the body!"
 
 
 
@@ -25302,7 +25374,7 @@ Foolishly, I didn't realize until after that. That my fate had come to this poin
 こんな簡単なことに
 なぜ、早く気づかなかったのか
 悔やまれます。
-I regret that I didn't realize sooner the simple fact it's impossible to keep something like this a secret.
+I regret that I didn't realize sooner the simple fact that it's impossible to keep something like this a secret.
 
 
 
@@ -25411,7 +25483,7 @@ Shmoby: "W-what?!"
 あゆみ「ぃ君・・・！
 
 Hibino: "If only you weren't here... You!"
-Aypumi: "Shmoby-kun...!"
+Ayumi: "Shmoby-kun...!"
 
 
 ひびの　「かねだ　げんじろう、
@@ -25422,7 +25494,7 @@ Aypumi: "Shmoby-kun...!"
         あいつさえ現れなければ
         親父も・・・シノブも！
 
-Hibino: "Genjiro Kaneda, if only they hadn't shown up, my dad...and Shinobu!
+Hibino: "Genjiro Kaneda, if only they hadn't shown up in our lives, then my dad...and Shinobu!
 
 
 
@@ -25470,7 +25542,7 @@ Hibino: "After calling the principal to say my final goodbyes... I went and kill
         血まみれのゲンジロウと
         俺を見たしのぶは、
 
-Hibino: "At that time, Shinobu appeared... Upon seeing the bloody Genjiro and I,
+Hibino: "At that time, Shinobu appeared... Upon seeing the bloody Genjiro and me,
 
 
 
@@ -25506,7 +25578,7 @@ Hibino: "...I stood there shocked, until the sound of car brakes brought me to m
         車が止まっていた。
         そばにはシノブが倒れていた・・・
 
-Hibino: "The principal's car had stopped. Next it, on the ground, was Shinobu...
+Hibino: "The principal's car had stopped. Next to it, on the ground, was Shinobu...
 
 
 
@@ -25542,7 +25614,7 @@ Hibino: "He gave Shinobu and me a ride to school. He brought us to a classroom,
         部屋を出て行かれた・・・
 
 
-Hibino: "After giving me a change of clothes, he left to another room...
+Hibino: "After giving me a change of clothes, he went to another room...
 
 
 
@@ -25890,7 +25962,7 @@ Hibino: "If it wasn't for you two meddling around, the principal wouldn't be dea
         お前らも・・・
 
 
-Hibino: "Y-you, you too..."
+Hibino: "Y-you, you two..."
 
 
 
