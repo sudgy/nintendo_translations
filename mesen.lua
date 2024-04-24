@@ -46,6 +46,14 @@ end
 local function register_frame(callback)
     emu.addEventCallback(callback, emu.eventType.startFrame)
 end
+local function register_input(callback)
+    local function real_callback()
+        input = emu.getInput(0)
+        new_input = callback(input)
+        emu.setInput(0, new_input)
+    end
+    emu.addEventCallback(real_callback, emu.eventType.inputPolled)
+end
 e = {
     clear = 0xFF000000,
     black = 0x000000,
@@ -64,5 +72,6 @@ e = {
     register_save = register_save,
     register_frame = register_frame,
     unpack = table.unpack,
-    prologue_offset = -1
+    prologue_offset = -1,
+    register_input = register_input
 }

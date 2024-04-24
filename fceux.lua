@@ -40,8 +40,48 @@ end
 local function register_save(callback)
     savestate.registerload(callback)
 end
+local function register_before(callback)
+    local old_callback = emu.registerbefore(nil)
+    if old_callback ~= nil then
+        function new_callback()
+            old_callback()
+            callback()
+        end
+        emu.registerbefore(new_callback)
+    else
+        emu.registerbefore(callback)
+    end
+end
 local function register_frame(callback)
-    emu.registerbefore(callback)
+    register_before(callback)
+end
+local function register_input(callback)
+    function real_callback()
+        -- I seriously don't know why I have to use 2 here when it should be 1
+        -- and I'm worried that this doesn't usually work
+        input = joypad.get(2)
+        new_input = callback({
+            up = input["up"],
+            down = input["down"],
+            left = input["left"],
+            right = input["right"],
+            a = input["A"],
+            b = input["B"],
+            start = input["start"],
+            select = input["select"],
+        })
+        joypad.set(1, {
+            up = new_input["up"],
+            down = new_input["down"],
+            left = new_input["left"],
+            right = new_input["right"],
+            A = new_input["a"],
+            B = new_input["b"],
+            start = new_input["start"],
+            select = new_input["select"],
+        })
+    end
+    register_before(real_callback)
 end
 local function supports_rom_swap()
     return true
@@ -63,6 +103,7 @@ e = {
     register_exec = register_exec,
     register_save = register_save,
     register_frame = register_frame,
+    register_input = register_input,
     supports_rom_swap = supports_rom_swap,
     unpack = unpack,
     prologue_offset = 0
