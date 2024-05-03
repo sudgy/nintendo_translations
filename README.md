@@ -251,9 +251,12 @@ you must input "はひ゛ふ゜" (note that there are no spaces in this string, 
 just that ゛ and ゜ have a lot of extra space in most fonts).
 
 To not spoil the game, I'll just list all of the names that are three letters
-long in Japanese letters in this game, sorted alphabetically in English.  You
-can use this list to answer any of the questions involving characters in the
-game:
+long in Japanese letters in this game, sorted alphabetically in English.  Look
+in the directory `girl_name_images` to get images showing you what to input for
+each character.  Input the red letter, then the green letter, then the blue
+letter.  A couple of the names use a letter more than once, and in those cases
+the single letter has multiple colors.  You can also use this list if you want
+to see the names in Japanese:
 
 <details>
 <summary>List of character names</summary>
