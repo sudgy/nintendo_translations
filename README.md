@@ -30,7 +30,9 @@ There are several caveats that come with this background:
 # How to Use
 
 For technical reasons, to use these scripts, you (currently) must use either
-Mesen (but not Mesen 2) or FCEUX as your emulator.  Due to the nature of how the
+Mesen (but not Mesen 2) or FCEUX as your emulator.  Note that for some reason, I
+haven't been able to get the scripts working in FCEUX on Windows.  If you can
+figure out what the problem is, let me know.  Due to the nature of how the
 entire concept works, you cannot play on original hardware.  If you want to use
 another emulator, you will have to implement it yourself (I have tried to make
 it easy to add support for emulators, but there are limitations, see below).  To
@@ -80,11 +82,12 @@ base_directory = "FILL THIS IN"
 dofile(base_directory .. "fceux.lua")
 ```
 You need to replace "FILL THIS IN" with the directory that the scripts are in.
-I know this is annoying, but it seems that Mesen can't do relative file paths
-for some reason, and to make the scripts as emulator-agnostic as possible, they
-all have to not use relative file paths.  Also, you need to make sure that the
-`dofile` line corresponding to your emulator does *not* have `--` at the
-beginning, while the other one does.
+This directory mush use forward slashes, even on Windows, and must end with a
+slash as well.  I know this is annoying, but it seems that Mesen can't do
+relative file paths for some reason, and to make the scripts as
+emulator-agnostic as possible, they all have to not use relative file paths.
+Also, you need to make sure that the `dofile` line corresponding to your
+emulator does *not* have `--` at the beginning, while the other one does.
 
 After downloading the files, making the necessary changes, and getting your rom
 loaded, load the Lua script corresponding to the game (not the Lua script
