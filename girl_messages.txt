@@ -20790,7 +20790,7 @@ Bartender: "Actually, the other day, Goro-san said this...
           知ってるだの、酒が飲めるのも
           そいつのおかげだの・・・
 
-Bartender: "'I know who killed my father, and it's thanks to him that I can drink...'
+Bartender: "'I know who killed my father, and it's thanks to them that I can drink...'
 
 
 
@@ -21150,7 +21150,7 @@ Shmoby: "There wasn't anybody in the room, but I saw someone running off outside
           非常口から逃げたのだろう。
 
 
-Maruyama: "! That could be the culprit, he probably escaped through the emergency exit."
+Maruyama: "! That could be the culprit, they probably escaped through the emergency exit."
 
 
 
