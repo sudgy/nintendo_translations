@@ -82,7 +82,7 @@ base_directory = "FILL THIS IN"
 dofile(base_directory .. "fceux.lua")
 ```
 You need to replace "FILL THIS IN" with the directory that the scripts are in.
-This directory mush use forward slashes, even on Windows, and must end with a
+This directory much use forward slashes, even on Windows, and must end with a
 slash as well.  I know this is annoying, but it seems that Mesen can't do
 relative file paths for some reason, and to make the scripts as
 emulator-agnostic as possible, they all have to not use relative file paths.
