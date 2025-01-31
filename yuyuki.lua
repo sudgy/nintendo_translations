@@ -1,4 +1,4 @@
-base_directory = "FILL THIS IN"
+base_directory = "/home/sudgy/programs/emulators/nintendo_translations/"
 --dofile(base_directory .. "mesen.lua")
 dofile(base_directory .. "fceux.lua")
 
@@ -48,6 +48,20 @@ function clear_all()
     bad_translation = true
     global_x_offset = 0
     last_option_pos = -1
+    gx = 0
+    gy = 0
+end
+
+function draw_text(x, y, text, color, back_color)
+    e.draw_text(x + gx, y + gy, text, color, back_color)
+end
+
+function draw_rect(x1, y1, x2, y2, color)
+    e.draw_rect(x1 + gx, y1 + gy, x2 + gx, y2 + gy, color)
+end
+
+function get_pixel2(x, y)
+    return e.get_pixel2(x + gx, y + gy)
 end
 
 Messages = {}
@@ -75,7 +89,7 @@ Messages.write_lag = 0
 Messages.newlines = 0
 global_x_offset = 0
 function Messages.display()
-    local scroll_color = e.get_pixel2(16, 25)
+    local scroll_color = get_pixel2(16, 25)
     local y_offset = 0
     if Messages.current_message == nil then return end
     if Messages.current_writing ~= nil then
@@ -99,29 +113,29 @@ function Messages.display()
     local i = 0
     for line in Messages.current_message:gmatch("(.-)\n") do
         local x_offset = 1
-        local heart = false
+        local heart_pos = string.find(line, "<")
         while string.byte(line, x_offset) == 92 do x_offset = x_offset + 1 end
-        if string.byte(line, x_offset) == 60 then
-            heart = true
-        end
-        if heart then
-            e.draw_text(
-                32 + x_offset + 1 + global_x_offset,
+        if heart_pos ~= nil then
+            draw_text(
+                32 + x_offset + global_x_offset,
                 158 + i*9 + y_offset,
-                "<",
+                string.sub(line, x_offset, heart_pos),
                 e.black,
                 e.clear
             )
-            e.draw_text(
-                32 + x_offset + 3 + global_x_offset,
-                158 + i*9 + y_offset,
-                string.sub(line, x_offset + 1),
-                e.black,
-                e.clear
-            )
+            if #line > heart_pos then
+                draw_text(
+                    32 + x_offset + 3 + global_x_offset - 4
+                        + string.byte(line, heart_pos + 1),
+                    158 + i*9 + y_offset,
+                    string.sub(line, heart_pos + 2),
+                    e.black,
+                    e.clear
+                )
+            end
             i = i + 1
         else
-            e.draw_text(
+            draw_text(
                 32 + x_offset + global_x_offset,
                 158 + i*9 + y_offset,
                 string.sub(line, x_offset),
@@ -131,14 +145,14 @@ function Messages.display()
             i = i + 1
         end
     end
-    local cursor_color = e.get_pixel2(35, 119)
+    local cursor_color = get_pixel2(35, 119)
     local scroll_pos = e.read(0x6B)
-    if e.get_pixel2(34, 120) ~= cursor_color and scroll_pos == 23 then
+    if get_pixel2(34, 120) ~= cursor_color and scroll_pos == 23 then
         x = 126
         y = 208
-        e.draw_rect(x, y, x + 4, y, cursor_color)
-        e.draw_rect(x+1, y+1, x + 3, y+1, cursor_color)
-        e.draw_rect(x+2, y+2, x + 2, y+2, cursor_color)
+        draw_rect(x, y, x + 4, y, cursor_color)
+        draw_rect(x+1, y+1, x + 3, y+1, cursor_color)
+        draw_rect(x+2, y+2, x + 2, y+2, cursor_color)
     end
 end
 function Messages.add_message()
@@ -161,7 +175,7 @@ function Messages.add_message()
         mess = string.char(e.unpack(value))
         local trans = Messages.translations[mess]
         if not trans then
-            opt = Options.values[4]
+            opt = Options.values[e.read(0x00B0) + 1]
             if opt then
                 i = 1
                 while string.byte(opt, i) == 92 do i = i + 1 end
@@ -195,6 +209,13 @@ function Messages.add_message()
             --end
         end
     end
+end
+function Messages.on_scroll()
+    for i=0,0x6A do
+        local this_char = e.read(0x0560 + i)
+        if this_char ~= 176 then return end
+    end
+    Messages.current_message = nil
 end
 
 Options = {}
@@ -251,7 +272,7 @@ function Options.add_value()
     end
 end
 function Options.display()
-    local scroll_color = e.get_pixel2(16, 25)
+    local scroll_color = get_pixel2(16, 25)
     if not has_values(Options.values) then return end
     for i, option in pairs(Options.values) do
         local num = -1
@@ -260,7 +281,7 @@ function Options.display()
         end
         local l = 0
         for line in option:gmatch("(.-)\n") do
-            e.draw_text(
+            draw_text(
                 33,
                 28 + i*16 + l*8 - 4*num,
                 line,
@@ -274,9 +295,9 @@ end
 
 function scroll_rect(x1, y1, x2, y2, color, flip)
     if flip then
-        e.draw_rect(y1, x1, y2, x2, color)
+        draw_rect(y1, x1, y2, x2, color)
     else
-        e.draw_rect(x1, y1, x2, y2, color)
+        draw_rect(x1, y1, x2, y2, color)
     end
 end
 
@@ -284,10 +305,10 @@ function draw_scroll(x, y, length, flip)
     if flip then
         x, y = y, x
     end
-    local black = e.get_pixel2(24, 24)
-    local background = e.get_pixel2(0, 0)
-    local scroll_color = e.get_pixel2(16, 25)
-    local dark_scroll = e.get_pixel2(17, 25)
+    local black = get_pixel2(24, 24)
+    local background = get_pixel2(8, 8)
+    local scroll_color = get_pixel2(16, 25)
+    local dark_scroll = get_pixel2(17, 25)
 
     scroll_rect(x, y, x, y + length - 1, black, flip)
     scroll_rect(x + 1, y - 7, x + 1, y + length + 6, dark_scroll, flip)
@@ -313,12 +334,12 @@ end
 
 function draw_scrolls()
     if bad_translation then return end
-    local background = e.get_pixel2(0, 0)
-    local scroll_color = e.get_pixel2(16, 25)
-    local dark_scroll = e.get_pixel2(17, 25)
+    local background = get_pixel2(8, 8)
+    local scroll_color = get_pixel2(16, 25)
+    local dark_scroll = get_pixel2(17, 25)
 
-    e.draw_rect(0, 32, 103, 231, background)
-    e.draw_rect(0, 144, 231, 231, background)
+    draw_rect(0, 32, 103, 231, background)
+    draw_rect(0, 144, 231, 231, background)
 
     local message = e.read(0x006B)
     local option = e.read(0x0071)
@@ -344,31 +365,31 @@ function draw_scrolls()
 
     function draw_messages()
         if message == 1 then return end
-        e.draw_rect(message_offset, 152, 231, 215, dark_scroll)
-        e.draw_rect(message_offset, 156, 223, 211, scroll_color)
+        draw_rect(message_offset, 152, 231, 215, dark_scroll)
+        draw_rect(message_offset, 156, 223, 211, scroll_color)
         if message == 23 then
-            e.draw_rect(24, 156, 30, 211, dark_scroll)
+            draw_rect(24, 156, 30, 211, dark_scroll)
         end
         Messages.display()
-        e.draw_rect(0, 156, message_offset - 1, 211, background)
+        draw_rect(0, 156, message_offset - 1, 211, background)
     end
     function draw_options()
         if option == 1 then return end
-        e.draw_rect(24, 32, 95, option_offset - 1, dark_scroll)
-        e.draw_rect(28, 39, 91, option_offset - 1, scroll_color)
+        draw_rect(24, 32, 95, option_offset - 1, dark_scroll)
+        draw_rect(28, 39, 91, option_offset - 1, scroll_color)
         Options.display()
-        e.draw_rect(28, option_offset, 91, 231, background)
+        draw_rect(28, option_offset, 91, 231, background)
         index = e.read(0x00B0)
         if index * 2 + 5 < option then
-            cursor_color = e.get_pixel2(204 - index * 16, 156)
+            cursor_color = get_pixel2(204 - index * 16, 156)
             if cursor_color ~= scroll_color then
                 y = 47 + index*16
-                e.draw_rect(28, y-2, 28, y+2, cursor_color)
-                e.draw_rect(29, y-1, 29, y+1, cursor_color)
-                e.draw_rect(30, y, 30, y, cursor_color)
-                e.draw_rect(91, y-2, 91, y+2, cursor_color)
-                e.draw_rect(90, y-1, 90, y+1, cursor_color)
-                e.draw_rect(89, y, 89, y, cursor_color)
+                draw_rect(28, y-2, 28, y+2, cursor_color)
+                draw_rect(29, y-1, 29, y+1, cursor_color)
+                draw_rect(30, y, 30, y, cursor_color)
+                draw_rect(91, y-2, 91, y+2, cursor_color)
+                draw_rect(90, y-1, 90, y+1, cursor_color)
+                draw_rect(89, y, 89, y, cursor_color)
             end
         end
     end
@@ -395,16 +416,44 @@ end
 -- 0: Not in game
 -- 1: In game
 function get_location()
-    if e.get_pixel2(16, 24) ~= e.get_pixel2(16, 25) then
+    if get_pixel2(16, 24) ~= get_pixel2(16, 25) then
         return 1
     else
         return 0
     end
 end
 
+shake_timer = 0
+
+function update_shaking()
+    if shake_timer > 0 then
+        shake_timer = shake_timer - 1
+        if shake_timer == 3 then
+            gx = -8
+            gy = -8
+        elseif shake_timer == 2 then
+            gx = 0
+            gy = -8
+        elseif shake_timer == 1 then
+            gx = -8
+            gy = 0
+        elseif shake_timer == 0 then
+            gx = 0
+            gy = 0
+        end
+    else
+        if e.read(0x15) == 0 and e.read(0x17) == 8 then
+            shake_timer = 4
+            gx = 0
+            gy = 0
+        end
+    end
+end
+
 function loop()
     -- This is hopefully only when the BIOS is loading the game
     if e.read(0x0022) == 16 then return end
+    update_shaking()
     local location = get_location()
     if location == 1 then
         draw_scrolls()
@@ -417,6 +466,8 @@ end
 e.register_exec(0x7951, Messages.add_message) -- Drawing at the beginning
 e.register_exec(0x79C9, Messages.add_message) -- Drawing partway through
 e.register_exec(0x7997, Messages.add_message) -- After shifting
+e.register_exec(0x79B0, Messages.add_message) -- Drawing partway through again?
+e.register_exec(0x7E44, Messages.on_scroll)
 e.register_exec(0x8FEC, Options.add_value)
 e.register_input(on_input)
 e.register_frame(loop)

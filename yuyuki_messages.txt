@@ -194,10 +194,14 @@ Chao: "Don't make me do anything strange."
 ちゃお「とれるわけないでしょ」
 チャオ「取れるわけないでしょ」
 Chao: "There's no way I can take that."
-1
+1 Use
 なにを？
 何を？
 Use what?
+1 Take
+なにを？
+何を？
+Take what?
 1
 ちゃお「やだ　もうおそいもん」
 チャオ「やだもう遅いもん」
@@ -227,3 +231,986 @@ It's an ordinary table.
 じぶんのものです
 自分の物です
 It's yours.
+9
+ちゃお「あっ！　ながれぼし」
+おもわずてをあわせ　ほしにねがいを
+いいました
+ちゃお「うんとね　あたらしい
+あいろんとぴんくのぶらうすと・・
+ぼーいふれんど！　ぼーいふれんどが
+ほしい」
+
+
+チャオ「あっ！流れ星」
+思わず手を合わせ星に願いを
+言いました
+チャオ「うんとね新しい
+アイロンとピンクのブラウスと・・
+ボーイフレンド！ボーイフレンドが
+欲しい」
+
+
+Chao: "Ah! A shooting star!"
+You involuntarily clasp your hands together and make a wish upon the star.
+
+Chao: "I want a lot, a new iron, a pink blouse...
+
+A boyfriend! I want a boyfriend!"
+
+\
+\
+1
+ちゃお「きゃっ！　なに？」
+チャオ「きゃっ！何？」
+Chao: "Ah! What?"
+1
+ちゃお「・・だれ？・・」
+チャオ「・・誰？・・」
+Chao: "...Who?..."
+2
+ちゃお「・・だれなの？
+わたしをよぶのは？」
+チャオ「・・誰なの？
+私を呼ぶのは？」
+Chao: "...Who is it?
+Who is calling for me?"
+1
+くらくて　よくみえません
+暗くてよく見えません
+It's dark, so you can't see too well.
+2
+ちゃお「なに？　おひさまが
+おちたの？」
+チャオ「何？お日様が
+落ちたの？」
+Chao: "What? Did the sun just fall down?"
+
+2
+ちゃお「えーーっ？
+な、なによあれ！」
+チャオ「えーーっ？
+な、何よあれ！」
+Chao: "Huh? Wh-what is that!?"
+
+1
+まっかにもえています
+真っ赤に燃えています
+It is burning bright red.
+1
+だれもいません
+誰もいません
+There is no one here.
+1
+おはなばたけです
+お花畑です
+You are at a flower field.
+1
+まっくらです
+真っ暗です
+It is pitch black.
+2
+ちゃお「きれいでしょ　わたしが
+そだてたの」
+チャオ「綺麗でしょ私が
+育てたの」
+Chao: "They're beautiful, right? I grew them."
+
+2
+ちいさなうちです
+ちゃお「ほっといてよ」
+小さなうちです
+チャオ「ほっといてよ」
+It's a small house.
+Chao: "Leave me alone!"
+1
+どうして？
+どうして？
+Why?
+1
+いつもつかっているあらいばです
+いつも使っている洗い場です
+This is the place that you always use for washing.
+1
+つかいなれたみずくみおけです
+使い慣れた水汲み桶です
+It's the bucket that has often been used for drawing water.
+1
+わきみずです
+湧水です
+It's spring water.
+1
+とりました
+取りました
+You take it.
+1
+おけでみずをくみました
+桶で水を汲みました
+You draw some water with the bucket.
+1
+もう　もってます
+もう持ってます
+You already have it.
+1
+みずはもうはいってます
+水はもう入ってます
+It already has water in it.
+1
+ばしゃっ！　みずをまきました
+バシャッ！水をまきました
+*Splash!* You throw the water out.
+6
+ちゃお「あつーい」
+いしのなかからなにかきこえて
+きますよ
+「うきゃきゃっ！」
+ちゃお「！」
+「うきゃきゃきゃっ！」
+チャオ「熱ーい」
+石の中から何か聞こえて
+きますよ
+「ウキャキャッ！」
+チャオ「！」
+「うきゃきゃきゃっ！」
+Chao: "It's hot!"
+You can hear something from inside the stone.
+
+"Ookyakya!"
+Chao: "!"
+"Ookyakyakya!"
+2
+ちゃお「こんばんは・・
+なんだかばかみたいね」
+チャオ「こんばんは・・
+なんだかバカみたいね」
+Chao: "Good evening...
+I feel like an idiot."
+2
+ちゃお「できるわけないでしょ
+こんなにあついのに」
+チャオ「できるわけないでしょ
+こんなに熱いのに」
+Chao: "I can't do that, this thing is hot!"
+
+1
+はなに　みずをやりました
+花に水をやりました
+You water the flowers.
+5
+いんせきにみずをかけました
+じゅーっ！
+すごいゆげがたちのぼります
+
+
+隕石に水をかけました
+ジューッ！
+すごい湯気が立ち上ります
+
+
+You throw the water on the meteorite.
+*Psshh!*
+A huge pillar of steam rises up.
+
+
+1
+ばきばきっ！　ぱかっ！
+バキバキッ！パカッ！
+*Crack! Pop!*
+13
+「うきゃきゃーっ！」
+ちゃお「きゃっ！　あなた・・
+だれ？」
+さる「うきゃっ！」
+ちゃお「どこからきたの？」
+さる「ききっ！」
+ちゃお「おうちは？」
+さる「きゃ？」
+ちゃお「ことばがはなせないのね
+・・ま、とにかくうちへいらっしゃい」
+ちゃお「なまえもわからないと
+ふべんよね・・だったらわたしが
+つけたげる　そうねえ・・」
+「うきゃきゃーっ！」
+チャオ「きゃっ！あなた・・
+誰？」
+猿「うきゃっ！」
+チャオ「どこから来たの？」
+猿「ききっ！」
+チャオ「おうちは？」
+猿「きゃ？」
+チャオ「言葉が話せないのね
+・・ま、とにかくうちへいらっしゃい」
+チャオ「名前も分からないと
+不便よね・・だったら私が
+つけたげるそうねえ・・」
+"Ookyakyaaah!"
+Chao: "Ah! Who...who are you?"
+
+Monkey: "Ookyah!"
+Chao: "Where did you come from?"
+Monkey: "Kiki!"
+Chao: "Where is your home?"
+Monkey: "Kya?"
+Chao: "You can't speak, can you.
+...Well, come with me to my house."
+Chao: "It's annoying not knowing your name... So I'll give you a name..."
+
+
+4
+ちゃお「いい？　あなたの
+なまえは　ごくうよ」
+ごくう「ごくう・・」
+ちゃお「さあ　いきましょ」
+チャオ「良い？あなたの
+名前は悟空よ」
+悟空「悟空・・」
+チャオ「さあ行きましょ」
+Chao: "Is that alright? Your name is Goku."
+
+Goku: "Goku..."
+Chao: "Alright, let's go."
+21
+ごくうをつれかえった
+ちゃおは　つぎのひからさっそく
+ことばをおしえはじめた
+ちゃお「うえをみてごらん
+あのおおきくてひろいのが　そらよ」
+ごくう「そら・」
+ちゃお「ふわふわとうかんでいる
+のが　くも」
+ごくう「くも・」
+ちゃお「これがはなで
+それがいえ　それからそれから・」
+ごくう「あたまいたい」
+ちゃお「あは♡ちょっとつめこみ
+すぎたわね　じゃあ・　あとひとつだけ
+いちばんだいじなことばをおしえるわ」
+ごくう「？」
+ちゃお「これはね　いっしょうに
+いちどだけ　このよでいちばんだいじな
+ひとにむかっていうことばよ」
+ごくう「なに？」
+ちゃお「よーくきくのよ」
+悟空を連れ帰った
+チャオは次の日から早速
+言葉を教え始めた
+チャオ「上を見てごらん
+あの大きくて広いのが空よ」
+悟空「空・」
+チャオ「ふわふわと浮かんでいる
+のが雲」
+悟空「雲・」
+チャオ「これが花で
+それが家それからそれから・」
+悟空「頭痛い」
+チャオ「あは♡ちょっと詰め込み
+すぎたわね。じゃあ・後一つだけ
+一番大事な言葉を教えるわ」
+悟空「？」
+チャオ「これはね一生に
+一度だけこの世で一番大事な
+人に向かって言う言葉よ」
+悟空「なに？」
+チャオ「よーく聞くのよ」
+You take Goku home, and the next day you immediately start teaching him how to talk.
+
+
+Chao: "Please look up.
+That big wide thing is the sky."
+Goku: "Sky..."
+Chao: "Those fluffy things floating up there are clouds."
+
+Goku: "Cloud..."
+Chao: "These are flowers, that's a house, and, and..."
+
+Goku: "Head hurts."
+Chao: "Aha <3 It's a bit much, isn't it. Well...later I'll teach you one more word.
+
+It's the most important word."
+Goku: "?"
+Chao: "It's a word that you only say to the most important person in your life."
+
+
+Goku: "What is it?"
+Chao: "Listen carefully."
+2
+ちゃお「やだー
+やっぱりいえないわ」
+チャオ「やだー
+やっぱり言えないわ」
+Chao: "Nooo! I can't say it after all!"
+
+3
+ごくう「？？？」
+ちゃお「れんあいしょうせつの
+よみすぎかなあ・・」
+悟空「？？？」
+チャオ「恋愛小説の
+読みすぎかなあ・・」
+Goku: "???"
+Chao: "I read too many romance novels..."
+
+4
+ちゃおのせわにより
+あかんぼうのようだったごくうも
+ひをおって　たくましくせいちょうして
+いった
+チャオの世話により
+赤ん坊のようだった悟空も
+日を追ってたくましく成長して
+いった
+Under your care, Goku, who was like a baby,
+
+steadily grew stronger day by day.
+
+3
+ちょっとぎょうぎがわるいですね
+ちゃお「いってもなおさないの
+でも　かわいいでしょ」
+ちょっと行儀が悪いですね
+チャオ「いっても直さないの
+でもかわいいでしょ」
+His manners are a little bad, aren't they.
+Chao: "Even if he doesn't improve his manners, he's still cute."
+
+1
+いいてんきです
+いい天気です
+It's a nice day.
+10
+ちゃお「ねえ　どこからとんで
+きたのかまだおもいだせない？」
+ごくう「うきっ　？？？」
+ちゃお「そう・・そのほうが
+いいかもね　いつまでもここに
+いればいいわ」
+ごくう「・・ん」
+ちゃお「そう　そう
+たべおわったら　おみずくんできてね」
+ごくう「・・みず」
+チャオ「ねえどこから飛んで
+きたのかまだ思い出せない？」
+悟空「うきっ？？？」
+チャオ「そう・・その方が
+良いかもねいつまでもここに
+いれば良いわ」
+悟空「・・ん」
+チャオ「そうそう
+食べ終わったらお水汲んできてね」
+悟空「・・水」
+Chao: "Hey, can you still not remember where you flew here from?"
+
+Goku: "Ook???"
+Chao: "I see... Maybe it's better that way. You can stay here forever."
+
+
+Goku: "...Hn."
+Chao: Once you've finished eating, go get some water."
+
+Goku: "...Water."
+2
+ちゃお「おみずおねがいね」
+ごくう「うきゃ！」
+チャオ「お水お願いね」
+悟空「うきゃ！」
+Chao: "Please get the water."
+Goku: "Ookya!"
+2
+ちゃお「わたしはもう
+すませちゃった」
+チャオ「私はもう
+住ませちゃった」
+Chao: "I already finished."
+
+1
+ちゃお「べつにようはないわ」
+チャオ「別に用はないわ」
+Chao: "I don't really have anything to do out there."
+1
+ごくう「・・みた」
+悟空「・・見た」
+Goku: "...Looked."
+2
+ごくう「・・おれのだ」
+ちゃお「とらないわよ」
+悟空「・・俺のだ」
+チャオ「取らないわよ」
+Goku: "Mine."
+Chao: "Don't take it!"
+1
+ごくう「・・とった」
+悟空「・・取った」
+Goku: "...Took."
+1
+ごくう「んご、んご」
+悟空「んご、んご」
+Goku: "*Munch munch*"
+1
+しょくじちゅうです
+食事中です
+You're in the middle of eating.
+2
+ごくう「んご、んご・・
+んー　くった」
+悟空「んご、んご・・
+んー食った」
+Goku: "*Munch munch*...
+Mmmm. Ate."
+3
+ごくう「・・くった」
+ちゃお「ごちそうさまは？」
+ごくう「・・ご・・ご」
+悟空「・・食った」
+チャオ「ごちそうさまは？」
+悟空「・・ご・・ご」
+Goku: "...Ate."
+Chao: "Can you say 'Thanks for the food'?"
+Goku: "...Tha...tha..."
+1
+ごくう「もうない・・」
+悟空「もうない・・」
+Goku: "No more..."
+1
+ごくう「・・みず」
+悟空「・・水」
+Goku: "...Water."
+1
+ごくうはいません
+悟空はいません
+Goku isn't here.
+1
+ごくう「うきゃきゃ！てんき！」
+悟空「うきゃきゃ！天気！」
+Goku: "Ookyakya! Weather!"
+2
+ちゃお「おみずは？」
+ごくう「・・まだ」
+チャオ「お水は？」
+悟空「・・まだ」
+Chao: "Where's the water?"
+Goku: "...Yet."
+2
+ごくう「これおぼえた・・
+はな・・」
+悟空「これ覚えた・・
+花・・」
+Goku: "Remember these...
+Flowers..."
+1
+ごくう「ちいさい・・」
+悟空「小さい・・」
+Goku: "Small..."
+1
+ごくう「とったーっ！」
+悟空「取ったーっ！」
+Goku: "Took!"
+1
+ごくう「くんだーっ！」
+悟空「汲んだーっ！」
+Goku: "Scooped!"
+2
+あれ？　もりのほうでなにか
+ひかってます
+あれ？森の方で何か
+光ってます
+Oh? Something is shining in the forest.
+
+2
+なにがひかってるのでしょう
+ここからではわかりません
+何が光ってるのでしょう
+ここからでは分かりません
+Something seems to be shining, but you can't tell what it is from here.
+
+1
+ごくう「うきゃ！もり！みる！」
+悟空「うきゃ！森！見る！」
+Goku: "Ookya! Forest! Look!"
+2
+これはごくうがはいっていた
+いんせきです
+これは悟空が入っていた
+隕石です
+This is the meteorite you were in.
+
+1
+すこしやけたあとがのこっています
+少し焼けた跡が残っています
+There's still a few burn marks.
+4
+ごくう「ん？」
+いんせきのなかにひかるももが
+ありました
+これはいったい・・
+悟空「ん？」
+隕石の中に光る桃が
+ありました
+これは一体・・
+Goku: "Hn?"
+Inside the meteorite is a glowing peach.
+
+What in the world is this...
+1
+ちじょうのものではないようです
+地上のものではないようです
+It doesn't seem to have come from earth.
+1
+ほかにはとくに・・
+他には特に・・
+There isn't really anything else...
+1
+ごくう「へんなの」
+悟空「変なの」
+Goku: "Strange."
+2
+ごくう「あーん」
+そのとき・・
+悟空「あーん」
+その時・・
+Goku: "Ahhh"
+And then...
+6
+「あーっ！　やっとみつけたぞ！
+こんなところにいたのか！」
+ごくう「？？？」
+「あいつもいっしょか？」
+ごくう「？？？」
+「おしゃかさまにほうこくしてやる」
+「あーっ！やっと見つけたぞ！
+こんな所にいたのか！」
+悟空「？？？」
+「あいつも一緒か？」
+悟空「？？？」
+「お釈迦様に報告してやる」
+"Ah! I finally found you!
+What were you doing in a place like this!?"
+Goku: "???"
+"Are they also with you?"
+Goku: "???"
+"I must go report this to the Buddha."
+1
+ちゃお「ごくうー・・」
+チャオ「悟空ー・・」
+Chao: "Gokuuu..."
+1
+ちゃお「ごくうー！」
+チャオ「悟空ー！」
+Chao: "Gokuuu!"
+5
+ちゃお「どうしたの？
+いまのだれ？」
+ごくう「しらない・・」
+ちゃお「・・あれ？」
+ごくう「？？？」
+チャオ「どうしたの？
+今の誰？」
+悟空「知らない・・」
+チャオ「・・あれ？」
+悟空「？？？」
+Chao: "What's going on?
+Who was that just now?"
+Goku: "Don't know..."
+Chao: "...Huh?"
+Goku: "???"
+7
+ちゃお「なに？このひかりは？」
+ごくう「！！！」
+あたりがまばゆいひかりにつつまれた
+しゅんかんごくうのからだが
+ちゅうにまった
+
+
+チャオ「何？この光は？」
+悟空「！！！」
+辺りがまばゆい光に包まれた
+瞬間悟空の体が
+宙に舞った
+
+
+Chao: "Huh? What's this light?"
+Goku: "!!!"
+As the area gets surrounded in light, Goku's body flies into the air.
+
+
+\
+\
+3
+ちゃお「ごくう！
+どこへいくの？　まって！」
+ごくう「きーっ！やだーっ！」
+チャオ「悟空！
+どこへ行くの？待って！」
+悟空「きーっ！やだーっ！」
+Chao: "Goku!
+Where are you going? Wait!"
+Goku: "Ook! Nooo!"
+5
+いったい「さて　ふしぎなさる
+ごくうがちゃおとへいわに
+くらしておったのもつかのま
+ごくうはなにやらむかしのつみで
+おしゃかさまによびだされたらしい」
+一体「さて不思議な猿
+悟空がチャオと平和に
+暮らしておったのもつかの間
+悟空は何やら昔の罪で
+お釈迦様に呼び出されたらしい」
+Ittai: "Well, while the marvelous monkey Goku peacefully lived with Chao, it seems that Goku was called by the Buddha because of some old sin."
+
+
+
+
+14
+おしゃかさま「ごくうよ
+ひさしぶりだな」
+ごくう「おまえ・・」
+おしゃかさま「おもいだしたか？」
+ごくう「うーん・・
+あたまいたい・・」
+おしゃかさま「かなたへ　ついほう
+してもかえってくるとは・・
+しかたあるまい・・
+ごぎょうざんのろうやへはいって
+もらおう
+そなたはそんなおろかものではないはず
+よくかんがえてみるがいい」
+ごくう「あーっ！」
+お釈迦様「悟空よ
+久しぶりだな」
+悟空「お前・・」
+お釈迦様「思い出したか？」
+悟空「うーん・・
+頭痛い・・」
+お釈迦様「彼方へ追放
+しても帰ってくるとは・・
+仕方あるまい・・
+五行山の牢屋へ入って
+もらおう
+そなたはそんな愚か者ではないはず
+よく考えてみるがいい」
+悟空「あーっ！」
+Buddha: "Goku, it's been a long time."
+
+Goku: "You..."
+Buddha: "Do you remember?"
+Goku: "Hmm...my head hurts..."
+
+Buddha: "I banished you to a faraway land, and yet you returned...
+
+It can't be helped...
+I'll have you jailed in the Five Elements Mountain.
+
+You shouldn't be such a fool, so you should think about it carefully."
+
+Goku: "Aaah!"
+3
+ここはどこ？
+ごくう「くらいよー
+せまいよー」
+ここはどこ？
+悟空「暗いよー
+狭いよー」
+Where is this?
+Goku: "It's dark,
+and cramped."
+2
+いわでかこまれています
+ごくう「あついな・・」
+岩で囲まれています
+ごくう「厚いな・・」
+You are surrounded by stone.
+Goku: "It's thick..."
+1
+ただのいわかべです
+ただの岩壁です
+It's an ordinary rock wall.
+1
+ごくう「おーい・・だれか」
+悟空「おーい・・誰か」
+Goku: "Hey...anyone?"
+1 Take
+なにもありません
+何もありません
+There is nothing to take.
+2
+ここはろうやです
+どこへもいけません
+ここは牢屋です
+どこへも行けません
+This is a jail.
+You can't go anywhere.
+3
+みつめると　なにか　とおいカコの
+じぶんが　かたりかけてくるような
+きもちになります
+見つめると何か遠い過去の
+自分が語りかけてくるような
+気持ちになります
+Gazing at it, you feel like it is speaking to you about your distant past.
+
+
+2
+ごくう「・・うーん　あー・・
+でもおれいったい・・」
+悟空「・・うーんあー・・
+でも俺一体・・」
+Goku: "...Hngh...Agh...
+But who in the world am I..."
+2
+ごくう「・・うーん・・
+・・うーん・・うーん・・」
+悟空「・・うーん・・
+・・うーん・・うーん・・」
+Goku: "...Hmmm...
+...Hmmm...Hmmm..."
+7
+ごくう「くっそー！　もう
+どうでもいい！」
+むしゃ　むしゃ
+このよのものとはおもえない
+へんなあじが・・
+
+
+悟空「くっそー！もう
+どうでもいい！」
+むしゃむしゃ
+この世の物とは思えない
+変な味が・・
+
+
+Goku: "Damn it! I don't care anymore!"
+
+*Chomp chomp*
+It has a strange taste, like it's not of this world...
+
+\
+\
+2
+ごくう「あーっ！
+おもいだしたーっ！」
+悟空「あーっ！
+思い出したーっ！」
+Goku: "Ahh! I remember!"
+
+6
+ごくう「おれは・　あいつと・
+えーと　なまえは・　そうだ
+ぎゅうまおう！　あいつといっしょに
+てんかいをもうすこしでせいふく
+できるところだったんだ・・それを
+しゃかに・・」
+悟空「俺は・あいつと・
+えーと名前は・そうだ
+牛魔王！あいつと一緒に
+天界をもう少しで征服
+できるところだったんだ・・それを
+釈迦に・・」
+Goku: "I...and that guy... Uh, who was he... That's right, the Bull Demon King! The two of us were so close to conquering the heavenly realm... And the Buddha..."
+
+
+
+
+
+21
+おしゃかさま「やっとおもいだしたか
+あまりのわるさにたえかねたわたしは
+そなたたちふたりを　このよのはてへ
+ついほうした
+だが　ふたたびまいもどってくるとは・
+なんというしゅうねんぶかさよ」
+ごくう「ちくしょう！　だせ！」
+おしゃかさま「ぎゅうまおうはいま
+ちじょうのどこかで　ふたたび
+わるだくみをかんがえているに
+ちがいない
+ごくうよ　ぎゅうまおうを
+みつけだし　あやつのわるさを
+やめさせるのだ　それができるのは
+そなたしかおらぬ・・」
+ごくう「ふざけるな！そんなこと
+だれがするもんか！」
+おしゃかさま「そうか　ならば
+いっしょうそこでくらすがよい」
+
+
+お釈迦様「やっと思い出したか
+あまりの悪さに耐え兼ねた私は
+そなたたち二人をこの世の果てへ
+追放した
+だが再び舞い戻ってくるとは・
+なんという執念深さよ」
+悟空「ちくしょう！だせ！」
+お釈迦様「牛魔王は今
+地上のどこかで再び
+悪だくみを考えているに
+違いない
+悟空よ牛魔王を
+見付だしあやつの悪さを
+止めさせるのだそれができるのは
+そなたしかおらぬ・・」
+悟空「ふざけるな！そんなこと
+誰がするもんか！」
+お釈迦様「そうかならば
+一生そこで暮らすが良い！」
+
+
+Buddha: "You finally remembered?
+I couldn't stand your evil any longer and banished the two of you to the edge of this world.
+
+
+But you came back...
+What persistence."
+Goku: "Damn you! Let me go!"
+Buddha: "The Bull Demon King is now somewhere on the earth, and is no doubt planning to continue his wickedness once again.
+
+
+
+Goku, you must find the Bull Demon King and stop his evil acts, for this is something that only you can do..."
+
+
+
+Goku: "Don't mess with me! Who would do something like that!?"
+
+Buddha: "Well then, you can stay there your whole life for all I care!"
+
+\
+\
+2
+ごくう「くそーっ！　だせーっ！
+ここからだせーっ！　ちくしょーっ！」
+悟空「くそーっ！出せーっ！
+ここから出せーっ！ちくしょーっ！」
+Goku: "Damn it! Let me out! Let me out of here! Damn you!"
+
+3
+ちゃおは　そらにきえた
+ごくうのことがしんぱいで
+そらをみあげていた
+チャオは空に消えた
+悟空のことが心配で
+空を見上げていた
+Chao is looking at the sky, worrying about how Goku had disappeared into the sky.
+
+
+1
+ちゃお「ごくうーっ！」
+チャオ「悟空ーっ！」
+Chao: "Gokuuu!"
+3
+ちゃお「あっ！
+ごくう？　ちがうわ・・
+かみさま？」
+チャオ「あっ！
+悟空？違うわ・・
+神様？」
+Chao: "Ah! It's Goku! No...
+
+Is that God?"
+3
+ちゃお「かみさま　おねがい
+ごくうはどこへいったの？
+やっとできたかぞくなのに」
+チャオ「神様お願い
+悟空はどこへ行ったの？
+やっとできた家族なのに」
+Chao: "God, please, can you tell me where Goku went? Even though I finally was able to have a family."
+
+
+1
+このままかえるわけにはいきません
+このまま帰るわけには行きません
+You can't go back in this situation.
+1
+そらはすんでいます
+空は澄んでいます
+The sky is clear.
+1
+こうごうしいひかりをはなってます
+神々しい光を放ってます
+It is giving off a divine light.
+2
+ちゃお「かみさま！」
+おしゃかさま「わたしはかみではない」
+チャオ「神様！」
+お釈迦様「私は神ではない」
+Chao: "God!"
+Buddha: "I am not God."
+24
+おしゃかさま「そなたがさがしておる
+さるめは　てんかいでわるさをはたらき
+ろうにとじこめておる
+たすけてやりたいというのなら
+あやつをおとなしいさるに
+せねばならない」
+ちゃお「どうすれば？」
+おしゃかさま「おんなむらに
+ひかりのこづちなるものがある」
+ちゃお「ひかりのこづち・・」
+おしゃかさま「ねじまがったこころに
+ひかりをあて　すなおなきもちを
+よびもどす・・というそのこづちで
+あやつのましょうのものをとりはらえば
+ろうからでて　しずかなくらしが
+できるであろう」
+ちゃお「おんなむらのひかりの
+こづちね　わかったわ　わたし　きっと
+さがしてみせる！」
+おしゃかさま「がんばれ」
+ちゃお「すきよ　おしゃかさま」
+おしゃかさま「む、むむ・」
+
+
+お釈迦様「そなたが探しておる
+猿めは天界で悪さを働き
+牢に閉じ込めておる
+助けてやりたいと言うのなら
+あやつをおとなしい猿に
+せねばならない」
+チャオ「どうすれば？」
+お釈迦様「女村に
+光の小槌なる物がある」
+チャオ「光の小槌・・」
+お釈迦様「捻じ曲がった心に
+光を当て素直な気持ちを
+呼び戻す・・と言うその小槌で
+あやつの魔性の物を取り払えば
+牢から出て静かな暮らしが
+できるであろう」
+チャオ「女村の光の
+小槌ね分かったわ私きっと
+探してみせる！」
+お釈迦様「がんばれ」
+チャオ「好きよお釈迦様」
+お釈迦様「む、むむ・」
+
+
+Buddha: "That damn monkey you are looking for was causing mischief in heaven and has now been locked up in jail.
+
+
+If you want to save him, you must make him well-behaved."
+
+
+Chao: "How?"
+Buddha: "In the woman's village, there is an object called the mallet of light."
+
+Chao: "The mallet of light..."
+Buddha: "It shines a light on a twisted heart and brings back gentle feelings...
+
+
+Using that mallet, if you can remove his devilish nature, he will get out of jail and can live a quiet life."
+
+
+Chao: "I understand, I'll search for the mallet of light in the woman's village!"
+
+
+Buddha: "Good luck."
+Chao: "I like you, Buddha."
+Buddha: "O-okay..."
+\
+\
+2
+いったい「こうしてちゃおは
+こづちをさがすたびにでたのじゃった」
+一体「こうしてチャオは
+小槌を探す旅に出たのだった」
+Ittai: "Thus, Chao set out on a journey to find the mallet."
+
