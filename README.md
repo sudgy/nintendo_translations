@@ -405,9 +405,9 @@ again to return.
 <summary>The Jizo Statue's Hat</summary>
 
 A poor, old couple don't enough mochi for New Year's.  The old man goes into
-town to sell his straw hat and raincoat to buy some, but on the way he sees
-several Jizo statues, with one of them missing its straw hat and raincoat.  He
-ends up giving the Jizo statue his hat and raincoat and goes home emptyhanded.
+town to sell his bamboo hats to buy some.  He sees several Jizo statues, and
+ends up giving them his bamboo hats.  He had one too little hats for them, so he
+gave the last one his raincoat.  Thus, the old man went home home emptyhanded.
 However, the Jizo statues come by and leave the old couple many things as
 thanks, allowing them to celebrate the new year.
 </details>
