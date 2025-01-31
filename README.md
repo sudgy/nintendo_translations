@@ -587,6 +587,13 @@ wings.  In folklore they're often portrayed as being a little silly and easily
 tricked, despite this not being how they're portrayed in mythology.
 </details>
 
+<details>
+<summary>Namazu</summary>
+
+The namazu is a giant underground catfish that causes earthquakes.  Apparently
+catfish and earthquakes are generally seen to be connected in Japan.
+</details>
+
 </details>
 
 <details>
