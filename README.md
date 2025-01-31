@@ -605,6 +605,41 @@ huge boom of female college students.  This became dated so quickly that in
 later rereleases of the game they actually changed this reference.
 </details>
 
+## Famicom Mukashibanashi: Yuyuki
+
+THIS GAME ISN'T FINISHED YET!  At the time of writing I have only finished
+chapter one.
+
+The biggest note here relates to the names of the main characters.  This game is
+based on the Chinese novel Journey to the West, and many of the characters here
+are directly from the novel.  However, given that the game was made in Japan,
+the question arises: Should I use the Chinese names or the Japanese names?  For
+example, if you read an English translation of Journey to the West, one of the
+main characters is called Sun Wukong.  However, in Japan, he is known as Son
+Goku, which is the name used in this game.  I was debating which to use, but
+I've noticed that Nintendo themselves have used the Japanese name in English
+translations in a few of their cameo appearances, such as a spirit in Super
+Smash Bros. Ultimate.  Thus, to be consistent with Nintendo, I have chosen to
+use the Japanese names.  For those of you who are familiar with the Chinese
+names, here's each of the character's Chinese and Japanese names (not yet
+finished since I haven't finished translating):\
+Sun Wukong: Son Goku\
+Chao seems to be an original character.
+
+If you've played Shin Onigashima using my scripts, you may notice that the text
+isn't vertical here.  That's because through the efforts of lots of scripting,
+I've managed to get the text horizontal, despite the text originally being
+vertical!  I may go back to Shin Onigashima to make this work there too, but
+that will be a fair bit of effort and for now I want to focus on translating
+more games.
+
+During chapter one, there are two name input screens.  **On these screens, do
+not push A or B!**  Instead, press start immediately.  If you press start
+without inputting anything else, they will be given the default names ちゃお
+(Chao) and ごくう (Goku), which is what the script assumes their names will be.
+If you give them other names, the script will not be able to translate any of
+the messages that include their names.
+
 # Technical Details
 
 You might notice a bunch of .cpp files in addition to the Lua scripts.  This is
