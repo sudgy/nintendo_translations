@@ -86,3 +86,111 @@ Think
 God
 おしゃかさま
 Buddha
+すくーたー
+Scooter
+やま
+Mountain
+いずみ
+Fountain
+うかぶなにか
+Floating object
+すいとう
+Water bottle
+さばく
+Desert
+たいよう
+Sun
+すな
+Sand
+しょうはじめ
+Start of chapter
+みない
+Don't look
+むしする
+Ignore
+さる
+Monkey
+いわ
+Rock
+よむ
+Read
+もじ
+Writing
+なぐる
+Hit
+ぼうず
+Monk
+さんぞう
+Sanzo
+こうかいする
+Regret
+みみをかす
+Listen
+かさない
+Don't listen
+わっか
+Band
+ついていく
+Follow
+いやだ
+No
+しょうがない
+Can't be helped
+ぜったいいやだ
+Absolutely not
+むら
+Village
+みぎのいえ
+Right house
+みせ
+Store
+ひだりのいえ
+Left house
+きんこじゅ
+Tight band
+いえのなか
+Inside the house
+いえのひと
+Person in house
+のむ
+Drink
+しゅじん
+Owner
+むらのこと
+About the village
+つぎのむら
+Next village
+おしながき
+Menu
+らーめん
+Ramen
+ぎょうざ
+Gyoza
+やきそば
+Yakisoba
+すぶた
+Sweet and sour pork
+ちゃーはん
+Fried rice
+しゅうまい
+Shumai
+まだたのむ
+Order more
+これでいい
+This is good
+やじうま
+Onlookers
+みち
+Road
+いいはなしだ
+Good idea
+だれが！
+Who!?
+うん！
+Yeah!
+やめる
+Cancel
+いいだろう
+Sure
+ばかをいえ
+Don't be stupid

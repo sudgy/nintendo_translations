@@ -264,9 +264,9 @@ function Options.add_value()
             if value[1] ~= 0 then
                 e.log("Could not find translation for option")
                 Options.values[total - this+1] = "UNKNOWN\n"
-                --for i = 1,#value do
-                --    print(string.format("%x", value[i]) .. " " .. tostring(value[i]))
-                --end
+                for i = 1,#value do
+                    print(string.format("%x", value[i]) .. " " .. tostring(value[i]))
+                end
             end
         end
     end

@@ -5,7 +5,7 @@
 澄み切った夜空
 降るような星が煌めく
 ある夜
-On a perfectly clear night sky, the stars twinkle, as if they were coming down.
+On a perfectly clear night sky, the stars shine, like they are coming down.
 
 
 2
@@ -14,7 +14,7 @@ On a perfectly clear night sky, the stars twinkle, as if they were coming down.
 わっ！
 本当に降ってきた！
 Ah!
-They actually are coming down!
+One actually is coming down!
 3
 ぜんぺんの
 えーめんを
@@ -65,7 +65,7 @@ B side of disk one.
 \
 Ittai: "Hello everyone, how have you been?
 
-Today, we will be telling a new story, so... For this story,
+Today, we will be telling a new story, so...for this story,
 
 
 could you start with naming this girl who will be one of its characters?
@@ -220,7 +220,7 @@ Chao: "I'm not tired yet!"
 素敵なボーイフレンド欲しいなあ」
 夜がだんだん更けていきます
 It's a romance novel.
-Chao: "Ah, I want a handsome boyfriend too..."
+Chao: "Ah, I want a handsome boyfriend, too..."
 
 The night gradually gets later and later.
 1
@@ -253,7 +253,7 @@ It's yours.
 Chao: "Ah! A shooting star!"
 You involuntarily clasp your hands together and make a wish upon the star.
 
-Chao: "I want a lot, a new iron, a pink blouse...
+Chao: "I want so many things, a new iron, a pink blouse...
 
 A boyfriend! I want a boyfriend!"
 
@@ -333,7 +333,7 @@ This is the place that you always use for washing.
 1
 つかいなれたみずくみおけです
 使い慣れた水汲み桶です
-It's the bucket that has often been used for drawing water.
+It's the bucket that is often used for drawing water.
 1
 わきみずです
 湧水です
@@ -408,7 +408,7 @@ You water the flowers.
 
 You throw the water on the meteorite.
 *Psshh!*
-A huge pillar of steam rises up.
+A huge pillar of steam rises.
 
 
 1
@@ -523,14 +523,14 @@ Goku: "Cloud..."
 Chao: "These are flowers, that's a house, and, and..."
 
 Goku: "Head hurts."
-Chao: "Aha <3 It's a bit much, isn't it. Well...later I'll teach you one more word.
+Chao: "Aha <3 It's a bit much, isn't it? Well...later I'll teach you one more word.
 
 It's the most important word."
 Goku: "?"
 Chao: "It's a word that you only say to the most important person in your life."
 
 
-Goku: "What is it?"
+Goku: "What?"
 Chao: "Listen carefully."
 2
 ちゃお「やだー
@@ -569,7 +569,7 @@ steadily grew stronger day by day.
 ちょっと行儀が悪いですね
 チャオ「いっても直さないの
 でもかわいいでしょ」
-His manners are a little bad, aren't they.
+His manners are a little bad, aren't they?
 Chao: "Even if he doesn't improve his manners, he's still cute."
 
 1
@@ -752,7 +752,7 @@ What in the world is this...
 1
 ちじょうのものではないようです
 地上のものではないようです
-It doesn't seem to have come from earth.
+It doesn't seem to have come from Earth.
 1
 ほかにはとくに・・
 他には特に・・
@@ -782,7 +782,7 @@ And then...
 悟空「？？？」
 「お釈迦様に報告してやる」
 "Ah! I finally found you!
-What were you doing in a place like this!?"
+What are you doing in a place like this!?"
 Goku: "???"
 "Are they also with you?"
 Goku: "???"
@@ -828,7 +828,7 @@ Goku: "???"
 
 Chao: "Huh? What's this light?"
 Goku: "!!!"
-As the area gets surrounded in light, Goku's body flies into the air.
+As the area gets enveloped in light, Goku's body flies into the air.
 
 
 \
@@ -899,7 +899,7 @@ Buddha: "I banished you to a faraway land, and yet you returned...
 It can't be helped...
 I'll have you jailed in the Five Elements Mountain.
 
-You shouldn't be such a fool, so you should think about it carefully."
+You shouldn't be such a fool, so you should think about things carefully."
 
 Goku: "Aaah!"
 3
@@ -1126,7 +1126,7 @@ The sky is clear.
 1
 こうごうしいひかりをはなってます
 神々しい光を放ってます
-It is giving off a divine light.
+A divine light is being emitted.
 2
 ちゃお「かみさま！」
 おしゃかさま「わたしはかみではない」
@@ -1190,7 +1190,7 @@ If you want to save him, you must make him well-behaved."
 
 
 Chao: "How?"
-Buddha: "In the woman's village, there is an object called the mallet of light."
+Buddha: "In the women's village, there is an object called the mallet of light."
 
 Chao: "The mallet of light..."
 Buddha: "It shines a light on a twisted heart and brings back gentle feelings...
@@ -1199,7 +1199,7 @@ Buddha: "It shines a light on a twisted heart and brings back gentle feelings...
 Using that mallet, if you can remove his devilish nature, he will get out of jail and can live a quiet life."
 
 
-Chao: "I understand, I'll search for the mallet of light in the woman's village!"
+Chao: "I understand, I'll search for the mallet of light in the women's village!"
 
 
 Buddha: "Good luck."
@@ -1214,3 +1214,2278 @@ Buddha: "O-okay..."
 小槌を探す旅に出たのだった」
 Ittai: "Thus, Chao set out on a journey to find the mallet."
 
+15
+
+二しょう
+
+すうねんのつきひがながれた
+ちじょうでは　おそろしいことが
+おきていた
+うしのばけもの　ぎゅうまおうと
+そのてしたがちじょうをおそい
+かくちに　せいりょくをのばして
+いたのである
+ぎゅうまおう「わははは！　このよは
+すべてわしのもの！　さからうやつは
+みなごろしだ！」
+ひとびとは　おびえ　にげまどう
+くらしを　しいられていた
+
+二章
+
+数年の月日が流れた
+地上では恐ろしいこと
+起きていた
+牛の化け物牛魔王と
+その手下が地上を遅い
+各地に勢力を伸ばして
+いたのである
+牛魔王「わははは！この世
+全てわしの物！逆らうやつは
+皆殺しだ！」
+人々は怯え逃げ惑う
+暮らしを強いられていた
+\
+Chapter 2
+\
+Several years passed, and something terrible happened on the earth.
+
+
+A monstrous bull, the Bull Demon King, and his henchmen have been slowly spreading their reach across the whole earth.
+
+
+
+Bull Demon King: "Wahahaha! Everything in this world is mine! I'll kill anyone that opposes me!"
+
+
+Everybody was fleeing in terror.
+
+8
+そんなこととはつゆしらず
+ちょうあんのまちをあとにする
+おぼうさまがひとり
+かれのなは　さんぞうほうし
+てんじくにあるとつたえられている
+ありがたーい　おきょうを
+とりにいくところです
+さんぞう「ぱーらだいすうー」
+そんなこととは露知らず
+長安の町を後にする
+お坊様が一人
+彼の名は三蔵法師
+天竺にある伝えられている
+ありがたーいお経を
+取りに行くところです
+三蔵「パーラダイスウー」
+Unaware of these things,
+a lone monk sets off from the city of Chouan.
+
+His name is Sanzo, and he is on his way to India to bring back VERY blessed scriptures.
+
+
+
+Sanzo: "Paradiiiise!"
+4
+まちをでると　いきなりなにも
+ないところです
+さんぞう「てんじくへは　さばくを
+こえねばならんのだな・・どっちだ？」
+町を出るといきなり何も
+ない所です
+三蔵「天竺へは砂漠を
+越えねばならんのだな・・どっちだ？」
+After leaving the city, you are suddenly in the middle of nowhere.
+
+Sanzo: "To get to India, I have to cross the desert... Which way is that?"
+
+2
+ひとりたびです
+さんぞう「ぱーらだーいすうー」
+一人旅です
+三蔵「パーラダーイスウー」
+You are travelling alone.
+Sanzo: "Paradiiise!"
+1
+めぼしいものはありません
+めぼしい物はありません
+There is nothing notable to take.
+3
+いまつかってます
+さんぞう「かいちょう　かいちょう」
+すくーたー「ぶぉん　ぶぉん」
+今使ってます
+三蔵「かいちょうかいちょう」 I'm sorry I have zero idea what Sanzo is saying here
+スクーター「ぶぉんぶぉん」
+You're using it right now.
+Scooter: "Vrrm vrrm!"
+
+1
+さんぞう「どっちへいけばいいんだ？」
+三蔵「どっちへ行けばいいんだ？」
+Sanzo: "Where should I go?"
+1
+さんぞう「じゅんびはこれでいいかな」
+三蔵「準備はこれでいいかな」
+Sanzo: "I'm ready to go, right?"
+2
+さんぞう「まちへはもどりたく
+ないんだな」
+三蔵「町へは戻りたく
+ないんだな」
+Sanzo: "I don't want to go back to the city, y'know?"
+
+2
+さんぞう「みなみのやまにはなにも
+ないんだな」
+三蔵「南の山には何も
+ないんだな」
+Sanzo: "There's nothing to do on the mountains to the south, y'know?"
+
+2
+まちのはずれにあるたびびとの
+いずみです
+町の外れにある旅人の
+泉です
+At the outskirts of the city is a fountain for tourists.
+
+1
+そちらへはいけないようです
+そちらへは行けないようです
+You can't seem to go that way.
+1
+ながねんみなれたやまです
+長年見慣れた山です
+You're used to seeing this mountain all the time.
+4
+やまからのみずがこんこんと
+わきだしてます
+さんぞう「ん？　なにかうかんで
+るんだな」
+山からの水がこんこんと
+湧き出してます
+三蔵「ん？何か浮かんで
+るんだな」
+Water that came from the mountains is gushing out.
+
+Sanzo: "Hm? Something is floating in the water, y'know?"
+
+2
+さんぞう「こりゃいい！
+すいとうなんだな」
+三蔵「こりゃいい！
+水筒なんだな」
+Sanzo: "Yeahhhh! It's a water bottle, y'know?"
+
+1
+きれいなみずです
+綺麗な水です
+The water is beautiful.
+2
+そまつなものですがじゅうぶん
+つかえます
+粗末な物ですが十分
+使えます
+It's a little shabby, but it's good enough to use.
+
+1
+さんぞう「ありゃ　からなんだな」
+三蔵「ありゃ空なんだな」
+Sanzo: "Ah, it's empty, y'know?"
+3
+こぽこぽ・・
+さんぞう「これならさばくも
+へいきなんだな」
+こぽこぽ・・
+三蔵「これなら砂漠も
+平気なんだな」
+*glub glub*...
+Sanzo: "With this, I should be ready for the desert, y'know?"
+
+2
+さんぞう「んぐ・・んぐ・・
+ぷはーっ　もっててよかったんだな」
+三蔵「んぐ・・んぐ・・
+ぷはーっ持っててよかったんだな」
+Sanzo: "*Gulp*...*gulp*...
+Ahhh, It's good that I had that, y'know?"
+3
+さばくにさしかかりました
+さんぞう「これをこえると　むらが
+あるはずなんだな」
+砂漠に差し掛かりました
+三蔵「これを越えると村が
+あるはずなんだな」
+You approach the desert.
+Sanzo: "There's got to be a village past this, y'know?"
+
+1
+どこまでもつづいています
+どこまでも続いています
+It goes on forever.
+1
+ばかみたいにはれてます
+バカみたいに晴れてます
+It is ridiculously sunny.
+1
+さんぞう「まぶしいんだな」
+三蔵「眩しいんだな」
+Sanzo: "It's dazzling, y'know?"
+1
+いみがありません
+意味がありません
+That makes no sense.
+2
+さんぞう「てんじくはにしのほうだと
+きいたことがあるんだな・・」
+三蔵「天竺は西の方だと
+聞いたことがあるんだな・・」
+Sanzo: "I heard that India is to the west, y'know..."
+
+1
+さばくがつづいています
+砂漠が続いています
+The desert continues.
+3
+さんぞう「ひい、ひい、のどが・・
+・・みず・・」
+みずなんかもってない！
+三蔵「ひい、ひい、喉が・・
+・・水・・」
+水何か持ってない！
+Sanzo: "Hah, hah, my throat...
+...water..."
+You don't have any water!
+1
+さんぞう「めが・・くらむ・・」
+三蔵「目が・・眩む・・」
+Sanzo: "My eyes...getting dark..."
+1
+もうそんなげんきもありません
+もうそんな元気もありません
+You're already not feeling as energetic.
+3
+すくーたー「ぶ・・ぷす・・」
+すくーたーまでちょうしがわるく
+なってきました
+スクーター「ぶ・・ぷす・・」
+スクーターまで調子が悪く
+なってきました
+Scooter: "*putter*...*pshhhh*..."
+The scooter isn't doing too well.
+
+4
+さんぞう「めが・・くらんで・・
+もう・・だめなんだ・・な」
+なんのじゅんびもせずにさばくを
+たびすればとうぜんですよね
+三蔵「目が・・眩んで・・
+もう・・ダメなんだ・・な」
+何の準備もせずに砂漠を
+旅すれば当然ですよね
+Sanzo: "My eyes...dark...
+It's...useless, y'...know."
+Of course this would happen if you go to the desert without preparing.
+
+9
+・・と、いうわけじゃな・・
+たのしんでいただけたかな？
+そんなわけないか・
+しかしきょうはここまでらしい
+じゃ、またな
+
+
+げーむおーばー
+
+・・と、言うわけじゃな・・
+楽しんでいただけたかな？
+そんなわけないか・
+しかし今日はここまでらしい
+じゃ、またな
+
+
+ゲームオーバー
+
+...and that's the end...
+Did you enjoy it?
+Of course not.
+However, that's it for today.
+Well, see you later.
+\
+\
+Game over
+\
+2
+いったい「じゃあつづきを　はなすとす
+るかの」
+一体「じゃあ続きを話すとする
+かの」
+Ittai: "Alright, let's continue the story."
+
+2
+さんぞう「ありゃ？　へんなものが
+あるんだな・・」
+三蔵「ありゃ？変な物が
+あるんだな・・」
+Sanzo: "Oh? There's something strange here, y'know..."
+
+6
+さんぞう「へんなさるがこっちを
+みとるんだな・・
+あんなのにはかかわらないほうが
+いいんだな」
+ごくう「やい　そこのぼうず！
+おれをここからだせっ！」
+三蔵「変な猿がこっちを
+見とるんだな・・
+あんなのには関わらない方が
+いいんだな」
+悟空「やいそこの坊主！
+俺をここから出せっ！」
+Sanzo: "I see a strange monkey here, y'know...
+
+It's better to not get involved with those kinds of things, y'know?"
+
+Goku: "Hey, you monk! Get me out of here!"
+
+5
+さんぞう「しらんもんねーぱーらだいす
+ぱらだいすうー」
+ごくう「こらあっ！　きこえない
+のかあーっ！　わーっ！」
+さんぞう「ぱーらだいすー」
+三蔵「知らんもんねーパーラダイス
+パラダイスウー」
+悟空「こらあっ！聞こえない
+のかあーっ！わーっ！」
+三蔵「パーラダイスー」
+Sanzo: "I don't know anything, Paradise, paradiiise!"
+
+Goku: "Hey! Do you have ears!? Graagh!"
+
+Sanzo: "Paaaaradise!'
+5
+さんぞう「むしむし・・」
+ごくう「むかっ！　このやろ！」
+ごくうはそばにおちてるいしを
+なげました
+さんぞう「ぎゃっ！」
+三蔵「蒸し蒸し・・」
+悟空「ムカッ!このやろ！」
+悟空は側に落ちてる石を
+投げました
+三蔵「ギャッ！」
+Sanzo: "It's hot..."
+Goku: "Hey! You bastard!"
+Goku throws a stone next to Sanzo.
+
+Sanzo: "Gyah!"
+2
+ごくう「うきゃっ！　あたりい」
+さんぞう「いてて・・なんだな」
+悟空「うきゃっ！当たりい」
+三蔵「いてて・・なんだな」
+Goku: "Ookya! Direct hit!"
+Sanzo: "That hurts...y'know?"
+2
+ごくう「わーっ！
+まてまてーっ！」
+悟空「わーっ！
+待て待てーっ！」
+Goku: "Aagh! Wait wait!"
+
+2
+さんぞう「やんちゃそうなかおを
+しとるんだな」
+三蔵「やんちゃそうな顔を
+しとるんだな」
+Sanzo: "He has a mischievous face, y'know?"
+
+2
+さんぞう「まるでろうやみたい
+なんだな」
+三蔵「まるで牢屋みたい
+なんだな」
+Sanzo: "It looks like it's a jail, y'know?"
+
+6
+さんぞう「こりゃ！　なんてことを
+するんだ！　おぬしは」
+ごくう「けっ！　ばかやろ」
+さんぞう「なんだ？　おぬしのような
+ようかいざるなんか　こらしめて
+やるんだな」
+三蔵「こりゃ！なんてことを
+するんだ！お主は」
+悟空「けっ！ばかやろ」
+三蔵「何だ？お主のような
+妖怪猿なんか懲らしめて
+やるんだな」
+Sanzo: "What!? What do you think you're doing? Why you!"
+
+Goku: "Keh! Moron."
+Sanzo: "What? I'm going to punish a demon monkey like you!"
+
+
+5
+ごくう「わるいやつにとじこめ
+られたんだ　おまえぼうずだろ
+ここからだせ！」
+さんぞう「だせといわれても
+こまるんだな」
+悟空「悪いやつに閉じ込め
+られたんだお前坊主だろ
+ここから出せ！」
+三蔵「出せと言われても
+困るんだな」
+Goku: "A bad guy locked me up. You're a monk, right? Get me out of here!"
+
+
+Sanzo: "You say to let you out but you've been nothing but trouble."
+
+2
+さんぞう「ん？　てんじょうに
+なにかかいてあるんだな」
+三蔵「ん？天井にに
+何か書いてあるんだな」
+Sanzo: "Hm? There's something written on the ceiling."
+
+8
+さんぞう「なになに？　・・
+おんまにぱーみーうん・・？」
+ごくう「え？　なに？」
+さんぞう「おんまにぱーみーうん」
+ごくう「なんだって？
+きこえない」
+さんぞう「おんまにぱーみー・・
+うーーーーーーーーーーーーん！」
+三蔵「何々？・・
+おんまにぱーみーうん・・？」
+悟空「え？何？」
+三蔵「おんまにぱーみーうん」
+悟空「何だって？
+聞こえない」
+三蔵「おんまにぱーみー・・
+うーーーーーーーーーーーーん！」
+Sanzo: "What?...
+Om mani padme hum...?"
+Goku: "Huh? What?"
+Sanzo: "Om mani padme hum."
+Goku: "What? I don't understand."
+
+Sanzo: "Om mani padme...
+huuuuuuuuuuuuuuuuum!"
+3
+ごくう「ふっかーつ！
+やっぱりそとのくうきはうまい！」
+さんぞう「げげっ・・」
+悟空「復活！
+やっぱり外の空気うまい！」
+尊像「げげっ・・」
+Goku: "I'm alive again!
+Ah, the outside air is so nice!"
+Sanzo: "Shoot..."
+1
+ひとすじなわではいけそうにありません
+一筋縄ではいけそうにありません
+He seems hard to deal with.
+1
+たおれています
+倒れています
+It fell over.
+5
+ごくう「うききっ！　しゃかの
+ふういんがとけた　ごくろう！」
+さんぞう「ひえっ・・おしゃかさまの
+ふういん？　たいへんなことをした
+んだな・・」
+悟空「うききっ！釈迦の
+封印が解けたご苦労！」
+三蔵「ひぇっ・・お釈迦様の
+封印？大変なことをした
+んだな・・」
+Goku: "Ookiki! Thanks for undoing the Buddha's seal!"
+
+Sanzo: "Huh...The Buddha's seal? You must have done something terrible, y'know..."
+
+
+1
+ぼうぜんとしています
+呆然としています
+He is dumbfounded.
+3
+ぼかっ！
+ごくう「うきゃ♡おもしろい」
+ぼうず「きゃーっ！」
+ボカッ！
+悟空「うきゃ♡面白い」
+坊主「きゃーっ！」
+*Whack!*
+Goku: "Ookya <3 This is fun!"
+Monk: "Ahhh!"
+4
+さんぞう「わしはたいへんなことを
+したんではないだろうか・・」
+
+
+三蔵「わしは大変なことを
+したんではないだろうか・・」
+
+
+Sanzo: "I've done something terrible, haven't I..."
+
+\
+\
+3
+「さんぞうよ・・」
+さんぞう「へ？　だれか・・よんだ？」
+「わたしだ・・」
+「三蔵よ・・」
+三蔵「へ？誰か・・呼んだ？」
+「私だ・・」
+"Sanzo..."
+Sanzo: "Huh? Who...said that?"
+"It is I..."
+15
+さんぞう「ああ、あなたさまは
+も、もしかして　おしゃかさま・・」
+おしゃかさま「さんぞうよ
+そのさるめはむかし　てんかいを
+さわがせた　ごくうなる
+ふとどきものである」
+さんぞう「ひえー・・」
+おしゃかさま「そのさるめを　そなたは
+わざわざだしてしまった
+そのつみはおもいぞ」
+さんぞう「あわー・お、おゆるしを・」
+おしゃかさま「せきにんをとって
+そなたのでしにせよ　てんじくまでの
+ともとするがよい」
+さんぞう「そ・そんな・・」
+三蔵「ああ、あなた様は
+も、もしかしてお釈迦様・・」
+お釈迦様「三蔵よ
+その猿めは昔天界を
+騒がせた悟空なる
+不届き者である」
+三蔵「ひえー・・」
+お釈迦様「その猿めをそなたは
+わざわざ出してしまった
+その罪は重いぞ」
+三蔵「あわー・お、お許しを・」
+おしゃかさま「責任をとって
+そなたの弟子にせよ天竺までの
+共とするがよい
+三蔵「そ・そんな・・」
+Sanzo: "C-c-could you be p-perhaps, the Buddha...?"
+
+Buddha: "Sanzo.
+That damn monkey is Goku, the scoundrel that raised a ruckus in heaven many years ago."
+
+
+Sanzo: "Huh..."
+Buddha: "And by releasing him,
+
+you have committed a grave sin."
+Sanzo: "Awaah, p-please have mercy..."
+Buddha: "To take responsibility, you must make him your disciple on your way to India."
+
+
+Sanzo: "But...that's..."
+1
+まぶしくってみえません
+眩しくって見えません
+It's too bright to see.
+1
+さんぞう「ちょっとまってるんだな」
+三蔵「ちょっと待ってるんだな」
+Sanzo: "Wait a moment, y'know?"
+2
+ぼうず「はい　はい　なるほど」
+なにかつぶやいてます
+坊主「はいはいなるほど」
+何かつぶやいてます
+Monk: "Yes, yes, I see."
+He's muttering something.
+3
+ぼうず「ぶつぶつ」
+ごくう「おい　どうしたんだ
+なにぶつぶついってんだよ？」
+坊主「ぶつぶつ」
+悟空「おいどうしたんだ
+何ぶつぶつ言ってんだよ？」
+Monk: "*mumble mumble*"
+Goku: "Hey, what are you mumbling about?"
+
+18
+さんぞう「てんかいをあらしたほどの
+らんぼうものを　でしにするなんて
+できません　おしゃかさま・・」
+おしゃかさま「ならば　この
+きんこじゅをしんぜよう」
+さんぞう「きんこじゅ・」
+おしゃかさま「そのさるめをしばるには
+よいだろう」
+さんぞう「やっぱりできませーん・・」
+おしゃかさま「おろかもの！　そなたも
+ほとけに　つかえるみであろうが！
+てんじくまで　そやつをつれていき
+ぎゅうまおうを　かいしんさせてみよ」
+さんぞう「ぎゅうまおう？　・げっ！」
+おしゃかさま「わかったな？
+まかせたぞ」
+さんぞう「わわっ！　まってください！
+おしゃかさまあーっ！」
+三蔵「天界を荒らしたほどの
+乱暴者を弟子にするなんて
+できませんお釈迦様・・」
+お釈迦様「ならばこの
+緊箍児を進ぜよう」
+三蔵「緊箍児・」
+お釈迦様「その猿めを縛るには
+よいだろう」
+三蔵「やっぱりできませーん・・」
+お釈迦様「愚か者！そなたも
+仏に使える身であろうが！
+天竺までそやつを連れていき
+牛魔王を改心させてみよ」
+三蔵「牛魔王？　・げっ！」
+お釈迦様「分かったな？
+任せたぞ」
+三蔵「わわっ！待ってください！
+お釈迦様あーっ！」
+Sanzo: "But Buddha, I can't possibly take some criminal who has wrecked the heavens as a disciple..."
+
+
+Buddha: "If that's the case, I will give you this tight band."
+
+Sanzo: "Tight band..."
+Buddha: "It will work to tie down that damn monkey."
+
+Sanzo: "I still can't do iiit..."
+Buddha: "You fool! And you're a servant of the Buddha!
+
+Take him to India and try to convert the Bull Demon King."
+
+Sanzo: "Bull Demon King? ...Ugh!"
+Buddha: "You understand?
+I leave it to you."
+Sanzo: "Wawah! Please wait!
+Buddhaaaaaa!"
+2
+さんぞう「とんだことになって
+しまったんだな・・」
+三蔵「とんだことになって
+しまったんだな・・」
+Sanzo: "I've gotten myself into a terrible situation, y'know..."
+
+4
+さんぞう「お、おぬしごくうって
+い、いうのか　わ、わ、わしは
+ち、ち、ちょうあんの
+さんぞうほうしだ」
+三蔵「お、お主悟空って
+い、言うのか　わ、わ、わしは
+ち、ち、長安の
+三蔵法師だ」
+Sanzo: "S-so your n-name is Goku?
+
+I, I, I am Sanzo, a priest from Ch-ch-chouan."
+
+10
+さんぞう「こ、ここだけのはなしだがな
+わ、わしは　こ、これからてんじくへ
+ありがたーい　おきょうを
+と、とりにいくところなんだが・・
+い、い、いまおしゃかさまが
+お、おまえをでしにすればいいと
+おっしゃったんだな・・これが
+そこでだ・・
+・・おい、おおきなこえではいえん
+ちょっとみみをかせ」
+三蔵「こ、ここだけの話だがな
+わ、わしはこ、これから天竺へ
+ありがたーいお経を
+と、取りにいくところなんだが・・
+い、い、今お釈迦様が
+お、お前を弟子にすればいいと
+おっしゃったんだな・・これが
+そこでだ・・
+・・おい、大きな声では言えん
+ちょっと耳をかせ」
+Sanzo: "B-between you and me, I, I am g-going to India to b-bring back VERY blessed scriptures...
+
+
+
+J-j-just now the Buddha said that y-you should become my disciple...
+
+
+And so...
+...Hey, I need to keep it down, so please listen."
+
+1
+さんぞう「み、みみを・・」
+三蔵「み、耳を・・」
+Sanzo: "L-listen..."
+1
+みごとなつるっぱげです
+見事なつるっ禿です
+He has a splendidly bald head.
+4
+ぼうず「お、おぬしごくうって
+い、いうのか　わ、わ、わしは
+ち、ち、ちょうあんの
+さんぞうほうしだ」
+三蔵「お、お主悟空って
+い、言うのか　わ、わ、わしは
+ち、ち、長安の
+三蔵法師だ」
+Monk: "S-so your n-name is Goku?
+
+I, I, I am Sanzo, a priest from Ch-ch-chouan."
+
+1
+ねのあかるいたいぷみたいです
+根の明るいタイプみたいです
+He seems to be a bright person.
+3
+ばきっ！
+ごくう「いいおと♡」
+さんぞう「いたたっ」
+バキッ！
+悟空「いい音♡」
+三蔵「いたたっ」
+*Pow!*
+Goku: "What a great sound <3"
+Sanzo: "Ow!"
+1
+さんぞう「そ、そういわずに・・」
+三蔵「そ、そう言わずに・・」
+Sanzo: "D-don't say that..."
+3
+ごくう「なんだ？　ないしょの
+はなしか？」
+さんぞう「それ！」
+悟空「何だ？内緒の
+話か？」
+三蔵「それ！」
+Goku: "Huh? You want to tell me a secret?"
+
+Sanzo: "This!"
+9
+さんぞうはいきなり　ごくうの
+あたまにきんのわをはめた
+さんぞう「ひゃはは　もうあんしん
+なんだな」
+ごくう「なんだこれは？」
+さんぞう「おまえをあばれさせない
+ためにいただいたわっかだ」
+ごくう「なに？　けっ
+こんなもの！」
+三蔵はいきなり悟空の
+頭に金の輪をはめた
+三蔵「ひゃははもう安心
+なんだな」
+悟空「なんだこれは？」
+三蔵「お前を暴れさせない
+ためにいただいた輪っかだ」
+悟空「何？けっ
+けんな物！」
+Sanzo suddenly puts a gold band on Goku's head.
+
+Sanzo: "Hyahaha, I feel safe already, y'know?"
+
+Goku: "What is this?"
+Sanzo: "It's a band that will prevent you from acting up."
+
+Goku: "What? Keh, what is this!?"
+
+3
+ごくう「このやろう！」
+さんぞう「そんなくちのききかたは
+できんのだな　ほっほっほ」
+悟空「このやろう！」
+尊像「そんな口の聞き方は
+できんのだな　ほっほっほ」
+Goku: "You bastard!"
+Sanzo: "Talking like that is no good, y'know. Hohoho!"
+
+2
+ごくう「なんだこれ！うーん・・
+とれないっ！」
+悟空「なんだこれ！うーん・・
+取れないっ！」
+Goku: "What is this!? Hrgh...
+It won't come off!"
+10
+ごくう「このやろう！
+はずせ！」
+さんぞうに　なぐりかかりました
+しかし・・
+さんぞう「ぼんさんがへをこいた
+ぼんさんがへをこいた　ぼんさんが・」
+さんぞうがへんなじゅもんをとなえ
+はじめました
+
+
+悟空「このやろう！
+外せ！」
+三蔵に殴りかかりました
+しかし・・
+三蔵「坊さんが屁をこいた
+坊さんが屁をこいた坊さんが・」
+三蔵が変な呪文を唱え
+始めました
+
+
+Goku: "You bastard! Take this!"
+
+You take a swing at Sanzo.
+However...
+Sanzo: "The monk farted, the monk farted, the monk..."
+
+Sanzo starts reciting some strange spell.
+
+\
+\
+16
+ごくう「いてててっ！
+なにしてる！　やめろーっ！」
+さんぞう「ぼんさんがへをこいた」
+きんのわがじゅもんでしまります
+さんぞう「どうだ　これはきんこじゅと
+いってな　となえるといつでも
+わがしまるんだな　ぼんさんが・・」
+ごくう「うわーっ！」
+さんぞう「どうだ　いっしょにいくか」
+ごくう「わ、わかった！
+わかったから　じゅもんをやめろ！」
+さんぞうが　じゅもんをとなえるのを
+やめると　わはとたんに　ゆるくなり
+ました
+
+
+悟空「いてててっ！
+何してる！やめろーっ！」
+三蔵「坊さんが屁をこいた」
+金の輪が呪文で閉まります
+三蔵「どうだこれは緊箍児と
+一手な唱えるといつでも
+輪が閉まるんだな坊さんが・・」
+悟空「うわーっ！」
+三蔵「どうだ一緒に行くか」
+悟空「わ、分かった！
+分かったから呪文をやめろ！」
+三蔵が呪文を唱えるのを
+やめると輪は途端に緩くなり
+ました
+
+
+Goku: "Ow ow ow!
+What are you doing!? Cut it out!"
+Sanzo: "The monk farted."
+With the spell, the gold band tightens.
+Sanzo: "How's that? When I say the spell, the band tightens! The monk..."
+
+
+Goku: "Waaagh!"
+Sanzo: "So, will you go with me?"
+Goku: "Y-yes! I will, so please stop the spell!"
+
+Sanzo stops saying the spell, and the band instantly loosens.
+
+
+\
+\
+6
+さんぞう「わははっ！　わしに
+でしができるとはな　さあ　いくぞ」
+さんぞうは　すくーたーにまたがり
+はしりさっていきました
+ごくう「けっ！　ばかめ」
+ついていきますか？
+三蔵「わははっ！わしに
+弟子ができるとはな。さあ、行くぞ」
+三蔵はスクーターに又借り
+走り去っていきました
+悟空「けっ！ばかめ」
+ついてきますか？
+Sanzo: "Wahaha! You are now my apprentice. Alright, let's go."
+
+Sanzo takes the scooter and rides off.
+
+Goku: "Keh! Moron!"
+Will you follow him?
+6
+きりきりーっ！
+また　あたまのわがしまりはじめ
+ました
+ごくう「うわっ！　まいった！」
+どうしても　にげられないようです
+ついていきますか？
+キリキリーッ！
+また頭の輪が閉まり始め
+ました
+悟空「うわっ！参った！」
+どうしても逃げられないようです
+ついていきますか？
+Ow ow!
+The band on your head starts to tighten again.
+
+Goku: "Waagh! I give up!"
+You just can't seem to escape no matter what you do.
+Will you follow him?
+7
+おしゃかさま「さるよ・かなしい
+さるよ・　それほどまで　いやだという
+ならば　しかたがない
+もとのすがたに　もどるがよい」
+ごくうは　いわのかたまりに
+なり　にどともとにもどることは
+なかった・・
+お釈迦様「猿よ・悲しい
+猿よ・それほどまでいやだと言う
+ならば仕方がない
+元の姿に戻るがよい」
+悟空は岩の塊に
+なり二度と元に戻ることは
+なかった・・
+Buddha: "Monkey... Pitiful monkey... If you say you hate it that much, I have no choice but to return you to your original form."
+
+
+
+Goku became a clump of stone and never again returned to normal...
+
+
+2
+しかたなく　さんぞうのあとを
+おいました
+仕方なく三蔵の後を
+追いました
+Reluctantly, you chase after Sanzo.
+
+4
+ごくう「まてーっ！」
+さんぞう「みえなくなったらじゅもんを
+つかうぞ」
+ごくう「くっそー！」
+悟空「待てーっ！」
+三蔵「見えなくなったら呪文を
+使うぞ」
+悟空「くっそー！」
+Goku: "Wait up!"
+Sanzo: "If I can't see you, I'll use the spell!"
+
+Goku: "Damn iiiit!"
+3
+ふたりのちんどうちゅうが　はじまった
+めざすは　ぎゅうまおうのいる
+てんじくである
+二人の珍道中が始まった
+目指すは牛魔王のいる
+天竺である
+The two of you begin your unusual journey.  You head to India, where the Bull Demon King is.
+
+
+1
+とまってくれるけはいはありません
+止まってくれる気配はありません
+He doesn't show any signs of stopping.
+4
+ごくう「すこしくらい
+のっけろ」
+さんぞう「よぶんなねんりょうは
+ないんだな」
+悟空「少しくらい
+乗っけろ」
+三蔵「余分な燃料は
+ないんだな」
+Goku: "Let me ride for a bit."
+
+Sanzo: "We don't have any extra fuel, y'know."
+
+5
+ごくう「むらはまだか？」
+さんぞう「もうすこしだな　むらには
+おんなのこがわんさといるぞ」
+ごくう「え？」
+さんぞう「あ・いや・」
+悟空「村はまだか？」
+三蔵「もう少しだな村には
+女の子がわんさといるぞ」
+悟空「え？」
+三蔵「あ・いや・」
+Goku: "Are we getting to a village yet?"
+Sanzo: "In just a bit. There's a village full of girls."
+
+Goku: "Huh?"
+Sanzo: "Ah...no..."
+1
+あしこしは　しっかりしてるようです
+足腰はしっかりしてるようです
+His legs seem to be going strong.
+3
+さんぞう「ついてきとるか？」
+ごくう「こら　もっと
+ゆっくりはしれ」
+三蔵「ついてきているか？」
+悟空「こらもっと
+ゆっくり走れ」
+Sanzo: "You still following?"
+Goku: "Hey, slow down!"
+
+3
+ごくう「おーい・・
+まってくれよー・・」
+あつさに　めがかすんできました
+悟空「おーい・・
+待ってくれよー・・」
+暑さに目が霞んできました
+Goku: "Hey... Wait for me..."
+
+Everything is getting blurry from the heat.
+1
+うんざりです
+うんざりです
+You're sick of it.
+1
+くもはどこにもありません
+雲はどこにもありません
+There isn't a cloud in the sky.
+2
+ごくう「ま・てえ・・」
+こえがとどきません
+悟空「待・てえ・・」
+声が届きません
+Goku: "W...ait..."
+Your voice can't reach him.
+3
+さんぞう「ぱーら・だーい・
+ひい・ひい・・」
+そうとうつかれました
+三蔵「パーラ・ダーイ・
+ひい・ひい・・」
+相当疲れました
+Sanzo: "Para...diii...
+Hee...hee..."
+You have become quite tired.
+14
+ごくう「ああ・・」
+きがとおくなってきました
+ごくう「・あ？
+・・ちゃお・・？」
+これはげんかくなのでしょうか？
+ちゃおが　おばあさんと
+はなしを　しています
+
+ちゃお「ああ、こ、これ！
+これがひかりのこづちね！
+・・やっと・・」
+
+ごくう「・・どこだろ・・？
+・・だれだろ・・？」
+悟空「ああ・・」
+気が遠くなってきました
+悟空「・あ？
+・・チャオ・・？」
+これは幻覚なのでしょうか？
+チャオがおばあさんと
+話をしています
+
+チャオ「ああ、こ、これ！
+これが光の小槌ね！
+・・やっと・・」
+
+悟空「・・どこだろ・・？
+・・誰だろ・・？」
+Goku: "Aahh..."
+You begin to lose consciousness.
+Goku: "...Huh?
+...Chao...?"
+Is this a hallucination?
+Chao is talking with an old woman.
+
+\
+Chao: "Aaah, th-this is it!
+This is the mallet of light!
+...Finally..."
+\
+Goku: "...Where was that...?
+...Who was that...?"
+1
+ごくう「もう・みたくない」
+悟空「もう・見たくない」
+Goku: "I...don't want to look at it anymore."
+3
+さんぞう「おおっ！　やった！
+むらだ！　ごくう！
+むらだぞ！」
+三蔵「おおっ！やった！
+村だ！悟空！
+村だぞ！」
+Sanzo: "Ooh! We made it! The village! Goku! It's the village!"
+
+
+3
+さんぞう「しっかりはしれえ　もうすぐ
+むらだぞお」
+ごくう「・・・・」
+三蔵「しっかり走れえもうすぐ
+村だぞお」
+悟空「・・・・」
+Sanzo: "Hold on, we're almost at the village."
+
+Goku: "......"
+3
+さんぞう「ごくう　むらだぞ
+げんきだせ」
+ごくう「・・・・」
+三蔵「悟空村だぞ
+元気出せ」
+悟空「・・・・」
+Sanzo: "Goku, it's the village!
+Cheer up."
+Goku: "......"
+3
+ごくう「・・・・」
+さんぞう「はて？　ひとけのすくない
+むらなんだな」
+悟空「・・・・」
+三蔵「はて？人気の少ない
+村なんだな」
+Goku: "......"
+Sanzo: "Huh? There's barely any signs of life here, y'know?"
+
+2
+ひっそりとしたむらです
+みせのりょうがわに　いえがあります
+ひっそりとした村です
+店の両側に家があります
+It's a quiet village.
+There are houses on both sides of a store.
+1
+ふるいいえです
+古い家です
+It's an old house.
+1
+ふつうのれすとらんです
+普通のレストランです
+It's just an ordinary restaurant.
+1
+ひどくいたんだ　いえです
+ひどく痛んだ家です
+The house is badly damaged.
+2
+さんぞう「いやにしずかなんだな」
+ごくう「・・・・ぐ・・」
+三蔵「いやに静かなんだな」
+悟空「・・・・ぐ・・」
+Sanzo: "It's awfully quiet, y'know?"
+Goku: "......Guh..."
+1
+もうむらにはつきましたよ
+もう村には着きましたよ
+You already made it to the village.
+2
+つかうまでもありません
+ごくう「・・ぐ・」
+使うまでもありません
+悟空「・・ぐ・」
+There's no need to use it.
+Goku: "...Guh..."
+1
+どこへいこうと　いうのでしょう？
+どこへ行こうと言うのでしょう？
+Where do you want to go?
+1
+さんぞう「ごめんよ　なんだな」
+三蔵「ごめんよなんだな」
+Sanzo: "Excuse me, y'know?"
+1
+みたところだれもいません
+見たところ誰もいません
+You don't see anyone.
+4
+さんぞう「だれかおらんのか？」
+「がたん！」
+さんぞう「ひとのけはいは
+してるんだな」
+三蔵「誰かおらんのか？」
+「ガタン！」
+三蔵「人の気配は
+してるんだな」
+Sanzo: "Is anyone home?"
+*Clatter!*
+Sanzo: "It seems that someone is in there, y'know?"
+
+2
+さんぞう「みずはなさそうなんだな」
+ごくう「ぐ・・」
+三蔵「水はなさそうなんだな」
+悟空「ぐ・・」
+Sanzo: "There doesn't seem to be any water, y'know?"
+Goku: "Guh..."
+1
+ごくう「ぐ・・」
+悟空「ぐ・・」
+Goku: "Guh..."
+2
+さんぞう「ありゃ　じゅんびちゅう
+なんだな」
+三蔵「ありゃ準備中
+なんだな」
+Sanzo: "Ah, it's not open yet, y'know?"
+
+3
+さんぞう「お、よろこべごくう
+みせがあいとるぞ」
+ごくう「・・・・」
+三蔵「お、喜べ悟空
+店が開いているぞ」
+悟空「・・・・」
+Sanzo: "Oh, cheer up Goku, the store is open!"
+
+Goku: "......"
+6
+さんぞう「よっこらしょっと・
+ひゃー　つかれたあーっ！」
+ごくう「・・ぐ・」
+しゅじん「おいでやす」
+みせのしゅじんがみずをもって
+きました
+三蔵「よっこらしょうと・
+ひゃー疲れたあーっ！」
+悟空「・・ぐ・」
+主人「おいでやす」
+店の主人が水を持って
+来ました
+Sanzo: "Ah, I'm so tired!"
+
+Goku: "...Guh..."
+Owner: "Welcome."
+The owner of the store brings out some water.
+
+1
+げんきがありません
+元気がありません
+He isn't looking too good.
+1
+せいけつなみせです
+清潔な店です
+It's a clean store.
+1
+かおがあぶらでひかってます
+顔が油で光ってます
+His face is glistening with grease.
+3
+さんぞう「どうした　ごくう
+げんきがないんだな」
+ごくう「・ぐ・」
+三蔵「どうした悟空
+元気がないんだな」
+悟空「・ぐ・」
+Sanzo: "What's wrong, Goku? You aren't looking too good, y'know."
+
+Goku: "...Guh..."
+6
+さんぞう「やあ　むらにひとがいない
+のはどうしてなんだな？」
+しゅじん「なんかしらんけど　へんな
+ぶたの　ようかいがでるゆうて
+びびってまんね」
+さんぞう「ふーん　ようかいねえ・・」
+三蔵「やあ村に人がいない
+のはどうしてなんだな？」
+主人「なんだか分からないけど変な
+豚の妖怪が出るって言って
+怖がってます」
+三蔵「ふーん妖怪ねえ・・」
+Sanzo: "Hey, why is there no one in this village, y'know?"
+
+Owner: "I'm not completely sure, but they say they're scared of some strange pig yokai that appears.
+
+
+Sanzo: "Hmmm, a yokai, huh..."
+11
+さんぞう「つぎのむらまでどのくらい
+あるのかな？」
+しゅじん「え？　おんなむらへいくん
+でっか？」
+さんぞう「むむ？　おんなのむら？」
+しゅじん「やまのうえにあるんでっせ
+やめときなはれ　へんなくまがでるて
+いいまっせ」
+さんぞう「・・くま？」
+しゅじん「ややこしいことをゆうて
+たびびとを　けむにまくらしいんや」
+三蔵「次の村までどのくらい
+あるのかな？」
+主人「え？女村へ行くん
+ですか？」
+三蔵「むむ？女の村？」
+主人「山の上にあるんですよ
+止めておきなさい変な熊が出るって
+言いますよ」
+三蔵「・・熊？」
+主人「ややこしいことを言って
+旅人を煙に巻くらしいんだ」
+Sanzo: "How far away is the next village?"
+
+Owner: "Huh? You going to the women's village?"
+
+Sanzo: "Hm? Women's village?"
+Owner: "It's on top of the mountain, but you shouldn't bother. They say a strange bear will appear."
+
+
+Sanzo: "...Bear?"
+Owner: "I heard that he says complicated things to travelers to make them confused."
+
+1
+めにゅーがわかりません
+メニューが分かりません
+You don't know what's on the menu.
+3
+さんぞう「むぐ、ぐ・」
+しゅじん「うちのみず　おいしい
+でっしゃろ？」
+三蔵「むぐ、ぐ・」
+主人「内の水おいしい
+でしょう？」
+Sanzo: "*Gulp*, *gulp*..."
+Owner: "Is our water to your liking?"
+
+1
+まだちゅうもんしていません
+まだ注文していません
+You haven't ordered anything yet.
+2
+さんぞう「はらがへってうごけん
+のだな・これが・」
+三蔵「腹が減って動けん
+のだな・これが・」
+Sanzo: "I'm so hungry I can't move..."
+
+4
+ごくう「んぐっ　んぐ　んぐ
+・・ぷはあーっ！　おかわり」
+しゅじん「よっぽど　のど
+かわいとったんやなあ」
+悟空「んぐっ　んぐんぐ
+・・ぷはあーっ！おかわり」
+主人「よっぽど喉が
+渇いていたんだなあ」
+Goku: "*Gulp gulp gulp*
+...Ahhhh! Refill!"
+Owner: "You must be really thirsty."
+
+6
+さんぞう「しょくじはできるかな？」
+しゅじん「うちは　しょくどうだっせ
+あたりまえでんがな」
+さんぞう「なにができるんだ？」
+しゅじん「かべに　おしながきが
+ありまっせ」
+三蔵「食事はできるかな？」
+主人「内は食堂ですよ
+当たり前じゃないですか」
+三蔵「何ができるんだ？」
+主人「壁にお品書きが
+ありますよ」
+Sanzo: "Can we have something to eat?"
+Owner: "This is a restaurant, of course you can."
+
+Sanzo: "What can we have?"
+Owner: "There is a menu on the wall."
+
+1
+しゅじん「なにしまひょ」
+主人「何をしましょうか」
+Owner: "What'll you have?"
+3
+さんぞう「ふむ　らーめん　ぎょうざ
+やきそば　すぶた　ちゃーはん
+しゅうまい・」
+三蔵「ふむラーメン　餃子
+焼きそば　酢豚　チャーハン
+シュウマイ・」
+Sanzo: "Hm, ramen, gyoza, yakisoba, sweet and sour pork, fried rice, pork dumplings..."
+
+
+1
+なにをちゅうもんしましょう
+何を注文しましょう
+What will you order?
+2
+しゅじん「へい　おおきに　まいど
+ほかには？」
+主人「へいおおきに毎度
+他には？」
+Owner: "Thank you for your patronage. Anything else?"
+
+1
+もうたのみました
+もう頼みました
+You already asked for that.
+5
+しゅじん「わっ！　それはかんべんして
+おくれやす」
+さんぞう「めにゅーにはあるぞ」
+しゅじん「いけずな　おひとやなあ
+それはできまへんねん　ほかには？」
+主人「わっ！それは勘弁して
+ください」
+三蔵「メニューにはあるぞ」
+主人「意地悪な人だなあ
+それはできませんよ　他には？」
+Owner: "Wagh! Please forgive me."
+
+Sanzo: "It's on the menu."
+Owner: "How mean! It's not possible. Anything else?"
+
+2
+しゅじん「おおきに！　ほなちょっと
+まってておくれやす」
+主人「ありがとう！じゃあちょっと
+待ってくださいね」
+Owner: "Thank you! Well, please wait a moment."
+
+18
+さんぞう「げんきをだせ　ごくう
+これからわしらが　とりにいく
+おきょうは　じつは
+「いっしょうらくして　くらすほう」
+というものでな・・おまえが　よろこび
+そうなことも　のっておるらしい」
+ごくう「？」
+さんぞう「それには　つよくなるための
+じゅつや　かねのもうけかた・・」
+しゅじんのみみが　ぴくりとうごき
+ました
+しゅじん「ぶひ？」
+さんぞう「おうさまになるほうほう・・
+なんでもかいてあるそうなんだな」
+しゅじん「ぶぶーっ！ぶひっぶひっ」
+なぜかしゅじんが　こうふんしています
+しゅじん「へい　おまっとさん！」
+さんぞう「きたきた」
+三蔵「元気をだせ出せ悟空
+これからわしらが取りに行く
+お経は実は
+「一生楽して暮らす方」
+と言う物でな・・お前が喜び
+そうなことものっておるらしい」
+悟空「？」
+三蔵「それには強くなるための
+術や金の儲け方・・」
+主人の耳がピクリ動き
+ました
+主人「ブヒ？」
+三蔵「王様になる方法・・
+なんでも書いてあるそうなんだな」
+主人「ブブーッ！ブヒッブヒッ！」
+なぜか主人が興奮しています
+主人「はい、お待たせしました！」
+三蔵「来た来た」
+Sanzo: "Chear up, Goku. The scriptures we are going to get are actually
+
+
+'How to Live a Life of Eternal Bliss'.
+That's what it's called... It seems like the kind of thing that should make you happy."
+
+Goku: "?"
+Sanzo: "It has techniques for getting stronger and ways to make money..."
+
+The owner's ear twitched.
+
+Owner: "*Oink?*"
+Sanzo: "How to become a king...
+It seems to have everything written in there, y'know."
+Owner: "*Snort! Oink oink!*"
+For some reason, the owner is excited.
+Owner: "Here, sorry for keeping you waiting!"
+Sanzo: "Here it comes!"
+3
+さんぞう「まだか？」
+しゅじん「おきゃくさん　きいみじかい
+でんなあ　いまやってま」
+三蔵「まだか？」
+主人「お客さん気が短い
+ですね　今やっています」
+Sanzo: "Is it ready yet?"
+Owner: "You're impatient. I'm working on it."
+
+1
+いまつくってもらってます
+今作ってもらってます
+It's still being made.
+1
+さんぞう「めしーっ！」
+三蔵「飯ーっ！」
+Sanzo: "The fooood!"
+1
+さんぞう「はらへったんだな」
+三蔵「腹減ったんだな」
+Sanzo: "I'm hungry, y'know?"
+2
+さんぞう「うむ　なかなか　うむ
+おもったより　うまい・・」
+三蔵「うむなかなかうむ
+思ったよりうまい・・」
+Sanzo: "Hm, it's better than I expected..."
+
+2
+もうのこってない　ひとりだけで
+たべるなんてひどい・
+もう残ってない一人だけで
+食べるなんてひどい・
+There's already nothing left. It's cruel to eat everything yourself without sharing...
+
+2
+さんぞう「なかなかうまかったんだな」
+しゅじん「おおきに」
+三蔵「なかなかうまかったんだな」
+主人「おおきに」
+Sanzo: "It was very delicious, y'know."
+Owner: "Thank you."
+5
+さんぞう「はやくたべて　おんなむらへ
+いくんだな」
+ごくう「げー」
+しゅじん「へい　おまっとさん！」
+さんぞう「きたきた」
+三蔵「早く食べて女村へ
+行くんだな」
+悟空「げー」
+主人「はい、お待たせしました！」
+三蔵「来た来た」
+Sanzo: "Hurry up and eat so we can go to the women's village, y'know?"
+
+Goku: "Geh."
+Owner: "Here, sorry for keeping you waiting!"
+Sanzo: "Here it comes!"
+6
+ごくう「ばかやろー！
+ひとりでくいやがっておれにもよこせ」
+ふたりでりょうりをぜんぶ
+たいらげました
+ごくう「はぐ　はぐ」
+さんぞう「うむ　うまい」
+悟空「バカやろー！
+一人で食いやがって俺にもよこせ」
+二人で料理を全部
+平らげました
+悟空「ハグハグ」
+三蔵「うむうまい」
+Goku: "You dolt! How dare you eat on your own without me!"
+
+The two of you completely eat up all of the food.
+
+Goku: "*Munch munch*"
+Sanzo: "Hm, yum."
+1
+さんぞう「もうないんだな」
+三蔵「もうないんだな」
+Sanzo: "There's none left, y'know."
+2
+ごくう「はぐ　はぐはぐ・！」
+ちからがよみがえってきます
+悟空「ハグハグハグ・！」
+力が蘇ってきます
+Goku: "*Munch munch munch*...!"
+Your strength is returning.
+2
+ごくう「あじはまあまあだな」
+さんぞう「・・・・」
+悟空「味はまあまあだな」
+三蔵「・・・・」
+Goku: "It's not bad."
+Sanzo: "......"
+2
+ごくう「あじはまあまあだな」
+しゅじん「おおきに」
+悟空「味はまあまあだな」
+主人「おおきに」
+Goku: "It's not bad."
+Owner: "Thank you."
+1
+すこしは　かいふくしたかな？
+少しは回復したかな？
+He might have recovered a bit?
+2
+ごくう「けっこう　うまいぜ」
+さんぞう「ふむ・」
+悟空「結構うまいぜ」
+三蔵「ふむ・」
+Goku: "It was quite good."
+Sanzo: "Hmmm..."
+2
+さんぞう「はらがいっぱいで
+うごけんのだな・これが・」
+三蔵「腹がいっぱいで
+動けんのだな・これが・」
+Sanzo: "My belly is so full I can't move, y'know..."
+
+6
+さんぞう「ひとりじめするのは
+よくないんだな」
+ふたりでりょうりをぜんぶ
+たいらげました
+ごくう「はぐ　はぐ」
+さんぞう「うむ　うまい」
+悟空「独り占めするのは
+良くないんだな」
+二人で料理を全部
+平らげました
+悟空「ハグハグ」
+三蔵「うむうまい」
+Sanzo: "Hogging it all to yourself isn't good, y'know?"
+
+The two of you completely eat up all of the food.
+
+Goku: "*Munch munch*"
+Sanzo: "Hm, yum."
+8
+さんぞう「いやあ　くったくった
+ごしゅじん　いくらかな？」
+しゅじん「へえ　七まん八せんえん」
+さんぞう「へ？　な、ななまん・・？」
+しゅじん「七まん八せんえん」
+さんぞう「むっ・むむっ
+なんまんだぶなんまんだぶ・・」
+しゅじん「ごまかすんやない！」
+三蔵「いやあくったくった
+ご主人いくらかな？」
+主人「へえ七万八千円」
+三蔵「へ？な、七万・・？」
+主人「七万八千円」
+三蔵「むっ・むむっ
+なんまんだぶなんまんだぶ・・」
+主人「ごまかすな！」
+Sanzo: "Ah, I'm full. How much is it?"
+
+Owner: "Oh, 78,000 yen."
+Sanzo: "What? S-seventy...?"
+Owner: "78,000 yen."
+Sanzo: "Uh, um...
+Amitabha Buddha Amitabha Buddha..."
+Owner: "Don't go trying to cheat me!"
+2
+ごくう「たっけーみせだ」
+さんぞう「やばいみせだったんだな」
+悟空「高い店だ」
+三蔵「やばい店だったんだな」
+Goku: "This is an expensive restaurant."
+Sanzo: "It's a terrible restaurant, y'know!"
+2
+しゅじん「さあ　はろておくれやす」
+さんぞう「なんまんだぶ・・」
+主人「さあはろておくれやす」
+三蔵「なんまんだぶ・・」
+Owner: "Come on, pay up."
+Sanzo: "Amitabha Buddha..."
+10
+ごくう「やいやい！
+ひとけた　まちがってんじゃねえか？」
+しゅじん「なにをひとぎきのわるい！
+うちは　まっとうなおみせだす
+あんたらこそ　じぶんでたべたもんの
+おかねがはらえん　いいまんのか」
+ごくう「やかましい！　はらう
+もんか」
+しゅじん「なんやて？　あんさんら
+よのなかぜにや！」
+悟空「やいやい！
+一桁間違ってんじゃないか？」
+主人「何を人聞きの悪い！
+うちはまっとうなお店だよ
+あなた方こそ自分で食べたもんの
+お金が払えないと言うんか」
+悟空「やかましい！払う
+もんか」
+主人「なんですって？あなた方
+世の中はお金ですよ！」
+Goku: "Hey! Didn't you misplace a digit or something?"
+
+Owner: "What a terrible thing to say!
+This is a respectable shop.  Are you saying you can't even pay for what you yourself ate?"
+
+
+Goku: "Shut up! Like hell we're paying!"
+
+Owner: "What was that? It's all about money in this world!"
+
+10
+ようかい「はなしはきいた！
+おきょうの　ありかをおしえんかい
+われえーっ！」
+ごくう「しってどうする？」
+ようかい「さきにいただいて　せかい
+じゅうのぜにを　てにいれるんや！」
+ようかいは　じまんのぶき　まぐわを
+ふりかざしておそってきた
+ごくう「こいっ！
+ぎゅうまおうのてしため！」
+妖怪「話は聞いた！
+お経のありかを教えんかい
+われえーっ！」
+悟空「知ってどうする？」
+妖怪「先にいただいて世界
+中の金を手に入れるんだ！」
+妖怪は自慢の武器馬鍬を
+振りかざして襲ってきた
+悟空「こいっ！
+牛魔王の手下め！」
+Yokai: "I heard you talking earlier! Tell me where the scriptures are!"
+
+
+Goku: "What will you do if we tell you?"
+Yokai: "I'll get it before you, then take all the money in the world!"
+
+The yokai takes out his prized weapon, a rake, and attacks.
+
+Goku: "Come at me! You servant of the Bull Demon King!"
+
+2
+ごくう「うぐっ！　たいりょくが
+まだ・・」
+悟空「うぐっ！体力が
+まだ・・」
+Goku: "Agh! My strength is still..."
+
+2
+ようかい「ぶびいーっ！」
+ごくう「ぎゃははっ！　どうだ」
+妖怪「ぶびいーっ！」
+悟空「ぎゃははっ！どうだ」
+Yokai: "*Oinkkk!*"
+Goku: "Hahaha! How's that?"
+4
+ようかい「くそおっ！　ただのさると
+ちゃうな？」
+ごくう「へへっ！　まだくるか」
+ようかい「こうなったら・・」
+妖怪「くそおっ！ただの猿
+じゃないな？」
+悟空「へへっ！まだ来るか」
+妖怪「こうなったら・・」
+Yokai: "Damn it! You're no ordinary monkey, are you?"
+
+Goku: "Hehe! Still going?"
+Yokai: "This time..."
+3
+ぽんっ！
+ようかいは　こどもにばけてしまった
+ようかい「きゃっきゃっ♡」
+ぽんっ！
+妖怪は子供に化けてしまった
+妖怪「きゃっきゃっ♡
+*Poof!*
+The yokai turned into a child.
+Yokai: "Haha! <3"
+2
+ようかい「いたい　いたい！
+やめてーっ！」
+妖怪「いたいいたい！
+やめてーっ！」
+Yokai: "Ow ow! Stop it!"
+
+4
+たたかいにきがついた　ひとびとが
+あつまってきました
+さんぞう「おおさわぎになって
+きたんだな」
+戦いに気がついた人々が
+集まって来ました
+三蔵「大騒ぎになって
+来たんだな」
+People who noticed the battle have started to gather.
+
+Sanzo: "This has turned into quite the uproar, y'know?"
+
+1
+たたかいをつづけています
+戦いを続けています
+He is continuing the fight.
+1
+そらをみあげています
+空を見上げています
+They are looking up at the sky.
+1
+ごくうをみてさわいでいます
+悟空を見て騒いでいます
+They are looking at Goku and making a racket.
+3
+さんぞう「ごくう！　おりてこい
+やめんか！」
+こえがとどきません
+三蔵「悟空！降りて来い
+やめんか！」
+声が届きません
+Sanzo: "Goku! Come down and stop fighting!"
+
+Your voice doesn't reach him.
+8
+さんぞう「みなさん　あのこどもは
+じつはようかいでして・・
+わしのでしのごくうがいま
+ちょっとこらしめておるだけなん・」
+やじうま「あんたのでし？
+なんてひどいことを！」
+やじうま「やめさせろ！　すぐに
+やめさせるんだ！」
+三蔵「皆さんあの子供は
+実は妖怪でして・・
+わしの弟子の悟空が今
+ちょっと懲らしめておるだけなん・」
+野次馬「あんたの弟子？
+なんてひどいことを！」
+野次馬「止めさせろ！すぐに
+止めさせるんだ！」
+Sanzo: "Everyone, that child is actually a yokai...
+
+My disciple Goku is teaching him a little lesson right now..."
+
+Onlooker: "Your disciple? How terrible!"
+
+Onlooker: "Stop him! Stop him at once!"
+
+1
+ひとりでにげちゃうんですか？
+一人で逃げちゃうんですか？
+Are you really going to run away alone?
+1
+だいじなときにそんな・
+大事な時にそんな・
+Doing that at such a crucial time...
+1
+たたかいがつづいている！
+戦いが続いている！
+You continue the fight!
+4
+やじうま「やーめろ！　やーめろ！」
+たいへんなことになってきました
+このままでは　ふくろだたきに
+あいそうです
+野次馬「止ーめろ！止ーめろ！」
+大変なことになってきました
+このままでは袋叩きに
+愛想です
+Onlookers: "Stop him! Stop him!"
+This has become a sticky situation.
+At this rate, they're all going to gang up on you.
+
+3
+さんぞう「むむっ　しかたがない・
+ぼんさんがへをこいた　ぼんさんが
+へをこいた・・」
+三蔵「むむっ仕方がない・
+坊さんが屁をこいた坊さんが
+屁をこいた・・」
+Sanzo: "Mrgh... It can't be helped...
+The monked farted, the monk farted..."
+
+7
+ごくう「うわーっ！　なぜだ！」
+わっかが　ごくうの　あたまを
+しめつけた
+ごくう「もうすこしなのに！
+わーっ！」
+たまらず　ちじょうへまっさかさまに
+おちていった
+悟空「うわーっ！なぜだ！」
+輪っかが悟空の頭を
+締め付けた
+悟空「もう少しなのに！
+わーっ！」
+たまらず地上へ真っ逆さまに
+落ちていった
+Goku: "Wagh! Why!?"
+The band tightens around Goku's head.
+
+Goku: "I was so close! Waaah!"
+
+Unable to bear it, Goku plummets to the ground.
+
+5
+どすーん！
+おちてきたごくうのてをとって
+さんぞうは　いちもくさんにそのばを
+はなれた
+さんぞう「ひゃーっ！　にげろーい！」
+ドスーン！
+落ちてきた悟空の手を取って
+三蔵は一目散にその場を
+離れた
+三蔵「ひゃーっ！逃げろーい！」
+*Thud!*
+Sanzo grabs Goku's hand and runs away.
+
+
+Sanzo: "Hyaah! Run away!"
+2
+ん？　まっくらになりました
+あれれ？　おかしいな・
+ん？真っ暗になりました
+あれれ？おかしいな・
+Hm? It's pitch black? how strange...
+
+1
+こんどはうしろをはしってます
+今度は後ろを走ってます
+He's behind you this time.
+2
+ごくう「おれには
+ひつようない」
+悟空「俺には
+必要ない」
+Goku: "I don't need it."
+
+4
+ごくう「つぎのむらは
+まだか？」
+さんぞう「もうすこしや　むらには
+くいものが　わんさとあるで」
+悟空「次の村は
+まだか？」
+三蔵「もう少しで村には
+食べ物がたくさんあるよ」
+Goku: "Are we at the next village yet?"
+
+Sanzo: "Just a bit further, and there's tons of food at the village too."
+
+1
+ごくう「あれっ？　へんだな」
+悟空「あれっ？変だな」
+Goku: "Huh? Something seems strange."
+3
+ごくう「おっちゃん　ことばが
+へんじゃないか？」
+さんぞう「き、きのせいや」
+悟空「おっちゃん言葉が
+変じゃないか？」
+三蔵「き、気のせいだよ」
+Goku: "Hey old man, isn't your speech a little strange?"
+
+Sanzo: "I-it's just your imagination."
+5
+さんぞう「・む？
+どうしたんだ？　まっくらだぞ
+だれか・でんきをつけろ！
+しまった　ろうそくもなにも
+もっとらんぞ・」
+三蔵「・む？
+どうしたんだ？真っ暗だぞ
+誰か・電気をつけろ！
+しまったろうそくも何も
+もっとらんぞ・」
+Sanzo: "...Hm? What's going on?  It's pitch black!
+
+Someone...turn on the lights!
+Shoot, I don't have any candles or anything either..."
+
+1
+さんぞう「おーい・・」
+三蔵「おーい・・」
+Sanzo: "Heeey..."
+3
+さんぞう「ごくうや・・わしを
+たすけにくるんだな・・
+ぼんさんが・・」
+三蔵「悟空や・・わしを
+助けにくるんだな・・
+坊さんが・・」
+Sanzo: "Goku... Come save me...
+
+The monk..."
+3
+ごくう「いててっ！　おっちゃん
+なにするんだよ　やめろ！」
+わがぐいぐいとしめつけます
+悟空「いててっ！おっちゃん
+何するんだよやめろ！」
+我がぐいぐいと締め付けます
+Goku: "Ow! What are you doing, old man? Stop it!"
+
+The band continues to tighten.
+2
+ごくう「たのむよ　おっちゃん！
+それとなえるの　やめろーっ！」
+悟空「頼むよおっちゃん！
+それと萎えるのやめろーっ！」
+Goku: "I'm begging you! And stop sapping my strength!"
+
+4
+ごくう「うー　あれ？
+おっちゃん　じゅもん・・」
+さんぞう「え？」
+ごくう「？？？」
+悟空「うーあれ？
+おっちゃん呪文・・」
+三蔵「え？」
+悟空「？？？」
+Goku: "Urrgh... What? The spell..."
+
+Sanzo: "Huh"?
+Goku: "???"
+14
+ごくう「てめーっ！」
+さんぞう「ぶひーっ！　やめてーな」
+ごくう「てめーやっぱり！」
+ようかい「しまった」
+ごくう「こんどはゆるさん
+とっちめてやる！」
+ようかい「ま、まってえな！
+あんたのつよいのは　わかったて！
+それより　あんさん　あんな
+ぼうずなんかより　わてのほうが
+べんりでっせ　いっしょにてんじくまで
+いきまひょ　な？　な？」
+ごくう「・・」
+どうする？
+悟空「テメーッ！」
+三蔵「フビーッ！やめてーな」
+悟空「テメーやっぱり！」
+妖怪「しまった」
+悟空「今度は許さん
+とっちめてやる！」
+妖怪「ま、待ってえな！
+あなたが強いのは分かったから！
+それよりあなたあんな
+坊主何かより私の方が
+便利ですよ　一緒に天竺まで
+行きましょ　ね？ね？」
+悟空「・・・」
+どうする？
+Goku: "You!"
+Sanzo: "*Oink!* Stop it!"
+Goku: "As I thought, it's you!"
+Yokai: "Shoot!"
+Goku: "I won't let you get away this time!"
+
+Yokai: "W-wait! I know how strong you are!
+
+However, I assure you that I'm more useful to you than that monk is. How about we go to India together? Well? Well?"
+
+
+
+Goku: "..."
+What will you do?
+1
+ようかい「ほんまに？」
+妖怪「本当に？」
+Yokai: "Really?"
+10
+ようかい「それでこそあにいや」
+ごくう「あにい？」
+ようかい「そうよばしてえな
+ほな　いこか」
+こうしてごくうは　さんぞうを
+みすて　ようかいといっしょに
+たびだっていった
+
+おしゃかさま「すくいようのない
+やつだな　もうおしまいだ」
+妖怪「それでこそ兄いや」
+悟空「兄い？」
+妖怪「そう呼ばせてくださいね
+では行こうか」
+こうして悟空は三蔵を
+見捨て妖怪と一緒に
+旅立っていった
+
+お釈迦様「救いようのない
+やつだなもうおしまいだ」
+Yokai: "Just what I would expect from my older brother."
+Goku: "Older brother?"
+Yokai: "Can I call you that? Well then, let's be off."
+
+Thus, Goku leaves Sanzo behind and goes on a journey with the yokai.
+
+
+\
+Buddha: "He can't be saved. It's over."
+
+8
+ごくう「おまえなんかに
+だまされるか！」
+ようかい「わっ！　なんでや！」
+ごくう「おっちゃんがいないと
+このあたまのわっかを　はずしてもらえ
+ないんだよ！　こら　おっちゃんを
+どこへやった！」
+ようかい「ひいいっ！」
+悟空「お前何かに
+騙されるか！」
+妖怪「わっ！なんでや！」
+悟空「おっちゃんがいないと
+この頭の輪っかを外してもらえ
+ないんだよ！こらおっちゃんを
+どこへやった！」
+妖怪「ひいいっ！」
+Goku: "I'm not falling for your tricks!"
+
+Yokai: "Wah! Why!?"
+Goku: "Without the old man I can't get him to take this band off my head! Where did you put him!?"
+
+
+
+Yokai: "Heeee!"
+2
+ごくう「おっちゃん！
+どこだー？」
+悟空「おっちゃん！
+どこだー？」
+Goku: "Old man! Where are you?"
+
+5
+さんぞう「へ？　わしは
+どうしとったんだ？」
+ごくう「こいつのじゅつで
+なまごみに　されていたんだ」
+さんぞう「なんと・・」
+三蔵「へ？わしは
+どうしとったんだ？」
+悟空「こいつの術で
+生ごみにされていたんだ」
+三蔵「何と・・」
+Sanzo: "Huh? What am I doing here?"
+
+Goku: "His magic put you in the garbage."
+
+Sanzo: "What?"
+14
+ごくう「どうするこいつ・
+すぶたにして　くっちまおうか」
+ようかい「わわっ！　ま、まって
+おくれやす！　わてがわるうおました
+かんにんや」
+ごくう「だめだ」
+ようかい「さんぞうはん　おねがいや
+わてをなかまにしとくれやす
+ぜったいそんはさせまへんよって・・」
+ごくう「うるさいっ！
+ぎゅうまおうのてしため」
+ようかい「わてはぎゅうまおうとは
+かんけいない！」
+
+悟空「どうするこいつ・
+酢豚にしてくっちまおうか」
+妖怪「わわっ！ま、待って
+ください！私が悪かったです
+ごめんなさい」
+ごくう「ダメだ」
+妖怪「三蔵さんお願いします
+私を仲間に入れてください
+絶対損はさせませんから・・」
+悟空「うるさいっ！
+牛魔王の手下め」
+妖怪「私は牛魔王とは
+関係じゃない！」
+
+Goku: "What should we do with him...
+Should I turn him into sweet and sour pork?"
+Yokai: "Wawah! W-wait, stop! I'm sorry, please forgive me!"
+
+
+Goku: "No way!"
+Yokai: "Sanzo-han, I'm begging you, take me with you! I promise I won't let you down."
+
+
+Goku: "Shut up! You're a minion of the Bull Demon King!"
+
+Yokai: "I'm not related to the Bull Demon King!"
+
+\
+10
+ようかい「わてはぎゅうまおうとは
+かんけいない！」
+さんぞう「なにができるんだ？」
+ようかい「わては　めがええんですわ
+どんな　とおくのもんかて　みえます
+ちょっとぐらいなら　ばけわざも
+つかえまっせ
+おねがいしまっさ　いっしょに
+つれてっとくなはれ」
+どうします？
+妖怪「わては牛魔王とは
+関係ない！」
+三蔵「何ができるんだ？」
+妖怪「私は目がいいのですよ
+どんなに遠くのでもんでも見えます
+ちょっとぐらいなら化け技も
+使えますよ
+お願いします一緒に
+連れて行ってください」
+どうします？
+Yokai: "I'm not related to the Bull Demon King!"
+
+Sanzo: "What can you do?"
+Yokai: "I have good eyes. I can see things that are far away.
+
+I can also do a bit of shapeshifting magic.
+
+Please take me with you!"
+
+What will you do?
+8
+ようかい「・・？
+ばか
+ばか
+ばか
+ばか！
+これでよろしおまっか？　わてらのほう
+では　あほいいまんねけどなあ
+なあさんぞうはん　たのんますわ」
+妖怪「・・？
+バカ
+バカ
+バカ
+バカ！
+これでよろしいですか？私たちの方
+ではアホと言いますけどね
+ねえ三蔵さん、お願いしますよ」
+Yokai: "...?
+Stupid
+Stupid
+Stupid
+Stupid!
+Is that fine? We say dumb where I'm from. Please, Sanzo-han, I'm begging you!"
+
+
+5
+ようかい「ほんまでっか？
+さすが　さんぞうはん！　そこらの
+ぼうずとは　ちゃいまんなあ」
+さんぞうはようかいに　はっかいという
+なをあたえ　おともにくわえた
+妖怪「本間でっか？
+さすが三蔵はん！そこらの
+坊主とはちゃいまんなあ」
+三蔵は妖怪に八戒と言う
+名を与えお供に加えた
+Yokai: "Really? Thank you, Sanzo-han! You're not an average monk, are you?"
+
+
+Sanzo gave the yokai the name Hakkai and took him as a companion.
+
+7
+いったい「はっかいをなかまにくわえた
+さんぞうたちは　やまのどこかにある
+という　かくれざと　おんなむら
+をめざして　たびだったんじゃ」
+さんぞう「はっかいや　あんない
+するんだなー」
+はっかい「まかせなはれ」
+一体「八戒を仲間に加えた
+三蔵たちは山のどこかにある
+という隠れ里女村
+を目指して旅立ったんだ」
+三蔵「八戒や案内
+するんだなー」
+八戒「任せてください」
+Ittai: "With the addition of Hakkai, Sanzo's group departed for the mountains to find the women's village, which is said to be hidden somewhere in the mountains."
+
+
+
+Sanzo: "Hakkai, lead the way, y'know?"
+
+Hakkai: "Leave it to me."
