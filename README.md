@@ -607,24 +607,32 @@ later rereleases of the game they actually changed this reference.
 
 ## Famicom Mukashibanashi: Yuyuki
 
-THIS GAME ISN'T FINISHED YET!  At the time of writing I have only finished
-chapter one.
-
 The biggest note here relates to the names of the main characters.  This game is
-based on the Chinese novel Journey to the West, and many of the characters here
-are directly from the novel.  However, given that the game was made in Japan,
-the question arises: Should I use the Chinese names or the Japanese names?  For
-example, if you read an English translation of Journey to the West, one of the
-main characters is called Sun Wukong.  However, in Japan, he is known as Son
-Goku, which is the name used in this game.  I was debating which to use, but
-I've noticed that Nintendo themselves have used the Japanese name in English
-translations in a few of their cameo appearances, such as a spirit in Super
-Smash Bros. Ultimate.  Thus, to be consistent with Nintendo, I have chosen to
-use the Japanese names.  For those of you who are familiar with the Chinese
-names, here's each of the character's Chinese and Japanese names (not yet
-finished since I haven't finished translating):\
+very loosely based on the Chinese novel Journey to the West, and many of the
+characters here are directly from the novel.  However, given that the game was
+made in Japan, the question arises: Should I use the Chinese names or the
+Japanese names?  For example, if you read an English translation of Journey to
+the West, one of the main characters is called Sun Wukong.  However, in Japan,
+he is known as Son Goku, which is the name used in this game.  I was debating
+which to use, but I've noticed that Nintendo themselves have used the Japanese
+name in English translations in a few of their cameo appearances, such as a
+spirit in Super Smash Bros. Ultimate.  Thus, to be consistent with Nintendo, I
+have chosen to use the Japanese names.  For those of you who are familiar with
+the Chinese names, here's each of the character's Chinese and Japanese names:\
 Sun Wukong: Son Goku\
+Sanzang: Sanzo\
+Bajie: Hakkai\
+Wujing: Gojo\
 Chao seems to be an original character.
+
+This game plays around with the text adventure format a bit more than the
+previous games, and as a result, the scripting approach doesn't quite work in a
+few sections.  I couldn't implement the screen shaking in a way that was
+completely perfect.  One especially annoying thing is that there's a few moments
+where sprites go over the text, so I have to stop showing my translations when
+that happens.  If the script is working fine and then you suddenly see Japanese
+text, check if any of the sprites are doing something funky.  If they are, the
+Japanese text there is intentional.
 
 If you've played Shin Onigashima using my scripts, you may notice that the text
 isn't vertical here.  That's because through the efforts of lots of scripting,
@@ -639,6 +647,74 @@ without inputting anything else, they will be given the default names ちゃお
 (Chao) and ごくう (Goku), which is what the script assumes their names will be.
 If you give them other names, the script will not be able to translate any of
 the messages that include their names.
+
+At several points throughout the game, you have to input things.  You have no
+choice but to use the Japanese input the game provides.  Here is what you have
+to write down at each point this happens.  For any answer that has a dakuten
+(the thing that looks like a quotation mark on a character, e.g. what が has
+that か doesn't), you need to input the character without the dakuton, and then
+input the dakuten character.  For example, to input が, you input か and then
+the dakuten character (which is on the left side of the screen).  Before
+cheating and looking on here, you should try to figure out what the answer
+should be because I think figuring these out for yourself is an important part
+of playing this game.
+
+<details>
+<summary>Chapter 3</summary>
+
+You will get asked one of three questions.
+
+<details>
+<summary>What is the name of the prison that Goku was in?</summary>
+
+English answer: Five Elements Mountain<br>
+Japanese answer: ごぎょうざん
+
+</details>
+
+<details>
+<summary>Who is the tallest character in Yuyuki?</summary>
+
+English answer: Buddha<br>
+Japanese answer: おしゃかさま
+
+</details>
+
+<details>
+<summary>What is the city that Sanzo lived in?</summary>
+
+English answer: Chouan<br>
+Japanese answer: ちょうあん
+
+</details>
+
+</details>
+
+<details>
+<summary>Chapter 7</summary>
+
+<details>
+<summary>Your sincere feelings</summary>
+
+English answer: I'm sorry<br>
+Japanese answer: ごめん (or すみません if you want to avoid the dakuten)
+
+</details>
+
+</details>
+
+<details>
+<summary>Chapter 10</summary>
+
+<details>
+<summary>Your sincere feelings</summary>
+
+English answer: I love you<br>
+Japanese answer: すき
+
+</details>
+
+</details>
 
 # Technical Details
 

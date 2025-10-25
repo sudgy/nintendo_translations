@@ -44,12 +44,21 @@ function clear_all()
     Messages.current_writing = nil
     Messages.write_lag = 0
     Messages.newlines = 0
+    Messages.next_input = false
+    Messages.almost_input = false
+    Messages.input = false
     Options.values = {}
     bad_translation = true
     global_x_offset = 0
     last_option_pos = -1
     gx = 0
     gy = 0
+    next_gy = 0
+    red_boy_soon = false
+    red_boy = false
+    bdk = false
+    bdk_soon = false
+    this_is_easy = false
 end
 
 function draw_text(x, y, text, color, back_color)
@@ -92,6 +101,18 @@ function Messages.display()
     local scroll_color = get_pixel2(16, 25)
     local y_offset = 0
     if Messages.current_message == nil then return end
+    if Messages.input then
+        local message = e.read(0x006B)
+        if (message < 14) then return end
+        draw_rect(32, 40, 87, 135, scroll_color)
+        draw_text(38, 44, "A Button:", e.black, e.clear)
+        draw_text(42, 52, "Confirm", e.black, e.clear)
+        draw_text(38, 64, "B Button:", e.black, e.clear)
+        draw_text(41, 72, "Advance", e.black, e.clear)
+        draw_text(46, 84, "Start:", e.black, e.clear)
+        draw_text(41, 92, "Register", e.black, e.clear)
+        return
+    end
     if Messages.current_writing ~= nil then
         if Messages.write_lag > 0 then
             Messages.write_lag = Messages.write_lag - 1
@@ -115,35 +136,41 @@ function Messages.display()
         local x_offset = 1
         local heart_pos = string.find(line, "<")
         while string.byte(line, x_offset) == 92 do x_offset = x_offset + 1 end
-        if heart_pos ~= nil then
+        local this_x_offset = x_offset
+        local previous_pos = x_offset
+        while heart_pos ~= nil do
             draw_text(
-                32 + x_offset + global_x_offset,
+                32 + global_x_offset + this_x_offset,
                 158 + i*9 + y_offset,
-                string.sub(line, x_offset, heart_pos),
+                string.sub(line, previous_pos, heart_pos),
                 e.black,
                 e.clear
             )
             if #line > heart_pos then
-                draw_text(
-                    32 + x_offset + 3 + global_x_offset - 4
-                        + string.byte(line, heart_pos + 1),
-                    158 + i*9 + y_offset,
-                    string.sub(line, heart_pos + 2),
-                    e.black,
-                    e.clear
-                )
+                this_x_offset = this_x_offset + string.byte(line, heart_pos + 1)
+                this_x_offset = this_x_offset - 1
             end
-            i = i + 1
-        else
-            draw_text(
-                32 + x_offset + global_x_offset,
-                158 + i*9 + y_offset,
-                string.sub(line, x_offset),
-                e.black,
-                e.clear
-            )
-            i = i + 1
+            previous_pos = heart_pos + 2
+            heart_pos = string.find(line, "<", heart_pos+1)
+            --if #line > heart_pos then
+            --    draw_text(
+            --        32 + x_offset + 3 + global_x_offset - 4
+            --            + string.byte(line, heart_pos + 1),
+            --        158 + i*9 + y_offset,
+            --        string.sub(line, heart_pos + 2),
+            --        e.black,
+            --        e.clear
+            --    )
+            --end
         end
+        draw_text(
+            32 + global_x_offset + this_x_offset,
+            158 + i*9 + y_offset,
+            string.sub(line, previous_pos),
+            e.black,
+            e.clear
+        )
+        i = i + 1
     end
     local cursor_color = get_pixel2(35, 119)
     local scroll_pos = e.read(0x6B)
@@ -156,10 +183,18 @@ function Messages.display()
     end
 end
 function Messages.add_message()
+    local status, err = pcall(Messages.real_add_message)
+    if not status then
+        print(err)
+    end
+end
+function Messages.real_add_message()
     bad_translation = false
     if Messages.current_writing ~= nil then
-        Messages.current_message
-            = Messages.current_message .. Messages.current_writing
+        if Messages.current_message ~= nil then
+            Messages.current_message
+                = Messages.current_message .. Messages.current_writing
+        end
         Messages.current_writing = nil
     end
     local value = {}
@@ -183,7 +218,34 @@ function Messages.add_message()
                 trans = Messages.translations[mess .. opt:sub(i, j-1)]
             end
         end
+        if not trans then
+            trans = Messages.translations[mess .. "INPUT"]
+            if trans then Messages.next_input = true end
+        end
         if trans then
+            if trans == "Sanzo: \"Ah, this is easy.\"\n\\\n\\\n" then
+                if not this_is_easy then
+                    this_is_easy = true
+                    trans = "Sanzo: \"Ah, this is easy.\"\n"
+                end
+            end
+            red_boy = false
+            if string.sub(trans, 1, 32) == "Red Boy: \"Try and catch me now!\""
+            then
+                red_boy_soon = true
+            end
+            if string.sub(trans, 1, 29) == "Bull Demon King: \"Die, Goku!\""
+            then
+                bdk_soon = true
+            else
+                bdk = false
+            end
+            if string.sub(trans, 1, 21) == "Goku: \"I won't lose!\"" then
+                bdk = true
+                Messages.current_message = nil
+                badstranslation = true
+                return
+            end
             if Messages.current_message ~= nil then
                 Messages.newlines,
                 Messages.current_message,
@@ -201,6 +263,10 @@ function Messages.add_message()
                 global_x_offset = 0
             end
         else
+            if bdk_soon then
+                bdk_soon = false
+                bdk = true
+            end
             e.log("Could not find translation for message")
             Messages.current_message = nil
             bad_translation = true
@@ -259,6 +325,15 @@ function Options.add_value()
     if #value ~= 0 then
         local trans = Options.translations[string.char(e.unpack(value))]
         if trans then
+            if trans == "Grandfather\n" and get_chapter() ~= 3 then
+                trans = "Old man\n"
+            elseif trans == "Grandmother\n" and get_chapter() ~= 3 then
+                trans = "Old woman\n"
+            elseif trans == "Inside\n" and get_chapter() == 8 then
+                trans = "Deeper\n"
+            elseif trans == "Andersen\n" and get_chapter() == 10 then
+                trans = "Ander's fan\n"
+            end
             Options.values[total - this+1] = trans
         else
             if value[1] ~= 0 then
@@ -333,19 +408,39 @@ function draw_scroll(x, y, length, flip)
 end
 
 function draw_scrolls()
+    if bdk then return end
     if bad_translation then return end
     local background = get_pixel2(8, 8)
     local scroll_color = get_pixel2(16, 25)
     local dark_scroll = get_pixel2(17, 25)
 
-    draw_rect(0, 32, 103, 231, background)
-    draw_rect(0, 144, 231, 231, background)
-
     local message = e.read(0x006B)
     local option = e.read(0x0071)
     if message < 4 then
         Messages.current_message = nil
+        if Messages.next_input then
+            Messages.input = true
+            Messages.next_input = false
+            Messages.almost_input = true
+        end
+        if not Messages.almost_input and Messages.input then
+            Messages.input = false
+            Messages.current_message = nil
+            Messages.current_writing = nil
+            Messages.write_lag = 0
+            Messages.newlines = 0
+        end
+    else
+        Messages.almost_input = false
     end
+    if Messages.input then
+        Messages.display()
+        return
+    end
+
+    draw_rect(0, 32, 103, 231, background)
+    draw_rect(0, 144, 231, 231, background)
+
     while #Options.values > 0 and #Options.values * 2 + 3 > option do
         table.remove(Options.values, #Options.values)
     end
@@ -407,7 +502,11 @@ function draw_scrolls()
 end
 
 function on_input(input)
+    if e.read(0x00A0) == 1 then return input end
     if bad_translation then return input end
+    if Messages.input then return input end
+    if red_boy_soon or red_boy then return input end
+    if bdk_soon or bdk then return input end
     input["up"], input["right"] = input["right"], input["up"]
     input["down"], input["left"] = input["left"], input["down"]
     return input
@@ -416,6 +515,9 @@ end
 -- 0: Not in game
 -- 1: In game
 function get_location()
+    if red_boy then return 1 end
+    if bdk then return 1 end
+    if shake_cooldown ~= 0 or e.read(0x17) ~= 0 then return 1 end
     if get_pixel2(16, 24) ~= get_pixel2(16, 25) then
         return 1
     else
@@ -423,32 +525,36 @@ function get_location()
     end
 end
 
-shake_timer = 0
+shake_cooldown = 0
 
 function update_shaking()
-    if shake_timer > 0 then
-        shake_timer = shake_timer - 1
-        if shake_timer == 3 then
-            gx = -8
-            gy = -8
-        elseif shake_timer == 2 then
-            gx = 0
-            gy = -8
-        elseif shake_timer == 1 then
-            gx = -8
-            gy = 0
-        elseif shake_timer == 0 then
-            gx = 0
-            gy = 0
+    gx = -e.read(0x15)
+    gy = next_gy
+    next_gy = -e.read(0x17)
+    if gy == 0 then
+        if shake_cooldown > 0 then
+            shake_cooldown = shake_cooldown - 1
         end
     else
-        if e.read(0x15) == 0 and e.read(0x17) == 8 then
-            shake_timer = 4
-            gx = 0
-            gy = 0
-        end
+        shake_cooldown = 20
     end
 end
+
+function update_red_boy()
+    local red_boy_fall_y = e.read(0x0230)
+    if red_boy_fall_y == 71 then
+        clear_all()
+        red_boy = true
+    end
+end
+
+-- Red Boy:
+-- 0x217
+-- 0x218
+--
+-- Goku:
+-- 0x20B
+-- 0x20C
 
 function loop()
     -- This is hopefully only when the BIOS is loading the game
@@ -457,10 +563,17 @@ function loop()
     local location = get_location()
     if location == 1 then
         draw_scrolls()
+        if red_boy_soon then
+            update_red_boy()
+        end
     else
         clear_all()
         bad_translation = false
     end
+end
+
+function get_chapter()
+    return e.read(0x00D5)
 end
 
 e.register_exec(0x7951, Messages.add_message) -- Drawing at the beginning

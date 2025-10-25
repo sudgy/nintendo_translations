@@ -147,8 +147,12 @@ std::vector<std::string> space_english(const std::vector<std::string>& lines)
     }
     for (auto& s : result) {
         auto pos = s.find('<');
-        if (pos != s.npos) {
-            s.insert(pos + 1, 1, char(get_fceux_width(s.substr(0, pos + 1))));
+        auto ppos = 0;
+        while (pos != s.npos) {
+            auto size = get_fceux_width(s.substr(ppos, pos + 1 - ppos));
+            s.insert(pos + 1, 1, char(size));
+            ppos = pos+2;
+            pos = s.find('<', pos+2);
         }
     }
     return result;

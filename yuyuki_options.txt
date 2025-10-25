@@ -193,4 +193,612 @@ Cancel
 いいだろう
 Sure
 ばかをいえ
-Don't be stupid
+Don't be an idiot
+はっかい
+Hakkai
+やすむ
+Rest
+じゅつ
+Powers
+のぼる
+Ascend
+おりる
+Descend
+せんりがん
+Sight
+てをつなぐ
+Hold hands
+たけやぶ
+Bamboo grove
+たけのこ
+Bamboo shoot
+おくへすすむ
+Go deeper
+さがす
+Search
+ぱんだ
+Pandas
+わかった
+I understand
+わかんない
+I do not understand
+よくわかった
+I completely understand
+あな
+Hole
+えんとつ
+Chimney
+おふろやさん
+Bathhouse
+あける
+Open
+おく
+Inside
+ばんだい
+Attendant's booth
+おとこ
+Man
+かーてん
+Curtain
+のぞきたい
+I want to peep
+がまんする
+Have self restraint
+しつもん
+Question
+きんかく
+Gold Horn
+ぎんかく
+Silver Horn
+しろ
+Castle
+やぐら
+Tower
+しろのなか
+Inside the castle
+ごじょう
+Gojo
+すすむ
+Advance
+ようかい
+Yokai
+しょうきん
+Prize
+おれがいく
+I'll go
+はくちょう
+Swan
+わし
+Eagle
+つばめ
+Swallow
+うみのあわ
+Sea foam
+ひかりのせい
+Light spirit
+ひと
+Human
+きょう
+Today
+おととい
+Day before yesterday
+さきおととい
+Three days ago
+おじいさん
+Grandfather
+おばあさん
+Grandmother
+くじゃく
+Peacock
+つる
+Crane
+おとこのこ
+Boy
+ねずみ
+Mouse
+おひめさま
+Princess
+おうじさま
+Prince
+りょうし
+Hunter
+もりのこびと
+Dwarf
+五にん
+Five
+六にん
+Six
+七にん
+Seven
+おかしのいえ
+Gingerbread house
+あおいとり
+Bluebird
+あかいくつ
+Red shoes
+あんでるせん
+Andersen
+ぐりむ
+Grimm
+ぺろー
+Perrault
+ふくとけーき
+Clothes and cake
+えほんとあめ
+Book and candy
+ふえとたいこ
+Flute and drum
+だんろのなか
+In the stove
+だいどころ
+Kitchen
+はしらどけい
+Clock
+きりぎりす
+Grasshopper
+かえる
+Frog
+のねずみ
+Mouse
+きたかぜ
+North wind
+あまぐも
+Cloud
+きぼう
+Hope
+ゆうき
+Courage
+あい
+Love
+ふろ
+Bath
+かわ
+River
+こころよむ
+Read mind
+ふね
+Boat
+かいだん
+Stairs
+みせのなか
+Inside the store
+ふなつきば
+Harbor
+みせをでる
+Leave the store
+どらむかん
+Drum
+きっぷ
+Ticket
+へんしん
+Shapeshift
+かう
+Buy
+うる
+Sell
+おみやげ
+Souvenir
+けんか
+Your soul
+みせのひと
+Shopkeeper
+きく
+Listen
+なやみ
+Worries
+だから？
+Then?
+まかすんだな
+Leave it to me, y'know?
+いやなんだな
+No, y'know?
+うらのいえ
+House behind here
+りんりん
+Rinrin
+みやげものや
+Souvenir Shop
+びんぼうやだ
+hates being poor
+あかるいひと
+cheerful person
+それにあいつ
+towards him
+わたしさ
+I
+あいつさ
+that guy
+すきなのよね
+I like that
+かねないしね
+it's complicated
+くらくってさ
+so gloomy
+かんぱん
+Deck
+きゃくしつ
+Guest cabin
+こども
+Child
+そうだしつ
+Pilothouse
+しょくどう
+Diner
+きかんしつ
+Engine room
+せんいん
+Sailor
+きかい
+Machine
+こどもさがす
+Look for the child
+とびら
+Door
+ちょうりば
+Kitchen
+えんじん
+Engine
+こうがいじ
+Red Boy
+らうんじ
+Lounge
+ぴあの
+Piano
+おんなのこ
+Girl
+まいく
+Mic
+ぼう
+Cudgel
+あとをおう
+Chase
+だっしゅつ
+Escape
+たたかう
+Fight
+ふりまわす
+Wield
+すてる
+Throw it away
+すてない
+Don't throw it away
+こうへんから
+From disk two
+からだ
+Body
+こづち
+Mallet
+わたす
+Give
+くもじじい
+Old Cloud Man
+けがわのふく
+Fur coat
+まあな
+Well, yeah
+べつに
+Not really
+いきたい
+I want to go
+いきたくない
+I don't want to go
+たいりょく
+Strength
+ける
+Kick
+かみつく
+Bite
+にげる
+Run
+ぎゅうまおう
+Bull Demon King
+なかま
+Companions
+だんろ
+Fireplace
+じめん
+Ground
+あいさつ
+Greet
+きんとうん
+Somersault cloud
+ゆきだるま
+Snowman
+ほらあな
+Cave
+つかまえる
+Catch
+きつね
+Fox
+おんな
+Woman
+がらくた
+Garbage
+さかな
+Fish
+なでる
+Pet
+ぼるこふ
+Volkov
+くも
+Cloud
+ぶれすれっと
+Bracelet
+ぽすたー
+Poster
+おじさん
+Man
+おばさん
+Woman
+ますたー
+Owner
+ぽりすまん
+Policeman
+もぐら
+Mole
+なまたまご
+Raw egg
+べにしょうが
+Pickled ginger
+ちょこれいと
+Chocolate
+のり
+Seaweed
+ぱいなっぷる
+Pineapple
+ぎゅうどん
+Gyudon
+さんぐらす
+Sunglasses
+やしのき
+Palm tree
+うみ
+Sea
+て
+Hand
+ひざ
+Knee
+ばすと
+Bust
+うぇすと
+Waist
+ひっぷ
+Hips
+あしくび
+Ankles
+おいかける
+Chase
+じいさん
+Old man
+うん
+Yes
+ゆうひ
+Setting sun
+みぎのへや
+Right room
+ひだりのへや
+Left room
+ゆか
+Floor
+へやのなか
+Inside the room
+ろうか
+Hallway
+まどのそと
+Outside the window
+した
+Down
+だれか
+Someone
+むすめ
+Daughter
+しゃしんたて
+Photo frame
+ひきだし
+Drawer
+かびん
+Vase
+てんじょう
+Ceiling
+てれび
+TV
+かぎ
+Key
+ろーぷ
+Rope
+あたま
+Head
+にょいぼう
+Compliant Cudgel
+けなす
+Insult
+ほめる
+Praise
+ぼーと
+Boat
+うみのみず
+Seawater
+しま
+Island
+おーら
+Aura
+あし
+Foot
+びるのまど
+Building window
+まどがらす
+Window glass
+まち
+Town
+ひとびと
+People
+おどる
+Dance
+びるのなか
+In the building
+つくえ
+Desk
+そふぁ
+Sofa
+れいぞうこ
+Fridge
+おもて
+Outside
+めも
+Note
+一
+1
+二
+2
+三
+3
+四
+4
+五
+5
+六
+6
+七
+7
+八
+8
+九
+9
+のーと
+Notebook
+きんたろう
+Kintaro
+てつごうし
+Iron bars
+どんべ
+Donbe
+どんべたち
+Donbe and everyone
+てんぐ
+Tengu
+ゆかいた
+Floorboard
+ちか
+Underground
+へいし
+Soldier
+しゃったー
+Shutter
+にせのこづち
+Fake mallet
+えれべーた
+Elevator
+ひこうき
+Airplane
+すごくきれい
+Ridiculously beautiful
+きたない
+Filthy
+いい
+Yes
+おばけ
+Monster
+らせつじょ
+Princess Iron Fan
+とおく
+Far away
+みなと
+Harbor
+そうこ
+Storehouse
+はこのなか
+In the boxes
+へいしたち
+Soldiers
+じゅう
+Gun
+すもう
+Part in sumo
+てんじく
+India
+かいわ
+Conver- sation
+へいし一
+Soldier 1
+へいし二
+Soldier 2
+りゅうきち
+Ryuukichi
+かえんざん
+Flaming Fire Mountain
+さくせんだす
+Strategize
+かくにん
+Review
+さけぶ
+Shout
+さくせん
+Strategy
+あいず
+Cue
+ばしょうせん
+Plantain fan
+たて
+Vertically
+よこ
+Horizontally
+ななめ
+Diagonally
+すくりーん
+Screen
+なわ
+Rope
+えらぶ
+Choose
+みぎ
+Right
+まんなか
+Middle
+ひだり
+Left
+むこうぎし
+Other side
+とびこむ
+Jump in
+まるこふ
+Markov
+さるにこふ
+Salnikov
+にくろむせん
+Nichrome fan
+つぼ
+Pot
+おふだ
+Talisman
+あくりょう
+Evil spirit
+おまじない
+Curse
+一ばん
+Number 1
+二ばん
+Number 2
+三ばん
+Number 3
+なべ
+Pot
+なわをとく
+Untie the rope
+たすける
+Help
+たすけない
+Don't help
+かけよる
+Rush over
+みんな
+Everyone
+いたずら
+Prank
+する
+Do it
+しない
+Don't do it
+やる
+Yes
+ぜったいする
+Definitely do it
