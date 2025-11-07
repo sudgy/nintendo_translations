@@ -625,13 +625,19 @@ Bajie: Hakkai\
 Wujing: Gojo\
 Chao seems to be an original character.
 
-This game plays around with the text adventure format a bit more than the
-previous games, and as a result, the scripting approach doesn't quite work in a
-few sections.  I couldn't implement the screen shaking in a way that was
-completely perfect.  One especially annoying thing is that there's a few moments
-where sprites go over the text, so I have to stop showing my translations when
-that happens.  If the script is working fine and then you suddenly see Japanese
-text, check if any of the sprites are doing something funky.  If they are, the
+This game plays around with the language much more than the others.  While I
+tried to translate these things as best I could, there were a few spots that I
+just couldn't come up with a good translation.  I also feel like there were many
+jokes that went over my head and I just wrote what was originally written.  I
+apologize for this.
+
+This game messes with the text adventure format a bit more than the previous
+games, and as a result, the scripting approach doesn't quite work in a few
+sections.  I couldn't implement the screen shaking in a way that was completely
+perfect.  One especially annoying thing is that there's a few moments where
+sprites go over the text, so I have to stop showing my translations when that
+happens.  If the script is working fine and then you suddenly see Japanese text,
+check if any of the sprites are doing something funky.  If they are, the
 Japanese text there is intentional.
 
 If you've played Shin Onigashima using my scripts, you may notice that the text
@@ -647,6 +653,12 @@ without inputting anything else, they will be given the default names ちゃお
 (Chao) and ごくう (Goku), which is what the script assumes their names will be.
 If you give them other names, the script will not be able to translate any of
 the messages that include their names.
+
+During the climax, there's one spot where the screen shakes and there's a
+possibility that the colors of the scrolls the text is displayed on is messed
+up.  It didn't happen to me when I tested it but it has happened to others.  If
+you see weird scroll colors near the end of the game, try restarting the script.
+Hopefully it will work after that.
 
 At several points throughout the game, you have to input things.  You have no
 choice but to use the Japanese input the game provides.  Here is what you have

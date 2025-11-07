@@ -39,6 +39,8 @@ function overlap_strs(s1, s2)
     return s2, nil
 end
 
+colors = {}
+
 function clear_all()
     Messages.current_message = nil
     Messages.current_writing = nil
@@ -54,6 +56,7 @@ function clear_all()
     gx = 0
     gy = 0
     next_gy = 0
+    current_color = -1
     red_boy_soon = false
     red_boy = false
     bdk = false
@@ -98,7 +101,7 @@ Messages.write_lag = 0
 Messages.newlines = 0
 global_x_offset = 0
 function Messages.display()
-    local scroll_color = get_pixel2(16, 25)
+    local scroll_color = colors.scroll_color
     local y_offset = 0
     if Messages.current_message == nil then return end
     if Messages.input then
@@ -151,7 +154,7 @@ function Messages.display()
                 this_x_offset = this_x_offset - 1
             end
             previous_pos = heart_pos + 2
-            heart_pos = string.find(line, "<", heart_pos+1)
+            heart_pos = string.find(line, "<", heart_pos+2)
             --if #line > heart_pos then
             --    draw_text(
             --        32 + x_offset + 3 + global_x_offset - 4
@@ -347,7 +350,7 @@ function Options.add_value()
     end
 end
 function Options.display()
-    local scroll_color = get_pixel2(16, 25)
+    local scroll_color = colors.scroll_color
     if not has_values(Options.values) then return end
     for i, option in pairs(Options.values) do
         local num = -1
@@ -380,10 +383,10 @@ function draw_scroll(x, y, length, flip)
     if flip then
         x, y = y, x
     end
-    local black = get_pixel2(24, 24)
-    local background = get_pixel2(8, 8)
-    local scroll_color = get_pixel2(16, 25)
-    local dark_scroll = get_pixel2(17, 25)
+    local black = colors.black
+    local background = colors.background
+    local scroll_color = colors.scroll_color
+    local dark_scroll = colors.dark_scroll
 
     scroll_rect(x, y, x, y + length - 1, black, flip)
     scroll_rect(x + 1, y - 7, x + 1, y + length + 6, dark_scroll, flip)
@@ -410,9 +413,9 @@ end
 function draw_scrolls()
     if bdk then return end
     if bad_translation then return end
-    local background = get_pixel2(8, 8)
-    local scroll_color = get_pixel2(16, 25)
-    local dark_scroll = get_pixel2(17, 25)
+    local background = colors.background
+    local scroll_color = colors.scroll_color
+    local dark_scroll = colors.dark_scroll
 
     local message = e.read(0x006B)
     local option = e.read(0x0071)
@@ -548,17 +551,21 @@ function update_red_boy()
     end
 end
 
--- Red Boy:
--- 0x217
--- 0x218
---
--- Goku:
--- 0x20B
--- 0x20C
+function update_colors()
+    colors.scroll_color = get_pixel2(16, 25)
+    colors.black = get_pixel2(24, 24)
+    colors.background = get_pixel2(8, 8)
+    colors.scroll_color = get_pixel2(16, 25)
+    colors.dark_scroll = get_pixel2(17, 25)
+end
 
 function loop()
     -- This is hopefully only when the BIOS is loading the game
     if e.read(0x0022) == 16 then return end
+    if current_color ~= e.get_pixel2(0, 0) then
+        current_color = e.get_pixel2(0, 0)
+        update_colors()
+    end
     update_shaking()
     local location = get_location()
     if location == 1 then

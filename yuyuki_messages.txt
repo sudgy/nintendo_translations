@@ -600,7 +600,7 @@ Chao: "I see... Maybe it's better that way. You can stay here forever."
 
 
 Goku: "...Hn."
-Chao: Once you've finished eating, go get some water."
+Chao: "Once you've finished eating, go get some water."
 
 Goku: "...Water."
 2
@@ -6151,7 +6151,7 @@ Gojo: "Will it really be that easy?"
 ・・男「コイン集めも
 ・・きのこ狩りもいいけど
 ・・少し休みたいな」
-...Man: "Collecting money and ...mushroom hunting are fine, but I ...would like to take a little break."
+...Man: "Collecting coins and ...mushroom hunting are fine, but I ...would like to take a little break."
 
 
 1
@@ -6401,7 +6401,7 @@ Shopkeeper: "Hey...Welcome to Tsukumo!"
 1
 じめじめしたかんじのひとです
 ジメジメした感じの人です
-He feels a gloomy person.
+He feels like a gloomy person.
 1
 こんながらくた　いりません
 こんなガラクタいりません
@@ -8630,7 +8630,7 @@ Chao: "No! You can't throw it away!"
 
 Bull Demon King: "Raaaagh!"
 Goku: "Waaaaaaah!"
-Blow away by a tremendous force, you hear Chao's voice as your consciousness fades away.
+Blown away by a tremendous force, you hear Chao's voice as your consciousness fades away.
 
 
 \
@@ -8929,7 +8929,7 @@ Goku: "Where are we?"
 Old Cloud Man: "We are in Siberia, in the far north."
 
 Goku: "Why am I in a place like this?"
-Old Cloud Man: "The bull demon king sent you here."
+Old Cloud Man: "The Bull Demon King sent you here."
 
 Goku: "Oh, so that's how it is..."
 4
@@ -11121,6 +11121,17 @@ Gojo: "What? He's not thinking of anything."
 ...Thanks to that monster, all the ...lipstick in town has vanished!"
 
 
+1
+どっかいっちゃたみたいです
+どっか行っちゃたみたいです
+He seems to have gone somewhere.
+2
+ごくう「なまいきながきだな」
+ごじょう「あんたといっしょだべ」
+悟空「生意気なガキだな」
+悟浄「あんたと一緒だべ」
+Goku: "He's a cheeky brat."
+Gojo: "Just like you."
 1
 そちらにはいけないみたいです
 そちらには行けないみたいです
@@ -14849,7 +14860,7 @@ Gojo: "*Sigh*"
 さんぞう「もどるのはいやなんだな」
 三蔵「戻るのは嫌なんだな」
 Sanzo: "I don't want to go back, y'know?"
-1 In the boxes
+1 In the
 からっぽです
 空っぽです
 They're empty.
@@ -17685,16 +17696,22 @@ Gojo: "I can't be bothered! *Hic!*"
 いまなら　だれもいません
 今なら誰もいません
 There is no one else in the room.
-3
+5
 ごくうが　ぎゅうまおうに
 やられています
 ごくう「うわーーっ！」
+
+
 悟空が牛魔王に
 やられています
 悟空「うわーーっ！」
+
+
 Goku is getting hurt by the Bull Demon King.
 
 Goku: "Waaagh!"
+\
+\
 5
 ちゃお「ごくうが
 ころされる！」
