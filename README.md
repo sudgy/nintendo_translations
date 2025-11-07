@@ -664,7 +664,7 @@ At several points throughout the game, you have to input things.  You have no
 choice but to use the Japanese input the game provides.  Here is what you have
 to write down at each point this happens.  For any answer that has a dakuten
 (the thing that looks like a quotation mark on a character, e.g. what が has
-that か doesn't), you need to input the character without the dakuton, and then
+that か doesn't), you need to input the character without the dakuten, and then
 input the dakuten character.  For example, to input が, you input か and then
 the dakuten character (which is on the left side of the screen).  Before
 cheating and looking on here, you should try to figure out what the answer
