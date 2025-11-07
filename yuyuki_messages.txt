@@ -35,6 +35,20 @@ A side of disk one.
 Please set to the
 B side of disk one.
 
+2
+えーびーさいど
+          えらー
+エービーサイド
+          エラー
+A B Side Error
+
+2
+ちがった　でぃすくが
+        せっとされています
+違ったディスクが
+        セットされています
+Incorrect disk
+
 12 INPUT
 
 一しょう
