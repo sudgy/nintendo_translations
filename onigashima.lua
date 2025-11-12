@@ -1,9 +1,17 @@
-base_directory = "FILL THIS IN"
---dofile(base_directory .. "mesen.lua")
-dofile(base_directory .. "fceux.lua")
+if gui ~= nil then
+	emul_name = "fceux"
+	elseif emu.memType.cpuDebug ~= nil then
+		emul_name = "mesen"
+		elseif emu.memType.nesDebug ~= nil then
+			emul_name = "mesen2"
+end
 
-messages_filename = base_directory .. "onigashima_messages.bin"
-options_filename = base_directory .. "onigashima_options.bin"
+emul_filename = package.searchpath(emul_name, package.path)
+dofile(emul_filename)
+
+base_path = emul_filename:match("(.*[/\\])") or "./"
+messages_filename = base_path .. "onigashima_messages.bin" 
+options_filename = base_path .. "onigashima_options.bin"
 
 credits_d = -1
 
@@ -187,7 +195,7 @@ function Messages.add_message()
             e.log("Could not find translation for message")
             Messages.current_message = nil
             --for i = 1,#value do
-            --    print(string.format("%x", value[i]) .. " " .. tostring(value[i]))
+            --    e.log(string.format("%x", value[i]) .. " " .. tostring(value[i]))
             --end
         end
     end
@@ -251,7 +259,7 @@ function Options.add_value()
 end
 function Options.display()
     local scroll_color = e.get_pixel2(16, 25)
-    if not has_values(Options.values) then return end
+	if not has_values(Options.values) then return end
     local scroll_pos = e.read(0x6E)
     if scroll_pos >= 3 then
         e.draw_rect(240 - scroll_pos*8, 160, 220, 207, scroll_color)
