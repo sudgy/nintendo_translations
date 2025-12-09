@@ -1,4 +1,4 @@
-base_directory = "/home/sudgy/programs/emulators/nintendo_translations/"
+base_directory = "FILL THIS IN"
 --dofile(base_directory .. "mesen.lua")
 dofile(base_directory .. "fceux.lua")
 
