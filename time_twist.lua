@@ -1,11 +1,16 @@
-base_directory = "/home/sudgy/programs/emulators/nintendo_translations/"
+base_directory = "FILL THIS IN"
 --dofile(base_directory .. "mesen.lua")
 dofile(base_directory .. "fceux.lua")
+
+debug = false
 
 messages_filename = base_directory .. "time_twist_messages.bin"
 options_filename = base_directory .. "time_twist_options.bin"
 
 space_code = 172
+
+-- 0x6F is what you must set to force a particular message, although the game
+-- still "progresses" like the correct message was shown
 
 function split(str, sep)
     local result = {}
@@ -24,7 +29,8 @@ function english_squash(lines_lines)
 end
 
 function print_byte_string(string)
-    e.log({string.byte(string, 1, #string)})
+    if (string == nil) then e.log("nil")
+    else e.log({string.byte(string, 1, #string)}) end
 end
 
 -- 8747-8806: Message, each one is 24 characters long (so 48 bytes, or 0x30)
@@ -39,6 +45,7 @@ end
 
 function clear_all()
     japanese_lines = {}
+    all_japanese_lines = {}
     message_start_i = 1
     message_end_i = 0
     english_lines = nil
@@ -53,11 +60,15 @@ function clear_all()
     scroll_amount = 1
     border_pos = 0
     gy = 0
+    persistent_option_values = option_values
     option_values = {}
     option_border_pos = 0
     option_window_visible = false
     message_window_visible = false
     bad_translation = true
+    red_message = false
+    blue_message = false
+    in_game = false
 end
 clear_all()
 
@@ -66,9 +77,10 @@ function load_messages()
     local data = file:read("*all")
     message_translations = {}
     local sections = split(data, "\1")
-    for i=1,#sections/2 do
-        local japanese_data = sections[2*i-1]
-        local english_data = sections[2*i]
+    for i=1,#sections/3 do
+        local japanese_data = sections[3*i-2]
+        local option = sections[3*i-1]
+        local english_data = sections[3*i]
         local japanese_lines = split(japanese_data, "\2")
         local english_lines_base = split(english_data, "\2")
         local english_lines = {}
@@ -82,7 +94,8 @@ function load_messages()
             message_translations[japanese_lines[1]],
             {
                 japanese = japanese_lines,
-                english = english_lines
+                english = english_lines,
+                option = option
             }
         )
     end
@@ -111,28 +124,62 @@ function add_line(line)
     table.insert(japanese_lines, string.char(e.unpack(line)))
 end
 
-function commit_message()
+function commit_message(force)
+    if red_message then
+        blue_message = true
+        writing_time = 0
+        return
+    end
     if current_message_squashed_new ~= nil then
-        e.log("Warning: previous message didn't finish writing")
+        e.log("Warning: previous message didn't finish writing (1)")
     end
 
-    while #japanese_lines[#japanese_lines] == 0 do
-        table.remove(japanese_lines)
+    if not force then
+        while #japanese_lines[#japanese_lines] == 0 do
+            table.remove(japanese_lines)
+        end
     end
     local old_end_i = message_end_i
     message_end_i = #japanese_lines
 
     if english_lines ~= nil then
+        for i = 1,#japanese_lines do
+            if japanese_lines[i] ~= all_japanese_lines[i] then
+                e.log("Unable to find translation for message")
+                if debug then
+                    e.log("Error at i = " .. i)
+                    print_byte_string(japanese_lines[i])
+                    print_byte_string(all_japanese_lines[i])
+                end
+                clear_all()
+                return
+            end
+        end
         current_english_lines = english_lines
     else
         local possible_translations = message_translations[japanese_lines[1]]
         if possible_translations == nil then
             e.log("Unable to find translation for message")
+            --for _, line in ipairs(japanese_lines) do
+            --    print_byte_string(line)
+            --end
             clear_all()
             return
         elseif #possible_translations == 1 then
+            bad_translation = false
             english_lines = possible_translations[1].english
+            all_japanese_lines = possible_translations[1].japanese
             current_english_lines = english_lines
+            for i = 1,#japanese_lines do
+                if japanese_lines[i] ~= all_japanese_lines[i] then
+                    e.log("Unable to find translation for message")
+                    --for _, line in ipairs(japanese_lines) do
+                    --    print_byte_string(line)
+                    --end
+                    clear_all()
+                    return
+                end
+            end
         else
             local actually_possible_translations = {}
             for _, translation in ipairs(possible_translations) do
@@ -145,12 +192,28 @@ function commit_message()
                         end
                     end
                     if good then
+                        if translation.option ~= "" then
+                            local opt = persistent_option_values[e.read(0xA8) + 1]
+                            if opt then
+                                local j = opt:find("\n")
+                                local truncated = opt:sub(1, j-1)
+                                if translation.option ~= truncated then
+                                    good = false
+                                end
+                            end
+                        end
+                    end
+                    if good then
                         table.insert(actually_possible_translations,translation)
                     end
                 end
             end
             possible_messages = {}
+            local is_talk = false
             for _, translation in ipairs(actually_possible_translations) do
+                if translation.option == "Talk" then
+                    is_talk = true
+                end
                 table.insert(
                     possible_messages,
                     english_squash({e.unpack(
@@ -160,6 +223,14 @@ function commit_message()
                     )})
                 )
             end
+            if #possible_messages == 0 then
+                e.log("Unable to find translation for message")
+                --for _, line in ipairs(japanese_lines) do
+                --    print_byte_string(line)
+                --end
+                clear_all()
+                return
+            end
             for i=2,#possible_messages do
                 if possible_messages[1] ~= possible_messages[i] then
                     e.log("Translation conflict found")
@@ -168,6 +239,13 @@ function commit_message()
                 end
             end
             current_english_lines = actually_possible_translations[1].english
+            if is_talk and e.read(0xCE) == 9 then
+                if current_english_lines[1][1] == "She has lost consciousness."
+                then
+                    current_english_lines = {{"He has lost consciousness."}}
+                end
+            end
+            bad_translation = false
         end
     end
 
@@ -179,8 +257,19 @@ function commit_message()
     current_message_squashed_new = new_english_lines
     current_japanese_length = #new_japanese_lines
     current_english_length = #current_message_squashed_new
+    if current_message_squashed_new == "\\\\\n" then
+        clear_all()
+        return
+    end
     current_drawing = ""
     writing_time = 0
+    if current_english_lines[1][1] == "RED" then
+        red_message = true
+        current_english_length = 80
+    elseif current_english_lines[1][1] == "BLUE" then
+        blue_message = true
+        current_english_length = 80
+    end
 end
 
 function read_line(line_num)
@@ -201,32 +290,45 @@ function line1_written()
     if #japanese_lines < 2 then add_line(read_line(1)) end
     if #japanese_lines < 3 then add_line(read_line(2)) end
     if #japanese_lines < 4 then add_line(read_line(3)) end
-    commit_message()
+    commit_message(false)
 end
 
 function line2_written()
     --e.log("Line 2")
+    while #japanese_lines < 1 do add_line({}) end
     add_line(read_line(1))
     add_line(read_line(2))
     add_line(read_line(3))
-    commit_message()
+    commit_message(false)
 end
 
 function line3_written()
     --e.log("Line 3")
+    while #japanese_lines < 2 do add_line({}) end
     add_line(read_line(2))
     add_line(read_line(3))
-    commit_message()
+    commit_message(false)
 end
 
 function line4_written()
     --e.log("Line 4")
+    for i=0,-(message_end_i - message_start_i - 1) do
+        add_line({})
+    end
     add_line(read_line(3))
-    commit_message()
+    commit_message(true)
 end
 
 function scroll_message()
     --e.log("Scrolled")
+    if current_english_lines == nil then return end
+    if current_message_squashed_new ~= nil then
+        e.log("Warning: previous message didn't finish writing (2)")
+        current_message_squashed_old =
+            current_message_squashed_old .. current_message_squashed_new
+        current_message_squashed_new = nil
+        current_drawing = current_message_squashed_old
+    end
     message_start_i = message_start_i + 1
     current_message_squashed_old = english_squash({
         e.unpack(current_english_lines, message_start_i, message_end_i)})
@@ -253,6 +355,31 @@ function option_added()
     if #value ~= 0 then
         local trans = options_translations[string.char(e.unpack(value))]
         if trans then
+            if trans == "Merchants\n" then
+                if e.read(0xCE) ~= 3 then
+                    trans = "Merchant\n"
+                end
+            end
+            if trans == "Descend\n" then
+                if e.read(0xCA) == 7 then -- The original was 6
+                    trans = "Get off\n"
+                end
+            end
+            if trans == "Cows\n" then
+                if e.read(0xCE) == 12 then
+                    trans = "Cow\n"
+                end
+            end
+            if trans == "Yes\n" then
+                if e.read(0xCE) == 13 then
+                    trans = "Ashes\n"
+                end
+            end
+            if trans == "Letters\n" then
+                if e.read(0xCE) == 13 then
+                    trans = "Notebook\n"
+                end
+            end
             table.insert(option_values, trans)
         else
             e.log("Could not find translation for option")
@@ -349,6 +476,12 @@ end
 function draw_message()
     if current_drawing == nil and not message_window_visible then return end
     draw_window(16, 132, 224, 88)
+    if red_message or blue_message then
+        local force = red_message and blue_message
+        draw_red_blue(red_message, blue_message, writing_time, force)
+        writing_time = writing_time + 1
+        return
+    end
     if current_drawing == nil then return end
     message_window_visible = false
     local yp = gy + scroll_time * scroll_amount / 2
@@ -358,14 +491,14 @@ function draw_message()
 
     if current_message_squashed_new ~= nil then
         writing_time = writing_time + 1
-        if writing_time == current_japanese_length * 2 then
+        if writing_time == current_japanese_length * 2 - 2 then
             current_message_squashed_old =
                 current_message_squashed_old .. current_message_squashed_new
             current_message_squashed_new = nil
             current_drawing = current_message_squashed_old
         else
             local i = current_english_length * writing_time
-                / (current_japanese_length * 2)
+                / (current_japanese_length * 2 - 2)
             current_drawing = current_message_squashed_old ..
                 string.sub(current_message_squashed_new, 1, i) .. "\n"
         end
@@ -373,8 +506,61 @@ function draw_message()
 
     local i = 0
     for _, line in ipairs(split(current_drawing, "\n")) do
-        e.draw_text(32, 149 + yp + 8*i, line, e.black, e.clear)
-        i = i + 1
+        if line ~= "" then
+            if line == "\\" then line = "" end
+            local x_plus = 1
+            while string.byte(line, x_plus) == 92 do
+                x_plus = x_plus + 1
+            end
+            e.draw_text(
+                31 + x_plus,
+                149 + yp + 8*i,
+                string.sub(line, x_plus),
+                e.black, e.clear
+            )
+            i = i + 1
+        end
+    end
+end
+
+function is_red(i)
+    local reds = {4, 5, 6, 8, 9, 12, 16, 19, 22, 25, 27, 28, 29, 30, 32, 34, 36, 37, 40, 41, 43, 49, 53, 54, 55, 58, 60, 62, 64, 69, 70, 71, 73}
+    for _, value in ipairs(reds) do
+        if value == i then return true end
+    end
+    return false
+end
+
+function draw_red_blue(draw_red, draw_blue, i, force_red)
+    str = "Wait in front of the old watermill 4 kilometers southwest from here. Rebecca"
+    local x = 0
+    local y = 0
+    local j = 0
+    local seed = 1
+    for c in str:gmatch(".") do
+        if c == "w" and x == 200 then
+            x = 0
+            y = y + 16
+        elseif c == "s" and x == 184 then
+            x = 0
+            y = y + 16
+        elseif c == "R" then
+            y = y + 16
+            x = 136
+        end
+        local is_red = is_red(seed)
+        if is_red and draw_red then
+            if j < i or force_red then
+                e.draw_text(31 + x, 149 + y, c, e.black, e.clear)
+            end
+        elseif not is_red and draw_blue then
+            if j < i then
+                e.draw_text(31 + x, 149 + y, c, e.black, e.clear)
+            end
+        end
+        x = x + 8
+        j = j + 0.5
+        seed = seed + 1
     end
 end
 
@@ -445,12 +631,18 @@ function draw_cursors()
 end
 
 function loop()
+    if e.read(0x3) == 96 then in_game = true end
+    if e.read(0x3) == 0 and in_game then
+        clear_all()
+    end
     if e.get_pixel2(23, 140) == e.get_pixel2(22, 140) then
         if current_message_squashed_old ~= "Please wait a moment.\n\n"
             or #option_values ~= 0
         then
-            clear_all()
-            return
+            if e.read(0xCE) ~= 13 then
+                clear_all()
+                return
+            end
         end
     end
     -- Stupid bouncing
@@ -460,6 +652,7 @@ function loop()
     end
     if not bad_translation then
         e.draw_rect(15, 131, 241, 221, e.get_pixel2(8, 8))
+        --e.draw_rect(15, 131, 241, 221, "green")
     end
     draw_message()
     draw_options()

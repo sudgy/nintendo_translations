@@ -20,12 +20,14 @@ There are several caveats that come with this background:
  - I am using this project as part of my process of learning Japanese, and as
    such, *the translations are not professional in any way, and there might be
    mistakes*.  I feel like a lot of the fine nuance present in the original
-   Japanese is lost in my translations, although the general idea is still
-   there.  I do think that the translations more than suffice for playing the
-   games.
+   Japanese is lost in my translations (especially things like accents),
+   although the general idea is still there.  I do think that the translations
+   more than suffice for playing the games.
  - My writing background is much more technical and I'm not used to writing
    fiction and dialogue, so my translations might not be that good from an
-   English writing standpoint.
+   English writing standpoint.  All characters sound the same, despite the fact
+   that many of the characters talk in very different ways, or even in different
+   accents.
 
 # How to Use
 
@@ -725,6 +727,103 @@ English answer: I love you<br>
 Japanese answer: すき
 
 </details>
+
+</details>
+
+## Time Twist
+
+**Warning: This game contains content that may be disturbing for some players.
+Player discretion is advised before playing or watching someone play this
+game.**  Time Twist is a time travel game, and it includes some of humanity's
+worst moments.  I don't want to spoil too much, so if you want to learn more
+about what exact content I am referring to, look the game up elsewhere.
+
+Surprisingly, there are no technical notes/issues with this game.  There is no
+text input of any form, and nothing really breaks the Lua script in any way.
+Once you follow the general instructions that apply to all games, you should be
+good to go.
+
+I do want to give a translation note here about some of the content in the game.
+However, it involves some spoilers, so I'll hide the note so that you can avoid
+reading this until after playing if you want.
+
+<details>
+<summary>Time Twist translation notes (contains spoilers)</summary>
+
+This game contains many religious/Christian themes and references.  I myself am
+a Christian with a particular interest in theology, and this put me in a unique
+place while translating.  On the one hand, I was easily able to see references
+that others might have missed (I am particularly proud of noticing "It is
+finished"), but on the other hand, I also see things that they got wrong (or
+even blasphemous).
+
+Whenever there was something that was definitely a direct quote from the Bible,
+I quoted an English translation of the Bible instead of trying to translate the
+Japanese text into English.  There were a couple of times that the wording
+didn't seem to match 100%, but when it was close enough I just went with it
+anyway.  They were obviously trying to quote the Bible, so I think that actually
+quoting the English Bible was the correct thing to do here.  The only direct
+quotes I can think of are "It is finished" as referenced in the priest's sermon
+and the ending of the game, and some (but not all) of the lines in the depiction
+of the temptation of Jesus.
+
+As I said above, they definitely got some things wrong when it came to
+Christianity.  (This isn't limited to here, they got plenty of other historical
+tidbits wrong too.  It's just that the issues relating to Christianity are more
+close to my heart.)  These range from relatively benign (Jesus did not seal the
+devil into a vase), to downright blasphemous (Jesus, even as a baby, could never
+be possessed by satan).  When translating, I tried to follow the original as
+much as possible, even when it was stuff I found repulsive.  However, there were
+some situations where I was unsure of what exactly the original intent was, and
+some possible interpretations were more heretical than others.  In these cases,
+I generally went with the less heretical interpretation.  I maybe shouldn't have
+done this, but my conscience wouldn't let me do otherwise.
+
+There are two particular words/phrases that I should bring up because they
+provided me with particular challenges: 神の子, and 悪魔.
+
+神の子 literally translates to "child of God".  Several historical figures are
+given this title, and in the context of this game, it is generally meant to
+refer to someone uniquely chosen by God to do His work.  A somewhat decent
+English word for the way this term is used in this game is "saint".  The issue
+with this phrase is that it also can mean something different: Son of God.  This
+is a title that can only be applied to Jesus.  It implies divinity, saying that
+Jesus is the Son in the Holy Trinity.  It would be blatant heresy to use the
+term "Son of God" to refer to anybody but Jesus.  The issue is that it seems
+that in Japanese, the distinction between "child of God" and "Son of God"
+doesn't exist in the language, so it was difficult to pick between the two at
+times.  Do I use "Son of God" for all characters, committing heresy?  Do I only
+use "child of God", even when referring to Jesus, committing another heresy by
+suggesting that Jesus is not God?  Or do I use "Son of God" always when
+referring to Jesus and "child of God" for the other characters?  This third
+option has the least theological difficulties, but I am unsure if this was the
+original writer's intent.  Saying that Jesus is not God is a common heresy, so
+it's possible that always using "child of God" is more accurate.  However, I
+opted to go with "Son of God" for Jesus and "child of God" for all other
+characters.
+
+悪魔 is a word that generally means "demon" or "devil", but it can also refer to
+*the* devil, i.e. satan.  This is the word that the game uses to refer to the
+antagonist.  While many people online suggest that the game never explicitly
+says whether or not this demon is satan, the representation of the temptation of
+Jesus near the end shows that this demon is in fact satan.  So how do I
+translate this word?  In English Bibles, satan is either referred to by name, or
+is called the devil.  (There are other references where he is not referred to as
+either satan or the devil, but that isn't relevant here.)  I looked in the
+Japanese Bible to see how they refer to him, and it's pretty similar: Whenever I
+see the word "devil" in an English Bible, the Japanese Bible uses 悪魔, and
+whenever the English Bible uses satan, the Japanese Bible uses サタン.  Notably,
+outside of one random quiz question, the game never uses the name サタン.  I
+don't know if this was intentional or not, but to stay in line with this, I
+never used the name satan in my translation either.  Thus, 悪魔 was almost
+always translated as "devil".  However, there's another issue with this word.
+Given that it can also mean "demon" in a more general sense, how do I tell which
+meaning is meant?  Most of the time, it's pretty obviously referring to the
+character, and in those contexts I always translated the word as "devil".  But,
+there are a few rare cases where people seem to be saying something like "he's a
+demon" rather than "he's the devil", so I translated the word as "demon" in
+those few cases.  Maybe I misinterpreted a few of these, but I don't think this
+particular point is that important.
 
 </details>
 

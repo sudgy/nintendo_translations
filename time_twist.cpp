@@ -16,8 +16,8 @@ const std::unordered_map<std::string, std::uint8_t> letters = {
     // 177 is thick dashes
     {"「", 178},
     {"」", 179},
-    {"‥", 180}, // Actually two dots
-    {"・", 181},
+    {"・", 180}, // Actually two dots
+    {"＿", 181}, // The real one dot, these look weird because two dots is more common
     {"１", 182}, {"２", 183}, {"３", 184}, {"４", 185}, {"５", 186},
     {"６", 187}, {"７", 188}, {"８", 189}, {"９", 190}, {"０", 191},
     {"あ", 192}, {"い", 193}, {"う", 194}, {"え", 195}, {"お", 196},
@@ -63,7 +63,7 @@ const std::unordered_map<char, int> fceux_widths = {
     {'W', 5}, {'X', 5}, {'Y', 5}, {'Z', 5}, {'-', 4}, {'!', 2}, {'?', 5}, {':', 2},
     {'"', 4}, {'\'', 2}, {'.', 2}, {' ', 5}, {'\\', 0}, {',', 2}, {'0', 5}, {'1', 5},
     {'2', 5}, {'3', 5}, {'4', 5}, {'5', 5}, {'6', 5}, {'7', 5}, {'8', 5}, {'9', 5},
-    {'*', 5}, {'<', 3}, {'&', 5}
+    {'*', 5}, {'<', 3}, {'&', 5}, {'$', 5}
 };
 
 int get_fceux_width(const std::string& str)
@@ -78,6 +78,7 @@ int get_fceux_width(const std::string& str)
 
 void write_letter(std::vector<std::uint8_t>& output, const std::string& letter)
 {
+    if (letter == "｜") return;
     auto this_char = letters.at(letter);
     if (this_char == 172) return;
     auto dakuten = std::uint8_t(238);
@@ -160,10 +161,19 @@ void write_messages()
     int i = 0;
     auto japanese = std::vector<std::vector<std::uint8_t>>{};
     auto english = std::vector<std::vector<std::string>>{};
+    auto option = std::string();
     for (std::string line; std::getline(messages_file, line); ) {
         if (amount == 0) {
             try {
-                amount = std::stoi(line);
+                auto space = line.find(' ');
+                if (space == std::string::npos) {
+                    amount = std::stoi(line);
+                    option = "";
+                }
+                else {
+                    amount = std::stoi(line.substr(0, space));
+                    option = line.substr(space + 1);
+                }
                 continue;
             }
             catch (std::invalid_argument& e) {
@@ -231,6 +241,8 @@ void write_messages()
                 s.push_back('\2');
                 output_file.write((const char*)s.data(), s.size());
             }
+            output_file.put('\1');
+            output_file.write(option.data(), option.size());
             output_file.put('\1');
             for (auto& e : english) {
                 for (auto& s : e) {

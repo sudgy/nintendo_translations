@@ -1,0 +1,9445 @@
+3
+ぜんぺんの
+びーめんを
+せっとしてください
+前編の
+Ｂ面を
+セットしてください
+Please set to the
+B side of disk one.
+
+3
+ぜんぺんの
+えーめんを
+せっとしてください
+前編の
+Ａ面を
+セットしてください
+Please set to the
+A side of disk one.
+
+3
+こうへんの
+びーめんを
+せっとしてください
+後編の
+Ｂ面を
+セットしてください
+Please set to the
+B side of disk two.
+
+3
+こうへんの
+えーめんを
+せっとしてください
+後編の
+Ａ面を
+セットしてください
+Please set to the
+A side of disk two.
+
+2
+えーびーさいど
+          えらー
+ＡＢサイド
+エラー
+A B side error.
+
+2
+ちがった　でぃすくが
+        せっとされています
+違ったディスクが
+セットされています
+Incorrect disk set.
+
+2
+しばらく
+    おまちください
+しばらく
+    お待ちください
+Please wait a moment.
+
+2
+１９９５ねん　９がつ２５にち
+すべては　このひからはじまった・・
+１９９５年９月２５日
+すべてはこの日から始まった・・
+September 25, 1995.
+This day was when it all started...
+5
+きゃすたー「こどくのてんさい　とよばれる
+  ぶつりがくしゃの　しもんはかせは
+  さくや　”たいむとらべる”　にかんする
+  きわめてきょうみぶかい　つぎのような
+  こめんとを　はっぴょういたしました」
+キャスター「孤独の天才と呼ばれる
+  物理学者のシモン博士は
+  昨夜”タイムトラベル”に関する
+  極めて興味深い次のような
+  コメントを発表いたしました」
+Newscaster: "Dr. Simon, the physicist known as the lonely genius,
+
+made a very interesting comment about 'time travel' last night."
+
+
+4
+しもん「えー・　ながねんにわたるけんきゅうの
+  けっか　わたしはこれまでくうそうに
+  すぎなかった　”たいむとらべる”　について
+  そのじつげんに　おおきくちかづいたことを・」
+シモン「えー・長年に渡る研究の
+  結果　私はこれまで空想に
+  過ぎなかった”タイムトラベル”について
+  その実現に大きく近づいたことを・」
+Simon: "Well... As the result of years of research, I have come much closer to figuring out 'time travel', which has only been a fantasy up until now..."
+
+
+
+4
+たいむとらべる　か・・
+はなしばっかりで　じつげんしたためしが
+ないんだよなあ
+そんなことより・・
+タイムトラベルか・・
+話ばっかりで実現したためしが
+ないんだよなあ
+そんなことより・・
+Time travel, huh...
+It's all talk without anything actually coming out of it, though.
+
+Anyway...
+3
+うらないさーびすせんたーが　おおくりする
+「きょうのうんせい」です
+あなたのけつえきがたを　とうろくしてください
+占いサービスセンターがお送りする
+「今日の運勢」です
+あなたの血液型を登録してください
+This is the fortune telling service center, presenting "today's fortune".
+
+Please provide your blood type.
+1
+あなたの　うまれたつきは？
+あなたの生まれた月は？
+What month were you born in?
+2
+では　せいかくしんだんからはじめます
+しつもんに　おこたえください
+では性格診断から始めます
+質問にお答えください
+We will now begin the personality assessment.
+Please answer the following questions.
+1
+みそしるより　こんそめすーぷが　すき
+味噌汁よりコンソメスープが好き
+Do you like consomme soup more than miso soup?
+1
+５０めーとるいじょう　およげる
+５０メートル以上泳げる
+Can you swim at least 50 meters?
+1
+いみもなくとつぜん　わらいだすことがある
+意味もなく突然笑い出すことがある
+Have you ever suddenly burst into laughter for no reason?
+1
+やっぱりやきゅうは　じゃいあんつだ
+やっぱり野球はジャイアンツだ
+In baseball, do you like the Giants?
+1
+つきあったこが　３にんいじょう　いる
+付き合った子が３人以上いる
+Have you dated at least three girls?
+1
+かなしばりに　あったことがある
+金縛りにあったことがある
+Have you ever experienced sleep paralysis?
+1
+なぐりたいやつが３にんいじょう　いる
+殴りたいやつが３人以上いる
+Are there at least three people you want to punch?
+1
+ひとり　ひざをかかえてないたことがある
+一人膝を抱えて泣いたことがある
+Have you ever held your knees and cried alone?
+1
+あそぶじかんをけずってまで　しごとをしたくない
+遊ぶ時間を削ってまで仕事をしたくない
+Do you prefer not to work at the expense of your free time?
+1
+ぶらんどには　こだわるほうだ
+ブランドにはこだわる方だ
+Are you particular about brands?
+1
+あしたできることは　きょうしない
+明日できることは今日しない
+Do you put off the things you could do today until tomorrow?
+1
+じぶんをまもるのは　けっきょくじぶんだけだ
+自分を守るのは結局自分だけだ
+When it comes down to it, are you the only one that can protect yourself?
+1
+しょうらいは　しゃかいのやくにたちたい
+将来は社会の役に立ちたい
+Do you want to be useful to society in the future?
+1
+ふとくみじかく　いきたい
+太く短く生きたい
+Do you want to live a daring and short life?
+1
+あいがあれば　なにもいらない
+愛があれば何もいらない
+If you have love, do you not need anything else?
+1
+しばらく　おまちください
+しばらくお待ちください
+Please wait a moment.
+1
+あなたのせいかくは・・
+あなたの性格は・・
+Your personality is...
+7
+あらそいをこのまない　くーるなへいわしゅぎしゃ
+じょうほうかんりにすぐれた　いんてりたいぷです
+しゃこうてきなはんめん　そしきにぞくすることを
+きらい　ふかいつきあいをさけているうちに
+こりつしてしまうことも　しばしば
+そういうじぶんさえ　きゃっかんてきに
+ぶんせきしてしまう　どくとくのせいかくです
+争いを好まない　クールな平和主義者
+情報管理に優れた　インテリタイプです
+社交的な反面　組織に属することを
+嫌い　深い付き合いを避けているうちに
+孤立してしまうことも　しばしば
+そういう自分さえ　客観的に
+分析してしまう　独特の性格です
+You avoid conflict and are a cool-headed pacifist. You are good at managing information and are the intellectual type.
+
+While sociable, you don't like belonging to organizations. You tend to avoid deep connections.
+
+
+You end up feeling isolated. You often analyze yourself objectively.
+
+7
+しんちょうで　けいかくせいがあるため
+しっぱいはすくないが　へいぼんになりやすい
+すじをとおし　こつこつとどりょくする
+きまじめでがんこな　がくしゃたいぷです
+ひとにきをつかいすぎて　つかれてしまうことが
+あり　れんあいもぶきようですが
+ないめんはとても　ろまんちすとです
+慎重で計画性があるため
+失敗は少ないが平凡になりやすい
+筋を通しコツコツと努力する
+生真面目で頑固な学者タイプです
+人に気を使いすぎて疲れてしまうことが
+あり　恋愛も不器用ですが
+内面はとてもロマンチストです
+You plan carefully to never make mistakes, but it's easy for you to become mediocre.
+
+You work diligently and methodically. You are the earnest and stubborn scholarly type.
+
+You sometimes tire yourself out by worrying too much about others. You are clumsy when it comes to love, but are deeply romantic at heart.
+
+
+7
+らくてんてきで　だれにでもすかれる
+こせいゆたかな　にんきもの
+すきなことには　ねっちゅうするけれども
+きがむかないときは　とたんにやるきをうしなって
+おもわぬぽかをしたりします
+こうきしんと　するどいひらめきは
+じゃーなりすとに　むいています
+楽天的で　誰にでも好かれる
+個性豊かな　人気者
+好きなことには　熱中するけれども
+気が向かない時は　途端にやる気を失って
+思わぬポカをしたりします
+好奇心と　鋭いひらめきは
+ジャーナリストに　向いています
+Optimistic and loved by everyone, you are full of personality and popular.
+
+Although you are passionate about what you love, you quickly lose motivation when you lose interest. You sometimes make unexpected blunders.
+
+
+Your curiosity and sharp intuition make people that are like you well-suited to be a journalist.
+
+7
+なにごとにもひたむきで　ねっしん
+ものごとの　ほんすじを　みつめるめをもった
+せいじかたいぷです
+めいよをおもんじるが　きんせんにはうとく
+じこしゅちょうのつよさが　しばしばわがままに
+かわりやすくなります
+どらまちっくなれんあいを　いつもゆめみています
+何事にもひたむきで　熱心
+物事の　本筋を　見つめる目を持った
+政治家タイプです
+名誉を重んじるが　金銭には疎く
+自己主張の強さが　しばしばわがままに
+変わりやすくなります
+ドラマチックな恋愛をいつも夢見ています
+You are earnest and enthusiastic about everything.
+You always focus on the main issue at hand, and are the political type.
+
+You value honor and care little about money. Strong self-assertion often leads to selfishness. It's easy for you to change.
+
+
+You always dream of a dramatic romance.
+11
+「きょうのうんせい」
+
+きょうのひは　あなたにとってわすれられない
+いちにちになりそうです
+れいせいなはんだんりょくと　つよいいしが
+あなたをこううんへと　みちびきます
+こうがいのはくぶつかんで　であいのちゃんすあり
+すてきなじょせいが　あなたのうでのなかへ
+きっと　とびこんでくるでしょう
+ここできめる　とどめのせりふ！
+そのことばは・・
+「今日の運勢」
+
+今日の日はあなたにとって忘れられない
+１日になりそうです
+冷静な判断力と強い意志が
+あなたを幸運へと導きます
+郊外の博物館で出会いのチャンスあり
+素敵な女性があなたの腕の中へ
+きっと飛び込んでくるでしょう
+ここで決めるトドメのセリフ！
+その言葉は・・
+"Today's fortune"
+
+Today will become an unforgettable day for you.
+
+Staying calm and strong will lead you to good fortune.
+
+There is an opportunity for a meeting in a museum in the suburbs. A lovely woman will surely throw herself into your arms.
+
+
+This is what you must say!
+You must say...
+1
+そのことばは・・
+その言葉は・・
+You must say...
+6
+・・まらどぅる　ばらお　がらどぅーら・・
+
+くりかえしくりかえし　となえよ
+
+・・まらどぅる　ばらお　がらどぅーら・・
+・・まらどぅる　ばらお　がらどぅーら・・！
+・・マラドゥル　バラオ　ガラドゥーラ・・
+
+繰り返し繰り返し唱えよ
+
+・・マラドゥル　バラオ　ガラドゥーラ・・
+・・マラドゥル　バラオ　ガラドゥーラ・・
+...Maraduru barao garadura...
+\
+It keeps chanting the same thing over and over.
+\
+...Maraduru barao garadura...
+...Maraduru barao garadura...!
+6
+・・・・・・・・・・・・
+かわってるな・・
+おまじないか　なんかかな？
+
+
+まあ　いいや・　ぜんはいそげだ！
+・・・・・・・・・・・・
+変わってるな・・
+おまじないかなんかかな？
+
+
+まあ　いいや・善は急げだ！
+..................
+How strange...
+Was that a spell of some sort?
+\
+\
+Oh well... I better go now!
+5
+・・たいへん　しつれいいたしました
+そのことばは・・
+「きみがほほえむと　たいようがのぼって
+  くるようだ」です
+ごりよう　ありがとうございました
+・・大変失礼いたしました
+その言葉は・・
+「君が微笑むと太陽が上って
+  くるようだ」です
+ご利用ありがとうございました
+...We're sorry for the interruption.
+You must say...
+"When you smile, it's like the sun rises."
+
+Thank you for watching.
+9
+もうすぐ２１せいき・・｜
+でもひとびとは　それほどあたらしいじだいを
+かんげいしてるわけじゃない｜
+あいかわらず　せかいのあちこちではあらそいが
+たえないし｜
+かんきょうはかいや　しょくりょうぶそくは
+ますます　しんこくになっている｜
+ちきゅうのみらいは　だれがみたって
+ふあんだらけだ｜
+もうすぐ２１世紀・・｜
+でも人々はそれほど新しい時代を
+歓迎してるわけじゃない｜
+相変わらず世界のあちこちでは争いが
+耐えないし｜
+環境破壊や食糧不足は
+ますます申告になっている｜
+地球の未来は誰が見たって
+不安だらけだ｜
+It's almost the 21st century...
+But people aren't really welcoming this new era.
+
+Like usual, there are conflicts all around the world.
+
+There continually are reports of environmental destruction and food shortages.
+
+Anyone that looks at the future of the earth gets anxious.
+
+5
+そんなわけで　まよえるげんだいじんは
+「うらない」に　すくいをもとめはじめた｜
+くらいせそうをのりきるには
+みずさきあんないにんが　ひつようというわけだ｜
+これがふしぎと　あたるからおもしろい｜
+そんなわけで　迷える現代人は
+「占い」に　救いを求め始めた｜
+暗い世相を乗り切るには
+水先案内人が　必要というわけだ｜
+これが不思議と　当たるから面白い｜
+Because of this, modern people are lost and have started to look for salvation in fortune telling.
+
+This is why, in these dark times, a guide is necessary.
+
+And strangely enough, this one works.
+2
+ついたぞ・・　「あくまはくぶつかん」
+いちどこようと　おもってたんだ
+着いたぞ・・「悪魔博物館」
+一度来ようと思ってたんだ
+Here we are... The "Devil Museum".
+I've thought about coming here at some point.
+1
+さいごにあおぞらをみたのは　いつだっけ
+最後に青空を見たのはいつだっけ
+When was the last time I saw a blue sky?
+1
+ここにはまだ　みどりがある
+ここにはまだ緑がある
+There is still greenery around here.
+1
+かぎが　かかっている
+カギがかかっている
+It's locked.
+2
+おんぼろだが　しゃれたつくりだ
+もんに　ひょうさつと　いんたーほんがついている
+オンボロだが洒落た作りだ
+門に表札とインターホンが付いている
+It's run down, but it's stylishly built.
+There is a nameplate and an intercom on the gate.
+1
+だれもいない
+誰もいない
+There's no one here.
+1
+かってにはいるのは　まずいな
+勝手に入るのはまずいな
+I shouldn't just go wherever I please.
+1
+「くが」
+「クガ」
+"Cougar"
+2
+おれ「あのう・・」
+・・「かえれ！」
+俺「あのう・・」
+・・「帰れ！」
+Me: "Um..."
+...: "Go away!"
+2
+めずらしいな　こんないなかに
+きょうかいなんてさ
+珍しいなこんな田舎に
+教会なんてさ
+It's rare to see a church in a rural place like this.
+
+1
+なかから　さんびかのがっしょうがきこえてくる
+中から讃美歌の合唱が聞こえてくる
+I can hear people singing a hymn inside.
+1
+すてんどぐらすが　きれいだ
+ステンドグラスが綺麗だ
+The stained glass is beautiful.
+1
+おだやかな　えみをうかべている
+穏やかな笑みを浮かべている
+He has a gentle smile.
+1
+さんびかを　がっしょうしている
+讃美歌を合唱している
+They are singing a hymn together.
+2
+おれ「あの・」
+しんじゃ「しっ！　さんびかのとちゅうです」
+俺「あの・」
+信者「しっ！讃美歌の途中です」
+Me: "Um..."
+Believer: "Shh! We're in the middle of singing!"
+1
+さんびかが　みみにここちよい
+讃美歌が耳に心地よい
+The sound of the hymn is pleasant to my ears.
+1
+おおきな　ちずをひろげている
+大きな地図を広げている
+He is holding open a large map.
+1
+おとこ「うるしゃー！　じゃまだがや！」
+男「うるしゃー！邪魔だがや！」
+Man: "Stop! You're in the way!"
+4
+おとこ「ここに　むちゃんこどえりゃー
+  れじゃーせんたーを　つくるがや！
+  いまは　どいなかでも
+  そのうちにぎやかになるでー」
+男「ここにむちゃんこどえりゃー
+  レジャーセンターを作るがや！
+  今はド田舎でも
+  そのうち賑やかになるでー」
+Man: "We're going to build a huge leisure center here!
+
+It's the middle of nowhere currently, but soon it will be bustling with people!"
+
+2
+おとこ「かねがすべて！　かねのためなら
+  あくまにたましいを　うってもええがや！」
+男「金がすべて！金のためなら
+  悪魔に魂を売ってもええがや！」
+Man: "It's all about money! I would even sell my soul to the devil if it was for money!"
+
+1
+おいしげるきで　あるくすきまもない
+生い茂るまで歩く隙間もない
+It's grown so thickly that there's no room to walk.
+1
+へびが　でそうだな
+蛇が出そうだな
+It looks like a snake could come out.
+4
+・・「このいえにすんで　もう４０ねんになるんだ
+  いまさら　でていけるものか！」
+おれ「ぼくは　じあげやじゃないですよ」
+・・「え・？　あ・　どうもしつれいしました」
+・・「この家に住んでもう４０年になるんだ
+  今更出ていけるものか！」
+俺「僕は地上げ屋じゃないですよ」
+・・「え・？あ・どうも失礼しました」
+...: "I've lived in this house for 40 years. How could I move out now!?"
+
+Me: "I'm not a land grabber, you know."
+...: "Huh...? Oh, my apologies."
+2
+・・「で　なにかごようですか？」
+おれ「いえ　べつに・・」
+・・「で　何か御用ですか？」
+俺「いえ　別に・・」
+...: "Then, what do you want?"
+Me: "Nothing, really..."
+1
+しんぷのはなしに　じっとみみをかたむけている
+神父の話にじっと耳を傾けている
+They are listening intently to the priest's words.
+6
+しんぷ「そのとき　あくまのまえにたちはだかった
+  ゆうかんなるわかものが　わがみをなげうって
+  かみのこのいのちを　すくったのです｜
+  わかものは　やさしくほほえみ　こういいました｜
+  すべてがおわった・・
+  これでなにもかも　もとのままだ　と・・」｜
+神父「その時悪魔の前に立ちはだかった
+  勇敢なる若者が我が身を投げ売って
+  神の子の命を救ったのです｜
+  若者は優しく微笑みこう言いました｜
+  すべてが終わった・・
+  これで何もかも元のままだ　と・・」｜
+Priest: "At that time, He bravely stood before the devil and sacrificed Himself to save the lives of the children of God.
+
+
+He smiled gently and said:
+'It is finished...
+With this, everything is back to how it originally should be...'"
+2
+しんぷ「なにか　ごようでしょうか？」
+おれ「いえ　べつに・・」
+神父「何か御用でしょうか？」
+俺「いえ　別に・・」
+Priest: "What do you need?"
+Me: "Nothing, really..."
+2
+おれ「あの・」
+しんじゃ「しっ！　おはなしのとちゅうです」
+俺「あの・」
+信者「しっ！お話の途中です」
+Me: "Um..."
+Believer: "Shh! He's in the middle of speaking!"
+4
+しんじゃ１「あさから　みょうなむなさわぎが
+  するんです　それでここへ・・」
+しんじゃ２「わたしもです　なんかこう・・
+  じっとしていられなくて」
+信者１「朝から妙な胸騒ぎが
+  するんです　それでここへ・・」
+信者２「私もですなんかこう・・
+  じっとしていられなくて」
+Believer 1: "I've felt this strange uneasiness since this morning. That's why I came here..."
+
+Believer 2: "Me too. It's like... I just couldn't stay still."
+
+2
+しんじゃ「あなたも　しんぷさんのおはなしを
+  きいていきなさい　きもちがすっきりしますよ」
+信者「あなたも神父さんのお話を
+  聞いていきなさい気持ちがスッキリしますよ」
+Believer: "You should listen to the priest too. It will make you feel better."
+
+8
+しんぷ「こんめいのよがおとずれるたび　あくまは
+  われわれのまえに　すがたをあらわしました｜
+  ふあんにおびえる　こころのすきにつけいり
+  このよを　あんこくへみちびこうとしたのです｜
+  しかし　そのたびにわれわれは　ゆうきをもって
+  たちあがり　あくまをおいはらいました｜
+  ゆるがぬせいぎしんのまえに　じゃあくなるものは
+  なすすべもなく　たちさるしかなかったのです」
+神父「混迷の世が訪れる旅　悪魔は
+  我々の前に　姿を表しました｜
+  不安に怯える　心の隙に付け入り
+  この世を　暗黒へ導こうとしたのです｜
+  しかし　そのたびに我々は　勇気を持って
+  立ち上がり　悪魔を追い払いました｜
+  揺るがぬ正義心の前に邪悪なる物は
+  はすすべもなく　立ち去るしかなかったのです」
+Priest: "During a journey into the chaotic world, the devil revealed himself before us.
+
+Taking advantage of our fearful hearts, he tried to lead the world into darkness.
+
+But each time, we rose up with courage and drove him away.
+
+Before our unshakable and righteous hearts, the evil one had no choice but to leave."
+
+1
+いりぐちに　ふだがかかっている
+入口に札がかかっている
+There is a sign on the entrance.
+2
+「ほんじつ　きゅうかんび
+  ごようのあるかたは　きょうかいまで」
+「本日休館日
+  御用のある方は教会まで」
+"Closed today
+Please go to the church if you have any questions."
+6
+しんぷ「なにか　ごようでしょうか？」
+おれ「はくぶつかんの　かんばんをみて
+  きたんですが・・」
+しんぷ「ああ・　もうしわけありませんでした
+  となりのうちで　かぎをうけとってください
+  ちちがおりますから」
+神父「何か御用でしょうか？」
+俺「博物館の看板を見て
+  来たんですが・・」
+神父「ああ・申し訳ありませんでした
+  隣の家でカギを受け取ってください
+  父がおりますから」
+Priest: "What do you need?"
+Me: "I saw the sign on the museum and came here..."
+
+Priest: "Ah... I'm terribly sorry. Please go to the house next door to get the key.
+
+My father is there."
+3
+しんぷ「かずはすくないですが　ちちが
+  ひとつひとつ　くろうしてあつめた　めずらしい
+  ものばかりです　どうぞごゆっくり」
+神父「数は少ないですが父が
+  一つ一つ苦労して集めた珍しい
+  ものばかりですどうぞごゆっくり」
+Priest: "While there isn't much, my father went through a lot of trouble to acquire each and every one of those rare items. Please take your time."
+
+
+2
+おれ「あのう・・」
+・・「おや？　そのこえは　さっきのひとですね」
+俺「あのう・・」
+・・「おや？その声はさっきの人ですね」
+Me: "Um..."
+...: "Oh? That voice, are you the guy from earlier?"
+2
+・・「で　なにかごようですか？」
+おれ「はくぶつかんに・・」
+・・「で　何か御用ですか？」
+俺「博物館に・・」
+...: "Then, what do you want?"
+Me: "The museum..."
+4
+・・「おお　そうでしたか！
+  じつは・・　はくぶつかんにかざっていない
+  とくべつなものが　あるんです
+  どうぞ　なかへおはいりください」
+・・「おお　そうでしたか！
+  実は・・博物館に飾っていない
+  特別な物があるんです
+  どうぞ中へお入りください」
+...: "Oh, I see!
+Actually... There's something special we won't display in the museum. Please come inside."
+
+
+7
+ろうじん「このえは　わたしがかいた
+  あくまのしょうぞうがです｜
+  せかいじゅうをたびして　つたえきいた
+  あくまのとくちょうを　ちゅうじつに
+  さいげんしました｜
+  かんせいまぢかで　めをわずらったので
+  てんじは　できませんでしたが・・」
+老人「この絵は　私が書いた
+　悪魔の肖像画です｜
+　世界中を旅して　伝え聞いた
+　悪魔の特徴を　忠実に
+　再現しました｜
+　完成間近で　目を患ったので
+　展示はできませんでしたが・・」
+Old man: "I painted this picture. It's a portrait of the devil.
+
+I traveled around the world and heard the stories to faithfully reproduce all of the devil's traits.
+
+
+Just as I was getting close to finishing it, my eyes failed me, and I've never been able to display it..."
+
+2
+おうせつまだ
+てーぶるに　しんぶんとむしめがねが　おいてある
+応接間だ
+テーブルに新聞と虫眼鏡が置いてある
+This is the parlor.
+A newspaper and a magnifying glass have been placed on the table.
+9
+「しもんはかせ　じょうはつ」｜
+
+さくや　おどろくべき　たいむわーぷ＿りろんを
+はっぴょうした　しもんはかせ＿８４さいは｜
+ますこみのしゅざいこうせいから　のがれるため
+いずこかへ　ゆくえをくらましたもよう｜
+かんけいすじによると　すでにたいむましーんは
+かんせいずみで　はかせじしんがたいむわーぷ
+したのではないかと　うわさされている
+「シモン博士蒸発」｜
+
+昨夜　驚くべき　タイムワープ・理論を
+発表した　シモン博士・８４歳は｜
+マスコミの取材構成から　逃れるため
+何処かへ　行方をくらましたもよう｜
+関係筋によると　すでにタイムマシーンは
+完成済みで　博士自身がタイムワープ
+したのではないかと　噂されている　
+"Dr. Simon Missing"
+\
+Last night, after the astonishing announcement of his time travel theory, Dr. Simon, 84,
+
+seems to have disappeared somewhere to escape the press.
+
+According to our sources, the time machine is already complete, and rumors say that the doctor has already traveled through time.
+
+
+1
+これで　しんぶんをよんでるんだな
+これで新聞を読んでるんだな
+This seems to be how he reads the newspaper.
+1
+！！！　な　なんだこりゃ　おれじゃないか・・！
+！！！な何だこりゃ俺じゃないか・・！
+!!! Wh-what!? Isn't this me...!?
+1
+めが　わるいようだ
+目が悪いようだ
+He seems to have poor eyesight.
+2
+ろうじん「まあまあ・・
+　もうすこし　いいじゃないですか」
+老人「まあまあ・・
+　もう少しいいじゃないですか」
+Old man: "Woah there...
+It's fine to stay a little longer."
+5
+ろうじん「せんそうちゅうの　ふしぎなたいけんが
+　わたしのじんせいを　かえました｜
+　わたしは　あくまにかんするあらゆるぶんけんを
+　しらべ　でんせつのしなものをかいあさり
+　そしてここに　はくぶつかんをたてたのです」
+老人「戦争中の　不思議な体験が
+　私の人生を　変えました｜
+　私は　悪魔に関するあらゆる文献を
+　調べ　伝説の品物を買い漁り
+　そしてここに　博物館を建てたのです」
+Old man: "During the war, a strange experience changed my life.
+
+I started investigating all the documents about the devil, and I bought all the artifacts I could find. Thus, I built this museum here."
+
+
+2
+おれ「あのう・・　かぎを・」
+ろうじん「おお！　そうでしたな」
+俺「あのう・・カギを・」
+老人「おお！そうでしたな」
+Me: "Um... The key..."
+Old man: "Oh! That's right."
+2
+かぎを　うけとった
+ろうじん「どうぞ　ごゆっくり」
+カギを受け取った
+老人「どうぞごゆっくり」
+I got the key.
+Old man: "Please take your time."
+2
+なんどみてもまちがいない　おれだ・・
+こしに　へんなべるとをまいてるぞ
+何度見ても間違いない俺だ・・
+腰に変なベルトを巻いてる
+No matter how many times I look at it, it's unmistakably me...
+Although I'm wearing some weird belt in the picture.
+2
+おれ「おじゃましました」
+ろうじん「おかまいも　しませんで」
+俺「おじゃましました」
+老人「お構いもしませんで」
+Me: "Sorry to bother you."
+Old man: "Don't mention it."
+3
+おれ「あのう・・」
+・・「おや？　そのこえは　さっきのひとですね
+　どうぞなかへ　おはいりください」
+俺「あのう・・」
+・・「おや？その声はさっきの人ですね
+　どうぞ中へお入りください」
+Me: "Um..."
+...: "Oh? That voice, are you the guy from earlier? Please come in."
+
+1
+かぎをつかって　なかへはいった
+カギを使って中へ入った
+I used the key and went inside.
+1
+だだっぴろいが　じめじめしている
+だだっ広いがジメジメしている
+It's very large and gloomy.
+6
+「じぷしーのまもりふだ」
+
+１７せいきこうはん　ほうろうのたみが
+たびのさいなんから　みをまもった
+ほしがたのめだる
+まよけのじゅもんが　きざまれている
+「ジプシーの守札」
+
+１７世紀後半放浪の民が
+旅の災難から身を守った
+星型のメダル
+魔除けの呪文が刻まれている
+"Gypsy Talisman"
+\
+A star-shaped medal worn by wandering people in the second half of the 17th century to protect against misfortune.
+
+
+It has spells against evil spirits engraved on it.
+6
+「いましめのすず」
+
+こだいえじぷとの　ふぁらおが
+まよけにつかったという　いいつたえのすず｜
+すきとおったねいろが　あくまのこまくを
+ひきさいた
+「戒めの鈴」
+
+古代エジプトのファラオが
+魔除けに使ったと言う言い伝えの鈴｜
+透き通った音色が悪魔の鼓膜を
+引き裂いた
+"The bell of warning"
+
+A bell that, according to legend, was used by ancient Egyptian pharaohs to protect against evil spirits.
+
+Its clear tone tears the eardrums of the devil.
+
+7
+「あくまのて」
+
+１９せいきのあめりかで　あくまをすうはいする
+ひみつけっしゃの　しんぼるとなった
+ぶろんずのぞう｜
+するどいつめで　いけにえのしんぞうを
+えぐりとった
+「悪魔の手」
+
+１９世紀のアメリカで悪魔を崇拝する
+秘密結社のシンボルとなった
+ブロンズの像｜
+鋭い爪で生贄の心臓を
+えぐり取った
+"The devil's hand"
+\
+This bronze figure became the symbol for a secret society that worshipped the devil in 19th century America.
+
+
+Its sharp claws were used to rip out the heart of sacrifices.
+
+6
+「さばとのはこ」
+
+ちゅうせいのよーろっぱで　まじょのしゅうかいに｜
+つかわれたはこ｜
+あくまとかわした　たましいのけいやくしょを
+おさめたといわれている
+「サバトの箱」
+
+中世のヨーロッパで魔女の集会に｜
+使われた箱｜
+悪魔と交わした　魂の契約書を
+収めたと言われている
+"The sabbath box"
+\
+A box used in medieval Europe
+for witches' gatherings.
+It is said that it contained the souls of those that had made a contract with the devil.
+
+2
+おれ「おや？
+　なにか　おとがしたような・・」
+俺「おや？
+　何か音がしたような・・」
+Me: "Oh?
+I think I heard something..."
+5
+「まふうじのつぼ」
+
+すうせんねんのむかし　かみのこが
+そうぜつなたたかいのすえ　あくまをとじこめ
+ふういんしたとされる　でんせつのつぼ
+「魔封じの壺」
+
+数千年の昔　神の子が
+壮絶な戦いの末　悪魔を閉じ込め
+封印したとされる伝説の壺
+"Demon-sealing vessel"
+\
+Legends say that the Son of God sealed away the devil in this vessel after a fierce battle thousands of years ago.
+
+
+1
+ぽにーてーるが　めちゃかわいい
+ポニーテールがめちゃかわいい
+Her ponytail is very cute.
+2
+おれ「こ　こんにちは」
+おんなのこ「こんにちは・・」
+俺「こ、こんにちは」
+女の子「こんにちは・・」
+Me: "H-hello."
+Girl: "Hello..."
+3
+おれ「えーと・・」
+おんなのこ「てんじひん　ぜんぶみました？」
+おれ「いえ・・」
+俺「えーと・・」
+女の子「展示品全部見ました？」
+俺「いえ・・」
+Me: "Uh..."
+Girl: "Have you seen all of the exhibits?"
+Me: "No..."
+2
+おれ「えーと・・」
+おんなのこ「・・・・」
+俺「えーと・・」
+女の子「・・・・」
+Me: "Uh..."
+Girl: "......"
+1
+おんなのこ「いやん！」
+女の子「いやん！」
+Girl: "Stop!"
+2
+おれ「でへへへー」
+おんなのこ「・・・・」
+俺「でへへへー」
+女の子「・・・・」
+Me: "Hehehe."
+Girl: "......"
+2
+おれ「きれいな　めをしてますね」
+おんなのこ「ありがとう」
+俺「綺麗な目をしてますね」
+女の子「ありがとう」
+Me: "Your eyes are pretty."
+Girl: "Thank you."
+2
+おれ「かたちのいい　はなですね」
+おんなのこ「・・・・」
+俺「形のいい鼻ですね」
+女の子「・・・・」
+Me: "Your nose has a great shape."
+Girl: "......"
+2
+おれ「けっこう　ぼいんですね　ひひ・」
+おんなのこ「いやん！」
+俺「結構ボインですね　ひひ・」
+女の子「いやん！」
+Me: "You've got pretty big boobs, heehee..."
+Girl: "Stop!"
+2
+おれ「どすこいーっ！」
+おんなのこ「・・・・」
+俺「どすこいーっ！」
+女の子「・・・・」
+Me: "Graaah!"
+Girl: "......"
+9
+おれ「ふくみみ　ですね」
+おんなのこ「ぷっ・　おかしなひと」
+おれ「いやあ　ははは」
+おんなのこ「ふふふ・」
+
+わらった・・！
+
+おれ「きみの　なまえは？」
+おんなのこ「わたしは・」
+俺「福耳ですね」
+女の子「ぷっ・おかしな人」
+俺「いやあ　ははは」
+女の子「ふふふ・」
+
+笑った・・！
+
+俺「君の名前は？」
+女の子「私は・」
+Me: "You have plump ears."
+Girl: "Pfft... You're weird."
+Me: "No, hahaha."
+Girl: "Hehehe."
+\
+She laughed...!
+\
+Me: "What's your name?"
+Girl: "It's..."
+2
+おんなのこ「！」
+おれ「じしんだ！」
+女の子「！」
+俺「地震だ！」
+Girl: "!"
+Me: "It's an earthquake!"
+1
+はげしく　ゆれている
+激しく揺れている
+It is violently shaking.
+1
+おれのうでを　つかんではなさない
+俺の腕を掴んで放さない
+She grabbed my arm and won't let go.
+1
+おんなのこ「きゃあーーっ！」
+女の子「きゃあーーっ！」
+Girl: "Aaaahhh!"
+1
+あしが　うごかない！
+足が動かない！
+I can't move my legs!
+2
+えーと　たしか・・
+おれ「・まらどぅる　ばらお　がらどぅーら・」
+えーと確か・・
+俺「・マラドゥルバラオガラドゥーラ・」
+Surely this will...
+Me: "...Maraduru barao garadura..."
+2
+おんなのこ「ひっ！」
+おれ「ぼくにつかまって！」
+女の子「ひっ！」
+俺「僕に捕まって！」
+Girl: "Eek!"
+Me: "Hold on to me!"
+1
+おれのむねのなかで　ふるえている
+俺の胸の中で震えている
+She is trembling in my chest.
+1
+おれ「・まらどぅる　ばらお　がらどぅーら・」
+俺「・マラドゥルバラオガラドゥーラ・」
+Me: "...Maraduru barao garadura..."
+3
+おれ「まらどぅる　ばらお　がるどぅーら！
+　まらどぅる　ばらお　がるどぅーら！
+　まらどぅる　ばらお　がるどぅーらーーっ！！」
+俺「・マラドゥルバラオガルドゥーラ！
+　マラドゥルバラオガルドゥーラ！
+　マラドゥルバラオガルドゥーラーーっ！！」
+Me: "Maraduru barao garudura!
+Maraduru barao garudura!
+Maraduru barao garuduraaa!!"
+3
+・・「ぐうううう・・」
+
+おれ「・・ん？」
+・・「ぐうううう・・」
+
+俺「・・ん？」
+...: "Huuuurgh..."
+\
+Me: "...Huh?"
+1
+おんなのこ「ああ　こわかった・・」
+女の子「ああ怖かった・・」
+Girl: "Ah, I'm scared..."
+1
+ねんれいそうが　ばらばらだな
+年齢層がバラバラだな
+Their ages are all over the place.
+1
+おれ「うわっ！」
+俺「うわっ！」
+Me: "Wagh!"
+2
+おれ「げっ！」
+あくま「ふうーー・　ようやくでられたか・・」
+俺「げっ！」
+悪魔「ふうーー・ようやく出られたか・・」
+Me: "Agh!"
+Devil: "Phew... I'm finally free..."
+1
+きもちわりい・・
+気持ち悪い・・
+I have a bad feeling about this...
+6
+おれ「まさか　あんた・・」
+あくま「いわゆるひとつの　あくまだ」
+おれ「げげげげっ！」
+あくま「しんぼうづよく　てれぱしーを
+　おくりつづけたかいが　あったというものだ」
+おれ「・・・・」
+俺「まさかあんた・・」
+悪魔「いわゆる一つの悪魔だ」
+俺「げげげげっ！」
+悪魔「辛抱強くテレパシーを
+　送り続けた甲斐があったというものだ」
+俺「・・・・」
+Me: "Could you be...?"
+Devil: "I am what you might call the devil."
+Me: "Gaaahhh!"
+Devil: "It seems that patiently sending telepathic messages has finally paid off."
+
+Me: "......"
+5
+あくま「ながいあいだ　とじこめられていた
+　おかげで　からだがすっかり　もろくなった
+　おまえのからだをもらうぞ」
+おれ「そんなこと　いわれても・」
+あくま「もんどうむようだ」
+悪魔「長い間閉じ込められていた
+　おかげで体がすっかり脆くなった
+　お前の体をもらうぞ」
+俺「そんなこと言われても・」
+悪魔「問答無用だ」
+Devil: "As a result of being locked up in there for so long, my body has grown weak.
+
+I'll take your body."
+Me: "You can't say that..."
+Devil: "No point in arguing about it."
+1
+あくま「くくく・」
+悪魔「くくく・」
+Devil: "Heh heh heh..."
+1
+・・な　なんてこった！
+・・な、なんてこった！
+...W-what the heck!?
+1
+ばらばらに　こわれている
+バラバラに壊れている
+It's broken into pieces.
+1
+おれは　あくむをみてるんだろうか・・
+俺は悪夢を見てるんだろうか・・
+This must be a bad dream...
+2
+おれ「げっ！」
+ぼろぼろと　からだがくずれていく！
+俺「げっ！」
+ボロボロと体が崩れていく！
+Me: "Agh!"
+My body is falling apart!
+1
+あああ・・　このままでは　やばいぞ！
+あああ・・このままではやばいぞ！
+Ahhhh... This will get bad if things stay like this!
+1 Girl
+きを　うしなっている
+気を失っている
+She has lost consciousness.
+1 Talk
+きを　うしなっている
+気を失っている
+She has lost consciousness.
+2
+つんつん・・
+おんなのこ「うーーん・・」
+つんつん・・
+女の子「うーーん・・」
+*Poke poke*...
+Girl: "Ugghhh..."
+2
+めをさましたのも　つかのま・・
+おんなのこ「ぎゃっ！」
+目を覚ましたのも束の間・・
+女の子「ぎゃっ！」
+She wakes up, and right then...
+Girl: "Gyaahh!"
+1
+また　きぜつした
+また気絶した
+She faints again.
+2
+さいごにあおぞらをみたのは　いつだっけ
+なんていってる　ばあいじゃない！
+最後に青空を見たのはいつだっけ
+なんて言ってる場合じゃない！
+When was the last time I saw a blue sky?
+This isn't the time to be saying things like that!
+1
+ちきしょう！　どこいった！
+ちきしょう！どこ行った！
+Damn it! Where did he go!?
+2
+おれ「あのう・・」
+ろうじん「おや？　そのこえはさっきのひとですね」
+俺「あのう・・」
+老人「おや？その声はさっきの人ですね」
+Me: "Um..."
+Old man: "Oh? That voice, are you the guy from earlier?"
+2
+おれ「だれか　きませんでした？」
+ろうじん「いいえ　だれも・・」
+俺「誰か来ませんでした？」
+老人「いいえ誰も・・」
+Me: "Did anyone come here?"
+Old man: "No, nobody..."
+3
+・・「きゃあああーーっ！」
+・・「あくまだあーーっ！」
+おれ「ち　ちがうって！　おれは・」
+・・「きゃあああーーっ！」
+・・「悪魔だあーーっ！」
+俺「ち違うって！俺は・」
+...: "Aaahhhh!"
+...: "It's the devil!"
+Me: "No, you got it wrong! I'm..."
+2
+すてんどぐらすが　きれいだ
+なんていってる　ばあいじゃない！
+ステンドグラスが綺麗だ
+なんて言ってる場合じゃない！
+The stained glass is beautiful.
+This isn't the time to be saying things like that!
+1
+けわしいかおで　おれをにらみつけている
+険しい顔で俺を睨みつけている
+He is glaring at me with a stern expression.
+2
+しんぷ「しゅよ　われらのつみと
+　われらのそせんのつみを　ゆるしたまえ！」
+神父「主よ我らの罪と
+　我らの祖先の罪を許した前！」
+Priest: "Lord, forgive us our sins and the sins of our ancestors!"
+
+1
+おとこ「ぎゃあああーーっ！！」
+男「ぎゃあああーーっ！！」
+Man: "Gyaaaah!"
+5
+おれ「ちょ　ちょっと・！」
+おとこ「か　かねなら　なんぼでもやるで！
+　たた　たすけてくりゃーて！」
+おれ「だからさあ・」
+おとこ「よるな！　ひゃあーーっ！」
+俺「ちょちょっと・！」
+男「か金ならなんぼでもやるで！
+　たた助けてくりゃーて！」
+俺「だからさあ・」
+男「寄るな！ひゃあーーっ！」
+Me: "W-wait...!"
+Man: "You want money? How much? S-s-save meeeee!"
+
+Me: "No, listen..."
+Man: "Don't come near me! Aaaaah!"
+4
+おれ「だれか　きませんでした？」
+ろうじん「ああ・　たったいま　きましたよ
+　しかし　さわがしいおとこだった
+　しもんはかせのことを　いろいろきかれましてな」
+俺「誰か来ませんでした？」
+老人「ああ・たった今来ましたよ
+　しかし騒がしい男だった
+　シモン博士のことを色々聞かれましてな」
+Me: "Did anyone come here?"
+Old man: "Ah... Just a moment ago.
+But he was a noisy man. He kept asking all sorts of questions about Dr. Simon."
+
+6
+ろうじん「はかせとは　５０ねんらいのつきあい
+　でしてね　ここだけのはなしですが・・
+　かれはいま　こっちにきているんです｜
+　このまちに　ひみつのべっそうがあるんですよ｜
+　いや・　わたしはどうも　おしゃべりでいかんな
+　また　しゃべってしまった・・」
+老人「博士とは５０年来の付き合い
+　でしてね　ここだけの話ですが・・
+　彼は今こっちに来ているんです｜
+　この町に秘密の別荘があるんですよ｜
+　いや・私はどうもおしゃべりでいかんな
+　また喋ってしまった・・」
+Old man: "I've known Dr. Simon for 50 years. Just between you and me... He's here right now.
+
+
+He has a secret villa in this town.
+Oh dear... I wasn't supposed to say that. I've talked too much again..."
+
+1
+なんか　へんなものが・・
+なんか変な物が・・
+There's something strange here...
+1
+おとこ「ひゃあーーっ　またでたーーっ！」
+男「ひゃあーーっ　また出たーーっ！」
+Man: "Aaaaah! It's you again!"
+1
+ちずが　おちている
+地図が落ちている
+There's a map on the ground.
+2
+このへんいったいの　ちずのようだ
+きたに　べっそうがある
+この辺一体の地図のようだ
+北に別荘がある
+This seems to be a map of this area.
+There's a villa to the north.
+1
+なんとか　すすめるな
+なんとか進めるな
+Somehow, I manage to get through.
+1
+だれかでてくる！
+誰か出てくる！
+Someone is coming out!
+1
+しもん「ごほ！　ごほごほ！」
+シモン「ゴホ！ゴホゴホ！」
+Simon: "*Cough! Cough cough!*"
+1
+もう　ておくれだ
+もう手遅れだ
+It's too late at this point.
+1
+いきも　たえだえだ
+息も絶え絶えだ
+He's barely breathing.
+6
+しもん「！　ば・ばけもの！」
+おれ「ちがうんです！　きいてください！｜
+　ぼくはさっき　あくまにからだをむりやり
+　こうかんさせられたんです！｜
+　しんじてください！」
+しもん「・・・・」
+シモン「！ば・化物！」
+俺「違うんです！聞いてください！｜
+　僕はさっき悪魔に体を無理やり
+　交換させられたんです！｜
+　信じてください！」
+シモン「・・・・」
+Simon: "! A m-monster!"
+Me: "No! Please listen to me!
+A moment ago, the devil exchanged bodies with me by force!
+
+Please believe me!"
+Simon: "......"
+1
+しもん「おい　どこへいくんだ！」
+シモン「おいどこへ行くんだ！」
+Simon: "Hey, where are you going!?"
+3
+しもん「たったいま　わかいおとこが
+　とびこんできて　わたしのはつめいした
+　たいむべるとを　うばっていった・・」
+シモン「たった今若い男が
+　飛び込んで来て　私の発明した
+　タイムベルトを奪っていった・・」
+Simon: "Just a moment ago, a young man burst in and stole my invention, the time belt..."
+
+
+6
+おれ「たいむべるとって・・？」
+しもん「べるとがたの　たいむましんだ
+　やっと　かんせいしたというのに・・」
+おれ「・・」
+しもん「はやく　やつをおいかけろ・　でないと
+　どこかへ　たいむわーぷしてしまう！」
+俺「タイムベルトって・・？」
+シモン「ベルト型のタイムマシンだ
+　やっと完成したというのに・・」
+俺「・・」
+シモン「早くやつを追いかけろ・でないと
+　どこかへタイムワープしてしまう！」
+Me: "Time belt...?"
+Simon: "It's a belt that works as a time machine.
+He took it right as I finished it..."
+Me: "..."
+Simon: "Hurry up and chase after him... If you don't, he'll travel through time!"
+
+2
+しもん「はやく　やつをおいかけろ！　でないと
+　どこかへ　たいむわーぷしてしまう！」
+シモン「早くやつを追いかけろ・でないと
+　どこかへタイムワープしてしまう！」
+Simon: "Hurry up and chase after him! If you don't, he'll travel through time!"
+
+2
+あしあとが　さらにもりのおくへと
+つづいている
+足跡が更に森の奥へと
+続いている
+There are footprints going deeper into the forest.
+
+4
+あくま「ほほう・　まだからだは　ぶじだったか」
+おれ「お　おれのからだを　かかか　かえせ！」
+あくま「そうはいかん　わしはこれから
+　ながいたびに　でるのでな」
+悪魔「ほほう・まだ体は無事だったか」
+俺「お俺の体をかかか返せ！」
+悪魔「そうは遺憾わしはこれから
+　長い旅に出るのでな」
+Devil: "Oh ho... So that body's still intact, huh?"
+Me: "G-give me back m-m-m-my body!"
+Devil: "I'm afraid I can't do that. I'm about to embark on a long journey, you see."
+
+1
+おれ・・　こんなきついかおしてたっけ？
+俺・・こんなきつい顔してたっけ？
+It's me... Did I always have such a fierce look on my face?
+1
+はっきりいって　ださいな
+はっきり言ってダサいな
+To be blunt, it looks pretty lame.
+1
+そうしたいのは　やまやまだ
+そうしたいのは山々だ
+I'd love to.
+5
+おれ「どこへいくつもりだ」
+あくま「ちょっとした　びじねすだ」
+おれ「なんだよ　それ・・」
+あくま「わかりきったことを　きくな
+　たましいのけいやくに　きまってるだろが」
+俺「どこへ行くつもりだ」
+悪魔「ちょっとしたビジネスだ」
+俺「何だよそれ・・」
+悪魔「分かりきったことを聞くな
+　魂の契約に決まってるだろが」
+Me: "Where do you plan on going?"
+Devil: "Just to deal with a little business."
+Me: "What does that even mean..."
+Devil: "Don't say that when it's obvious. It's to settle my part of a soul contract."
+
+6
+あくま「せかいじゅうの　あくましんじゃたちが
+　わしをよんでいる・・　きゅうせいしゅの
+　とうじょうを　まちのぞんでいるのだ」
+おれ「・・」
+あくま「わしはそのきたいに　こたえねばならん
+　ときをかけめぐってな」
+悪魔「世界中の悪魔信者達が
+　わしを呼んでいる・・救世主の
+　登場を待ち望んでいるのだ」
+俺「・・」
+悪魔「わしはその期待に答えねばならん
+　時を駆け巡ってな」
+Devil: "My worshippers are calling for me throughout the world... They are eagerly awaiting the arrival of their savior."
+
+
+Me: "..."
+Devil: "I must answer their expectations and travel through time."
+
+2
+あくま「では　さらばだ
+　くれぐれも　からだをだいじにしろよ」
+悪魔「ではさらばだ
+　くれぐれも体を大事にしろよ」
+Devil: "Well, farewell. Take good care of my body."
+
+1
+・・ん？
+・・ん？
+...Huh?
+1
+おれ「す　すいこまれる！　うああああーーっ！」
+俺「す吸い込まれる！うああああーーっ！」
+Me: "I'm being sucked in! Aaaaaah!"
+3
+ぴえーる「かみさま　おねがいだ
+　おれたちびんぼうにんに　ちからをかしてくれ
+　かみさまってばよー！」
+ピエール「神様　お願いだ
+　俺達貧乏人に力を貸してくれ
+　神様ってばよー！」　
+Pierre: "God, I'm begging you! Lend us poor people your strength!
+
+God, please!"
+3
+ぴえーる「なんで　あくまがでてくるんだよー！」
+
+おれ「・・どうなってんだ・・？」
+ピエール「なんで悪魔が出てくるんだよー！」
+
+俺「・・どうなってんだ・・？」
+Pierre: "Why did the devil appear!?"
+
+Me: "...What is happening...?"
+1
+がらすのはへんが　ちらかっている
+ガラスの破片が散らかっている
+Pieces of glass are scattered around.
+1
+こしを　ぬかしている
+腰を抜かしている
+He's completely stunned.
+2
+かさかさにかわいて　あちこちにひびが
+はいっている
+カサカサに乾いてあちこちにひびが
+入っている
+It's so dry that cracks are appearing on it.
+
+2
+さわると　ひふがぼろぼろはげおちる
+なんか　やばいぞ
+触ると皮膚がボロボロ剥げ落ちる
+なんかやばいぞ
+Upon touching it, skin peels off.
+This is not good.
+1
+いま　でるのはやばい
+今出るのはやばい
+It'd be bad to go out right now.
+4
+ぴえーる「せんそうは　まけそうだし
+　けいきはわるいし・・　こうなりゃかみさまにでも
+　すがるしかねえって・・｜
+　だけどまさか　あくまのだんながでてくるとは・」
+ピエール「戦争は負けそうだし
+　景気は悪いし・・こうなりゃ神様にでも
+　すがるしかないって・・｜
+　だけどまさか悪魔の旦那が出てくるとは・」
+Pierre: "We're losing the war, the economy is collapsing... In times like this, we have no choice but to rely on God...
+
+
+But to think that the devil would show up..."
+1
+ぴえーる「こ　ころさないで！」
+ピエール「こ、殺さないで！」
+Pierre: "D-don't kill me!"
+4
+こげくさいな・・
+
+！　ろうそくのひが・！
+ぴえーる「ひゃああーーっ！」
+焦げ臭いな・・
+
+！ろうそくの火が・！
+ピエール「ひゃああーーっ！」
+Something is burning...
+
+! The flame from the candle...!
+Pierre: "Hyaaaaah!"
+1
+おれ「あぢ・　あぢぢぢぢ・・！」
+俺「あぢ・あぢぢぢぢ・・！」
+Me: "Ouch... Owowowow...!"
+3
+おれは・・　しんだのか？
+いや　からだはなくなったけど・・
+まだ　いきてる！
+俺は・・死んだのか？
+いや体はなくなったけど・・
+まだ生きてる！
+Did I...die?
+No, my body's gone, but...I'm still alive!
+
+1 Pierre
+きを　うしなっている
+気を失っている
+He has lost consciousness.
+1
+しょくにんたちのみせが　ならんでいる
+職人たちの店が並んでいる
+Several craftsmen's stores are in a line.
+1
+「がらすや」
+「ガラス屋」
+"Glass Shop"
+1
+ことりが　さえずっている
+小鳥がさえずっている
+There is a small bird singing.
+1
+「かじや」
+「鍛冶屋」
+"Blacksmith"
+1
+かじやだな
+鍛冶屋だな
+This is the blacksmith's shop.
+1
+いろんなどうぐが　おいてある
+いろんな道具が置いてある
+There are various tools.
+1
+めがきょろきょろして　おちつきがない
+目がキョロキョロして落ち着きがない
+He is restlessly looking around.
+4
+るごー「おねがいですじゃ　わしのまごむすめを
+　たすけてやってくだされ！
+　じゃんぬは　まだ１６になったばかりなんじゃ」
+やくにん「さいばんがおわるまで　まて」
+ルゴー「お願いですじゃ　わしの孫娘を
+　助けてやってくだされ！
+　ジャンヌはまだ１６になったばかりなんじゃ」
+役人「裁判が終わるまで待て」
+Legault: "Please, save my granddaughter!
+
+Joan is just 16 years old!"
+Official: "Wait until the end of the trial."
+1
+くちを　まいちもんじにむすんでいる
+口を真一文字に結んでいる
+His mouth is shut tightly.
+1
+めを　まっかになきはらしている
+目を真っ赤に泣き腫らしている
+His eyes are red from crying.
+1
+きのどくそうに　のぞきこんでいる
+気の毒そうに覗き込んでいる
+They are looking at the situation with pity.
+1
+いしで　できている
+石でできている
+It's made of stone.
+4
+・・「けいむしょは　まじょようぎの
+  おんなで　いっぱいだそうだ・」
+・・「このままじゃ　くにじゅうのおんなが
+　いなくなっちまうぞ・」
+・・「刑務所は魔女容疑の
+　女でいっぱいだそうだ・」
+・・「このままじゃ国中の女が
+　いなくなっちまうぞ・」
+...: "I hear that the prisons are packed with women that have been accused of being witches."
+
+...: "At this rate, there won't be any women left in the whole country."
+
+1
+どうやら　けいむしょらしい
+どうなら刑務所らしい
+This seems to be a prison.
+1
+わかいむすめは　いないみたいだ
+若い娘はいないみたいだ
+There don't seem to be any young girls.
+3
+・・「どうして　わたしがまじょなの？
+　あしのきずは　ころんだときのものよ」
+・・「あたしのは　かにくわれたあとじゃ」
+・・「どうして私が魔女なの？
+　足のキズは転んだ時のものよ」
+・・「あたしのはかに食われた跡じゃ」
+...: "Why have we been called witches? This wound on my leg is from when I fell."
+
+...: "Mine is from getting bitten by a crab."
+6
+「しんたいのどこかに　きずをもつおんなを
+　しっていたら　ただちにきょうかいへ
+　ほうこくすること｜
+　じじつをかくしたものは　げんばつにしょす｜
+　１４２８ねん　１０がつ
+　　　　　　　　　ふらんすおうこく　きょうかい」
+「身体のどこかにキズを持つ女を
+　知っていたら直ちに教会へ
+　報告すること｜
+　事実を隠したものは厳罰に処す｜
+　１４２８年１０月
+　　　　　　　　　フランス王国教会」
+"If you know of any woman with a wound on her body, report her to the church at once.
+
+
+Anyone concealing this will be severely punished.
+October 1428
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\The Church of the \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\Kingdom of France"
+1
+「じょうまえや」
+「錠前や」
+"Locksmith"
+1
+じょうまえやだ
+錠前やだ
+It's a locksmith's shop.
+1
+どうぐばこが　おいてある
+道具箱が置いてある
+There is a toolbox.
+1
+かぎが　はいっている
+カギが入っている
+There are keys inside.
+1
+しごとに　みがはいってないようだ
+仕事に身が入ってないようだ
+He doesn't seem to be putting his all into his work.
+1
+ちの「しきょうの　くそったれ！」
+チノ「司教のくそったれ！」
+Chinaud: "That damn bishop!"
+1
+「したてや」
+「仕立て屋」
+"Tailor"
+1
+したてやらしい
+仕立て屋らしい
+This looks like a tailor's shop.
+1
+かべに　いろんなふくがかけられている
+壁にいろんな服がかけられている
+Various kinds of clothes are hanging on the wall.
+1
+がんこなしょくにん　ってかんじだな
+頑固な職人って感じだな
+I get the feeling he's a stubborn craftsman.
+2
+ごるどー「このままじゃ　よめが
+　もらえなくなるなあ・・」
+ゴルドー「このままじゃ嫁が
+　もらえなくなるなあ・・」
+Gordeau: "At this rate, I'm never getting married..."
+
+1
+「いざかや」
+「居酒屋」
+"Tavern"
+1
+いざかやみたいだ
+居酒屋みたいだ
+This looks like a tavern.
+1
+いろんなさけが　ならんでいる
+いろんな酒が並んでいる
+Various kinds of alcoholic drinks are in a line.
+1
+わいんのあきびんが　つんである
+ワインの空き瓶が積んである
+Empty wine bottles are piled here.
+2
+どうなってんだ・・？
+ひ　ひとのからだに　はいっちまった・・！
+どうなってんだ・・？
+ひ人の体に入っちまった・・！
+What just happened...?
+I, I just entered someone's body...!
+1
+けがするぞ
+怪我するぞ
+I'd hurt myself.
+1 Take
+なにを？
+何を？
+Take what?
+1 Use
+なにを？
+何を？
+Use what?
+4
+おやじ「あのな・　こんなことしっちょるか？」
+
+じゅうじぐんが　うばいかえそうとした
+「せいち」とは？
+おやじ「あのな・こんなことしっちょるか？」
+
+十字軍が奪い返そうとした
+「聖地」とは？
+Old man: "Hey... You know this one?"
+\
+What was the "Holy Land" that the Crusaders went to reclaim?
+
+1
+おやじ「あほ」
+おやじ「アホ」
+Old man: "Idiot."
+4
+おやじ「せいかいじゃ　ならばこれはどうだ？」
+
+いぎりすとふらんすが　たたかった
+ながいたたかいを　なにせんそうという？
+おやじ「正解だ　ならばこれはどうだ？」
+
+イギリスとフランスが戦った
+長い戦いを何戦争だ？
+Old man: "Correct. How about this one?"
+\
+Which war was the long war between England and France?
+
+4
+おやじ「せいかいじゃ　ならばこれはどうだ？」
+
+ぎかいせいじの３ぶかい　といえば
+そうと　きぞくと？
+おやじ「正解だ　ならばこれはどうだ？」
+
+議会政治の三部会といえば
+そうと貴族と？
+Old man: "Correct. How about this one?"
+\
+In the States-General assembly, there is the clergy, the nobility, and?
+
+4
+おやじ「せいかいじゃ　ならばこれはどうだ？」
+
+しょうにんたちが　あつまってできた
+どうぎょうくみあいは？
+おやじ「正解だ　ならばこれはどうだ？」
+
+商人たちが集まってできた
+同業組合は？
+Old man: "Correct. How about this one?"
+\
+What is the association called when several merchants come together?
+
+4
+おやじ「せいかいじゃ　ならばこれはどうだ？」
+
+「さいごのばんさん」を　かいた
+てんさいげいじゅつかは？
+おやじ「正解だ　ならばこれはどうだ？」
+
+「最後の晩餐」を書いた
+天才芸術家は？
+Old man: "Correct. How about this one?"
+\
+Who is the artist that painted "The Last Supper"?
+
+1
+おやじ「せいかいじゃ」
+おやじ「正解だ」
+Old man: "Correct."
+3
+おやじ「ぜんもんせいかいとは　やるもんじゃ
+  あんたは　えらい！
+  なにか　ほうびをやらんとな」
+おやじ「全問正解とはやるもんじゃ
+  あんたは偉い！
+  何か褒美をやらんとな」
+Old man: "You got them all correct! You're amazing!
+
+I need to give you some kind of reward."
+1
+おやじ「こら！」
+おやじ「こら！」
+Old man: "Hey!"
+1
+おやじ「しょうばいもんはだめじゃ」
+おやじ「商売もんはだめじゃ」
+Old man: "I need that for work."
+4
+とき・・１４２８ねん　１０がつ
+ばしょ・ふらんすの　じょうかまち
+なまえ・・ぴえーる
+しょくぎょう・・がらすしょくにん
+時・・１４２８年１０月
+場所・フランスの城下町
+名前・・ピエール
+職業・・ガラス職人
+Time: October, 1428
+Location: A castle town in France
+Name: Pierre
+Occupation: Glass worker
+1
+いちおう　もらっとくか
+一応もらっとくか
+Just in case, I'll take one.
+1
+もういらない
+もう要らない
+I don't need another one.
+1
+むだだ
+無駄だ
+That's pointless.
+2
+ちの「まじょがりなんてなあ・・
+  まったく　いやなよのなかだ」
+チノ「魔女狩りなんてなあ・・
+  全く　嫌な世の中だ」
+Chinaud: "A witch hunt, huh... Man, what a terrible world."
+
+1
+おもくて　もてない
+重くて持てない
+It's too heavy to take.
+1
+ちの「かってに　さわるんじゃねー！」
+チノ「勝手に触るんじゃない！」
+Chinaud: "Don't mess with things that aren't yours!"
+3
+ごるどー「ぴえーるおめー　しってるか？
+  じょうまえやの　ちのは　じゃんぬに
+  ひとめぼれしたって　うわさだぜ」
+ゴルドー「ピエールお前知ってるか？
+  錠前やのチノはジャンヌに
+  一目惚れしたって噂だぜ」
+Gordeau: "Pierre, have you heard?
+There's a rumor going around that Chinaud, the locksmith, fell in love with Joan at first sight."
+
+1
+ごるどー「なにしやがる！」
+ゴルドー「何しやがる！」
+Gordeau: "What do you think you're doing!?"
+3
+やくにん「からだに　きずをもつおんなは
+  まじょのうたがいがある・・　と
+  きょうかいから　おふれがあったのだ」
+役人「体に傷を持つ女は
+  魔女の疑いがある・・と
+  教会からお触れがあったのだ」
+Official: "Women with a wound on their body are suspected of being witches... That's what the church said."
+
+
+3
+るごー「まごのじゃんぬは
+  とても　きだてのいいこなんじゃ｜
+  まじょだなんて　とんでもないはなしじゃよ」
+ルゴー「孫のジャンヌは
+  とても気立てのいい子なんだ｜
+  魔女だなんてとんでもないはなしだよ」
+Legault: "My granddaughter Joan is such a kind-hearted girl.
+
+It's ridiculous to call her a witch!"
+2
+・・「どうなっちまうのかねえ　このくには・」
+・・「まったく・」
+・・「どうなっちまうのかねえ　この国は・」
+・・「まったく・」
+...: "What's going to happen to this country..."
+...: "Seriously..."
+2
+やくにん「だめだめ！　かんけいしゃいがいは
+  たちいりきんしだ」
+役人「ダメダメ！関係者以外は
+  立入禁止だ」
+Official: "Halt! Unauthorized people may not enter!"
+
+1
+ごるどー「なんだ？」
+ゴルドー「何だ？」
+Gordeau: "What?"
+1
+ちの「なんだ？」
+チノドー「何だ？」
+Chinaud: "What?"
+3
+おやじ「そうか　わいんがほしいのか
+  ほうびじゃ　ほれ」
+とく　とく　とく・・
+おやじ「そうかワインが欲しいのか
+  褒美だ　ほれ」
+トクトクトク・・
+Old man: "I see, you want some wine? It'll be your reward. Here."
+
+*glub glub glub*
+1
+わいんを　てにいれた
+ワインを手に入れた
+I got some wine.
+2
+おれ「いっぱい　どう？」
+おやじ「いらん」
+俺「一杯どう？」
+おやじ「いらん」
+Me: "You want some?"
+Old man: "No."
+2
+ごくごくごく・・　ぷはーーっ！
+おれ「うーーい！」
+ゴクゴクゴク・・プハーーッ！
+俺「うーーい！」
+*Gulp gulp gulp...* Ahhh!
+Me: "Weeeee!"
+1
+もう　なーんもしたくない
+もう何もしたくない
+I don't want to do anything anymore.
+1
+ああ　めがまわる・・
+ああ目が回る・・
+Aah, everything is spinning...
+1
+おれ「おれんきれすかあ？　うひひ」
+俺「おれんきれすかあ？ウヒヒ」
+Me: "Aren't I looking good? Hehehe!"
+3
+おやじ「しんじつと　あぶらは　かならず
+  うかんでくる・・
+  ふらんすの　ふるいことわざじゃ」
+おやじ「真実と油は必ず
+  浮かんでくる・・
+  フランスの古いことわざだ」
+Old man: "Truth is like oil: it always rises to the surface...
+
+It's an old French saying."
+1
+なんだか・・　きが・・　とおくなってきた・・
+なんだか・・気が・・遠くなってきた・・
+Somehow... I'm starting to feel...faint...
+1
+ごるどー「おらあ　のめねえんだ」
+ゴルドー「おらあ飲めねえんだ」
+Gordeau: "Oh, I can't drink."
+2
+おれ「おれんきれすかあ？　うひひ」
+ごるどー「いいかげんに　さけやめろよなー」
+俺「おれんきれすかあ？ウヒヒ」
+ゴルドー「いい加減に酒やめろよなー」
+Me: "Aren't I looking good? Hehehe!"
+Gordeau: "You should stop drinking irresponsibly."
+3
+おれ「いっぱい　どう？」
+やくにん「うっ・
+  き　きんむちゅうだ！」
+俺「一杯どう？」
+役人「うっ・
+  き勤務中だ！」
+Me: "You want some?"
+Official: "Uh...
+I'm working!"
+2
+おれ「いっぱい　どう？」
+るごー「おお　ぴえーる　きいてくれ・」
+俺「一杯どう？」
+ルゴー「おおピエール聞いてくれ・」
+Me: "You want some?"
+Legault: "Oh, Pierre, please listen to me..."
+3
+・・「るごーのじいさん　そうとうまいっているな」
+・・「かわいそうに」
+・・「つれてかえるか」
+・・「グローの爺さん相当参っているな」
+・・「可哀想に」
+・・「連れて帰るか」
+...: "Legault is really struggling, isn't he?"
+...: "How pitiful."
+...: "Should we take him home?"
+11
+やくにん「だれにも　いうなよ
+  んぐぐぐ・
+
+
+  ぷはーっ！
+
+
+  ここだけのはなしだがな・・
+  しきょうは　きにいったむすめだけを　ちかしつで
+  ごうもんしているらしいんだ・・
+  なげかわしい！」
+役人「誰にも言うなよ
+  んぐぐぐ・
+
+
+  ぷはーっ！
+
+
+  ここだけの話だがな・・
+  司教は気に入った娘だけを地下室で
+  拷問しているらしいんだ・・
+  嘆かわしい！」
+Official: "Don't you dare tell anyone.
+*gulp gulp gulp...*
+\
+\
+Ahhh!
+\
+\
+Just between you and me...
+It seems that the bishop takes the girls he fancies and tortures them in the cellar...
+
+How terrible!"
+2
+やくにん「しきょうは　いったいなにを
+  かんがえているのか・・」
+役人「司教は一体何を
+  考えているのか・・」
+Official: "What in the world is the bishop thinking..."
+
+2
+おれ「おれんきれすかあ？　うひひ」
+ちの「・・」
+俺「おれんきれすかあ？ウヒヒ」
+チノ「・・」
+Me: "Aren't I looking good? Hehehe!"
+Chinaud: "..."
+3
+おれ「いっぱい　どう？」
+ちの「おう　わるいな
+  うぐうぐうぐ・・　ぷはーーっ！」
+俺「一杯どう？」
+チノ「おう悪いな
+  うぐうぐうぐ・・ぷはーーっ！」
+Me: "You want some?"
+Chinaud: "Oh, excuse me.
+*Gulp gulp gulp*... Ahhh!"
+2
+ちの「ちくしょー！　あの　かわいいじゃんぬが
+  ひあぶりに　されちまうなんてよー」
+チノ「ちくしょー！あのかわいいジャンヌが
+  火あぶりにされちまうなんてよー」
+Chinaud: "Damn it! That cute Joan is going to be burned at the stake!"
+
+1
+ゆかしたから　うめきごえがきこえる
+床下からうめき声が聞こえる
+I can hear a groaning voice from under the floor.
+4
+しきょう「むすめ　なをなんという？」
+むすめ「・・じゃんぬ＿だるく」
+しきょう「なに！　おまえがじゃんぬ＿だるくか
+  そうか　うーむ　おまえがか・」
+司教「娘名を何という？」
+娘「・・ジャンヌ・ダルク」
+司教「何！お前がジャンヌ・ダルクか
+  そうかうーむお前がか・」
+Bishop: "Girl, what is your name?"
+Girl: "...Joan...of Arc."
+Bishop: "What!? You're Joan of Arc? I see. Hm, it's you..."
+
+1
+ごうもんべや　らしい
+拷問部屋らしい
+It seems to be a torture chamber.
+1
+はでな　ふくだな
+派手な服だな
+He is wearing gaudy clothes.
+1
+まだあどけない　しょうじょじゃないか
+まだあどけない乗除じゃないか
+She's just a young girl, right?
+9
+しきょう「わたしのすうはいする　あるおかたが
+  こう　おっしゃったのだ｜
+  ”じゃんぬ＿だるくを　ころせ！｜
+    やつをいかしておくと　あとあとめんどうな
+    ことになる”　とな」
+じゃんぬ「・・」
+しきょう「まじょがりを　つづけていればいつか・
+  と　おもっておったが・・　こんなにはやく
+  あえるとはのう」
+司教「私の崇拝するあるお方が
+  こうおっしゃったのだ｜
+  ”ジャンヌ・ダルクを殺せ！｜
+    やつを生かしておくと後々面倒な
+    ことになる”とな」
+ジャンヌ「・・」
+司教「魔女狩りを続けていればいつか・
+  と思っておったが・・こんなに早く
+  会えるとはのう」
+Bishop: "A person I admire said this:
+
+'Kill Joan of Arc!
+Leaving her alive will cause trouble in the distant future.'"
+
+Joan: "..."
+Bishop: "If we continue the witch hunts, then at some point... That's what I thought... To think that we would meet so soon."
+
+
+2
+しきょう「ひあぶりのじゅんびが　ととのうまで
+  ここで　おとなしくしていろ」
+司教「火あぶりの準備が整うまで
+  ここで大人しくしていろ」
+Bishop: "Wait here quietly while the preparations for burning you at the stake are complete."
+
+1
+じゃんぬ「わたし・・　まじょじゃない」
+ジャンヌ「私・・魔女じゃない」
+Joan: "I...am not a witch."
+1
+みんな　やつれはてている
+みんなやつれ果てている
+They're all completely worn out.
+3
+「さかやるごーのまごむすめ　じゃんぬ＿だるくを
+  まじょとみとめ　きょうかいのなにより
+  しけいにしょす　　　　　　　　　　　　　　　」
+「酒屋ルゴーの孫娘ジャンヌ・ダルクを
+  魔女と認め教会の何より
+  死刑に処す」
+"Joan of Arc, the granddaughter of the tavern owner Legault, has been recognized as a witch by the church and sentenced to death."
+
+
+4
+ちの「ば　ばかいってんじゃねえ！
+  そんなこと　できるわけれーだろ！」
+ぴえーる「ちっ　だらしねえやろうらなー
+  てめーそれでも　おとこか　ひっく！」
+チノ「ばバカ言ってんじゃない！
+  そんなことできるわけれーだろ！」
+ピエール「ちっだらしないやろうらなー
+  テメーそれでも男かヒック！」
+Chinaud: "Y-you idiot, don't say that! I can't do something like that!"
+
+Pierre: "How pathetic. You call yourself a man, *hic*?"
+
+1
+なみだとはなみずで　かおがぐしゃぐしゃだ
+涙と鼻水で顔がぐしゃぐしゃだ
+His face is soaked in tears and snot.
+1
+ぐいぐいと　さけをあおっている
+グイグイと酒を呷っている
+He is gulping down alcohol.
+1
+しきりに　ためいきをついている
+しきりにため息を付いている
+He keeps sighing.
+5
+ぴえーる「なんとかして　じゃんぬを
+  たすけるんらよ　このいくじなし！」
+ちの「そーゆーおまえは　どうなんだよー」
+ぴえーる「ばかやろー！　おれに　そんなどきょうが
+  あるわけねえらろ！」
+ピエール「なんとかしてジャンヌを
+  助けるんらよ　この意気地無し！」
+チノ「そーユーお前はどうなんだよー」
+ピエール「バカヤロー！俺にそんな度胸が
+  あるわけねえらろ！」
+Pierre: "You need to find some way to save Joan, you coward!"
+
+Chinaud: "Well then, why don't you do it?"
+Pierre: "You moron! I don't have the guts for that!"
+
+1
+そうとう　よっぱらっている
+相当酔っ払っている
+He is quite drunk.
+2
+ぴえーる「ばっかやろーめ　ひっく！
+  てめーこれほどたのんでも　ことわるってか！」
+ピエール「ばっかやろーめヒック！
+  てめーこれほど頼んでも断るってか！」
+Pierre: "You idiot! *Hic!* You're going to refuse after I've told you to do it this much!?"
+
+5
+ぴえーる「おめー　じょうまえやだろー？
+  ろうやのかぎなんざ　ちょいちょい・って
+  はずしちまえば　かんたんだろーが　ひっく！」
+ちの「むちゃくちゃ　ゆうなよ」
+るごー「ああ　かわいそうなじゃんぬ・・」
+ピエール「おめー錠前屋だろー？
+  牢屋の鍵なんざちょいちょい・って
+  外しちまえば簡単だろーが　ヒック！」
+チノ「むちゃくちゃ言うなよ」
+ルゴー「ああ可哀想なジャンヌ・・」
+Pierre: "You're a locksmith, right? It should be easy for you to open the lock in the jail. *Hic!*"
+
+
+Chinaud: "Don't be ridiculous."
+Legault: "Ah, poor Joan..."
+1
+もう　べろんべろんだ
+もうベロンベロンだ
+He is already dead drunk.
+6
+ぴえーる「ちきしょー！　おれたちゃ
+  むすめっこひとり　たすけられねーのかよー！
+  ぐおーーっ！」
+ちの「こ　こらおちつけ　ぴえーる！」
+ぴえーる「るせーーっ！」
+ぼっこ！
+ピエール「チキショー！俺たち
+  娘っ子一人助けられないのかよー！
+  ぐおーーっ！」
+チノ「ここら落ち着けピエール！」
+ピエール「るせーーっ！」
+ボッコ！
+Pierre: "Damn it! Can we not even save a single girl!? Gaaaah!"
+
+
+Chinaud: "C-calm down, Pierre!"
+Pierre: "Shut uuuup!"
+*Bonk!*
+1
+ちの「うーーん・・」
+チノ「うーーん・・」
+Chinaud: "Uuugh..."
+2
+くだを　まいている
+ぴえーる「うっせーばろーちくしょー！」
+管を巻いている
+ピエール「うっせーバローちくしょー！」
+He keeps drunkenly rambling.
+Pierre: "Shut it, you damn idiot!"
+3
+るごー「おきてくれ　ちの
+  おまえだけが　たよりなんじゃ」
+ぴえーる「どうせおれなんか　だめですよーだ！」
+ルゴー「起きてくれチノ
+  お前だけが頼りなんだ」
+ピエール「どうせ俺なんかだめですよーだ！」
+Legault: "Chinaud, wake up, you're the only one I can count on!"
+
+Pierre: "It doesn't matter, we're all no good anyway!"
+1 Chinaud
+きをうしなっている
+気を失っている
+He has lost consciousness.
+1
+るごー「おお　ちの！」
+ルゴー「おおチノ！」
+Legault: "Ooh, Chinaud!"
+3
+るごー「わしゃ　ごらんのとおりのとしよりじゃ｜
+  どうか　わしのかわりに
+  じゃんぬを　たすけだしてくれないか？」
+ルゴー「話者ご覧の通りの年寄りだ｜
+  どうかわしの代わりに
+  ジャンヌを助け出してくれないか？」
+Legault: "As you can see, I am an old man.
+Will you please save Joan in my place?"
+
+3
+るごー「ありがとう！　ちの」
+ぴえーる「よーし！　それでこそおれの　しんゆうだ｜
+  よくいった！」
+ルゴー「ありがとう！ちの」
+ピエール「よーし！それでこそ俺の親友だ｜
+  よく言った！」
+Legault: "Thank you, Chinaud!"
+Pierre: "Alright! Just as you would expect from my best friend.
+Well said!"
+3
+ぴえーる「ひっく！　おめーこれほどたのんでも
+  ことわるってか　このひとでなし！
+  じいさんのきもちが　わからねえか！」
+ピエール「ヒック！おめーこれほど頼んでも
+  断るってかこの人でなし！
+  爺さんの気持ちがわからないか！」
+Pierre: "*Hic!* Are you really refusing after he begged you this much? You monster! Do you not understand how he feels?"
+
+
+2
+へらへら　わらっている
+ぴえーる「あーよいよい」
+ヘラヘラ笑っている
+ピエール「あーよいよい」
+He's laughing.
+Pierre: "Ah, good good."
+4
+るごー「きょうかいの　かんけいしゃなら
+  けいむしょへ　じゆうにでいりできるんじゃが・」
+ぴえーる「ごるどーんとこ　いきゃあ
+  しゅうどうふくが　あるぜ」
+ルゴー「教会の関係者なら
+  刑務所へ自由に出入りできるんだが・」
+ピエール「ゴルドーんとこ行きゃあ
+  修道服があるぜ」
+Legault: "If you're affiliated with the church, you can go into the prison whenever you want."
+
+Pierre: "There's a monk's robe at Gordeau's place."
+
+1
+ぴえーる「めでたい　めでたい　あーめでたい」
+ピエール「めでたい　めでたい　あーめでたい」
+Pierre: "I'm happy, happy, oh so happy."
+4
+とき・・１４２８ねん　１０がつ
+ばしょ・ふらんすの　じょうかまち
+なまえ・・ちの
+しょくぎょう・・じょうまえや
+時・・１４２８年１０月
+場所・フランスの城下町
+名前・・チノ
+職業・・錠前や
+Time: October, 1428
+Location: A castle town in France
+Name: Chinaud
+Occupation: Locksmith
+2
+るごー「おまえは　やめとけ」
+ぴえーる「そうそう」
+ルゴー「お前はやめとけ」
+ピエール「そうそう」
+Legault: "You shouldn't."
+Pierre: "Yeah."
+3
+ごるどー「ちのおめー　しってるか？
+  しきょうは　ひあぶりにしたむすめを
+  くってるって　うわさだ」
+ゴルドー「チノおめー知ってるか？
+  司教は火あぶりにした娘を
+  食ってるって噂だ」
+Gordeau: "Chinaud, have you heard?
+Rumor has it that the bishop eats the girls that are burned at the stake."
+
+1
+るごー「なんじゃ？」
+ルゴー「なんだ？」
+Legault: "What?"
+1
+おやじ「なんじゃ？」
+おやじ「なんだ？」
+Old man: "What?"
+1
+やくにん「なんだ？」
+役人「なんだ？」
+Official: "What?"
+1
+どうぐばこのそこに　なにかかいてある
+道具箱の底に何か書いてある
+There's something written on the bottom of the toolbox.
+2
+「おぼえがき
+  ごるどーに　ぎんか２まい　かしつけ」
+「覚書
+  ゴルドーに銀貨２枚貸付」
+"Memo
+Two silver coins loaned to Gordeau"
+2
+ごるどー「・・ああ　しゃっきんか
+  もうすこしまってくれねーか？」
+ゴルドー「・・ああ借金か
+  もう少し待ってくれないか？」
+Gordeau: "...Oh, the loan.
+Could you give me just a bit more time?"
+1
+ごるどー「わるいな　ちの」
+ゴルドー「悪いなチノ」
+Gordeau: "Sorry, Chinaud."
+2
+ごるどー「ちぇ　しょうがねえ・・　かねのかわりに
+  この　しゅうどうふくを　やるよ」
+ゴルドー「チェ　しょうがない・・金の代わりに
+  この修道服をやるよ」
+Gordeau: "Man, I've got no choice... Instead of money, I'll give you this monk's robe."
+
+1
+しゅうどうふくを　てにいれた
+修道服を手に入れた
+I got a monk's robe.
+1
+ごるどー「さっき　くれてやったじゃねえか」
+ゴルドー「さっきくれてやったじゃないか」
+Gordeau: "Didn't I just give you some a moment ago?"
+3
+るごー「じゃんぬは　しんじんぶかいむすめでな
+  いちにちたりとも　おいのりをかかしたことは
+  ないんじゃ」
+ルゴー「ジャンヌは信心深い娘でな
+  一日たりともお祈りを欠かしたことは
+  ないんだ」
+Legault: "Joan is a devout girl. She hasn't ever missed a single day of prayer."
+
+
+1
+ぴえーる「けっこーにあうじゃねえか　ちの」
+ピエール「ケッコー似合うじゃないかチノ」
+Pierre: "Looking good, Chinaud."
+1
+やくにん「ひあぶりが　はじまるのですか？」
+役人「火あぶりが始まるのですか？」
+Official: "Is the burning at the stake about to start?"
+1
+やくにん「なんです？」
+役人「なんです？」
+Official: "What?"
+1
+ここでは　やばい
+ここではヤバい
+Doing that here is dangerous.
+2
+かんしゅ「しきょうさまは　ちかしつに
+  いらっしゃいます」
+看守「司教様は地下室に
+  いらっしゃいます」
+Guard: "The bishop is in the cellar."
+
+4
+・・「わたしは　まじょじゃありません！
+  だしてください！」
+・・「うちで　こどもがまっているんです
+  どうか・　しゅうどうしさま！」
+・・「私は魔女じゃありません！
+  出してください！」
+・・「家で子供が待っているんです
+  どうか・修道士様！」
+...: "I am not a witch! Get me out of here!"
+
+...: "My children are waiting for me at home. Please, monk!"
+
+3
+かんしゅ「だめです！　しきょうさまの
+  おゆるしがなければ　そとへだすわけには
+  いきません」
+看守「だめです！司教様の
+  お許しがなければ外へ出すわけには
+  いきません」
+Guard: "Stop! You can't let them out without the bishop's permission."
+
+
+1
+じゃんぬのからだを　ふといろーぷがつりあげている
+ジャンヌの体を太いロープが吊り上げている
+Joan is hanging from a thick rope.
+1
+どうにか　ほどけそうだ
+どうにかほどけそうだ
+I might be able to untie it.
+1
+じゃんぬ「おねがい・　たすけて・・」
+ジャンヌ「お願い・助けて・・」
+Joan: "Please... Save me..."
+2
+ろーぷをほどいて
+そーっと　じゃんぬをおろした
+ロープをほどいて
+そーっとジャンヌを下ろした
+I untied the rope and gently helped Joan down.
+
+1
+じゃんぬ「・ありがとう・・」
+ジャンウ「・ありがとう・・」
+Joan: "...Thank you..."
+1
+ろうそくのひかりで　ほのかにあかるい
+ろうそくの光でほのかに明るい
+The candles are giving off a faint light.
+1
+ゆらめいている
+揺らめいている
+They are flickering.
+1
+じゃんぬ「はやく　にげましょう・・！」
+ジャンヌ「早く逃げましょう・・！」
+Joan: "Hurry, let's get out of here...!"
+1
+もちはこぶには　ながすぎる
+持ち運ぶには長すぎる
+It's too long to carry.
+6
+かんしゅ「だめです！　しきょうさまの
+  おゆるしがなければ　そとへだすわけには
+  いきません」
+おれ「でも・」
+かんしゅ「おきもちは　よくわかりますが・・
+  おもどりください」
+看守「だめです！司教様の
+  お許しがなければ外へ出すわけには
+  いきません」
+俺「でも・」
+看守「お気持ちはよく分かりますが・・
+  お戻りください」
+Guard: "Stop! You can't let them out without the bishop's permission."
+
+
+Me: "But..."
+Guard: "I completely understand how you feel, but... Please bring her back."
+
+2
+おれ「！」
+しきょう「なにをしておる！」
+俺「！」
+司教「何をしておる！」
+Me: "!"
+Bishop: "What are you doing!?"
+1
+しきょう「まてぃ！！」
+司教「待てぃ！！」
+Bishop: "Wait!!"
+4
+しきょう「ふぉふぉふぉ・・
+  まずは　むすめをひあぶりにしてからじゃ
+  おまえは　ここでおとなしくしておれ
+  ふぉふぉふぉ・・」
+司教「フォフォフォ・・
+  まずは娘を火あぶりにしてからじゃ
+  お前はここで大人しくしておれ
+  フォフォフォ・・」
+Bishop: "Hahaha...
+First, I'll burn the girl at the stake.
+You stay here like a good boy. Hahaha..."
+
+1
+くるしそうに　かおをゆがめている
+苦しそうに顔を歪めている
+He's grimacing in pain.
+1
+でいりぐちは　ひとつしかない
+出入り口は一つしかない
+There is only a single way in here.
+1
+ちの「・・うぅ」
+チノ「・・うぅ」
+Chinaud: "...Uuh."
+2
+・・「ひあぶりが　はじまるのかしら」
+・・「おお　かみさま・」
+・・「火あぶりが始まるのかしら」
+・・「おお神様・」
+...: "I wonder if the burning at the stake has started."
+...: "Oh, God..."
+4
+しきょう「これから　このむすめのひあぶりを
+  おこなうのだが・　みせしめのため　もっとひとが
+  あつまってからのほうが　おもしろいのう｜
+  ふぉふぉふぉ・・」
+司教「これからこの娘の火あぶりを
+  行うのだが・見せしめのためもっと人が
+  集まってからのほうが面白いのう｜
+  ふぉふぉふぉ・・」
+Bishop: "We will now commence with burning this girl at the stake, but... It would be more amusing if more people gathered so we can make an example of her.
+
+
+Hahaha..."
+1
+ひは　まだついていない
+火はまだ付いていない
+It still hasn't caught fire.
+1
+ぐったりと　したをむいたままだ
+ぐったりと下を向いたままだ
+She is wearily looking down.
+1
+じわじわと　くるしめるつもりか
+じわじわと苦しめるつもりか
+Is he intending to make her slowly suffer?
+1
+いきをのんで　しょけいだいをみつめている
+息を呑んで処刑台を見つめている
+They are gathering around the stake, holding their breath.
+2
+・・「ちくしょう　みちゃいられない・」
+・・「かみさま・！」
+・・「ちくしょう見ちゃいられない・」
+・・「神様・！」
+...: "Damn it, I can't stand to watch this..."
+...: "God...!"
+13
+かんしゅ「これはこれは　だんしゃくさま
+  ごめんかいですか｜
+  ・おくさまが　とんでもないことに・・」
+だんしゃく「かないが　まじょだなんて
+  なにをこんきょに・・
+  だいたいしきょうは　どうしたのだ！｜
+  まじょがりに　うつつをぬかして
+  きょうかいのしごとも　おろそかになっている
+  そうじゃないか！」
+かんしゅ「はい　ちかごろでは　しきょうこそが
+  あくまのてさきではないか　といううわさも・・」
+だんしゃく「あくじの　しょうこさえあれば
+  ついほうできるのだが・・」
+看守「これはこれは男爵様
+  ごめんかいですか｜
+  ・奥様がとんでもないことに・・」
+男爵「家内が魔女だなんて
+  何を根拠に・・
+  大体司教はどうしたのだ！
+  魔女狩りに現を抜かして
+  教会の仕事もおろそかになっている
+  そうじゃないか！」
+看守「はい近頃では司教こそが
+  悪魔の手先ではないかと言う噂も・・」
+男爵「悪事の証拠さえあれば
+  追放できるのだが・・」
+Guard: "Well well, baron, is something wrong?
+
+...To think that your wife..."
+Baron: "On what basis do you say that my wife is a witch... Or more, what happened to the bishop!?
+
+
+I've heard that he's become so engrossed in his witch hunts that he's been neglecting his duties in the church!"
+
+
+Guard: "Yes, there've even been rumors recently that the bishop might be serving the devil..."
+
+Baron: "If only we had proof of his wrongdoing, then we could exile him..."
+
+1
+いとおしそうに　つまをみつめている
+愛おしそうに妻を見つめている
+He is searching for his beloved wife.
+4
+だんしゃく「おお　いざべるよ　かわいそうに・
+  かならず　たすけてやるからな」
+いざべる「あいしてるわ　あなた」
+だんしゃく「あいしてるよ　おまえ」
+男爵「おおイザベルよ可哀想に・
+  必ず助けてやるからな」
+イザベル「愛してるわあなた」
+男爵「愛してるよお前」
+Baron: "Oh, Isabelle, how pitiful... I will surely save you."
+
+Isabelle: "I love you."
+Baron: "I love you, too."
+1
+ろうそくが　もえつきそうだ
+ろうそくが燃え尽きそうだ
+The candles are going out.
+1
+うすぐらい
+薄暗い
+It's dark.
+1
+なかから　ひかりがもれてる・・
+中から光が漏れてる・・
+There's light coming from inside...
+1
+だんしゃく「きょうかいのものとは　くちをきかん」
+男爵「教会のものとは口を利かん」
+Baron: "I won't talk with someone from the church."
+2
+かんしゅ「しょうこさえあれば・・
+  いえ・　ひとりごとです」
+看守「証拠さえあれば・・
+  いえ・独り言です」
+Guard: "If only we had proof...
+Er... I'm just talking to myself."
+2
+かんしゅ「だめです！　あなたをそとにだすなとの
+  しきょうさまの　いいつけです」
+看守「だめです！あなたを外に出すなとの
+  司教様の言いつけです」
+Guard: "Stop! The bishop has ordered you not to go out."
+
+1
+あいた・・　ひみつのつうろだ
+開いた・・秘密の通路だ
+It opened... There's a secret passage.
+1
+ひみつのつうろだ
+秘密の通路だ
+There's a secret passage.
+1
+いきどまりだ
+行き止まりだ
+It's a dead end.
+2
+ゆかに　まほうじんがつくられ
+まんなかに　おおきなはこがおいてある
+床に魔法陣が作られ
+真ん中に大きな箱が置いてある
+A summoning circle was made on the ground, and a large box was placed in the center.
+
+2
+ごてごてした　ぶきみなかざりがついている
+どこかでみたことが・・
+ゴテゴテした不気味な飾りが付いている
+どこかで見たことが・・
+It's covered in creepy decorations. I feel like I've seen it somewhere before...
+
+1
+１まいのかみきれが　はいっている
+１枚の紙切れが入っている
+There is a single piece of paper inside.
+1
+かみきれを　てにとってみてみると
+紙切れを手にとって見てみると
+I grabbed the paper to take a look, and...
+6
+「　　　　　けいやくしょ｜
+  やみのしはいしゃ＿あくまよ　われは
+  なんじにぬかずくもの　なんじはわがせいぎのかみ｜
+  あくとくと　ちゅうしょうと　あらゆるざいあくに
+  すべてをささげることを　ここにかたくちかわん｜
+                                    しきょう」
+「　　　　　契約書｜
+  闇の支配者・悪魔よ　我は
+  何時に額ずくもの何時は我が正義の神｜
+  悪徳とちゅうしょうとあらゆる罪悪に
+  すべてを捧げることをここに固く誓わん｜
+                                    司教」
+"        Contract
+Oh ruler of darkness, the devil. I bow to you, because you are my god of justice.
+
+I hereby swear to devote my life to immorality, depravity, and all manner of sin.
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\The bishop"
+1
+けいやくしょを　てにいれた
+契約書を手に入れた
+I took the contract.
+1
+だんしゃく「ん？　なんだ・・？」
+男爵「ん？何だ・・？」
+Baron: "Huh? What's that...?"
+5
+だんしゃく「こ　これは・・！」
+かんしゅ「まちがいなく　しきょうのじです！」
+だんしゃく「やつめ　やっぱり・・」
+かんしゅ「あ・！　あのむすめを　たすけないと！」
+だんしゃく「よし！」
+男爵「ここれは・・！」
+看守「間違いなく司教の字です！」
+男爵「ヤツメやっぱり・・」
+看守「あ・！あの娘を助けないと！」
+男爵「よし！」
+Baron: "This is...!"
+Guard: "There's no mistaking it, this is the bishop's handwriting!"
+Baron: "After all, he was..."
+Guard: "Ah...! We have to save that girl!"
+Baron: "Let's go!"
+4
+しきょう「さかや　るごーのまごむすめ
+  じゃんぬ＿だるくは　あくまのせんれいをうけ
+  みにくき　よくぼうのとりこと　なりはてた・・｜
+  よってきょうかいのなにより　しけいにしょす」
+司教「酒屋ルゴーの孫娘
+  ジャンヌ・ダルクは悪魔の洗礼を受け
+  醜き欲望の虜と成り果てた・・｜
+  よって教会の何より死刑に処す
+Bishop: "Joan of Arc, the granddaughter of the tavern owner Legault, has received the baptism of the devil and become a slave to wicked desires...
+
+
+Therefore, the church is sentencing her to death."
+3
+だんしゃく「まて！　まて！　まて！
+  そのむすめは　まじょなんかじゃない！
+  あくまのてさきは　しきょうのほうだ！」
+男爵「待て！待て！待て！
+  その娘は魔女なんかじゃない！
+  悪魔の手先は司教の方だ！」
+Baron: "Wait! Wait! Wait! This girl is not a witch! It's the bishop that is a servant of the devil!"
+
+
+3
+しきょう「た　たわけたことを・・」
+だんしゃく「だまれ！　おまえがあくまとかわした
+  このけいやくしょが　うごかぬしょうこだ！」
+司教「た　たわけたことを・・」
+男爵「黙れ！お前が悪魔と交わした
+  この契約書が動かぬ証拠だ！」
+Bishop: "D-don't be silly..."
+Baron: "Silence! You are working with the devil! This contract is irrefutable proof!"
+
+8
+じょうないがいっしゅん　みずをうったように
+しずまりかえった｜
+そして・・
+
+・・「よくもいままで・・！」
+・・「むすめを　おろせ！」
+・・「しきょうを　やっつけろ！　やつこそ
+  ひあぶりだ！」
+城内一瞬水を打ったように
+静まり返った｜
+そして・・
+
+・・「よくも今まで・・！」
+・・「娘を下ろせ！」
+・・「司教をやっつけろ！やつこそ
+  火あぶりだ！」
+The castle grounds suddenly became dead quiet.
+
+And then...
+\
+...: "How dare you do all of this...!?"
+...: "Save the girl!"
+...: "After that bishop! He's the one that should be burning at the stake!"
+
+3
+しきょう「ま　まあまて・・　はなせばわかる・・」
+・・「うるせーーっ！」
+しきょう「わあああーーっ！」
+司教「ま　まあ待て・・話せば分かる・・」
+・・「うるせーーっ！」
+司教「わあああーーっ！」
+Bishop: "W-wa-wait a moment... Do you realize what you're saying..."
+...: "Be quieeeeet!"
+Bishop: "Waaaaaagh!"
+2
+しきょう「ぶ　ぶれいもの　はなせ！　こら！
+  きさまら　このままですむとおもうな！」
+司教「ぶ無礼者はなせ！こら！
+  貴様らこのままで住むと思うな！
+Bishop: "You insolent wretches! Stop! Don't think you can get away with this!"
+
+11
+るごー「しっかりしろ　じゃんぬ！」
+じゃんぬ「うぅ・・」
+るごー「よかった・・　お　おおーーん！」
+じゃんぬ「いまわたし・・　はりつけになりながら
+  かみさまのおつげを　きいた・・」
+るごー「おつげ？」
+じゃんぬ「じゅんぱくのよろいを　みにつけ
+  そこくのためにたたかえ｜
+  おまえのはしりぬけたあとに　かならずや
+  あたらしいみちが　できる・・と」
+るごー「じゃんぬ・・」
+ルゴー「しっかりしろジャンヌ！」
+ジャンヌ「うぅ・・」
+ルゴー「良かった・・お　おおーーん！」
+ジャンヌ「今私・・磔になりながら
+  神様のお告げをを聞いた・・」
+ルゴー「お告げ？」
+ジャンヌ「純白の鎧を身につけ
+  祖国のために戦え｜
+  お前の走り抜けた後に必ずや
+  新しい道ができる・・と」
+ルゴー「ジャンヌ・・」
+Legault: "Pull yourself together, Joan!"
+Joan: "Uuh..."
+Legault: "Thank goodness... Ooh!"
+Joan: "Just now... While I was hanging there, I received a message from God..."
+
+Legault: "A message?"
+Joan: "'Put on pure white armor and fight for your homeland.
+
+Surely, wherever you run, new paths will follow.'"
+
+Legault: "Joan..."
+3
+じゃんぬ＿だるく・・　かみのこと
+たたえられ　ふらんすの　きゅうせいしゅになった
+うつくしきむすめか・・
+ジャンヌ・ダルク・・神のこと
+称えられフランスの救世主になった
+美しき娘か・・
+Joan of Arc... Praised as God's chosen one, she became the savior of France. Was she a beautiful maiden...?
+
+
+2
+おれ「ん？
+  ま　また！」
+俺「ん？
+  ま  また！」
+Me: "Huh?
+A-again!"
+1
+うわああーーーっ！
+うわああーーーっ！
+Waaaaagh!
+1
+どこだ　ここは・・
+どこだここは・・
+Where am I...
+1
+るごー「きょうはもう　へいてんじゃ」
+ルゴー「今日はもう閉店だ」
+Legault: "I'm already closed for the day."
+2
+おれ「いっぱい　どう？」
+るごー「さけなんぞ　うるほどあるわい」
+俺「一杯どう？」
+ルゴー「酒なんぞ売るほどあるわい」
+Me: "You want some?"
+Legault: "I already have more than enough alcohol."
+2
+どこかのしきちだ
+てつじょうもうのむこうに　もりがみえる
+どこかの敷地だ
+鉄条網の向こうに森が見える
+It seems like some kind of lot.
+There is a forest on the other side of the barbed wire fence.
+2
+ぐんぷくをきている
+ぽけっとに　なにかあるぞ
+軍服を着ている
+ポケットに何かあるぞ
+I'm wearing a military uniform.
+There's something in one of the pockets.
+1
+これじゃむりだ
+これじゃ無理だ
+I can't do that.
+1
+ちいさなぺんちが　はいっている
+小さなペンチが入っている
+There is a small pair of wire cutters.
+1
+ぽけっとから　とりだした
+ポケットから取り出した
+I took them out of my pocket.
+1
+なにもない
+何もない
+There's nothing else.
+1
+ぺんちで　てっせんをきった
+ペンチで鉄線を切った
+I cut some wires with the wire cutters.
+2
+・・「とまれ！　とまらんとうつぞ！」
+おれ「！」
+・・「止まれ！止まらんと撃つぞ！」
+俺「！」
+...: "Halt! Make any move and we'll shoot!"
+Me: "!"
+1
+へいし「だっそうへい１めい　はっけん！」
+兵士「脱走兵１名発見！」
+Soldier: "One escapee spotted!"
+2
+・・・・・・・・・・・・・・・・
+なんで　こうなるの・・？
+・・・・・・・・・・・・・・・・
+なんでこうなるの・・？
+................................
+Why is this happening...?
+2
+へいし「またきさまか！　くーがー
+  ばつとして　２しゅうかんのどくぼういりだ！」
+兵士「また貴様か！クーガー
+  罰として２週間の独房入りだ！」
+Soldier: "It's you again! Cougar.
+Your punishment is two weeks of solitary confinement!"
+5
+とき・・１９４４ねん　７がつ
+ばしょ・・どいつなんぶ　ほりょしゅうようじょ
+なまえ・・くーがー
+しょくぎょう・・あめりか　くうぐんちゅうい
+  じつは　じょうほうぶ　こうさくいん
+時・・１９４４年７月
+場所・・ドイツ南部捕虜収容所
+名前・・クーガー
+職業・・アメリカ空軍中尉
+  実は情報部工作員
+Time: July, 1944
+Location: Prisoner-of-war camp in southern Germany
+Name: Cougar
+Occupation: U.S. Air Force Lieutenant
+\\\\\\\\\\\\\\Actually, a spy
+4
+・・というわけでおれは
+だい２じせかいたいせんちゅうの　どいつに
+たいむわーぷしたらしい
+しかも　ほりょのからだに　のりうつって・・
+・・というわけで俺は
+第２次世界大戦中のドイツに
+タイムワープしたらしい
+しかも捕虜の体に乗り移って・・
+...It seems that I've time traveled to Germany during World War II...
+
+
+And to top it off, I've possessed the body of a prisoner of war...
+1
+みているだけで　いきぐるしい
+見ているだけで息苦しい
+Just looking around in here is suffocating.
+1
+このかべのむこうにも　へやがあるようだ
+この壁の向こうにも部屋があるようだ
+There seems to be a room on the other side of the wall.
+1
+なんにんものあせが　しみついている
+何人もの汗が染み付いている
+It's stained with the sweat of countless people.
+1
+でられる　わけがない
+出られるわけがない
+I can't leave.
+1
+となりにも　だれかいるようだ
+隣にも誰かいるようだ
+There seems to be someone over there.
+8
+・・「きこえるか？　くーがー」
+おれ「ああ」
+・・「いいか　どくぼうからでたらすぐに
+  だっそうするんだ　だんどりは　こっちで
+  つけてやるから　あんしんしろ」
+おれ「・・」
+・・「おまえのあつめた　じょうほうがあれば
+  ひとらーに　とどめがさせる！」
+・・「聞こえるか？クーガー」
+俺「ああ」
+・・「いいか　独房から出たらすぐに
+  脱走するんだ段取りはこっちで
+  つけてやるから安心しろ」
+俺「・・」
+・・「お前の集めた情報があれば
+  ヒトラーにトドメがさせる！」
+...: "Can you hear me, Cougar?"
+Me: "Yeah."
+...: "Listen up. As soon as you get out of solitary confinement, escape. I'll figure everything out here, so don't worry."
+
+
+Me: "..."
+...: "With the information you've gathered, we can finish Hitler off!"
+
+1
+・・「そのひにそなえて　からだをきたえとけよ」
+・・「その日に備えて体を鍛えとけよ」
+...: "You'd better prepare yourself for that day."
+1
+うでたてふせでも　やるか
+腕立て伏せでもやるか
+Maybe I'll do some push-ups.
+4
+ひとらー「いだいなりし　あんこくのかみよ｜
+  ひと　あぶらと　とがったくいのおきてにかけて
+  わがしょうがいのすべてを　ささげることを
+  ここにちかわん・・」
+ヒトラー「偉大なりし暗黒の神よ｜
+  火と油と尖った悔いの掟にかけて
+  我が生涯のすべてを捧げることを
+  ここに誓わん・・」
+Hitler: "Oh great god of darkness,
+by fire, fuel, and the rule of my scathing regrets, I hereby swear to devote my whole self to you..."
+
+
+4
+あくま「これで　けいやくかんりょうだ｜
+  たましいとひきかえに
+  わしのまりょくを　わけてやろう｜
+  そしてわしも・・」
+悪魔「これで契約完了だ｜
+  魂と引き換えに
+  わしの魔力を分けてやろう｜
+  そしてわしも・・」
+Devil: "With this, the contract is complete.
+In exchange for your soul, I will give you some of my power.
+
+And I, too..."
+6
+あくま「けいやくをひとつとるたび　ねむっていた
+  わしのまりょくが　よみがえる｜
+  すべてをとりもどした　そのときこそ・・」
+ひとらー「そのときこそ・・？」
+あくま「やつに　ふくしゅうできる！」
+ひとらー「・・？」
+悪魔「契約を一つ取る度眠っていた
+  わしの魔力が蘇る｜
+  すべてを取り戻したその時こそ・・」
+ヒトラー「その時こそ・・？」
+悪魔「やつに復讐できる！」
+ヒトラー「・・？」
+Devil: "With each contract, my power is restored.
+
+When I have it all back, at that time..."
+Hitler: "At that time...?"
+Devil: "I'll be able to take revenge on him!"
+Hitler: "...?"
+7
+ひとらー「ぐんのなかに　わがはいのいのちを
+  ねらう　うらぎりものがいる・・｜
+  おねがいだ！　やつらをのこらず
+  まっさつしてくれ！！」
+あくま「つけあがるな　そんなこまかいことに
+  いちいちかかわってられるか　じぶんでやれ！」
+ひとらー「・・」
+ヒトラー「軍の中に我輩の命を
+  狙う裏切り者がいる・・｜
+  お願いだ！やつらを残らず
+  抹殺してくれ！！」
+悪魔「つけあがるな　そんな細かいことに
+  いちいち関わってられるか　自分でやれ！」
+ヒトラー「・・」
+Hitler: "There are traitors in my army that are after my life...
+
+Please! Obliterate them all!"
+
+Devil: "Don't push your luck. I can't be bothered with such trivial matters. Deal with them yourself!"
+
+Hitler: "..."
+2
+へいし「よし　でていいぞ」
+おれ「ああ　ようやく・・」
+兵士「よし出ていいぞ」
+俺「ああようやく・・」
+Soldier: "Alright, time to leave."
+Me: "Oh, finally..."
+1
+おとこくささが　むっとくる
+男臭さがムッとくる
+It reeks of men.
+1
+とくに　かわったところはない
+特に変わった所はない
+There's nothing particularly strange about it.
+2
+へいし「ろうどうじかんは　おわりだ
+  しゅくしゃへ　もどれ！」
+兵士「労働時間は終わりだ
+  宿舎へ戻れ！」
+Soldier: "Work hours are over. Get back in there!"
+
+1
+ひが　さかんにもえている
+火が盛んに燃えている
+The flame is burning vigorously.
+2
+くちゃくちゃと　ちゅーいんがむを
+かんでいる
+くちゃくちゃとチューインガムを
+噛んでいる
+He is loudly chewing gum.
+
+2
+にっく「ざんねんだったな　くーがー
+  こんどは　うまくやれよ」
+ニック「残念だったなクーガー
+  今度はうまくやれよ」
+Nick: "Too bad, Cougar. You'll get it next time."
+
+2
+てんじょうをみすえる　よこがおが
+なかなかに　しぶい
+天井を見据える横顔が
+なかなかに渋い
+His profile as he stares at the ceiling is quite elegant.
+
+1
+しーつのまんなかあたりが　すこしふくらんでいる
+シーツの真ん中辺りが少し膨らんでいる
+The area around the middle of the sheet is slightly bulging.
+6
+らるふ「もりへでたらまっすぐ　にしへむかえ｜
+  しばらくいくと　こうえんがみえてくる
+  そこで　”れべっか”　のしじをあおげ」
+おれ「れべっか？」
+らるふ「とうぼうそしきの　あんごうめいだ
+  あいことばは　”くたばれ　ひとらー！”」
+ラルフ「森へ出たらまっすぐ西へ迎え｜
+  しばらく行くと公園が見えてくる
+  そこで”レベッカ”の指示を仰げ」
+俺「レベッカ？」
+ラルフ「逃亡組織の暗号名だ
+  合言葉は”くたばれヒトラー！”」
+Ralph: "Once you get out of the forest, go due west.
+After a while, you'll come to a park. There, ask for 'Rebecca'."
+
+Me: "Rebecca?"
+Ralph: "It's the codename for our resistance group. The password is 'Death to Hitler!'"
+
+4
+らるふ「あいことばは　”くたばれ　ひとらー！”｜
+  いたるところで　げしゅたぽが
+  めを　ひからせている
+  くれぐれもこうどうは　しんちょうにな」
+ラルフ「合言葉は”くたばれヒトラー！”｜
+  至る所でゲシュタポが
+  目を光らせている
+  くれぐれも行動は慎重にな」
+Ralph: "The password is 'Death to Hitler!'
+The Gestapo is watching everywhere, so be cautious with your actions."
+
+
+1
+むりだ
+無理だ
+That's impossible.
+1
+だっそうようの　ふくがおいてある
+脱走ようの服が置いてある
+Clothes for escaping were put here.
+1
+ふくを　てにいれた
+服を手に入れた
+I took the clothes.
+2
+らるふ「きがえは　だっそうしてからだ
+  つちで　よごれてしまう」
+ラルフ「着替えは脱走してからだ
+  土で汚れてしまう」
+Ralph: "Don't change until you're escaping. You'll just get them dirty."
+
+2
+つかれきったかおが　ほりょせいかつのながさを
+おしえている
+疲れ切った顔が捕虜生活の長さを
+教えている
+His exhausted face speaks volumes about how long he has been living as a prisoner of war.
+
+3
+ふらんきー「だっそうするのは　おまえひとりだ
+  おれたちは　しらんぷりするけど
+  わるくおもうな」
+フランキー「脱走するのはお前一人だ
+  俺たちは知らんぷりするけど
+  悪く思うな」
+Franky: "You'll be the only one escaping. We'll pretend we don't know anything, so don't take it personally."
+
+
+3
+ふらんきー「ひとらーのやつ　こくないのすぱいや
+  はんぎゃくしゃを　かたっぱしからつかまえては
+  がすしつに　おくりこんでるらしい」
+フランキー「ヒトラーのやつ国内のスパイや
+  反逆者を片っ端から捕まえては
+  ガス室に送り込んでるらしい」
+Franky: "I've heard that Hitler has been catching every single spy and traitor and sending them to the gas chambers."
+
+
+1
+ひとりようの　せまいこしつだ
+一人用の狭い個室だ
+It only fits a single person.
+1
+おれ「ひゃあーーっ！　つめてーーっ！」
+俺「ひゃあーーっ！冷てーーっ！」
+Me: "Hyaaaah! It's coooold!"
+3
+にっく「ひとらーの　あんさつけいかくが
+  しっぱいしたそうだ　まったく　あくうんの
+  つええやろうだぜ」
+ニック「ヒトラーの暗殺計画が
+  失敗したそうだ全く悪運の
+  つええやろうだぜ」
+Nick: "I heard that the plot to assassinate Hitler failed. Man, what bad luck."
+
+
+4
+ふらんきー「いま　あめりかとどいつが　きそって
+  かんせいをいそいでいる　ひみつへいきがある・・｜
+  げんしばくだん　といってな　たったの１ぱつで
+  ぱりが　はいのやまにかわる」
+フランキー「今アメリカとドイツが競って
+  完成を急いでいる秘密兵器がある・・｜
+  原子爆弾と言ってなたったの１発で
+  パリが灰の山に変わる」
+Franky: "Right now, the U.S. and Germany are racing to finish a secret weapon...
+
+It's called the atomic bomb, and a single one could reduce Paris to a pile of ashes."
+
+1
+へいし「しょうとうのじかんだ　もう　ねろ！」
+兵士「消灯の時間だもう寝ろ！」
+Soldier: "It's lights out already, go to sleep!"
+1
+まだ　はやい
+まだ早い
+It's too early.
+1
+ひは　もうきえている
+火はもう消えている
+The fire has gone out already.
+2
+すこし　よこにずらすと・・
+あながあいている　とんねるだ・・！
+少し横にずらすと・・
+穴が開いているトンネルだ・・！
+Moving it over a little...
+There's a hole to a tunnel...!
+1
+ぐっすりと　ねむっている・・　ようだ
+ぐっすりと眠っている・・ようだ
+They're all sleeping soundly... At least they seem to be.
+1
+とんねるの　あながあいている
+トンネルの穴が開いている
+There is a hole to a tunnel.
+1
+・・「まて　くーがー・・」
+・・「待てクーガー・・」
+...: "Wait, Cougar..."
+8
+ふらんきー「これを　もってけ・」
+さしだしたてのひらに　ぺんだんとがのっている
+ふらんきー「せんそうへいく　まえのばんに
+  ばあちゃんからもらった
+  ”じぷしーのまもりふだ”　だ｜
+  これさえあれば　こわいもんなしだぜ」
+ぺんだんとをうけとり　くびにかけた
+ふらんきー「ぐっどらっく・・」
+フランキー「これを持ってけ・」
+差し出した手のひらにペンダントが載っている
+フランキー「戦争へ行く前の晩に
+  ばあちゃんからもらった
+  ”ジプシーの守札”だ｜
+  これさえあれば怖い文無しだぜ」
+ペンダントを受け取り首にかけた
+フランキー「クッドラック・・」
+Franky: "Take this..."
+Holding out his hand, there is a pendant in his palm.
+Franky: "The night before I went off to war, my grandma gave me this. It's a 'Gypsy Talisman'.
+
+
+As long as you have this, you have nothing to fear."
+I took the pendant and put it on my neck.
+Franky: "Good luck..."
+2
+ほしがたのめだるに　もじがきざまれているが
+さびつていて　かいどくできない
+星型のメダルに文字が刻まれているが
+さびつていて解読できない
+There are letters engraved on the star-shaped medal, but it is rusted and I can't read it.
+
+2
+しっかりと　にぎりしめた
+きのせいか　ゆうきがわいてくる
+しっかりと握りしめた
+気のせいか勇気が湧いてくる
+I clenched it tightly.
+Maybe it's just my imagination, but I feel a surge of courage.
+1
+くらくてせまい
+暗くて狭い
+It's dark and cramped.
+2
+つちをほると　なかにこいしがあった
+いちおう　とっておこう
+土を掘ると中に小石があった
+一応取っておこう
+Digging into the soil, I found a pebble.
+I'll take it just in case.
+1
+ねんどしつだ　はちうえにはむかないな
+粘土質だ鉢植えには向かないな
+It's a clay-based soil, so it's not suitable for potted plants.
+1
+ここじゃ　むりだ
+ここじゃ無理だ
+I can't do that here.
+1
+もりまではまだ５めーとるほど　ある
+森まではまだ５メートルほどある
+It's still about five meters to the forest.
+1
+こちらには　まだきづいていない
+こちらにはまだ気づいていない
+He hasn't noticed me yet.
+1
+いいのか？
+いいのか？
+Should I?
+1
+おれ「こんばんはー」
+俺「こんばんはー」
+Me: "Good evening!"
+1
+へいし「！　だっそうだーーっ！」
+兵士「！脱走だーーっ！」
+Soldier: "! Someone's escaping!"
+1
+・・あーあ・・
+・・あーあ・・
+...Ahhh...
+2
+・・「あきらめるな　くーがー　れんごうぐんの
+  めいうんは　おまえがにぎっているんだ」
+・・「諦めるなクーガー　連合軍の
+  命運はお前が握っているんだ」
+...: "Don't give up, Cougar. The fate of the Allies is in your hands."
+
+2
+すこし　よこにずらすと・・
+とんねるは　ふさがれている
+少し横にずらすと・・
+トンネルは塞がれている
+Moving it over a little...
+The tunnel is blocked.
+2
+ゆかにはった　たいるのすきまに
+みずが　ながれこんでいる
+床に張ったタイルの隙間に
+水が流れ込んでいる
+Water is going into the gap between the floor tiles.
+
+1
+あながあいている　とんねるだ・・！
+穴が開いているトンネルだ・・！
+There's a hole to a tunnel...!
+1
+にっく「いいかげんにしろよな・」
+ニック「いい加減にしろよな・」
+Nick: "Stop messing around..."
+1
+らるふ「しっかりせんか！」
+ラルフ「しっかりせんか！」
+Ralph: "Get a grip!"
+1
+ふらんきー「どあほ」
+フランキー「ドアホ」
+Franky: "You moron!"
+2
+まっとれすのしたから　かすかに
+ひかりがもれている
+マットレスの下からかすかに
+光が漏れている
+There is a faint light coming out from under the mattress.
+
+1
+てが　とどかない
+手が届かない
+I can't reach.
+1
+へいし「あたっ！」
+兵士「アタッ！」
+Soldier: "Ow!"
+1
+がさがさ・・！
+ガサガサ・・！
+*Rustle rustle...!*
+1
+へいし「だ　だれだ！」
+兵士「だ誰だ！」
+Soldier: "Wh-who's there!?"
+1
+かしゃーーん！
+カシャーーン！
+*Clang!*
+1
+いまだ・・！
+今だ・・！
+Now...!
+3
+どうにかだしゅつしたおれは　ふくをきがえて
+れんらくばしょの　こうえんへむかった｜
+やがて　よがしらじらとあけて・・
+どうにかだ出した俺は服を着替えて
+連絡場所の公園へ向かった｜
+やがて夜が白白と開けて・・
+Somehow, I managed to get out, change my clothes, and go to the park.
+
+Before long, dawn arrived...
+1
+みずのでが　すくないな
+水のでが少ないな
+There isn't much water.
+1
+ひんのよさそうな　しんしだ
+品の良さそうな紳士だ
+He looks like a refined gentleman.
+4
+おとこ「むすこは　１６さいのわかさで
+  せんじょうにかりだされ　てきへいに
+  しゃさつされました・・
+  わたしのきもちなど　わからんでしょうな」
+男「息子は１６歳の若さで
+  戦場にかりだされ敵兵に
+  射殺されました・・
+  私の気持ちなど分からんでしょうな」
+Man: "My son was drafted into the army at the young age of 16 and was killed by enemy soldiers...
+
+
+You can't possibly understand how I feel."
+1
+ほんとに　いいのか？
+ほんとに　いいのか？
+Should I really?
+2
+おれ「くたばれ　ひとらー！」
+おとこ「！」
+俺「くたばれヒトラー！」
+男「！」
+Me: "Death to Hitler!"
+Man: "!"
+3
+おとこ「うごくな！」
+おれ「！」
+おとこ「ばかめ・　おれは　げしゅたぽだ！」
+男「動くな！」
+俺「！」
+男「バカめ・俺はゲシュタポだ！」
+Man: "Don't move!"
+Me: "!"
+Man: "You idiot... I'm in the Gestapo!"
+1
+あー　ここまできて・・
+あーここまで来て・・
+Ah, after getting this far...
+1
+あさもやのせいか　とてもきれいだ
+朝もやのせいかとても綺麗だ
+It may be because of the morning mist, but she's really pretty.
+2
+おんな「このせんそうが　おわるまで
+  わたしのこいも　おあずけですね・・」
+女「この戦争が終わるまで
+  私の恋もお預けですね・・」
+Woman: "Until this war is over, I'll have to put my love on hold..."
+
+2
+おれ「くたばれ　ひとらー！」
+おんな「！」
+俺「くたばれヒトラー！」
+女「！」
+Me: "Death to Hitler!"
+Woman: "!"
+4
+おんな「ほーるどあっぷ！」
+おれ「！」
+おんな「おあいにくさま！　わたしは
+  げしゅたぽよ！」
+女「ホールドアップ！」
+俺「！」
+女「お生憎様！私は
+  ゲシュタポよ！」
+Woman: "Hold up!"
+Me: "!"
+Woman: "Too bad for you! I'm in the Gestapo!"
+
+1
+めぼしいものは　ない
+めぼしい物はない
+Notably, there is nothing in it.
+4
+ろうじん「あのな・　こんなことしっちょるか？」
+
+あらゆるしゅだんをつかって　ひとらーのてきを
+はいじょした　なちすのひみつけいさつは？
+老人「あのな・こんなことしっちょるか？」
+
+あらゆる手段を使ってヒトラーの敵を
+排除したナチスの秘密警察は？」
+Old man: "Hey... You know this one?"
+\
+What is the name of the Nazi secret police that use whatever means necessary to eliminate Hitler's enemies?
+
+1
+ろうじん「あほ」
+老人「アホ」
+Old man: "Idiot."
+4
+ろうじん「せいかいじゃ　ならばこれはどうだ？」
+
+どいつせんりょうかの　ふらんすでおこなわれた
+ていこううんどうを　なんという？
+老人「正解だ　ならばこれはどうだ？」
+
+ドイツ占領かのフランスで行われた
+抵抗運動を何と言う？
+Old man: "Correct. How about this one?"
+\
+What is the name of the group that acted against the German occupation of France?
+
+4
+ろうじん「せいかいじゃ　ならばこれはどうだ？」
+
+こうせいのうをほこる　どいつぐんの
+せんすいかんは？
+老人「正解だ　ならばこれはどうだ？」
+
+高性能を誇るドイツ軍の
+潜水艦は？
+Old man: "Correct. How about this one?"
+\
+What is the name of Germany's boasted high-performance submarines?
+
+4
+ろうじん「せいかいじゃ　ならばこれはどうだ？」
+
+えいが「ぼうきょう」に　しゅえんした
+だんごっぱなの　めいゆうは？
+老人「正解だ　ならばこれはどうだ？」
+
+映画「望郷」に主演した
+団子鼻の名優は？
+Old man: "Correct. How about this one?"
+\
+Who was the famous actor with a snub nose that starred in the film "Pepe le Moko"?
+
+5
+ろうじん「せいかいじゃ　ならばこれはどうだ？」
+
+「ざ＿ろんげすとでい」と　よばれた
+のるまんでぃ＿じょうりくさくせんを
+じんとうしきしたのは　だれ？
+老人「正解だ　ならばこれはどうだ？」
+
+「ザ・ロンゲストデイ」と呼ばれた
+ノルマンディ・上陸作戦を
+陣頭指揮したのは誰？
+Old man: "Correct. How about this one?"
+\
+Who was the military leader for the Normandy landings, also known as "The Longest Day"?
+
+
+2
+ろうじん「せいかいじゃ
+  ぜんもんせいかいとは　やるもんじゃ」
+老人「正解じゃ
+  全問正解とはやるもんじゃ」
+Old man: "Correct.
+You got them all correct."
+2
+ろうじん「ところでな・
+  げしゅたぽのあいさつを　しっちょるか？」
+老人「ところでな・
+  ゲシュタポの挨拶をしっちょるか？」
+Old man: "By the way...
+Do you know the Gestapo salute?"
+1
+ろうじん「あ　そ・」
+老人「あ　そ・」
+Old man: "Oh, I see..."
+1
+ろうじん「それがどうした」
+老人「それがどうした」
+Old man: "What was that?"
+2
+ろうじん「ひとさしゆびでな　はなのあたまを
+  ちょいちょいと　２かいばかし　こするんじゃ」
+老人「人差し指でな鼻の頭を
+  ちょいちょいと２回ばかし擦るんじゃ」
+Old man: "You gently rub the tip of your nose with your index finger two times."
+
+3
+ろうじん「いぬに　ほえられているのが
+  どろぼうとは　かぎらない・・｜
+  どいつの　ふるいことわざじゃ」
+老人「犬に吠えられているのが
+  泥棒とは限らない・・｜
+  ドイツの古いことわざじゃ」
+Old man: "All are not thieves that dogs bark at...
+
+It's an old German saying."
+3
+おとこにかるく　めくばせをくれたあと
+ゆびさきで　はなを２かい　こすった
+おとこ「・・」
+男に軽く目配せをくれた後
+指先で鼻を２回こすった
+男「・・」
+After giving the man a quick glance, I brushed my nose twice with my fingertip.
+
+Man: "..."
+1
+おとこ「しんいりだな　おまえ」
+男「新入りだなお前」
+Man: "You're a rookie, aren't you?"
+3
+おとこ「じょうほうによれば　ここが　とうぼう
+  そしきとの　れんらくばしょらしいのだが・・｜
+  あやしいやつを　みなかったか？」
+男「情報によればここが逃亡
+  組織との連絡場所らしいのだが・・｜
+  怪しいやつを見なかったか？」
+Man: "According to our intel, this is the meeting place for a resistance group...
+
+Have you seen anyone suspicious?"
+1
+おとこ「よくかんがえてみろ！」
+男「よく考えてみろ！」
+Man: "Think about it carefully!"
+1
+おとこ「なに？　どこだ！」
+男「何？どこだ！」
+Man: "What? Where!?"
+1
+あっというまに　はしりさっていった
+あっという間に走り去っていった
+They ran off in an instant.
+3
+おんなにかるく　めくばせをくれたあと
+ゆびさきで　はなを２かい　こすった
+おんな「・・」
+女に軽く目配せをくれた後
+指先で鼻を２回こすった
+女「・・」
+After giving the woman a quick glance, I brushed my nose twice with my fingertip.
+
+Woman: "..."
+1
+おんな「しんいりね　あなた」
+女「新入りねあなた」
+Woman: "You're a rookie, aren't you?"
+4
+おんな「じょうほうによると
+  だっそうへいのほかに　かがくしゃが
+  ぐんのけんきゅうじょを　にげだしたらしいわ｜
+  あやしいものを　みなかった？」
+女「情報によると
+  脱走兵の他に科学者が
+  軍の研究所を逃げ出したらしいわ｜
+  怪しい者を見なかった？」
+Woman: "According to our intel, besides the deserters, it seems that a scientist ran away from a military research facility.
+
+
+Have you seen anyone suspicious?"
+1
+おんな「よく　かんがえて！」
+女「よく　考えて！」
+Woman: "Think about it carefully!"
+1
+おんな「ほんと？　どこ！」
+女「ほんと？どこ！」
+Woman: "Really? Where!?"
+1
+みずのなかに　がらすのびんが　しずんでいる
+水の中にガラスの瓶が沈んでいる
+A glass bottle has sunk under the water.
+1
+みずのなかなので　よくみえない
+水の中なので　よく見えない
+It's underwater so I can't get a good look.
+2
+てをのばして　びんをとりあげた｜
+なかに　かみがはいっている
+手を伸ばして瓶を取り上げた｜
+中に紙が入っている
+I reached out and grabbed the bottle.
+There is a piece of paper inside.
+2
+びんをわって　かみを　とりだした
+あかのいんくで　もじがかかれている
+瓶を割って紙を取り出した
+赤のインクで文字が書かれている
+I broke the bottle and took out the paper.
+It has letters written in red ink.
+4
+    こ　　　　　な　　　　　い　４　　　ろ　の
+  ふ　　　　　　　い　し　ゃ　　　や
+        え　で　　　て
+                                べ　　　か
+
+
+
+
+RED
+
+
+
+1
+ふあんげに　おれをみつめている
+不安げに俺を見つめている
+He is staring uneasily.
+3
+おとこにかるく　めくばせをくれたあと
+ゆびさきで　はなを２かい　こすった
+おとこ「なんですか・・？」
+男に軽く目配せをくれた後
+指先で鼻を２回こすった
+男「なんですか・・？」
+After giving the man a quick glance, I brushed my nose twice with my fingertip.
+
+Man: "What...?"
+2
+おとこ「いつまで　つづくんでしょうかね
+  このせんそうは」
+男「いつまで続くんでしょうかね
+  この戦争は」
+Man: "How long will it continue? This war."
+
+2
+おとこ「よかった・・　おいてけぼりかと
+  おもいましたよ」
+男「よかった・・置いてけぼりかと
+  思いましたよ」
+Man: "Phew... I thought you had gone without me."
+
+3
+おとこ「”れべっか”　の　かたですね？」
+おれ「いや・　ぼくはゆうべ　しゅうようじょを
+  だっそうしてきたんです」
+男「”レベッカ”の方ですね？」
+俺「いや・僕は昨夜収容所を
+  脱走して来たんです」
+Man: "Are you with 'Rebecca'?"
+Me: "No... I just escaped from the prisoner-of-war camp last night."
+
+3
+おとこ「ぶつりがくしゃの　しもん　といいます
+  つてをたどって　”れべっか”に　ぼうめいを
+  ねがいでたんですが・・」
+男「物理学者のシモンと言います
+  つてを辿って”レベッカ”に亡命を
+  願い出たんですが・・」
+Man: "My name is Simon, a physicist.
+I tried asking 'Rebecca' for help escaping the country, but..."
+
+4
+しもん「なちすは　わたしをかんきんして
+  ひみつへいきのかいはつを　きょうせいしました｜
+  しかしわたしはもう　ひとごろしのてだすけなど
+  したくない！」
+シモン「ナチス私を監禁して
+  秘密兵器の開発を強制しました｜
+  しかし私はもう人殺しの手助けなど
+  したくない！」
+Simon: "The Nazis imprisoned me and forced me to work on a secret weapon.
+
+But I don't want to help kill people anymore!"
+
+5
+かみきれを　にぎりしめている
+しもん「さっきこどもに　もらったんです
+  しらないおじさんに　たのまれたといってました」
+かみを　うけとった｜
+あおのいんくで　もじがかかれている
+紙切れを握りしめている
+シモン「さっき子供にもらったんです
+  知らないおじさんに頼まれたと言ってました」
+紙を受け取った｜
+青のインクで文字が書かれている
+He's clutching a piece of paper.
+Simon: "A child gave this to me a bit ago. He said a stranger told him to give it to me."
+
+He gave me the paper.
+It has letters written in blue ink.
+1
+どちらもかなり　うすいかみだ
+どちらもかなり薄い紙だ
+They are both made of thin paper.
+1
+あーあ・しわくしゃだ
+あーあ・シワクシャだ
+Ah... They're all wrinkled.
+1
+まっちが　ない
+マッチがない
+I don't have any matches.
+1
+うーん・　やめとこう
+うーん・やめとこう
+Hmmm... I shouldn't.
+4
+こ　　　か　ら　　　ん　せ　　　　　き
+      る　い　す　　　　　　　ご　　　の
+  　ま　　　　　ま
+                            れ　　　っ
+
+
+
+
+BLUE
+
+
+
+4
+こ　こ　か　ら　な　ん　せ　い　４　き　ろ　の
+  ふ　る　い　す　い　し　ゃ　ご　や　の
+  　ま　え　で　ま　て
+                            れ　べ　っ　か
+ここから南西４キロの
+  古い水車小屋の
+  前で待て
+            レベッカ
+Wait in front of the old watermill 4 kilometers southwest from here.
+
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\Rebecca
+1
+しもん「はやく　いきましょう！」
+シモン「早く行きましょう！」
+Simon: "Let's go, hurry!"
+1
+のどかな　でんえんちたい　というかんじ
+のどかな田園地帯と言う感じ
+The countryside has a peaceful feeling.
+1
+いまは　つかわれていないようだ
+今は使われていないようだ
+It appears it's no longer in use.
+1
+ぶあついめがねを　かけている
+分厚い眼鏡をかけている
+He is wearing huge glasses.
+3
+しもん「ときを　もとにもどせたら・・
+  なんてことをね　よくかんがえるんです
+  このごろ」
+シモン「時を元に戻せたら・・
+  なんてことをね　よく考えるんです
+  この頃」
+Simon: "If only I could turn back time... Things like that, I've been thinking about a lot. These days."
+
+
+1
+しもん「ここで　まちましょう」
+シモン「ここで待ちましょう」
+Simon: "Let's wait here."
+5
+しもん「おまもりですか？」
+おれ「まよけのじゅもんが　かかれている
+  らしいんですが　さびていて　よく
+  みえないんです」
+しもん「へえー・・」
+シモン「お守りですか？」
+俺「魔除けの呪文が書かれている
+  らしいんですが錆びていてよく
+  見えないんです」
+シモン「へえー・・」
+Simon: "A talisman?"
+Me: "There seems to be a spell to ward off evil spirits written on it, but it's rusted so I can't see it clearly."
+
+
+Simon: "Huh..."
+4
+しもん「あいんしゅたいんは　てんさいです
+  いや　かみのこ　というべきか・・
+  だからこそ　かれのりろんを
+  ばくだんせいぞうなどに　つかってはならない！」
+シモン「アインシュタインは天才です
+  いや神の子と言うべきか・・
+  だからこそ彼の理論を
+  爆弾製造などに使ってはならない！」
+Simon: "Einstein is a genius. No, we should call him a child of God... That's why we must not use his theory to make bombs!"
+
+
+
+2
+・・「きれいごとは　たくさんよ」
+しもん「！」
+・・「綺麗事はたくさんよ」
+シモン「！」
+...: "That's enough."
+Simon: "!"
+2
+おんな「ころすか　ころされるか・・
+  それがせんそうだわ　そうでしょ？」
+女「殺すか殺されるか・・
+  それが戦争だわそうでしょ？」
+Woman: "Kill or be killed... That's what war is all about, isn't it?"
+
+1
+むこうから　くるまが・・
+向こうから車が・・
+There's a car coming...
+1
+ひきがねに　てをかけている
+引き金に手をかけている
+Her hand is on the trigger.
+1
+しもん「やっぱり　だめでしたか・・」
+シモン「やっぱりだめでしたか・・」
+Simon: "So I couldn't escape after all..."
+1
+そんなすきはない
+そんな隙はない
+There isn't a chance to.
+1
+おんな「もう　にがさないわよ」
+女「もう逃さないわよ」
+Woman: "You won't get away this time."
+5
+おんな「ほうこくします　だっそうへい１めいと
+  かがくしゃ１めいを　たいほしました」
+しゅみっと「ごくろう　あとはわたしがひきうける」
+おんな「はいる　ひとらー！」
+しゅみっと「はいる　ひとらー！」
+女「報告します脱走兵１名と
+  科学者１名を逮捕しました」
+シュミット「ご苦労　後は私が引き受ける」
+女「ハイルヒトラー！」
+シュミット「ハイルヒトラー！」
+Woman: "Here's my report: I have arrested one escapee and one scientist."
+
+Schmidt: "Good work. I'll take it from here."
+Woman: "Heil Hitler!"
+Schmidt: "Heil Hitler!"
+1
+やまみちを　もうすぴーどでかけあがっている
+山道をもうスピードで駆け上がっている
+We are speeding up a mountain road.
+1
+ほおぼねのつきでた　あおじろいかおをしている
+頬骨の突き出た　青白い顔をしている
+He has protruding cheekbones. His face is pale.
+6
+しゅみっと「よく　ここまでこれたな
+  たいしたものだ」
+しもん「いっとくが　わたしはこんりんざい
+  ばくだんなど・」
+しゅみっと「だいじょうぶ　あんしんしろ」
+しもん「？」
+シュミット「よくここまで来れたな
+  大したものだ」
+シモン「言っとくが私は金輪際
+  爆弾など・」
+シュミット「大丈夫安心しろ」
+シモン「？」
+Schmidt: "You already got this far, that's impressive."
+
+Simon: "No matter what you say, I am never working on that bomb..."
+
+Schmidt: "It'll be fine, don't worry."
+Simon: "?"
+1
+このすぴーどじゃ　むりだ
+このスピードじゃ無理だ
+I can't at this speed.
+1
+しもん「いったい　どういうことだ・・？」
+シモン「一体どういうことだ・・？」
+Simon: "What in the world is he saying...?"
+2
+しゅみっと「くたばれ　ひとらー！」
+しもん「！」
+シュミット「くたばれヒトラー！」
+シモン「！」
+Schmidt: "Death to Hitler!"
+Simon: "!"
+9
+てっかめんのようだった　しゅみっとのかおが
+いたずらっぽく　くずれた
+しゅみっと「なちすのなかにも
+  ”れべっか”　は　いるのさ」
+しもん「たすかった・・」
+しゅみっと「このやまをこえれば　こっきょうの
+  みずうみにでる｜
+  すいすへついたら　あめりかたいしかんへ
+  とびこんで・」
+鉄仮面のようだったシュミットの顔が
+いたずらっぽく崩れた
+シュミット「ナチスの中にも
+  ”レベッカ”はいるのさ」
+シモン「助かった・・」
+シュミット「この山を越えれば国境の
+  湖に出る｜
+  スイスへ着いたらアメリカ大使館へ
+  飛び込んで・」
+Schmidt's face, which had been as cold as iron, suddenly breaks into a mischievous grin.
+
+Schmidt: "Even among the Nazis, there are members of 'Rebecca'."
+
+Simon: "You saved us..."
+Schmidt: "Once we pass this mountain, we will arrive at the border lake.
+
+Once you get to Switzerland, go straight to the American embassy."
+
+2
+・・「ばかめ・　わがはいのてから
+  のがれられるとおもっているのか」
+・・「馬鹿め・我輩の手から
+  逃れられると思っているのか」
+...: "You fools... You really think you can escape from my grasp?"
+
+2
+おれ「ぎゃっ！」
+しもん「わあっ！」
+俺「ぎょっ！」
+シモン「わあっ！」
+Me: "Agh!"
+Simon: "Waaagh!"
+2
+しもん「あああ・・！」
+しゅみっと「からだが・・！」
+シモン「あああ・・！」
+シュミット「体が・・！」
+Simon: "Aaaah...!"
+Schmidt: "My body...!"
+4
+ひとらー「わがはいのめは　ごまかせんぞ
+  しゅみっとたいさ・・｜
+  うらぎりもののまつろが　どんなにあわれなものか｜
+  おもいしらせてやる！」
+ヒトラー「我輩の目はごまかせんぞ
+  シュミット大佐・・｜
+  裏切り者の末路がどんなに哀れなものか｜
+  思い知らせてやる！」
+Hitler: "You can't fool me, Colonel Schmidt...
+
+Do you know how pitiful the fate of a traitor is?
+Let me show you!"
+2
+しゅみっとは　けんじゅうを　うった！
+しかし　だめーじをあたえられない！
+シュミットは拳銃を撃った！
+しかしダメージを与えられない！
+Schmidt shoots his gun!
+But it deals no damage!
+1
+ひとらー「くくく・　むだなていこうをしおって！」
+ヒトラー「くくく・無駄な抵抗をしおって！」
+Hitler: "Hahaha... Resisting is useless!"
+1
+３にんは　てひどいだめーじを　うけた！
+３人は手ひどいダメージを受けた！
+The three of us took massive damage!
+1
+３にんは　みがまえて　こうげきにそなえた！
+３人は身構えて攻撃に備えた！
+The three of us braced ourselves, ready for the attack!
+1
+みうごきが　とれない！
+身動きが取れない！
+I can't move!
+2
+しもんは　くつをなげた！
+しかし　だめーじをあたえられない！
+シモンは靴を投げた！
+しかしダメージを与えられない！
+Simon throws his shoe!
+But it deals no damage!
+2
+しもんは　つばをとばした！
+しかし　だめーじをあたえられない！
+シモンは唾を飛ばした！
+しかしダメージを与えられない！
+Simon lets his spit fly!
+But it deals no damage!
+2
+しゅみっとは　ないふを　なげた！
+しかし　だめーじをあたえられない！
+シュミットはナイフを投げた！
+しかしダメージを与えられない！
+Schmidt throws a knife!
+But it deals no damage!
+3
+ふるえるてで　まもりふだをとり
+ひとらーのまえに　つきだした
+ひとらー「！」
+震える手で守札を取り
+ヒトラーの前に突き出した
+ヒトラー「！」
+With a trembling hand, I took out the talisman and thrust it in front of Hitler.
+
+Hitler: "!"
+3
+まもりふだがとつぜん　まばゆいひかりをはなち
+ひとらーのめを　いぬいた
+ひとらー「ぐわあっ！」
+守札が突然まばゆい光を放ち
+ヒトラーの目を射抜いた
+ヒトラー「ぐわあっ！」
+The talisman suddenly shot out a blinding light that pierced Hitler's eyes.
+
+Hitler: "Graaaah!"
+2
+めだるのさびがとれて　きざまれていた
+もじがうかびあがってくる！
+メダルの錆が取れて刻まれていた
+文字が浮かび上がってくる！
+The rust has come off the medal, revealing the engraved text!
+
+5
+おれ「ほうろうのたみに　ただしき・・
+
+が　そのとき
+
+ひとらー「ぬおおおおーー！！」
+俺「放浪の民に正しき・・
+
+が　その時
+
+ヒトラー「ヌオオオオーー！！」
+Me: "You who once showed the wandering..."
+\
+But, right then...
+\
+Hitler: "Raaaaaah!"
+1
+おれ「な・　なんでこんなときに！」
+俺「な・なんでこんな時に！」
+Me: "W...why now of all times?"
+1
+もがきくるしんでいる
+もがき苦しんでいる
+He is writhing in agony.
+1
+おれ「まもりふだの　もじを・・」
+俺「守札の文字を・・」
+Me: "The writing on the talisman..."
+3
+くーがー「わあああ・・！」
+しもん「か　かみよ！」
+しゅみっと「からだが・　ちぎれそうだ・・！」
+クーガー「わあああ・・！」
+シモン「か神よ！」
+シュミット「体が・千切れそうだ・・！」
+Cougar: "Waaaaagh...!"
+Simon: "G-god!"
+Schmidt: "My body... It feels like it's being torn to pieces...!"
+1
+そんなばあいじゃない！
+そんな場合じゃのい！
+This isn't the time for that!
+3
+おれ「まもりふだの　もじをよめ！
+  おおきなこえで　よむんだ！
+  くーがー！　くーがー！」
+俺「守札の文字を読め！
+  大きな声で読むんだ！
+  クーガー！クーガー！」
+Me: "Read the writing on the talisman!
+Read it in a loud voice!
+Cougar! Cougar!"
+1
+おれ「がんばれ！」
+俺「頑張れ！」
+Me: "You can do it!"
+2
+くーがー「・・　だれだ・・！？
+  ・・　まもりふだ・・？」
+クーガー「・・誰だ・・！？
+  ・・守札・・？」
+Cougar: "...Who are you...!?
+...Talisman...?"
+1
+くーがー「ま　まもりふだのもじ・・！」
+クーガー「ま守札の文字・・！」
+Cougar: "T-the writing on the talisman...!"
+1
+おれ「よめ！　おおきなこえで　よむんだ！」
+俺「読め！大きな声で読むんだ！」
+Me: "Read it! Read it in a loud voice!"
+5
+くーがー「ほうろうのたみに　ただしきみちを
+  しめしたまえ！　どうちゅうのさいなんから
+  わがみをまもりたまえ！｜
+  われは　かみのげぼくにして　そのじひと
+  めぐみを　たたえるものなり！」
+クーガー「放浪の民に正しき道を
+  示した前！道中の災難から
+  我が身を守り給え！｜
+  我は神の下僕にしてその慈悲と
+  恵みを称えるものなり！」
+Cougar: "You who once showed the wandering people the correct path! Please protect me from the perils of this journey!
+
+
+As a servant of God, I praise His mercy and grace!"
+
+16
+くーがー「だれも　いない・・」
+しゅみっと「げんかく　か？」
+しもん「いや　たしかに・」
+
+
+
+
+あくまのしわざだよ
+おれのからだをうばった　あくまのね・・
+
+
+
+
+しもん「ん？　いまなんかいった？」
+しゅみっと「いや・・」
+くーがー「・・」
+クーガー「誰もいない・・」
+シュミット「幻覚か？」
+シモン「いや確かに・」
+
+
+
+
+悪魔の仕業だよ
+俺の体を奪った悪魔のね・・
+
+
+
+
+シモン「ん？今なんか言った？」
+シュミット「いや・・」
+クーガー「・・」
+Cougar: "There's no one here..."
+Schmidt: "Was it a hallucination?"
+Simon: "No, I'm sure..."
+\
+\
+\
+\
+It was the devil's doing.
+The devil stole my body...
+\
+\
+\
+\
+Simon: "Huh? Did you say something?"
+Schmidt: "No..."
+Cougar: "..."
+9
+しゅみっと「もうすぐ　こっきょうをこえるぞ」
+くーがー「なにも　おもいだせない
+  どうして　こんなところにいるのか・・」
+しもん「よっぽど　うちどころが
+  わるかったんだな」
+しゅみっと「しかし　おそろしいものをみた」
+くーがー「ああ・・　じんせいかんが
+  かわりそうだよ」
+しもん「まったく・・」
+シュミット「もうすぐ国境を超えるぞ」
+クーガー「何も思い出せない
+  どうしてこんな所にいるのか・・」
+シモン「よっぽど打ちどころが
+  悪かったんだな」
+シュミット「しかし恐ろしい物を見た」
+クーガー「ああ・・人生観が
+  変わりそうだよ」
+シモン「全く・・」
+Schmidt: "We're about to cross the border."
+Cougar: "I don't remember anything. Why am I even here...?"
+
+Simon: "You must have hit your head pretty badly."
+
+Schmidt: "But we saw something terrifying."
+Cougar: "Yeah... It's going to change how I view my life."
+
+Simon: "Seriously..."
+10
+ひとらー「おねがいだ！　わがはいも
+  つれていってくれ！」
+あくま「そうはいかん　きさまはまだまだ　ここで
+  あくじをくりかえすぎむが　ある｜
+  けいやくがきれる　らいねんまで・」
+ひとらー「らいねん？」
+あくま「１９４５ねん　４がつ３０にち｜
+  それがきさまの　めいにちだ　よくおぼえておけ」
+ひとらー「・・」
+あくま「では　いつかじごくで・・」
+ヒトラー「お願いだ！我輩も
+  連れて行ってくれ！」
+悪魔「そうはいかん貴様はまだまだここで
+  悪事を繰り返す義務がある｜
+  契約が切れる来年まで・」
+ヒトラー「来年？」
+悪魔「１９４５年４月３０日｜
+  それが貴様の命日だよく覚えておけ」
+ヒトラー「・・」
+悪魔「ではいつか地獄で・・」
+Hitler: "Please! take me with you!"
+
+Devil: "That won't do. You still have a duty to continue doing evil here.
+
+Until your contract expires next year..."
+Hitler: "Next year?"
+Devil: "April 30th, 1945.
+That is the day you die. Remember it well."
+Hitler: "..."
+Devil: "Well, see you in Hell someday."
+5
+こうしてまたおれは　じげんのあなへ
+すいこまれていく｜
+こんどは　どこへとばされるのか・・｜
+だれのからだに　のりうつるのか・・｜
+ああ　どうすりゃいいんだ！
+こうしてまた俺は次元の穴へ
+吸い込まれていく｜
+今度はどこへ飛ばされるのか・・｜
+誰の体に乗り移るのか・・｜
+ああどうすりゃいいんだ！
+Thus, I was again sucked into a dimensional portal.
+
+Where will I end up this time...
+Who's body will I be possessing...
+Oh, what am I supposed to do?
+1
+こうへんへ　つづく・・
+後編へ続く・・
+To be continued on disk 2...
+2
+あくま「いまわしき　めがみぞう・・
+  あまりのみにくさに　へどがでるわ！」
+悪魔「忌まわしき女神像・・
+  あまりの醜さに反吐が出るわ！」
+Devil: "This repugnant statue of the goddess... Its ugliness makes me want to vomit!"
+
+1
+あくま「くくく・・」
+悪魔「くくく・・」
+Devil: "Hehehe..."
+1
+おれ「う・うう・・ん・」
+俺「う・うう・・ん・」
+Me: "U...Ugh..."
+3
+おかのうえの　ひろばだ
+ふもとにまちがひろがり　そのまわりを
+うみが　かこんでいる
+丘の上の広場だ
+麓に町が広がり　その周りを
+海が囲んでいる
+There is a public square on top of the hill.
+A town spreads out at the foot of the hill, surrounded by the sea.
+
+1
+だいりせきの　おおきなしんでんだ
+大理石の大きな神殿だ
+It is a large marble temple.
+1
+「しょうばいのかみ＿へるめす」
+「商売の神・ヘルメス」
+"Hermes, God of Commerce"
+4
+ひげもむなげも　もじゃもじゃだ
+このからだつきは　けっこう　としくってるな・・
+
+・・「せんせい！　せんせーーい！」
+ヒゲも胸毛もモジャモジャだ
+この体つきは結構年食ってるな・・
+
+・・「先生！せんせーーい！」
+My beard and chest hair are scruffy. This body seems pretty old...
+
+\
+...: "Doctor! Doctooor!"
+4
+だりお「こんなところに　いらっしゃったんですか」
+おれ「・・？」
+だりお「かんじゃさんが　おまちです
+  はやくきてください　にくらすせんせい！」
+ダリオ「こんな所にいらしゃったんですか」
+俺「・・？」
+ダリオ「患者さんがお待ちです
+  早く来てくださいニクラス先生！」
+Dareios: "What are you doing in a place like this?"
+Me: "...?"
+Dareios: "Your patient is waiting. Hurry and come, Dr. Nikolaos!"
+
+4
+とき・・きげんぜん４せいきごろ
+ばしょ・・こだいぎりしゃ　あてね
+なまえ・・にくらす
+しょくぎょう・・いしゃ
+時・・紀元前４世紀ごろ
+場所・・古代ギリシャアテネ
+名前・・ニクラス
+職業・・医者
+Time: Approximately the 4th century BC
+Location: Athens, ancient Greece
+Name: Nikolaos
+Occupation: Doctor
+2
+おれ「はろー・・」
+・・・・・・・・・・
+俺「ハロー・・」
+・・・・・・・・・・
+Me: "Hello..."
+....................
+1
+うかつに　うごかないほうがいい
+迂闊に動かない方がいい
+I shouldn't move around carelessly.
+2
+げかようのいりょうきぐと　なんしゅるいもの
+やくそうがおかれている
+外科用の医療器具と何種類物
+薬草が置かれている
+There are surgical instruments and various kinds of medicinal herbs laid around.
+
+1
+どうやら　おれのじょしゅらしい
+どうやら俺の助手らしい
+He appears to be my assistant.
+3
+かたに　ひどいやけどをおっている
+だりお「なべをひっくりかえして
+  にえゆを　かぶったらしいんです」
+肩にひどいやけどを追っている
+ダリオ「鍋をひっくり返して
+  煮え湯を被ったらしいんです」
+He has a severe burn on his shoulder.
+Dareios: "He seems to have knocked over a pot and spilled boiling water all over himself."
+
+1
+だりお「せんせい　ちりょうをおねがいします」
+ダリオ「先生治療をお願いします」
+Dareios: "Doctor, please treat him."
+1
+わかもの「うう・・」
+若者「うう・・」
+Youth: "Uuugh..."
+1
+しょうじょうが　わからない
+症状が分からない
+I don't know the symptoms.
+1
+かんぶの　たかさは？
+患部の高さは？
+How high should the wounded area be put?
+1
+わかもの「あうっ！」
+若者「アウッ！」
+Youth: "Ow!"
+1
+かんぶを　どうする？
+患部のどうする？
+What should I do to the wound?
+1
+みずぶくれは？
+水ぶくれは？
+And with the blister?
+1
+さいごに・・
+最後に・・
+And finally...
+1
+だりお「まえより　ひどくなったみたいですよ」
+ダリオ「前よりひどくなったみたいですよ」
+Dareios: "It looks worse than before."
+1
+だりお「さすがはせんせいだ　てぎわがすばらしい」
+ダリオ「さすがは先生だ手際が素晴らしい」
+Dareios: "As expected of you, doctor. Your skill is amazing."
+1
+だいぶ　おちついてきた
+だいぶ落ち着いてきた
+He has calmed down considerably.
+4
+だりお「せんせい　まだたくさんのひとたちが
+  けがやびょうきで　くるしんでいます｜
+  このかんじゃは　わたしがみていますから
+  しんさつに　いってあげてください」
+ダリオ「先生　まだたくさんの人たちが
+  怪我や病気で苦しんでいます｜
+  この患者は私が見ていますから
+  診察に行ってあげてください」
+Dareios: "Doctor, there are still many people suffering from injuries and illnesses.
+
+I'll look after this patient, so please check on the others."
+
+3
+わかもの「おかげで　だいぶらくになりました
+  これ・　ちりょうだいです」
+ぎんか１まいを　うけとった
+若者「おかげでだいぶ楽になりました
+  これ・治療代です」
+銀貨１枚を受け取った
+Youth: "Thanks to you, I'm feeling much better. Here... your payment."
+
+I received one silver coin.
+1
+１まい
+１枚
+One coin.
+1
+わかもの「ほんとうに　ありがとうございました」
+若者「本当にありがとうございました」
+Youth: "Really, thank you."
+4
+だりお「やくそうを　もっていってください」
+おれ「ああ　そうか・」
+だりお「ちりょうだいの　せいきゅうは
+  なおってからにしてくださいね」
+ダリオ「薬草を持っていってください」
+俺「ああそうか・」
+ダリオ「治療代の請求は
+  治ってからにしてくださいね」
+Dareios: "Please take some herbs with you."
+Me: "Ah, sure..."
+Dareios: "Make sure to get your payment from people once they've healed."
+
+7
+おとこ「ちょっと　おたずねしますが・・
+  １０さいぐらいの　ひんのよさそうなおとこのこを
+  みかけませんでした？」
+おれ「さあ・・」
+おとこ「さるところの　おぼっちゃまなんですが
+  ちょっと　めをはなしたすきに・・
+  ああ　たいへんだ！」
+男「ちょったお尋ねしますが・・
+  １０歳ぐらいの品の良さそうな男の子を
+  見かけませんでした？」
+俺「さあ・・」
+男「さるところのお坊ちゃまなんですが
+  ちょっと目をはなした隙に・・
+  ああ大変だ！」
+Man: "Excuse me... Would you happen to have seen a well-mannered boy that is about 10 years old?"
+
+
+Me: "Uh..."
+Man: "He's the son of a certain family, and I looked away for just a second... Ah, this is bad!"
+
+
+2
+うねうねと　まがりくねったみちぞいに
+そまつないえが　たちならんでいる
+うねうねと曲がりくねった道沿いに
+粗末な家が立ち並んでいる
+There are shoddy houses along the winding road.
+
+1
+「しゅりょうのかみ＿おりおん」
+「狩猟の神・オリオン」
+"Orion, God of Hunting"
+2
+ごきぶりやねずみが　ちょろちょろと
+はいまわっている
+ゴキブリやネズミがちょろちょろと
+這い回っている
+Critters like cockroaches and mice are darting about.
+
+1
+「つきのめがみ＿あるてみす」
+「月の女神＿アルテミス」
+"Artemis, Goddess of the Moon"
+1
+しょうにんが　みせをひろげている
+商人が店を広げている
+A merchant has set up a shop.
+1
+こういうかおには　きをつけたほうがいい
+こういう顔には気をつけたほうがいい
+Seeing a face like that, I should be careful around him.
+3
+しょうにん「だんな　じつはね・・
+  とっておきの　ほりだしものがあるんだ｜
+  ぎんか３まいで　どうです？」
+商人「旦那実はね・・
+  とっておきの掘り出し物があるんだ｜
+  銀貨３枚でどうです？」
+Merchant: "Sir, actually... I have a super rare bargain.
+
+How about three silver coins?"
+1
+しょうにん「ぎんか３まいだよ」
+商人「銀貨３枚だよ」
+Merchant: "It's three silver coins!"
+1
+しょうにん「ひやかしは　おことわりだよ」
+商人「冷やかしはお断りだよ」
+Merchant: "Window shopping is not allowed!"
+1
+かね　かかったろうなあ　これつくるのに・・
+金かかった労なあ　これ作るのに・・
+This must have cost a fortune to make...
+2
+「ちえのかみ＿あてな
+  あてねしみんの　しゅごしんなり」
+「知恵の神＿アテナ
+  アテネ市民の守護神なり」
+"Athena, Goddess of Wisdom
+Patron Goddess of the People of Athens"
+2 Priest
+きを　うしなっている
+やばいな・・　こきゅうがとまってるぞ
+気を失っている
+ヤバいな・・呼吸が止まってるぞ
+He's lost consciousness.
+This is bad... He has stopped breathing.
+1
+きのせいか　かなしそうだ
+気の所為か悲しそうだ
+Is it just me, or does it look sad?
+1
+じんこうこきゅうをするには　まずさいしょに・・
+人工呼吸をするにはまず最初に・・
+When doing artifical respiration, the first thing to do is...
+1
+つぎに・・
+次に・・
+Then...
+1
+そいでもって　くちからいきをふきこむ！
+そいでもって口から息を吹き込む！
+And then blow into his mouth!
+1
+だめだ・　やりなおし！
+だめだ・やり直し！
+It's no good... I need to do it over again!
+2
+しんかん「・・う・　ぷはーっ！」
+おれ「やった！」
+神官「・・う・ぷはーっ！」
+俺「やった！」
+Priest: "...Oogh... *Gasp!*"
+Me: "I did it!"
+1
+こまりはてている
+困り果てている
+He is completely baffled.
+2
+しんかん「ありがとうございました　せんせい！
+  なんとおれいを　いってよいか・・」
+神官「ありがとうございました先生！
+  なんとお礼をいってよいか・・」
+Priest: "Thank you so much, doctor! How can I possibly thank you..."
+
+5
+しんかん「めがみのくびが　とれていたのを
+  みたしゅんかん　くらくらっとめまいがしまして・｜
+  おそらく　ここらへんにたむろする
+  ふりょうどもの　しわざでしょう｜
+  なんという　ばちあたりな！」
+神官「女神の首が取れていたのを
+  見た瞬間クラクラっとめまいがしまして・｜
+  おそらくここら辺にたむろする
+  不良どもの仕業でしょう｜
+  なんという罰当たりな！」
+Priest: "The moment I saw that the goddess' head was severed, I got dizzy...
+
+It was probably the work of the delinquents that hang out around here.
+
+How blasphemous!"
+3
+しんかん「ひとはしぬと　よみのくににのぼります｜
+  わたしもあやうく　いりぐちのもんを
+  くぐりかけました」
+神官「人は死ぬと黄泉の国に登ります｜
+  私も危うく入口の門を
+  くぐりかけました」
+Priest: "Upon death, people ascend to the land of the dead.
+I too almost passed through its gates."
+
+1
+なみは　おだやかだ
+波は穏やかだ
+The waves are calm.
+1
+「うみのまもりがみ＿ぽせいどん」
+「海の守り神＿ポセイドン」
+"Poseidon, Guardian God of the Sea"
+3
+つりびと「あのな・　こんなことしっちょるか？」
+
+ぎりしゃかくちの　としを　なんとよぶ？
+釣り人「あのな・こんなことしっちょるか？」
+
+ギリシャ各地の都市を何と呼ぶ？
+Fisherman: "Hey... You know this one?"
+\
+What is the name of the cities across Greece?
+1
+つりびと「あほ」
+釣り人「アホ」
+Fisherman: "Idiot."
+3
+つりびと「せいかいじゃ　ならばこれはどうだ？」
+
+あてねの　らいばるとしは？
+釣り人「正解だ　ならばこれはどうだ？」
+
+アテネのライバル都市は？
+Fisherman: "Correct. How about this one?"
+\
+What city is the rival of Athens?
+3
+つりびと「せいかいじゃ　ならばこれはどうだ？」
+
+ぎりしゃしんわ　さいだいのえいゆうは？
+釣り人「正解だ　ならばこれはどうだ？」
+
+ギリシャ神話最大の英雄は？
+Fisherman: "Correct. How about this one?"
+\
+Who is the greatest hero in Greek mythology?
+3
+つりびと「せいかいじゃ　ならばこれはどうだ？」
+
+ちえのめがみ＿あてなに　ささげられたしんでんは？
+釣り人「正解だ　ならばこれはどうだ？」
+
+知恵の女神＿アテナに捧げられた神殿は？
+Fisherman: "Correct. How about this one?"
+\
+What temple was devoted to Athena, goddess of wisdom?
+4
+つりびと「せいかいじゃ　ならばこれはどうだ？」
+
+ぎりしゃの３だいさくもつ　といえば
+おりーぶ　ぶどう　と？
+釣り人「正解だ　ならばこれはどうだ？」
+
+ギリシャの３大作物といえば
+オリーブぶどうだ？
+Fisherman: "Correct. How about this one?"
+\
+Greece's three major crops are olives, grapes, and?
+
+2
+つりびと「せいかいじゃ
+  ぜんもんせいかいとは　やるもんじゃ」
+釣人「正解じゃ
+  全問正解とはやるもんじゃ」
+Fisherman: "Correct.
+You got them all correct."
+1
+つりびと「しょくあたりには　あまちゃづるじゃ」
+釣人「食あたりにはアマチャヅルじゃ」
+Fisherman: "If someone has food poisoning, give them jiaogulan."
+3
+むすめ「せんせい！　おねがいです
+  ははを　たすけてください」
+ははおや「ごほ！　ごほごほ・！」
+娘「先生！お願いです
+  母を助けてください」
+母親「ゴホ！ゴホゴホ・！」
+Girl: "Doctor! Please, save my mother!"
+
+Mother: "*Cough! Cough cough...!*"
+1
+くろいひとみが　うつくしい
+黒い瞳が美しい
+Her dark eyes are beautiful.
+1
+げっそりと　やつれている
+げっそりとやつれている
+She is thin and haggard.
+4
+むすめ「あぶらをしぼって　うるのが
+  わたしのしごとです　でも・・
+  かんびょうがあるので　げんりょうの
+  つみとりさえ　ままなりません」
+娘「油を絞って　売るのが
+  私の仕事です　でも・・
+  看病があるので原料の
+  摘み取りさえままなりません」
+Girl: "My job is to press and sell oil, but... I'm so busy looking after my mother that I can't harvest anything."
+
+
+
+1
+ははおや「せきが・とまらなくて・ごほごほ・！」
+母親「咳が・止まらなくて・ゴホゴホ・！」
+Mother: "The coughing...won't stop... *Cough cough...!*"
+2
+おれ「これを　のませなさい」
+むすめ「ありがとうございました」
+俺「これを飲ませなさい」
+娘「ありがとうございました」
+Me: "Here, make her take this."
+Girl: "Thank you."
+2
+おれ「これを　のませなさい」
+むすめ「ほんとうに　ありがとうございました」
+俺「これを飲ませなさい」
+娘「本当にありがとうございました」
+Me: "Here, make her take this."
+Girl: "Thank you so much."
+1
+せきが　とまっている
+咳が止まっている
+She's stopped coughing.
+4
+むすめ「おかげで　ははのせきがやみました｜
+  あの・・　じつはおかねがなくて
+  ちりょうだいが　はらえないんです
+  ごめんなさい・・」
+娘「おかげで母の咳がやみました｜
+  あの・・実はお金がなくて
+  治療代が払えないんです
+  ごめんなさい・・」
+Girl: "Thanks to you, my mother's coughing has stopped.
+Um... Actually, I don't have any money, so I can't pay you.
+
+I'm sorry..."
+1
+ははおや「ずいぶん　らくになりました」
+母親「ずいぶん楽になりました」
+Mother: "I'm feeling much better."
+1
+おりーぶのきが　わさわさとはえている
+オリーブの木がわさわさと生えている
+There are many olive trees growing.
+1
+みどりいろの　ちいさなかじつだ
+緑色の小さな果実だ
+They are green and small.
+1
+「ししゃのかみ＿はです」
+「死者の神＿ハデス」
+"Hades, God of the Dead"
+1
+みぎあしからひとすじ　ちがながれている
+右足から一筋血が流れている
+Blood is flowing from his right leg.
+4
+へいし「せっしゃは　ほこりたかき
+  すぱるたのへいし｜
+  あてねじんのような　なんじゃくもの
+  ではない！」
+兵士「拙者は誇り高き
+  スパルタの兵士｜
+  アテネ人のような軟弱者
+  ではない！」
+Soldier: "I am a proud soldier of Sparta.
+
+Unlike those wimpy Athenians!"
+
+1
+やめとこう
+やめとこう
+Let's not do that.
+1
+へいし「け・　けがなど　しておらぬわ！」
+兵士「け・怪我などしておらぬわ！」
+Soldier: "Th...this is nothing!"
+2
+おとこ「せんせえ・　きゅうに・　いが　きりきりと
+  いたみだして・　くく・！」
+男「先生・急に・胃がキリキリと
+  痛みだして・くく・！」
+Man: "Doctor... Suddenly...my stomach started aching like crazy... Ugh...!"
+
+2
+まっさおなかおに　あぶらあせがにじんでいる
+おそらく　しょくあたりだろう
+真っ青な顔に脂汗が滲んでいる
+おそらく食あたりだろう
+Cold sweat is running down his deathly pale face.
+It's most likely food poisoning.
+1
+おとこ「うぐぐぐ・」
+男「うぐぐぐ・」
+Man: "Ugh..."
+2
+おれ「これを　のみなさい」
+おとこ「うぐぐぐ・」
+俺「これを飲みなさい」
+男「うぐぐぐ・」
+Me: "Take this."
+Man: "Ugh..."
+2
+おれ「これを　のみなさい」
+おとこ「・ありがとう」
+俺「これを飲みなさい」
+男「・ありがとう」
+Me: "Take this."
+Man: "...Thanks."
+1
+だいぶ　おちついたようだ
+だいぶ落ち着いたようだ
+He seems to have settled down quite a bit.
+3
+おとこ「どうにか　おさまったみてえだ｜
+  ありがとう　せんせえ」
+ぎんか１まいを　うけとった
+男「どうにか収まった見てえだ｜
+  ありがとう先生」
+銀貨１枚を受け取った
+Man: "Looks like things have settled down somehow.
+Thank you, doctor."
+I received one silver coin.
+2
+おとこ「みんしゅしゅぎなんぞより
+  おれは　かみさまをしんじるね」
+男「民主主義なんぞより
+  俺は神様を信じるね」
+Man: "I believe in God more than in democracy."
+
+1
+２まい
+２枚
+Two coins.
+1
+へいし「や　やめろ！　わっ！」
+兵士「や　やめろ！わっ！」
+Soldier: "S-stop! Wagh!"
+3
+へいし「・じつはその・　たたかいで　あしを
+  ふしょうしている・・　うう・！」
+かんぶがただれて　うみがでている
+兵士「・実はその・戦いで足を
+  負傷している・・うう・！」
+患部がただれて膿が出ている
+Soldier: "...Actually, this... I hurt my leg in battle... Agh...!"
+
+The wound is inflamed and pus is coming out.
+2
+おれ「これを　あしにぬりなさい」
+へいし「いたたたた・・」
+俺「これを足に塗りなさい」
+兵士「いたたたた・・」
+Me: "Put this on your leg."
+Soldier: "Owowowow..."
+1
+へいし「やりをかえせ！」
+兵士「槍を返せ！」
+Soldier: "Give me back my spear!"
+2
+やりをふりまわすと・・
+おりーぶのみが　おちてきた
+槍を振り回すと・・
+オリーブの実が落ちてきた
+I swung the spear...
+Some olives fell.
+1
+てあたりしだいに　ふくろへつめこんだ
+手当り次第に袋へ詰め込んだ
+I stuffed them inside my bag.
+1
+もう　ふくろにはいらない
+もう復路にはいらない
+There's no more space in my bag.
+1
+へいし「ほどこしは　うけん！」
+兵士「施しは受けん！」
+Soldier: "I'm not accepting your charity!"
+1
+おれ「あぐあぐ・・うん　なかなか・・」
+俺「アグアグ・・うんなかなか・・」
+Me: "*munch munch*... Hm, not bad..."
+2
+おれ「これを　あしにぬりなさい」
+へいし「まことに　かたじけない」
+俺「これを足に塗りなさい」
+兵士「誠にかたじけない」
+Me: "Put this on your leg."
+Soldier: "I am truly grateful."
+1
+がんこそうなかおだな
+頑固そうな顔だな
+He has a stubborn face.
+7
+へいし「だいぶ　いたみがひいた・・
+  おれいといってはなんだが　せんちで
+  てにいれた　これをうけとってくれ」
+ふところから　ちいさなすずをとりだした
+へいし「えじぷとの　ふぁらおが
+  まよけにつかったという　いいつたえの
+  ”いましめのすず”　だ」
+兵士「だいぶ痛みが引いた・・
+  お礼と言ってはなんだが戦地で
+  手に入れたこれを受け取ってくれ」
+懐から小さな鈴を取り出した
+兵士「エジプトのファラオが
+  魔除けに使ったと言う言い伝えの
+  ”戒めの鈴”だ」
+Soldier: "The pain has subsided considerably... I don't know if it counts as thanks, but please take this thing that I found on the battlefield."
+
+
+He took out a small bell from his chest.
+Soldier: "This is the 'bell of warning', which according to legend was used by Egyptian pharaohs to protect against evil spirits."
+
+
+1
+すずを　うけとった
+鈴を受け取った
+I received the bell.
+3
+へいし「ぎりしゃのじだいは　おわった・・
+  やがてせかいのはけんは　まけどにあに
+  とってかわることだろう」
+兵士「ギリシャの時代は終わった・・
+  やがて世界の覇権はマケドニアに
+  とって変わることだろう」
+Soldier: "The age of Greece is over..
+Soon, the earth will be ruled by the Macedonians."
+
+1
+どこかで　みたことがある
+どこかで見たことがある
+I've seen it before somewhere.
+1
+へいし「ちょっとのあいだ　だけだぞ」
+兵士「ちょっとの間だけだぞ」
+Soldier: "Just for a moment!"
+2
+かるく　ふってみた
+ここちよい　ねいろだ
+軽く振ってみた
+心地よい音色だ
+I gave it a light shake.
+It has a pleasant tone.
+2
+そこらじゅうに　おりーぶのみが
+おちている
+そこら中にオリーブの実が
+落ちている
+There are fallen olives all over the place.
+
+1
+しょうにん「いただきますよ　ただなら」
+商人「いただきますよただなら」
+Merchant: "Sure, if they're free."
+1 Give
+きを　うしなっている
+気を失っている
+He has lost consciousness.
+2
+しんかん「ささげものですな　ありがたく
+  いたただいておきます」
+神官「捧げ物ですな　ありがたく
+  いただいておきます」
+Priest: "An offering, I see. I shall gratefully accept it."
+
+1
+だりお「ありがとうございます」
+ダリオ「ありがとうございます」
+Dareios: "Thank you."
+1
+わかもの「どうも・・」
+若者「どうも・・」
+Youth: "Thanks..."
+1
+むすめ「ごしんせつにどうも・」
+娘「ご新設にどうも・」
+Girl: "How kind of you..."
+6
+むすめ「おかげで　ははのせきがやみました｜
+  あの・・　じつはおかねがなくて
+  ちりょうだいが　はらえないんです
+  そのかわり　さっきいただいたおりーぶで
+  おいるをつくりました　これをどうぞ・・」
+おりーぶおいるを　うけとった
+娘「おかげで母の咳がやみました｜
+  あの・・実はお金がなくて
+  治療代が払えないんです
+  その代わりさっきいただいたオリーブで
+  オイルを作りましたこれをどうぞ・・」
+オリーブオイルを受け取った
+Girl: "Thanks to you, my mother's coughing has stopped.
+Um... Actually, I don't have any money, so I can't pay you.
+
+Instead, take this olive oil that I made out of the olives you gave me a bit ago..."
+
+I got some olive oil.
+1
+おれ「うーん　あぶらだ・・」
+俺「うーん油だ・・」
+Me: "Mmm, oil..."
+1
+となりのおとこを　みょうにきにしている
+隣の男を妙に気にしている
+He is strangely concerned about the man next to him.
+1
+なきそうなかおで　こちらをみている
+泣きそうな顔でこちらを見ている
+He's looking my way with a face that looks like he's about to cry.
+1
+おとこ「わるいねえ　せんせえ」
+男「悪いねえ先生」
+Man: "Excuse me, doctor."
+1
+つりびと「いらん」
+釣人「いらん」
+Fisherman: "I don't need them."
+1
+しょうにん「なんか　ごようで？」
+商人「なんか御用で？」
+Merchant: "How can I help you?"
+1
+おとこ「それどころじゃない！」
+男「それどころじゃない！」
+Man: "This isn't the time for that!"
+1
+しょうにん「そんなものは　ひきとれませんねえ」
+商人「そんな物は引き取れませんねえ」
+Merchant: "I can't take that."
+2
+しょうにん「ようがす　ぎんか１まいで
+  かいとりましょう」
+商人「ようがす銀貨１枚で
+  買い取りましょう」
+Merchant: "I'll buy it for one silver coin."
+
+2
+しょうにん「あいにくといまは・・
+  また　こんどにしてくだせえ」
+商人「あいにくと今は・・
+  また今度にしてください」
+Merchant: "Unfortunately, right now... Please come back another time."
+
+5
+おとこ「わたしは　ぼっちゃまの
+  かていきょうしをつとめる　ありすとてれす・と
+  もうします｜
+  しゃかいけんがくのためにと　まけどにあから
+  やってきたのですが・・」
+男「私は坊ちゃまの
+  家庭教師を勤める　アリストテレス・と
+  申します｜
+  社会見学のためにとマケドニアから
+  やってきたのですが・・」
+Man: "I am working as a tutor for the boy. My name is Aristotle.
+
+
+We came here from Macedonia for an educational trip, but..."
+
+3
+おとこ「こうかなふくを　おめしですから
+  めだつはずなんです｜
+  たとえば　ぺるしゃもようのおびとか・・」
+男「高価な服をお召ですから
+  目立つはずなんです｜
+  例えばペルシャ模様の帯とか・・」
+Man: "He's wearing expensive clothes, so he'll certainly stand out.
+
+For example, a sash with a Persian design on it..."
+3
+つりびと「たにんのふこうに　ながすなみだほど
+  かわきやすいものはない・・
+  ぎりしゃの　ふるいことわざじゃ」
+釣人「他人の不幸に流す涙ほど
+  渇きやすい物はない・・
+  ギリシャの古いことわざじゃ」
+Fisherman: "A tear is quickly dried, especially when shed for the misfortunes of others...
+
+It's an old Greek saying."
+2
+おとこ「ああ　もしものことがあったら
+  どうしよう！」
+男「ああもしものことがあったら
+  どうしよう！」
+Man: "Ahh, what if something happened to him!?"
+
+1
+３まい
+３枚
+Three coins.
+3
+しょうにん「きんのししゅうが　はいった
+  ぺるしゃもようの　おびです｜
+  どうです？　こりゃ　ねうちもんでしょうが」
+商人「金の刺繍が入った
+  ペルシャ模様の帯です｜
+  どうです？こりゃ値打ちもんでしょうが」
+Merchant: "It's a gold-embroidered sash with a Persian design on it.
+
+What do you think? It's quite a bargain, isn't it?"
+12
+おとこ「きさまぁ！」
+しょうにん「ひっ・　まだいたのか！」
+おとこ「ぼっちゃまを　どこへやった！
+  こたえろ！」
+しょうにん「たた・　たすけてくだせえ！
+  あたしがみたときはもう　こときれてたんですよ
+  しにんに　ふくはひつようねえでしょうが」
+おとこ「！！」
+しょうにん「みさきの　いわかげに
+  たおれてたんだ　うそじゃねえ！」
+おとこ「せんせい！　いっしょにきてください！」
+おれ「は　はい！」
+男「貴様ぁ！」
+商人「ひっ・まだいたのか！」
+男「坊ちゃまをどこへやった！
+  答えろ！」
+商人「たた・助けてください！
+  あたしが見た時はもう事切れてたんですよ
+  死人に服は必要ないでしょうが」
+男「！！」
+商人「岬の岩陰に
+  倒れてたんだ嘘じゃない！」
+男「先生！一社に来てください！」
+俺「は　はい！」
+Man: "You!"
+Merchant: "Y-you're still here!?"
+Man: "What did you do with him? Answer me!"
+
+Merchant: "P-p-please spare me! He was already dead when I found him. A dead person doesn't need clothes, right?"
+
+
+Man: "!!!"
+Merchant: "He was lying behind the rocks at the cape. I'm not lying!"
+
+Man: "Doctor! Please come with me!"
+Me: "A-alright!"
+1
+おとこ「あ・！　あそこだ！！」
+男「あ・！あそこだ！！」
+Man: "Ah...! There!!!"
+1
+おとこ「ぼっちゃま！しっかりしてください！」
+男「坊ちゃま！しっかりしてください！」
+Man: "Hang in there!"
+1
+おろおろしている
+オロオロしている
+He's sobbing.
+1
+おとこ「せんせい！　なんとかしてください！」
+男「先生！なんとかしてください！」
+Man: "Doctor! Do something!"
+1
+おとこ「まってください！」
+男「待ってください！」
+Man: "Please wait!"
+3
+もう　ておくれだ
+しんぞうがとまり　どうこうも　ひらいている・・
+おとこ「ぼっちゃまーーっ！！」
+もう手遅れだ
+心臓が止まり瞳孔も開いている・・
+男「坊ちゃまーーっ！！」
+It's too late at this point.
+His heart has stopped and his pupils are dilated...
+Man: "Nooo!!!"
+6
+・・「そのこを　しなせてはいけません・・」
+おれ「？　だれだ？」
+
+・・「そのこは　かみのめいをうけた
+  とくべつな　こどもなのです
+  あなたのちからで　たすけてあげてください・・」
+・・「その子を死なせてはいけません・・」
+俺「？誰だ？」
+
+・・「その子は神の命を受けた
+  特別な子供なのです
+  あなたの力で助けてあげてください・・」
+...: "You mustn't let that child die..."
+Me: "? Who's there?"
+\
+...: "That child is special and has a destiny given by God. Please save him using your power..."
+
+
+1
+ん・・？
+ん・・？
+Huh...?
+1
+どうしたんだ　いったい・・
+どうしたんだ一体・・
+What in the world is going on...
+1
+ぽかんと　くちをあけている
+ぽかんと口を開けている
+He is staring with his mouth open.
+1
+かんじゃのようすをきにしてる
+患者の様子を気にしてる
+He is watching after the patient.
+8
+あてな「・あのこを　たすけてあげてください・」
+おれ「で　でも・　どうすれば・」
+あてな「かみがみの　じょげんをかりて
+  ”よみのくに”へ　いきなさい｜
+  あのこはいま　いりぐちにしゃがみこみ
+  ないてたすけをもとめています」
+おれ「あのこは　いったい・・」
+あてな「おねがいです　たすけてあげてください」
+アテナ「・あの子を助けてあげてください・」
+俺「ででも・どうすれば・」
+アテナ「神々の助言を借りて
+  ”黄泉の国”へ行きなさい｜
+  あの子は今入口にしゃがみ込み
+  ないて助けを求めています」
+俺「あの子は一体・・」
+アテナ「お願いです助けてあげてください」
+Athena: "...Please save that child..."
+Me: "B-but...how?"
+Athena: "Seek the advice of the gods and go to the 'land of the dead'.
+
+That child is at the entrance now, crying for help."
+
+Me: "Who in the world is that child..."
+Athena: "Please, save him!"
+1
+あてな「かみのこをすくえるのは　あなただけです」
+アテナ「神の子を救えるのはあなただけです」
+Athena: "You are the only one that can save the child of God."
+4
+へるめす「なんかようか？」
+おれ「あの・・　”よみのくに”　へ
+  いきたいんですが・・」
+へるめす「よみのくにの　かみにたのめ」
+ヘルメス「なんかようか？」
+俺「あの・・”黄泉の国”へ
+  行きたいんですが・・」
+ヘルメス「黄泉の国の神に頼め」
+Hermes: "What do you want?"
+Me: "Um... I want to go to the 'land of the dead'..."
+
+Hermes: "Ask the god of the dead."
+4
+あるてみす「なーに？」
+おれ「あの・・　”よみのくに”　へ
+  いきたいんですが・・」
+あるてみす「わたしじゃ　わかんない」
+アルテミス「なーに？」
+俺「あの・・”黄泉の国”へ
+  行きたいんですが・・」
+アルテミス「私じゃわかんない」
+Artemis: "What?"
+Me: "Um... I want to go to the 'land of the dead'..."
+
+Artemis: "I don't know."
+2
+おりおん「あいつは　さいしょにたのまないと
+  へそをまげるぞ」
+オリオン「あいつは最初に頼まないと
+  へそを曲げるぞ」
+Orion: "If you don't ask him right away, he'll get mad."
+
+1
+ぽせいどん「おかどちがいじゃ」
+ポセイドン「お門違いだ」
+Poseidon: "You're talking to the wrong guy."
+1
+はです「ちえのかみにきいて　でなおしてこい」
+ハデス「知恵の神に聞いて出直してこい」
+Hades: "Talk to the goddess of wisdom and come back to me."
+3
+はです「よくわかったな
+  わたしが　よみのくにのまもりがみ＿はですだ｜
+  まあしょうがない　とくべつにきょかしよう」
+ハデス「よくわかったな
+  私が黄泉の国の守り神・ハデスだ｜
+  まあしょうがない特別に許可しよう」
+Hades: "You've figured it out, right? I am the god of the dead...Hades.
+
+Well, I've got no choice. I'll let you in as an exception."
+9
+けるべろす「おす」
+おれ「こんにちは・」
+けるべろす「ここは　”よみのくに”
+  いわゆる　あのよのいりぐちだ・・」
+おれ「あの・」
+けるべろす「はなしはきいている
+  こどもをたすけたいのなら　わがはいのといに
+  こたえてみろ｜
+  みごとあてたら　かえしてやる」
+ケルベロス「おす」
+俺「こんにちは・」
+ケルベロス「ここは”黄泉の国”
+  いわゆる　あの世の入口だ・・」
+俺「あの・」
+ケルベロス「話は聞いている
+  子供を助けたいのなら我輩の問いに
+  答えてみろ｜
+  見事当てたら返してやる」
+Cerberus: "Hello."
+Me: "Hello..."
+Cerberus: "This place is called the 'land of the dead'.
+It is the entrance to the afterlife..."
+Me: "Um..."
+Cerberus: "I've heard what's going on. If you want to save the child, you must answer my question.
+
+
+If you answer correctly, I'll send him back."
+2
+けるべろす「５にんのせんだつに　はなしを
+  きいたら　それぞれのなまえをあててみろ」
+ケルベロス「５人の先達に話を
+  聞いたらそれぞれの名前を当ててみろ」
+Cerberus: "Talk to these five men, and then try to guess their names."
+
+2
+「ぴたごらすは　すうがくしゃで
+  てつがくしゃのとなりには　すわらない」
+「ピタゴラスは数学者で
+  哲学者の隣には座らない」
+"Pythagoras doesn't sit next to mathematicians or philosophers."
+
+2
+「わたしはへろどとすでもないし　ぷらとん
+  でもない　となりのれきしかにきいてみろ」
+「私はヘロドトスでもないしプラトン
+  でもない隣の歴史家に聞いてみろ」
+"I am neither Herodotus nor Plato. Try asking the historian next to me."
+
+2
+「あしをくんでいるしじんは　ぷらとんと
+  なかがわるい」
+「足を組んでいる詩人はプラトンと
+  中が悪い」
+"The poet that crosses his legs is on bad terms with Plato."
+
+3
+「ほめろすと　へろどとすの　どちらかが
+  れきしかで　はじにすわるおとこのなまえは
+  ４もじだ」
+「ホメロスとヘロドトスのどちらかが
+  歴史家で　端に座る男の名前は
+  ４文字だ」
+"One of Homer or Herodotus is a historian, and the men sitting at the ends have names that have five letters."
+
+
+2
+「てつがくしゃは　けっしてしょうめんを
+  むかないと　そくらてすがいっていた」
+「哲学者は決して正面を
+  向かないとソクラテスが言っていた」
+"Socrates said that philosophers never face forward."
+
+2
+けるべろす「よし　ほんにんのまえで
+  なまえをいってみろ」
+ケルベロス「よし本人の前で
+  名前を言ってみろ」
+Cerberus: "Alright, go in front of each person and tell me their name."
+
+2
+けるべろす「ざんねんだったな　もういちど
+  やりなおせ」
+ケルベロス「残念だったな　もう一度
+  やり直せ」
+Cerberus: "Too bad. Try again."
+
+3
+けるべろす「まぐれか・　うんがよかったな
+  のぞみどおり　こどもはかえしてやる
+  あがってこい」
+ケルベロス「まぐれか・運が良かったな
+  望み通り子供は返してやる
+  上がってこい」
+Cerberus: "Lucky... Fine, just as you wanted, here's the boy. Come up here."
+
+
+4
+よかった・・　これでどうにか・・
+
+・・「まて」
+いやなよかん・・！
+よかった・・これでどうにか・・
+
+・・「待て」
+嫌な予感・・！
+Thank goodness... Somehow, with this...
+\
+...: "Wait!"
+I don't have a good feeling about this...!
+7
+あくま「この　くそがきが・・｜
+  つまらぬていこうをするから　こんなところまで
+  くるはめになったのだ｜
+  もういちど　ちゃんすをやる
+  たましいのけいやくを　うけろ！｜
+  そうすれば　このよは　わしとおまえのものだ｜
+  さあ　こっちへこい！」
+悪魔「このクソガキが・・｜
+  つまらぬ抵抗をするからこんな所まで
+  来る羽目になったのだ｜
+  もう一度チャンスをやる
+  魂の契約を受けろ！｜
+  そうすればこの世はわしとお前のものだ｜
+  さあこっちへ来い！」
+Devil: "You brat...
+It's all because of your foolish resistance that we've ended up here.
+
+I'll give you one more chance. Give me your soul!
+
+If you do, this world will be ours.
+Now, come over here!"
+1
+おれ「そっちいっちゃだめだ！こっちだ！」
+俺「そっち行っちゃだめだ！こっちだ！」
+Me: "You can't go that way! Come here!"
+2
+あくま「こっちだ！」
+おれ「いや　こっちだ！」
+悪魔「こっちだ！」
+俺「いや　こっちだ！」
+Devil: "Come here!"
+Me: "No, come here!"
+4
+あくま「じゃまをするな！
+  きさま　こんなところまで　ついてきおって！」
+おれ「すきで　きたわけじゃないぞ・・
+  お　おれのからだを　かえせ！」
+悪魔「邪魔をするな！
+  貴様こんな所までついてきおって！」
+俺「好きで来たわけじゃないぞ・・
+  お俺の体を返せ！」
+Devil: "Stay out of my way! Why'd you have to follow me out here?"
+
+Me: "It's not like I wanted to come here... G-give me back my body!"
+
+9
+あくま「よるな！」
+
+からだが　うごかない！
+
+あくま「このからだは　わしのものだ
+  もうあきらめろ」
+おれ「んなこと　いったって・・」
+あくま「さあこっちへこい　こぞう！　さもないと
+  なんどでもきさまを　ころしにいくぞ！」
+悪魔「寄るな！」
+
+体が動かない！
+
+悪魔「この体はわしのものだ
+    もう諦めろ」
+俺「んなこと言ったって・・」
+悪魔「さあこっちへ来い小僧！さもないと
+  何度でも貴様を殺しに行くぞ！」
+Devil: "Don't come near me!"
+\
+I can't move!
+\
+Devil: "This body is mine. Just give up already."
+
+Me: "Even if you say that..."
+Devil: "Hey, come over here, kid! If not, I'll keep killing you over and over again!"
+
+2
+あくま「よしよし　それでいいのだ・・」
+しかしそのとき・・
+悪魔「よしよしそれでいいのだ・・」
+しかしその時・
+Devil: "Yes, yes, that's good..."
+But, just then...
+5
+あくま「！」
+
+すずのねだ・・！　いましめのすずが
+たからかに　なりひびいている！
+あくま「ぐああああ・・！！」
+悪魔「！」
+
+鈴の音だ・・！戒めの鈴が
+高らかに鳴り響いている！
+悪魔「ぐああああ・・！！」
+Devil: "!"
+\
+The sound of the bell...! The bell of warning is ringing loudly!
+
+Devil: "Graaaaaaah...!!!"
+5
+おとこ「おうじ！　きこえますか　このすずのねが！
+  おうじ！　へんじをしてください！！」
+にくらす「おうじ・・？」
+おとこ「このかたは　まけどにあの　おうじ
+  あれくさんだーさまなんです！」
+男「王子！聞こえますかこの鈴の音が！
+  王子！返事をしてください！！」
+ニクラス「王子・・？」
+男「この方はマケドニアの王子
+  アレクサンダー様なんです！」
+Man: "Prince! Can you hear the sound of this bell!? Prince! Answer me!!!"
+
+Nikolaos: "Prince...?"
+Man: "This is the prince of Macedonia, Alexander!"
+
+1
+あくま「ああああ・・！」
+悪魔「ああああ・・！」
+Devil: "Aaaaaaah!"
+2
+おとこ「いきかえったぞ！　ばんざーい！！」
+にくらす「しんじられん・・　かみのきせきだ・・」
+男「生き返ったぞ！バンザーイ！！」
+ニクラス「信じられん・・神の奇跡だ・・」
+Man: "He's alive! Huzzah!"
+Nikolaos: "I can't believe it... It's a miracle of God..."
+2
+・・「おれたちは　かいほうされたんだ！」
+・・「じゆうばんざい！　りんかーんばんざい！」
+・・「俺達は解放されたんだ！」
+・・「自由万歳！リンカーン万歳！」
+...: "We've been set free!"
+...: "Hooray for freedom! Hooray for Lincoln!"
+5
+りんかーん「じんみんの　じんみんによる
+  じんみんのためのせいじを　このくにから
+  ほうむりさってはならない！｜
+  あめりかは　じゆうとびょうどうの
+  くになのです！」
+リンカーン「人民の人民による
+  人民のための政治をこの国から
+  葬り去ってはならない！｜
+  アメリカは自由平等の
+  国なのです！」
+Lincoln: "Government of the people, by the people, and for the people, shall not perish from the earth!
+
+
+America is a land of freedom and equality!"
+
+3
+・・「しっかりしなさい　じょーじ！」
+・・「じょーじ　だいじょうぶか？　じょーじ！」
+・・「じょーじ！」
+・・「しっかりしなさいジョージ！」
+・・「ジョージ大丈夫か？ジョージ！」
+・・「ジョージ！」
+...: "Hold on, George!"
+...: "George, are you okay? George!"
+...: "George!"
+6
+あたまが　ぼーーっとする・・｜
+ひどく　からだがだるい｜
+それよりも・・のどが・　のどがからからだ｜
+べる「じょーじ！」
+まいやー「かるい　にっしゃびょうだな
+  すこしねれば　なおる」
+頭がぼーーっとする・・｜
+ひどく体がだるい｜
+それよりも・・喉が・喉がからからだ｜
+ベル「ジョージ！」
+マイヤー「軽い日射病だな
+  少し寝れば治る」
+I feel dizzy...
+I can barely move.
+More than that... My throat... My throat is dry.
+Belle: "George!"
+Meyer: "It's just a mild case of heat stroke. He'll be fine after a bit of rest."
+
+4
+とき・・１８６４ねん　９がつ
+ばしょ・・あめりかがっしゅうこく　あとらんた
+なまえ・・じょーじ
+          まいやーのうじょうの　しようにん
+時・・１８６４年９月
+場所・・アメリカ合衆国アトランタ
+名前・・ジョージ
+        マイヤー農場の使用人
+Time: September, 1864
+Location: Atlanta, United States of America
+Name: George
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\A worker on the Meyer farm
+1
+いまにもくずれおちそうな　おんぼろごやだ
+今にも崩れ落ちそうなオンボロごやだ
+It's run-down and looks like it could collapse at any moment.
+1
+べっどのそばに　たんすがある
+ベッドのそばにタンスがある
+There is a dresser next to the bed.
+1
+しんぱいそうに　おれのかおをのぞきこんでいる
+心配そうに俺の顔を覗き込んでいる
+She is staring at my face with worry.
+1
+べる「まだだめ　もうすこしねてなさい」
+ベル「まだだめもう少し寝てなさい」
+Belle: "Not yet, you should rest a little longer."
+1
+１００どるさつが　なんまいかはいっている
+１００ドル札が何枚か入っている
+There are a few $100 bills inside.
+2
+しわくちゃで　どろのついたさつばかりだ
+べる「ちとあせの　けっしょうさ」
+しわくちゃで泥のついた札ばかりだ
+ベル「血と汗の結晶さ」
+They're all crumpled and muddy.
+Belle: "This is the fruit of our labor."
+3
+べる「こら！　とっちゃだめだ　それはね
+  なんじゅうねんもはたらいて　こつこつとためた
+  だいじな　おかねなんだよ」
+ベル「こら！取っちゃだめだ　それはね
+  何十年も働いてコツコツと貯めた
+  大事なお金なんだよ」
+Belle: "Hey! Don't take that! I've been working for decades and steadily saving up this important money."
+
+
+5
+べる「おまえはもう　どれいじゃないんだ
+  そんなに　はたらかなくたっていいんだよ」
+おれ「あの　あなたは・・」
+べる「なにいってんだい　このこは・・
+  ははおやをからかうなんて　たちがわるいよ」
+ベル「お前はもう奴隷じゃないんだ
+  そんなに働かなくたっていいんだよ」
+俺「あの　あなたは・・」
+ベル「何言ってんだい　この子は・・
+  母親をからかうなんてたちが悪いよ」
+Belle: "You aren't a slave anymore. You don't have to work so hard."
+
+Me: "Uh, who are you...?"
+Belle: "What are you saying? This boy... You shouldn't tease your mother like that."
+
+3
+べる「なかまたちが　つぎつぎとでていって
+  のこったのはあたしたちと　とむじいさんの
+  ３にんだけ・・　いそがしいのもむりないよね」
+ベル「仲間たちが次々と出ていって
+  残ったのはあたしたちとトムじいさんの
+  ３人だけ・・忙しいのも無理ないよね」
+Belle: "Our friends have been leaving us one by one, and now the two of us and Grandpa Tom are the only ones left... No wonder you're so busy."
+
+
+1
+どうやら　おれのははおやらしい
+どうやら俺の母親らしい
+Apparently, she seems to be my mother.
+6
+べる「あたしたちも　そろそろしおどきさ
+  もう　ここをでよう！」
+おれ「・・」
+べる「だんなさまは　なんぶのにんげんには
+  めずらしく　はなしのわかるおひとだ
+  きっとゆるしてくださるよ」
+ベル「あたしたちもそろそろ潮時さ
+  もうここを出よう！」
+俺「・・」
+ベル「だんな様は南部の人間には
+  珍しく話の分かるお人だ
+  きっと許してくださるよ」
+Belle: "It's about time for us to leave. Let's go!"
+
+Me: "..."
+Belle: "Our master is a reasonable man, which is rare for someone from the South. He'll definitely forgive you!"
+
+
+9
+べる「ながいあいだ　おせわになりました」
+まいやー「よわったな・・　おまえたちが
+  いなくなると　こののうじょうが・」
+べる「おねがいでございます　じゆうにいきて
+  いくのが　あたしたちのゆめだったんです！」
+まいやー「そうか・　さみしくなるけど
+  しかたがないな　のこりのしごとをかたづけたら
+  でてってもいいぞ」
+べる「ありがとうございます！」
+ベル「長い間お世話になりました」
+マイヤー「弱ったな・・お前たちが
+  いなくなるとこの農場が・」
+ベル「お願いでございます自由に生きて
+  いくのがあたしたちの夢だったんです！」
+マイヤー「そうか・さみしくなるけど
+  仕方がないな残りの仕事を片付けたら
+  出てってもいいぞ」
+ベル「ありがとうございます！」
+Belle: "Thank you for everything."
+Meyer: "This is tough... Without you around, this farm will..."
+
+Belle: "Please! Living freely has always been our dream!"
+
+Meyer: "I see... I'll miss you, but it can't be helped. Once you have finished up the last bit of work, you are free to go."
+
+
+Belle: "Thank you so much!"
+3
+まいやー「さっそくだが　しごとにかかってくれ｜
+  いくつかのしごとを　こうりつよくこなす
+  ためには　じゅんじょをまもらなくてはならん」
+マイヤー「早速だが仕事にかかってくれ｜
+  いくつかの仕事を効率よくこなす
+  ためには順序を守らなくてはならん」
+Meyer: "Let's get right to work.
+To efficiently handle several tasks, we must follow the proper order of things."
+
+2
+まいやー「わたしのいうことを　よーくきいて
+  そのとおりにするんだ　いいな？」
+マイヤー「私の言うことをよーく聞いて
+  そのとおりにするんだいいな？」
+Meyer: "Listen veeery carefully to what I'm about to say and then do exactly as you were told, alright?"
+
+2
+まいやー「すけじゅーるをまもらないと
+  きょうじゅうには　おわらないぞ」
+マイヤー「スケジュールを守らないと
+  今日中には終わらないぞ」
+Meyer: "If we don't stick to the schedule, we won't finish by the end of the day."
+
+13
+まいやー「まずは　わたのつみとりだ
+  とうのかごに５きろずつ２８こ　つんだら
+  つぎは　ながさ７０せんちのまきを
+  １２０ぽんつくれ　１０ぷんやすんだら
+  たにがわへみずをくみにいって　りょうてに
+  ばけつをさげて　３おうふくしてくるんだ
+  つづいて　にわのくさむしりを１じかんしたあと
+  １５ふんやすんで　やしきのやねを４かしょ
+  しゅうりしたら　おまえのしごとはおわりだ」
+
+
+
+
+マイヤー「まずはワタの摘み取りだ
+  とうのかごに５キロずつ２８個積んだら
+  次は長さ７０センチのまきを
+  １２０本作れ１０分休んだら
+  谷川へ水を汲みに行って両手に
+  バケツを下げて３往復して来るんだ
+  つづいて庭の草むしりを１時間した後
+  １５分休んで屋敷の屋根を４箇所
+  修理したらお前の仕事は終わりだ」
+
+
+
+
+Meyer: "First, pick cotton. Once you have filled 28 baskets with 5 kilograms each, next make 120 pieces of firewood 70 centimeters long and then once you have taken a 10-minute break, go to the mountain stream and draw water, going there and back 3 times with a bucket in each hand. Then, weed the garden for 1 hour, take a 15 minute break, and once you have repaired the 4 spots on the roof, your work will be done."
+
+
+
+
+
+
+
+
+\
+\
+\
+\\
+1
+まいやー「わかったな？」
+マイヤー「分かったな？」
+Meyer: "Got it?"
+2
+まいやー「わたしは　いそがしいんだ
+  もう１かいだけだぞ」
+マイヤー「私は忙しいんだ
+  もう１回だけだぞ」
+Meyer: "I'm busy, so I'll only say it one more time."
+
+1
+まいやー「じゃあ　たのんだぞ」
+マイヤー「じゃあ頼んだぞ」
+Meyer: "Alright, I leave it to you."
+1
+えーーと　たしかさいしょは・・
+えーーと確か最初は・・
+Ummmm, if I'm not mistaken, first...
+1
+ばけつ　なんばいだっけ・・
+バケツ何杯だっけ・・
+I think the number of buckets was...
+1
+つぎは・・
+次は・・
+Then...
+1
+かご　なんこだった・・？
+カゴ何個だった・・？
+How many baskets...?
+1
+なんかしょだったかな・・
+何箇所だったかな・・
+How many spots were there...
+1
+あれ？　ながさは・・？
+あれ？長さは・・？
+Huh? How long...?
+1
+じかんは・・
+時間は・・
+For how long...
+1
+なんか　ちがうみたいだな・・
+なんか違うみたいだな・・
+I feel like something's wrong...
+1
+よーし！　やるぞ！
+よーし！やるぞ！
+Alright! Let's do this!
+1
+おれ「うりゃうりゃ！」
+俺「うりゃうりゃ！」
+Me: "Grah!"
+1
+おれ「やっと　おわった・・」
+俺「やっと終わった・・」
+Me: "I'm finally done..."
+6
+まいやー「ここにいたか　じょーじ」
+おれ「しごとは　ぜんぶおわりましたよ」
+まいやー「とむが　しごとがはかどらなくて
+  こまっている・・　かちくごやにいるから
+  てつだってやってくれ」
+おれ「・・」
+マイヤー「ここにいたかジョージ」
+俺「仕事は全部終わりましたよ」
+マイヤー「トムが仕事がはかどらなくて
+  困っている・・家畜小屋にいるから
+  手伝ってやってくれ」
+俺「・・」
+Meyer: "There you are, George."
+Me: "I finished all my work."
+Meyer: "Tom's having trouble doing his work... He's in the barn, so go help him."
+
+
+Me: "..."
+2
+とむ「おお　じょーじ！　まってただ
+  ちょっと　ちえをかしてもらいてえだ」
+トム「おおジョージ！待ってただ
+  ちょっと知恵を貸してもらいてえだ」
+Tom: "Oh, George! I've been waiting for you. I need your help."
+
+7
+とむ「１０００どるぴったしで
+  うし　ひつじ　ぶたを５０ぴきかってこいと
+  いわれただ｜
+  うしは１ぴき１２０どる｜
+  ひつじは１ぴき３０どる｜
+  ぶたは１ぴき５どる　かかる｜
+  いったい　なんびきずつかえばええんかのー」
+トム「１０００ドルぴったしで
+  牛　羊　豚を５０匹買ってこいと
+  言われただ｜
+  牛は１匹１２０ドル｜ 5
+  羊は１匹３０ドル｜ 7
+  豚は１匹５ドルかかる｜ 38
+  一体何匹ずつ買えばええんかのー」
+Tom: "I was told to buy a total of 50 cows, sheep, and pigs for exactly $1000.
+
+
+Cows cost $120.
+Sheep cost $30.
+Pigs cost $5.
+How many of each should I buy?"
+1
+とむ「ちょっと　ちがうんでないかい？」
+トム「ちょっと違うんでないかい？」
+Tom: "Isn't that a bit off?"
+2
+とむ「おお　なるへそ！　それでばっちしだ｜
+  これで　かえるだよ」
+トム「おおなるへそ！それでバッチシだ｜
+  これで帰るだよ」
+Tom: "Oh, I see! That's right!
+With this, you can go."
+7
+とむ「おお　だんなさま！　よろこんでくだせえ
+  やっとわかりましただ！」
+まいやー「よかったな　とむ　ところで・・｜
+  じょーじ」
+おれ「はあ・」
+まいやー「べるが　こまってるんだ
+  やしきのだいどころへ　いってくれ」
+トム「おおだんな様！喜んでください
+  やっと分かりましただ！」
+マイヤー「良かったなトムところで・・｜
+  ジャージ」
+俺「はあ・」
+マイヤー「ベルが困ってるんだ
+  屋敷の台所へ行ってくれ」
+Tom: "Oh, master! Rejoice! I figured it out at last!"
+
+Meyer: "Good, Tom. By the way...
+George."
+Me: "*Huff*"
+Meyer: "Belle's having some issues. Please go to the kitchen."
+
+1
+べる「じょーじ　おねがいよ　ちえをかしとくれ」
+ベル「ジョージお願いよ知恵を貸しとくれ」
+Belle: "George, please! I need your help."
+5
+べる「ここに３ぼんのびんがあってね
+  １りっとるのびんは　からっぽ
+  ５００みりりっとると　３００みりりっとるの
+  びんには　みるくがいっぱい　はいってる｜
+  だんなさまがおっしゃるには・・」
+ベル「ここに３本の瓶があってね
+  １リットルの瓶は空っぽ
+  ５００ミリリットルと３００ミリリットルの
+  瓶にはミルクが一杯入ってる｜
+  だんな様がおっしゃるには・・」
+Belle: "There are three bottles here. A 1-liter bottle that is empty, and a 500-milliliter bottle and a 300-milliliter bottle that are each full of milk.
+
+
+
+Our master said..."
+5
+べる「どうにかして　１りっとるびんに
+  ７００みりりっとるのみるくを
+  いれてほしいんだとさ｜
+  びんには　めもりがついてないし・・
+  ねえ　なんとかしとくれ」
+ベル「どうにかして１リットル瓶に
+  ７００ミリリットルのミルクを
+  入れてほしいんだとさ｜
+  瓶には目盛りが着いてないし・・
+  ねえなんと貸しとくれ」
+Belle: "Somehow, he wants us to get 700 milliliters of milk into the one liter bottle.
+
+
+The bottles don't have any markings for measurements on them... Hey, can you figure it out for me?"
+
+1
+からっぽだ
+空っぽだ
+It's empty.
+1
+どれを
+どれを
+Which one?
+1
+どれに
+どれに
+Into which one?
+1
+１００みりりっとる　はいっている
+１００ミリリットル入っている
+It has 100 milliliters.
+1
+２００みりりっとる　はいっている
+２００ミリリットル入っている
+It has 200 milliliters.
+1
+３００みりりっとる　はいっている
+３００ミリリットル入っている
+It has 300 milliliters.
+1
+４００みりりっとる　はいっている
+４００ミリリットル入っている
+It has 400 milliliters.
+1
+５００みりりっとる　はいっている
+５００ミリリットル入っている
+It has 500 milliliters.
+1
+６００みりりっとる　はいっている
+６００ミリリットル入っている
+It has 600 milliliters.
+1
+７００みりりっとる　はいっている
+７００ミリリットル入っている
+It has 700 milliliters.
+1
+８００みりりっとる　はいっている
+８００ミリリットル入っている
+It has 800 milliliters.
+1
+からっほだ
+空っぽだ Was this a typo?
+It's empty.
+1
+いっぱいだ
+一杯だ
+It's full.
+1
+べる「なんだか　ちがうようだねぇ・・」
+ベル「何だがか違うようだねえ・・」
+Belle: "That doesn't seem right..."
+4
+べる「やったよ　じょーじ！
+  これで　しごとはぜんぶおわったんだ｜
+  じゆうになれる！　このなんぶから
+  ついに　ぬけだせるんだよ！」
+ベル「やったよジョージ！
+  これで仕事は全部終わったんだ｜
+  自由になれる！この南部から
+  ついに抜け出せるんだよ！」
+Belle: "You did it, George! With this, all the work is done.
+
+We're free! We can finally leave the South!"
+
+4
+まいやー「よく　がんばったな・・｜
+  まあ　きょうはもうおそいから
+  しゅっぱつは　あしたにしなさい」
+べる「わかりました」
+マイヤー「よく頑張ったな・・｜
+  まあ今日はもう遅いから
+  出発は明日にしなさい」
+ベル「分かりました」
+Meyer: "Good job...
+Well, it's already getting late, so you should leave tomorrow."
+
+Belle: "Got it."
+4
+・・「きょう１にちも　ぶじすごせましたことを
+  ふかくかんしゃします　あーめん」
+・・「おやすみ　じょーじ」
+・・「おやすみ」
+・・「今日１日も無事過ごせましたことを
+  深く感謝しますアーメン」
+・・「おやすみジョージ」
+・・「おやすみ」
+...: "I am deeply grateful for getting through another day safely. Amen."
+
+...: "Good night, George."
+...: "Good night."
+1
+しかし　まだ１にちは　おわっていなかった・・
+しかしまだ１日は終わっていなかった・・
+But the day wasn't over yet...
+1
+ねむっている
+眠っている
+She's sleeping.
+1
+べるは　ねむっている
+ベルは眠っている
+Belle is sleeping.
+1
+つかれた
+疲れた
+I'm worn out.
+1
+つきのひかりにしちゃ　あかるすぎるな・・
+月の光にしちゃ明るすぎるな・・
+That's too bright to be moonlight...
+2
+おとこ「おきろよ　じょーじ」
+おれ「！」
+男「起きろよジョージ」
+俺「！」
+Man: "Wake up, George!"
+Me: "!"
+5
+べる「なんだい？　こんなよなかに・
+  ひっ！」
+おれ「だ　だれだ！」
+おとこ「おしえにきてやったのさ
+  つめたい　げんじつってやつをな・・」
+ベル「何だい？こんな夜中に・
+  ひっ！」
+俺「だ誰だ！」
+男「教えに来てやったのさ
+  冷たい現実ってやつをな・・」
+Belle: "What is it? It's the middle of the night... Eep!"
+
+Me: "Wh-who are you!?"
+Man: "I came to teach you the brutal truth..."
+
+3
+おとこ「なにが　どれいかいほうだ！
+  きさまらなどに　でかいつらされてたまるか｜
+  みせしめだ！　むちをくれてやる！」
+男「何が奴隷解放だ！
+  貴様らなどにでかいつらされてたまるか｜
+  見せしめだ！無知をくれてやる！」
+Man: "What do you mean, emancipation? Like hell we'll let you all off!
+
+I'll show you! A lesson in ignorance!"
+10
+びしっ！
+おれ「ぐあーーっ！」
+べる「おねがいでございます　このままでは
+  むすこが　しんでしまいます」
+おとこ「いいか　じょーじ！」
+おれ「・・」
+おとこ「きさまらは　うまれながらのどれいだ｜
+  りんかーんがなんといおうと　おれたちが
+  いるかぎり　きさまらのすきにはさせん｜
+  よーく　おぼえておけ！」
+ビシッ！
+俺「ぐあーーっ！」
+ベル「お願いでございますこのままでは
+  息子が死んでしまいます」
+男「いいかジョージ！」
+俺「・・」
+男「貴様らは生まれながらの奴隷だ｜
+  リンカーンがなんと言おうと俺達が
+  いる限り貴様らの好きにはさせん｜
+  よーく覚えておけ！」
+*Smack!*
+Me: "Graah!"
+Belle: "I'm begging you, at this rate, my son is going to die!"
+
+Man: "Listen up, George!"
+Me: "..."
+Man: "You are all born to be slaves.
+No matter what Lincoln says, as long as we are here, you can't do as you please.
+
+Remember that well!"
+1
+どこへ？
+どこへ？
+Where to?
+1
+なきながら　おとこにすがりついている
+泣きながら男にすがりついている
+She's clinging to the man while crying.
+2
+たいまつのひに　てりはえるふくめんが
+ぶきみさをましている
+松明の火に照り映える覆面が
+不気味さを増している
+The light from their torches' flames makes their masks even more eerie.
+
+7
+・・「ぼす！　こやのなかに　こんなものが」
+おとこ「ほほう・・　１００どるさつじゃないか」
+べる「そ　そのおかねは・・」
+おとこ「こんなものは　きさまらには
+  ひつようない　おれがもらっといてやろう」
+べる「おに！　あくま！」
+おとこ「うるさい！」
+・・「ボス！小屋の中にこんな物が」
+男「ほほう・・１００ドル札じゃないか」
+ベル「そそのお金は・・」
+男「こんな物は貴様らには
+  必要ない俺がもらっといてやろう」
+ベル「鬼！悪魔！」
+男「うるさい！」
+...: "Boss! Look what I found in the cabin!"
+Man: "Oh ho... $100 bills."
+Belle: "Th-that money is..."
+Man: "You don't need something like that.  I'll gladly accept it myself."
+
+Belle: "You monster! Demon!"
+Man: "Shut up!"
+2
+びしっ！
+べる「きゃあーーっ！」
+ビシッ！
+ベル「きゃーーっ！」
+*Smack!*
+Belle: "Ahhh!"
+3
+おとこ「なんぶから　でていこうなどとおもうな
+  いっしょうを　おれたちのためにささげるんだ｜
+  わかったな・・」
+男「南部から出ていこうなどと思うな
+  一生を俺達のために捧げるんだ｜
+  分かったな・・」
+Man: "Don't even think of leaving the South. You're going to live your whole lives for us.
+
+Remember this..."
+1 Belle
+きを　うしなっている
+気を失っている
+She has lost consciousness.
+1
+もう　すがたはみえない
+もう姿は見えない
+I can't see them anymore.
+1 George
+きを　うしなっている
+気を失っている
+He has lost consciousness.
+1
+ひづめのあとが　つづいている
+蹄の跡が続いている
+There is a trail of hoofprints.
+1
+むこうぎしのほらあなから　あかりがもれている
+向こう岸の洞穴から明かりが漏れている
+There is light coming out of the cave on the other side of the river.
+2
+ゆるやかにながれる　かわのおとにまじって
+かすかに　ひとのこえがきこえる
+緩やかに流れる川の音に混じって
+かすかに人の声が聞こえる
+Amidst the sound of the gently flowing river, I can faintly hear human voices.
+
+1
+さいだんのまえに　ちょうこくがかざられている
+祭壇の前に彫刻が飾られている
+There is a sculpture on top of an altar.
+1
+おそろしい　やつらだ
+恐ろしい奴らだ
+They are terrifying.
+2
+さいだんにむかって　なにやらぶきみなじゅもんを
+となえている
+祭壇に向かって何やら不気味な呪文を
+唱えている
+They are all chanting some kind of creepy incantation towards the altar.
+
+1
+じさつこういだ
+自殺行為だ
+That would be suicide.
+2
+なにかをつかもうとする　てのかたちをしている｜
+どこかで　みたおぼえが・・
+何かを掴もうとする手の形をしている｜
+どこかえ見た覚えが・・
+It's in the shape of a hand reaching out to grab something.
+I feel like I've seen it somewhere before...
+4
+おとこ「たましいのけいやくを　かわしたわれわれに
+  もはや　おそれるものなどない｜
+  あくまのりそうとする　あんこくのれきしを
+  われわれじしんのてで　つくりあげていくのだ！」
+男「魂の契約を交わした我々に
+  もはや恐れるものなどない｜
+  悪魔の理想とする暗黒の歴史を
+  我々自身の手で作り上げていくのだ！」
+Man: "Having sold our souls, we no longer have anything to fear.
+
+We will create a dark history following the devil's ideals with our own hands!"
+
+4
+まいやー「ひどいやつらがいるもんだ・・｜
+  まあ・　きをおとすな　べる
+  またかねがたまるまで　ここではたらけばいい」
+おれ「・・」
+マイヤー「ひどい奴らがいるもんだ・・｜
+  まあ・気を落とすな　ベル
+  また金が溜まるまでここで働けばいい」
+俺「・・」
+Meyer: "There are some truly terrible people out there...
+Well... Don't get disheartened, Belle. You can keep working here until you have saved up more money."
+
+Me: "..."
+1
+おれたちのいえとは　ずいぶんちがうな
+俺達の家とはずいぶん違うな
+It's nothing like our house.
+1
+けっしょくのいい　かおだ
+血色のいい顔だ
+He has a good complexion.
+1
+まいやー「ちょっとまて」
+マイヤー「ちょっと待て」
+Meyer: "Wait a moment."
+6
+まいやー「ひるまでにもどってくる
+  だいじなきゃくを　つれてくるからな｜
+  そそうのないように　するんだぞ｜
+  それと　わたしのゆうじんが
+  でむかえのじゅんびをしているから
+  やしきには　はいらないように」
+マイヤー「昼までに戻ってくる
+  大事な客を連れてくるからな｜
+  粗相のないようにするんだぞ｜
+  それと私の友人が
+  出迎えの準備をしているから
+  屋敷には入らないように」
+Meyer: "I'll be back by noon. I'll be bringing an important guest.
+
+Don't mess anything up.
+Also, a friend is preparing for this meeting, so don't go inside."
+
+
+1
+きょうからどこにねるんだろ
+今日からどこに寝るんだろ
+Where will we be sleeping now?
+1
+いえは　もうない
+家はもうない
+It's no longer a house.
+1
+いちめんの　めんかばたけだ
+一面の綿花ばたけだ
+There is a vast field of cotton.
+1
+あせびっしょりで　はたらいている
+汗びっしょりで働いている
+He is working up a sweat.
+3
+じょーじ「りんかーんがいるかぎり　おれたちの
+  みらいは　まだまだすてたもんじゃない｜
+  だってかれは　かみさまのこどもなんだからね」
+ジョージ「リンカーンがいる限り俺達の
+  未来はまだまだ捨てたもんじゃない｜
+  だって彼は神様の子供なんだからね」
+George: "As long as Lincoln is around, our future isn't hopeless.
+
+After all, he is a child of God."
+2
+じょーじ「いいんだよ　かあさん
+  それは　おれのしごとだ」
+ジョージ「いいんだよ母さん
+  それは俺の仕事だ」
+George: "It's fine, Mom. This is my job."
+
+1
+かちくごやの　まえだ
+家畜小屋の前だ
+This is the front of the barn.
+1
+どこか　まがぬけている
+どこか間が抜けている
+There's something that looks off about him.
+3
+とむ「もうすぐ　しょうにんがやってくるだ｜
+  じょーじのおかげで　かちくが　かえて
+  まんずめでたい」
+トム「もうすぐ商人がやってくるだ｜
+  ジョージのおかげで家畜が変えて
+  まんずめでたい
+Tom: "The merchant will be here soon.
+Thanks to George, we're able to trade for livestock, which is cause for celebration."
+
+3
+とむ「おお　べる！　いいところにきた｜
+  このひとが　わけのわからねえことを
+  ゆってて　こまってるだよ」
+トム「おおベル！いいところに来た｜
+  この人がわけわからないことを
+  言ってて困ってるだよ」
+Tom: "Oh, Belle! You came at the right time.
+This guy is speaking nonsense and I don't know what to do."
+
+2
+めが　きょろきょろとうごいて
+おちつきがない
+目がキョロキョロと動いて
+落ち着きがない
+His eyes are moving around restlessly.
+
+1
+とむ「べる　いかないでくれ」
+トム「ベル行かないでくれ」
+Tom: "Belle, please don't go."
+2
+とむ「べる　はやくうってくれるように
+  はなしをつけてくれ」
+トム「ベル早く売ってくれるように
+  話をつけてくれ」
+Tom: "Belle, hurry up so we can start negotiating with him."
+
+1
+しょうにん「あのな・　こんなことしっちょるか？」
+商人「あのな・こんなことしっちょるか？」
+Merchant: "Hey... You know this one?"
+2
+せいぶで　いんでぃあんからはくじんを
+まもるため　たたかったぐんたいは？
+西部でインディアンから白人を
+守るため戦った軍隊は？
+Which army fought to protect white people from the Indians in the west?
+
+1
+しょうにん「あほ」
+商人「アホ」
+Merchant: "Idiot."
+1
+しょうにん「せいかいじゃ　ならばこれはどうだ？」
+商人「正解だ　ならばこれはどうだ？」
+Merchant: "Correct. How about this one?"
+2
+にほんへかいこくをせまるため　じょうりくした
+かんたいを　なんとよぶ？
+日本へ開国を迫るため上陸した
+艦隊をなんと呼ぶ？
+What is the name of the fleet that landed in Japan to force it to end its isolation?
+
+3
+なんぼくせんそうをおこす　ひきがねとなった
+しょうせつ「あんくるとむのこや」の
+さくしゃは？
+南北戦争を起こす引き金となった
+小説「アンクル・トムの小屋」の
+作者は？
+Who wrote the novel "Uncle Tom's Cabin", which was the cause of the American Civil War?
+
+
+2
+４にんのゆうめいな　だいとうりょうのかおが
+ほられた　さうすだこたの　やまは？
+４人の有名な大統領の顔が
+彫られたサウスダコタの山は？
+What mountain in South Dakota has the faces of four famous presidents carved onto it?
+
+2
+はつめいおう＿えじそんの　３だいはつめいとは
+ちくおんき　はつでんきと？
+発明王エジソンの３代発明とはとは
+蓄音機発電機と？
+The three inventions of Edison, the master inventor, were the phonograph, the dynamo, and?
+
+3
+しょうにん「せいかいじゃ｜
+  ぜんもんせいかいとは　やるもんじゃ｜
+  では　しょうばいをはじめようかのう」
+商人「正解じゃ｜
+  全問正解とはやるもんじゃ｜
+  では商売を始めようかのう」
+Merchant: "Correct.
+You got them all correct.
+Well then, let's begin trading."
+3
+とむ「ちかごろ　めっきり　めがきかなくなっただ
+  わるいけど　かんじょうしてくれ」
+１００どるさつのたばをさしだした
+トム「近頃めっきり目が効かなくなっただ
+  悪いけど勘定してくれ」
+１００ドル札の束を差し出した
+Tom: "My eyesight isn't what it used to be. I'm sorry, but could you count the money?"
+
+He holds out a stack of $100 bills.
+2
+しょうにん「ときは　すべてのかなしみをやわらげる
+  ・・あめりかの　ふるいことわざじゃ」
+商人「時はすべての悲しみを和らげる
+  ・・アメリカの古いことわざじゃ」
+Merchant: "Time heals all wounds.
+...It's an old American saying."
+4
+しわくちゃで　どろがついている
+おれ「この　おさつは・・」
+とむ「けさ　だんなからもらっただよ」
+おれ「・・」
+しわくちゃで泥が着いている
+俺「このお札は・・」
+トム「今朝旦那からもらっただよ」
+俺「・・」
+They're dirty and covered in mud.
+Me: "This money is..."
+Tom: "Our master gave it to me this morning."
+Me: "..."
+3
+ゆうがたちかくになって　ようやく
+まいやーが　もどってきた｜
+ひとりのきゃくを　つれて・・
+夕方近くになってようやく
+マイヤーが戻ってきた｜
+一人の客を連れて・・
+Meyer finally returned when it was nearly evening.
+
+And he brought a single guest...
+6
+まいやー「すばらしいおきゃくさまが　おみえだぞ
+  しょうかいしよう・・｜
+  みすたー　えいぶらはむ＿りんかーん！」
+じょーじ「だ　だいとうりょう・・！」
+りんかーん「こんにちは」
+まいやー「なんぶのしさつに　みえたんだ」
+マイヤー「素晴らしいお客様がお見えだぞ
+  紹介しよう・・｜
+  ミスターエイブラハム・リンカーン！」
+ジョージ「だ大統領・・！」
+リンカーン「こんにちは」
+マイヤー「南部の視察に見えたんだ」
+Meyer: "We have a wonderful guest here. Let me introduce you to...
+
+Mr. Abraham Lincoln!"
+George: "Th-the president...!"
+Lincoln: "Hello."
+Meyer: "He's traveling here to inspect the South."
+6
+りんかーん「そうですか　そんなひどいめに・・」
+まいやー「まったく　こまったものです
+  なんぶにはまだまだ　ねづよいさべついしきが
+  のこっているようでして・・」
+りんかーん「あなたみたいなかた　ばかりなら
+  せんそうはおきませんでしたよ　まいやーさん」
+リンカーン「そうですかそんなひどいめに・・」
+マイヤー「全く困った物です
+  南部にはまだまだ根強い差別意識が
+  残っているようでして・・」
+リンカーン「あなたみたいな方ばかりなら
+  戦争は起きませんでしたよマイヤーさん」
+Lincoln: "I see. How terrible..."
+Meyer: "It's really a troubling situation. It seems that there is still some deeply-rooted discrimination in the South..."
+
+
+Lincoln: "If only everyone were like you, Meyer-san, then this war wouldn't have happened."
+
+1
+げんかんのほーるだ
+玄関のホールだ
+This is the entrance hall.
+1
+こーひーぽっとと　かっぷが２こ　おかれている
+コーヒーポットとカップが２個置かれている
+There is a coffee pot and two cups on it.
+1
+まんめんに　えみをうかべている
+満面に笑みを浮かべている
+He has a big smile on his face.
+1
+こちこちに　きんちょうしている
+コチコチに緊張している
+He is frozen stiff from nervousness.
+3
+せはたかいが　やせっぽちだ｜
+きりりとむすんだくちもとが　いしのつよさを
+あらわしている
+背は高いが痩せっぽちだ｜
+きりりと結んだ口元が石の強さを
+表している
+He is tall and skinny.
+His stiff mouth shows the strength of a stone.
+
+3
+りんかーん「あめりかは　うまれかわります｜
+  あなたたちがおもうぞんぶん　ちからをはっきする
+  じだいが　かならずきますよ」
+リンカーン「アメリカは生まれ変わります｜
+  あなた達が思う存分力を発揮する
+  時代が必ず来ますよ」
+Lincoln: "America will be reborn.
+The time will surely come when you can live to your full potential."
+
+2
+まいやー「そとで　けいびしているひとたちに
+  こーひーを　さしいれてやってくれ」
+マイヤー「外で警備している人たちに
+  コーヒーを差し入れてやってくれ」
+Meyer: "Please bring some coffee to the guards outside."
+
+1
+きんちょうのあまり　こえがでないようだ
+緊張のあまり声が出ないようだ
+He seems so nervous that he can't talk.
+1
+たそがれている
+黄昏れている
+It is twilight.
+1
+しゅういに　きびしくめをひからせている
+周囲に厳しく目を光らせている
+They are keeping a close eye on the surroundings.
+2
+へいし「あやしいものは　ねずみいっぴきたりとも
+  みのがさない！」
+兵士「怪しい物はネズミ一匹たりとも
+  見逃さない！」
+Soldier: "We won't miss even a single mouse!"
+
+1
+ぽっとのこーひーを　かっぷにそそいだ
+ポットのコーヒーをカップに注いだ
+I poured coffee from the pot into the cups.
+1
+もう　からっぽだ
+もう空っぽだ
+It's already empty.
+1
+へいし１「ありがとう　いただくよ」
+兵士１「ありがとういただくよ」
+Soldier 1: "Thank you."
+7
+へいし１「あなたのごしゅじんは　りっぱだ｜
+  なんぐんがふりとみるや　すぐにほくぐんへ
+  ねがえって　きちょうなじょうほうを
+  ていきょうしてくれた」
+へいし２「おい　よさないか！」
+へいし１「かんしんしてるのさ　よわたりの
+  うまさに・・」
+兵士１「あなたのご主人は立派だ｜
+  南軍が不利と見るやすぐに北軍へ
+  寝返って貴重な情報を
+  提供してくれた」
+兵士２「おいよさないか！」
+兵士１「感心してるのさ　世渡りの
+  うまさに・・」
+Soldier 1: "Your master is impressive.
+The moment he saw that the South was at a disadvantage in the war, he switched sides and provided us with valuable intel."
+
+
+Soldier 2: "Hey, stop!"
+Soldier 1: "I'm just impressed with how he manages to navigate this world..."
+
+5
+まいやー「ふたりとも　きょうはもう
+  しごとはいいから　やすみなさい｜
+  こやのかわりに　にかいのきゃくしつを
+  つかっていいからな」
+じょーじ「あ　ありがとうございます」
+マイヤー「二人とも今日はもう
+  仕事はいいから休みなさい｜
+  小屋の代わりにニ回の客室を
+  使っていいからな」
+ジョージ「あ　ありがとうございます」
+Meyer: "You two have done enough work for the day, so you can rest.
+
+Instead of the cabin, you can use the guest room on the second floor."
+
+George: "Th-thank you!"
+2
+げすとるーむだ｜
+すみずみまで　そうじがゆきとどいている
+ゲストルームだ
+隅々まで掃除が行き届いている
+This is the guest room.
+Every nook and cranny is sparkling clean.
+1
+べっどのうえで　はしゃいでいる
+ベッドの上ではしゃいでいる
+He is on the bed and excited.
+2
+あめがふりだした
+どしゃぶりに　なりそうだ
+雨が降り出した
+土砂降りになりそうだ
+It has started to rain. It looks like it will be raining heavily.
+
+2
+じょーじ「おれ　こんなべっどにねるの
+  はじめてだよ　こうふんするなあ・・」
+ジョージ「俺こんなベッドに寝るの
+  初めてだよ　興奮するな・・」
+George: "This is the first time I've slept in a bed like this. I'm so excited..."
+
+1
+にかいの　ろうかだ
+ニ回の廊下だ
+This is the second floor hallway.
+2
+まいやーの　しょさいだ
+かべにしょうぞうがが　かざられている
+マイヤーの書斎だ
+壁に肖像画が飾られている
+This is Meyer's study. There is a portrait displayed on the wall.
+
+1
+３だんの　ひきだしがついている
+３段の引き出しが着いている
+It has three drawers.
+1
+ひきだしを　あけた
+引き出しを開けた
+I opened the drawer.
+1
+あいている
+開いている
+It's open.
+1
+ひきだしを　ぬきとった
+引き出しを抜き取った
+I took out the drawer.
+3
+２だんめをぬいたすきまから　なかをのぞくと・・｜
+くろびかりした　かわのむちと
+めとはなのあながあいた　ぬのぶくろがはいっている
+２段目を抜いた隙間から中を覗くと・・｜
+黒光りした革のムチと
+目と鼻の穴が開いた布袋が入っている
+I peered inside using the hole from the second drawer...
+Inside it are a glossy black leather whip and a cloth bag with holes for the eyes and nose.
+
+2
+かいだんの　おどりばだ
+ほーるが　みおろせる
+階段の踊り場だ
+ホールが見下ろせる
+This is the landing of the staircase.
+It overlooks the hall.
+1
+みけんに　しわをよせている
+眉間にシワを寄せている
+He has a wrinkled brow.
+1
+しきりに　なにごとかはなしかけている
+しきりに何事か話しかけている
+He keeps talking about something.
+2
+まいやー「どうした　べる・・　なんかようか？」
+おれ「いえ　べつに・・」
+マイヤー「どうしたベル・・なんかようか？」
+俺「いえ別に・・」
+Meyer: "What's wrong, Belle... Do you need something?"
+Me: "No, not really..."
+1
+たたきつけるような　どしゃぶりだ
+叩きつけるような土砂降りだ
+The rain is coming down hard.
+1
+そうしょくをほどこした　ふといはしらがある
+装飾を施した太い柱がある
+There is a thick ornamental pillar.
+7
+りんかーん「・で　だいじなはなしというのは・？」
+まいやー「じつはおりいって　おねがいがあるのです
+  わたしを　あなたのとくべつさんぼうに
+  にんめいしていただきたい」
+りんかーん「・・」
+まいやー「なんぶしゅっしんの　わたしとくめば
+  ばらんすのとれた　すばらしいせいじができる！」
+リンカーン「・で大事な話と言うのは・？」
+マイヤー「実は折りいってお願いがあるのです
+  私をあなたの特別参謀に
+  任命していただきたい」
+リンカーン「・・」
+マイヤー「南部出身のわたしとくめば
+  バランスの取れた素晴らしい政治がができる！」
+Lincoln: "...So, what was that important thing you wanted to talk about...?"
+Meyer: "Actually, I have a request. Please appoint me as your special adviser."
+
+
+Lincoln: "..."
+Meyer: "With a Southerner like me at your side, we can make a wonderful, balanced government!"
+
+6
+りんかーん「ざんねんですが　ひきうけかねます
+  だいいちわたしは　あなたをよくしらない」
+まいやー「ゆうべ　じょーじとべるをおそった
+  ものたちが　あなたのいのちをねらっています・｜
+  わたしなら　かれらのうごきを　ふうじることも
+  かのうなのですが・・」
+リンカーン「残念ですが引き受けかねます
+  第一私はあなたをよく知らない」
+マイヤー「昨夜ジョージとベルを襲った
+  者たちがあなたの命を狙っています・｜
+  私なら彼らの動きを封じることも
+  かのうなのですが・・」
+Lincoln: "I'm sorry, but I can't. First of all, I don't even know you that well."
+
+Meyer: "The people that attacked George and Belle last night are after your life...
+
+I could stop them from acting, but..."
+
+5
+りんかーん「どうやら　じかんのむだでしたな
+  しつれいします」
+そういって　どあにあしをむけたとき・・｜
+まいやーがとつぜん　ゆびぶえをならした
+りんかーん「！」
+リンカーン「どうやら時間の無駄でしたな
+  失礼します」
+そういってドアに足を向けた時・・｜
+マイヤーが突然指笛を鳴らした
+リンカーン「！」
+Lincoln: "This seems to have been a waste of time. If you'll excuse me."
+
+After saying that, right as he turned toward the door...
+Meyer suddenly whistled with his fingers.
+Lincoln: "!"
+4
+まいやー「おかえりは　まだはやいですよ　かっか」
+りんかーん「け　けいびへいは・・？」
+まいやー「ぐっすりとねむっています　さっきのんだ
+  すいみんやくいりの　こーひーでね・・」
+マイヤー「おかえりはまだ早いですよ　かっか」
+リンカーン「け警備兵は・・？」
+マイヤー「ぐっすりと眠っていますさっき飲んだ
+  睡眠薬入りのコーヒーでね・・」
+Meyer: "It's too early for you to be going home."
+Lincoln: "W-what happened to my guards...?"
+Meyer: "They're fast asleep. The coffee they just drank had sleeping pills in it..."
+
+1
+ついに　ほんしょうをあらわしたか・・
+ついに本性を表したか・・
+So he's finally revealed his true character...
+2
+まいやー「きが　かわりましたかな？」
+りんかーん「ばかをいうな！」
+マイヤー「気が変わりましたな？」
+リンカーン「バカを言うな！」
+Meyer: "Have you changed your mind?"
+Lincoln: "Don't be ridiculous!"
+4
+おれ「！」
+じょーじ「か・かあさん・・！」
+まいやー「べる！　じょーじ！　おりてこい！
+  おもしろいところへ　つれてってやる！」
+俺「！」
+ジョージ「か・母さん・・！」
+マイヤー「ベル！ジョージ！降りてこい！
+  面白い所へつれてってやる！」
+Me: "!"
+George: "M...Mom...!"
+Meyer: "Belle! George! Come down! I'm going to take you somewhere nice!"
+
+7
+まいやー「だいとうりょうかっか｜
+  あなたを　こんなばしょにおつれしたことを
+  いかんにおもいます・・｜
+  ここは　いうことをきかないどれいどもの
+  はかばです｜
+  このあめなら　あと１じかんもすれば
+  しまは　みずにしずんでしまうでしょう・・」
+マイヤー「大統領かっか｜
+  あなたをこんな場所にお連れしたことを
+  遺憾に思います・・｜
+  ここは言うことを聞かない奴隷どもの
+  墓場です｜
+  この雨なら後１時間もすれば
+  島は水に沈んでしまうでしょう・・」
+Meyer: "Mr. President...
+It's regrettable that I had to take you to a place like this...
+
+This is the graveyard of disobedient slaves.
+
+In an hour, the rain will probably completely cover the island..."
+
+1
+さむさときょうふで　がたがたふるえている
+寒さと恐怖ガタガタ震えている
+He is shaking from both the cold and fear.
+1
+ふあんそうに　こちらをぬすみみている
+不安そうにこちらを盗み見ている
+They are nervously looking this way.
+1
+らいめいが　とどろいている
+雷鳴が轟いている
+Thunder is roaring.
+2
+みずかさが　どんどんましている
+およいでわたれるような　ながれじゃない
+水かさがどんどん増している
+泳いで渡れるような流れじゃない
+The water is steadily rising.
+It's flowing too fast to swim across.
+1
+まいやー「おまえはだまってろ！」
+マイヤー「お前は黙ってろ！」
+Meyer: "Be quiet!"
+1
+りんかーん「しんぱいしないで」
+リンカーン「心配しないで」
+Lincoln: "Do not be afraid."
+1
+じょーじ「どうしたらいいんだ　かあさん！」
+ジョージ「どうしたらいいんだ母さん！」
+George: "What should we do, Mom!?"
+1
+こよーて「くをーーん」
+コヨーテ「クヲーーン」
+Coyotes: "*Howl*"
+11
+まいやー「だいとうりょうかっか
+  さいごの　ちゃんすです｜
+  どれいたちのことなど　ほっといて
+  はやく　じぶんだけぼーとにのりなさい！」
+りんかーん「・・」
+まいやー「ああ　いいわすれていましたが
+  ここにいる　こよーてどもは　じぶんたちより
+  おなじかずいじょうのあいてには　おとなしいが｜
+  あいてのかずがすくないとみるや
+  すぐにおそってきますから　きをつけて｜
+  では　やしきでおまちしています・・」
+マイヤー「大統領かっか
+  最後のチャンスです｜
+  奴隷達のことなどほっといて
+  早く自分だけボートに乗りなさい！」
+リンカーン「・・」
+マイヤー「ああ　いい忘れていましたが
+  ここにいるコヨーテどもは自分たちより
+  同じ数以上の相手にはおとなしいが｜
+  相手の数が少ないと見るや
+  すぐに襲ってきますから気をつけて｜
+  では屋敷でお待ちしています・・」
+Meyer: "Mr. President...
+This is your last chance.
+Forget about these slaves, and quickly take this boat by yourself!"
+
+Lincoln: "..."
+Meyer: "Ah, I almost forgot. These coyotes are docile when the number of people is no less than the number of coyotes.
+
+
+As soon as the number of coyotes is greater, they will attack, so take care.
+
+I'll be waiting at the estate..."
+2
+りんかーん「あなたたちを　みすてるわけには
+  いかない」
+リンカーン「あなた達を見捨てるわけには
+  行かない」
+Lincoln: "I cannot abandon you two."
+
+1
+じょーじ「はやくのろうよ！」
+ジョージ「早く乗ろうよ！」
+George: "Hurry up and get on!"
+2
+こよーて「がるるる・」
+じょーじ「このままじゃ　たべられちゃうよー！！」
+コヨーテ「ガルルル・」
+ジョージ「このままじゃ食べられちゃうよー！！」
+Coyote: "Grrrr..."
+George: "We're going to get eaten at this rate!"
+2
+じょーじ「ああ　おかあさんがおもすぎて
+  ぼーとがしずみそうだ！！」
+ジョージ「ああお母さんが重すぎて
+  ボートが沈みそうだ！！」
+George: "Ah, Mom is so heavy that the boat's about to sink!!"
+
+1
+じょーじ「こよーてだけじゃ　むりだよ」
+ジョージ「コヨーテだけじゃ無理だよ」
+George: "It won't move with just coyotes on it."
+1
+じょーじ「こよーても　ぜんぶたすけてやろうよ！」
+ジョージ「コヨーテも全部助けてやろうよ！」
+George: "Let's save all of the coyotes too!"
+2
+じょーじ「ああ　だめ！
+  ふたりしか　のれそうにないや」
+ジョージ「ああだめ！
+  二人しか乗れそうにないや」
+George: "Ah, we can't! No more than two can get on."
+
+1
+じょーじ「やった！　ぜんいんわたったぞ！！」
+ジョージ「やった！全員渡ったぞ！！」
+George: "Yes! We all made it!!"
+3
+まいやー「ええ　ええ・　それできがついたら
+  だいとうりょうのすがたは　もうなくて・｜
+  おそらく　ゆうべのやつらのしわざかと・・」
+マイヤー「ええ　ええ・それで気がついたら
+  大統領の姿はもうなくて・｜
+  おそらく昨夜の奴らの仕業かと・・」
+Meyer: "Yeah, yeah... And then, before I knew it, the president was gone...
+
+It was probably the work of those guys from last night..."
+5
+へいし「だいとうりょう！！」
+まいやー「おお！　ごぶじでしたか！
+  ・・で　おひとりなんですね？」
+りんかーん「いや　ぜんいんぶじですよ
+  こよーてもね・・」
+兵士「大統領！！」
+マイヤー「おお！ご無事でしたか！
+  ・・でお一人なんですね？」
+リンカーン「いや全員無事ですよ
+  コヨーテもね・・」
+Soldier: "Mr. President!!"
+Meyer: "Oh! You're safe! ...Are you alone?"
+
+Lincoln: "No, we all made it back safely. The coyotes, and..."
+
+4
+まいやー「そそ　そんな・・　まさか・・！」
+りんかーん「こんどは　わたしがあなたを
+  おつれしましょう　しょうしょうせまくて
+  くらいところですが・・」
+マイヤー「そそそんな・・まさか・・！」
+リンカーン「今度は私があなたを
+  お連れしましょう少々狭くて
+  暗い所ですが・・」
+Meyer: "Th-th-they... No way...!"
+Lincoln: "This time, you'll be coming with me. Where we're going is a bit cramped and dark, though..."
+
+
+3
+こんどはどこへいくきだ　あくまめ！｜
+こうなりゃ　じごくのはてまで
+ついてってやるぞ！
+今度はどこへ行くきだ悪魔め！｜
+こうなりゃ地獄の果まで
+着いてってやるぞ！
+Where are you going this time, you devil!?
+At this point I'll even follow you to hell!
+
+1
+う　うーーん・・
+う　うーーん・・
+U-ugh...
+4
+よせふ「ああ・・　なんてこった・・
+  これからどうやって　いきていけばいいんだ｜
+  なあ　かしむ・・　ひるねしてないで
+  おきてくれよ　かしむ！」
+ヨセフ「ああ・・なんてこった・・
+  これからどうやって生きていけばいいんだ｜
+  なあカシム・・昼寝してないで
+  起きてくれよカシム！」
+Joseph: "Man... What in the world... How should I live my life from here on out...
+
+Hey, Kasim... Stop napping and wake up, Kasim!"
+
+1
+へ・・？
+へ・・？
+Huh...?
+2
+こだかい　おかのうえだ
+しゅうらくが　みおろせる
+小高い丘の上だ
+集落が見下ろせる
+I am on a small hill. It looks down on a village.
+
+2
+よくはれているが　かぜがあって
+けっこう　はだざむい
+よく晴れているが風があって
+結構肌寒い
+It's sunny, but there's a breeze so it's quite chilly.
+
+1
+ろばか・・
+ロバか・・
+I'm a donkey...
+1
+すっかり　ふさぎこんでいる
+すっかり塞ぎ込んでいる
+He looks completely down in the dumps.
+1
+あせくさい　やつだな
+汗臭いやつだな
+He smells sweaty.
+1
+くさい
+臭い
+Stinky.
+1
+よせふ「よせよ　いたずらは・」
+ヨセフ「よせよいたずらは・」
+Joseph: "Come on, stop messing around..."
+1
+よせふ「ひとりにしないでくれ！」
+ヨセフ「一人にしないでくれ！」
+Joseph: "Don't leave me alone!"
+2
+よせふ「なあ　かしむ・・　ちょっと
+  おれのなやみを　きいてくれないか？」
+ヨセフ「なあカシム・・ちょっと
+  俺の悩みを聞いてくれないか？」
+Joseph: "Hey, Kasim... Won't you listen to my troubles for a bit?"
+
+1
+よせふ「そうか　ききたくないか・・」
+ヨセフ「そうか聞きたくないか・・」
+Joseph: "I see, you don't want to..."
+10
+よせふ「じつは・・　いいなずけの　まりあが
+  その・　こどもを　みごもったらしいんだ｜
+  でもな　かみさまにちかってもいいが
+  おれは　かのじょのてすら　にぎったことは
+  ないんだ！｜
+  まりあは　みにおぼえがないと　いっている・・
+  でも　そんなばかなことって　あるとおもうか？」
+おれ「ひひーん・」
+よせふ「もう　なにもしんじられない！
+  こんやくなんて　かいしょうだ！」
+ヨセフ「実は・・許嫁のマリアが
+  その・子どもを身ごもったらしいんだ｜
+  でもな神様に誓ってもいいが
+  俺は彼女の手すら握ったことは
+  ないんだ！｜
+  マリアは身に覚えがないと言っている・・
+  でもそんなバカなことってあると思うか？」
+俺「ヒヒーン・」
+ヨセフ「もう何も信じられない！
+  婚約なんて解消だ！」
+Joseph: "Actually... It seems that my fiance, Mary...is pregnant.
+
+But I swear to God, I've never even held her hand!
+
+
+Mary herself says she doesn't know how it happened...
+But do you really think something that ridiculous could happen?"
+Me: "*Hee-haw...*"
+Joseph: "I can't believe anything anymore! I'm calling off this engagement!"
+
+1
+よせふ「よのなか　まっくらやみだー」
+ヨセフ「世の中真暗闇だー」
+Joseph: "The world is in utter darkness!"
+3
+よせふ　まりあ　こども・・
+・・と　いうことは・・・
+もしかして・・
+ヨセフマリア子ども・・
+・・ということは・・・
+もしかして・・
+Mary, Joseph, and a child...
+...Could this be...
+Perhaps...
+4
+とき・・きげんぜん　４ねんごろ
+ばしょ・・いすらえる　なざれ
+なまえ・・かしむ
+しょくぎょう・・ろば
+時・・紀元前４年頃
+場所・・イスラエルナザレ
+名前・・カシム
+職業・・ロバ
+Time: Around 4 BC
+Location: Nazareth, Israel
+Name: Kasim
+Occupation: Donkey
+3
+ちょうろう「こまったことになった
+  あんなに　ひかれあっていたというのに・・｜
+  わしにはもう　どうすることもできん」
+長老「困ったことになった
+  あんなに惹かれ合っていたというのに・・｜
+  わしにはもうどうすることもできん」
+Elder: "This is unfortunate. Even though they were so drawn to each other...
+
+There's nothing else I can do."
+1
+うごけない
+動けない
+I can't move.
+4
+とき・・きげんぜん　４ねんごろ
+ばしょ・・いすらえる　なざれのむら
+なまえ・・かしむ
+しょくぎょう・・ろば
+時・・紀元前４年頃
+場所・・イスラエルナザレの村
+名前・・カシム
+職業・・ロバ
+Time: Around 4 BC
+Location: Village of Nazareth, Israel
+Name: Kasim
+Occupation: Donkey
+2
+ちいさなむらだ　しっくいをぬった
+しろいいえが　いくつかたちならんでいる
+小さな村だ漆喰を塗った
+白い家がいくつか立ち並んでいる
+It's a small village. There are several white, plastered houses in a row.
+
+1
+かおに　ふかいしわがきざまれている
+顔に深いシワが刻まれている
+His face has deep wrinkles.
+1
+こどものくせに　ほりがふかい
+子どものくせに彫りが深い
+For a child, he has surprisingly pronounced features.
+1
+なわで　はしらにつながれている
+縄で柱に繋がれている
+I'm attached to this post with a rope.
+1
+だいじなみずの　きょうきゅうげんだ
+大事な水の供給源だ
+This is an important source of water.
+1
+ほしくさが　やまもりになっている
+干し草が山盛りになっている
+There is a pile of hay in it.
+1
+むすびめが　ゆるいな
+結び目が緩いな
+The knot is loose.
+2
+ちょうろう「ちょっとした　きっかけさえあれば
+  なかよくなれるはずなんじゃが・・」
+長老「ちょっとした　きっかけさえあれば
+  仲良くなれるはずなんだが・・」
+Elder: "If only we had a little something to help them, I'm sure they could work it out..."
+
+3
+こんなもの　たべられるわけが・・
+おれ「ぶる！　ぶるる！」
+・・うーーん　ふしぎだがうまい
+こんな物食べられるわけが・・
+俺「ブル！ブルル！」
+・・うーーん不思議だがうまい
+I can't eat something like this...
+Me: "*Munch munch!*"
+...Mmm. Somehow, it's delicious!
+1 Drink
+なにを？
+何を？
+Drink what?
+1
+ほしくさのあまいかおりが　はなをくすぐる
+干し草の甘い香りが鼻をくすぐる
+The sweet smell of the hay tickles my nose.
+2
+おれ「ふが・　ふがが・」
+ほどけた！
+俺「フガ・フガガ・」
+ほどけた！
+Me: "Hrgh... Hrgh..."
+It came off!
+1
+んぐんぐ・・　ぷはーー！
+ングング・・プハーー！
+*Gulp gulp*... Ah...
+1
+あーー　ろばか・・
+あーー　ロバか・・
+Ahhh, a donkey...
+1
+ぴゅーぴゅーと　かぜのおとがきこえてくる
+ピューピューと風の音が聞こえてくる
+I can hear the whistling sound of the wind.
+1 Hold in
+なにを？
+何を？
+Hold what?
+1
+こどもたちが　あつまっている
+子どもたちが集まっている
+Children have gathered.
+1
+めぼしいものは　おちていない
+めぼしい物は落ちていない
+There isn't anything notable on the ground.
+1
+だれかを　まっているようだ
+誰かを待っているようだ
+They seem to be waiting for someone.
+1
+こども「まだかな　じいちゃん・・」
+子ども「まだかなじいちゃん・・」
+Child: "Is grandpa here yet...?"
+1
+くさのかおりがする
+草の香りがする
+It smells like grass.
+1
+こども「ん？　なに？」
+子ども「ん？何？」
+Child: "Huh? What is it?"
+1
+たなのうえに　ぎんのうでわがおかれている
+棚の上に銀の腕輪が置かれている
+There is a silver bracelet on the shelf.
+1
+せまいが　こぎれいにしてある
+狭いが小綺麗にしてある
+It's small, but it's clean.
+1
+ちからなく　ひきうすをまわしている
+力なく挽き臼を回している
+She is feebly spinning the hand mill.
+1
+せとものの　かめやおわんだ
+瀬戸物の甕やお椀だ
+There are earthenware pots and bowls.
+1
+はんどるをまわして　こむぎをひくしかけだ
+ハンドルを回して小麦を挽く仕掛けだ
+It's a device where you turn a handle to mill grain.
+1
+おとこものだよな　これは・・
+男物だよなこれは・・
+This looks like it was made for a man...
+1
+ひきたての　こむぎのかおりがする
+挽きたての小麦の香りがする
+It smells like freshly ground wheat.
+1
+はなの　かおりがする
+花の香りがする
+She smells like flowers.
+1
+まりあ「かしむ　いたずらはやめて」
+マリア「カシムいたずらはやめて」
+Mary: "Kasim, stop messing around."
+1
+まりあ「はが　おれるわよ」
+マリア「歯が折れるわよ」
+Mary: "You'll break your teeth."
+3
+おれ「はぐ　はぐ・　ぶるる！」
+まりあ「たんと　おたべ」
+おれ「ひひーん！」
+俺「ハグハグ・ブルル！」
+マリア「タントお食べ」
+俺「ヒヒーン！」
+Me: "*Munch munch*... *Sputter!*"
+Mary: "You eat a lot."
+Me: "*Hee-haw!*"
+2
+くちが　とどかない
+まりあ「かしむ　いたずらはやめて」
+口が届かない
+マリア「カシムいたずらはやめて」
+I can't reach it with my mouth.
+Mary: "Kasim, stop messing around."
+3
+まりあ「どうしたの？　かしむ・」
+おれ「ぶるる・」
+まりあ「ねえ　わたしのはなしをきいて」
+マリア「どうしたの？カシム・」
+俺「ブルル・」
+マリア「ねえ私の話を聞いて」
+Mary: "What's wrong? Kasim..."
+Me: "*Sputter...*"
+Mary: "Hey, can you listen to what I have to say?"
+1
+まりあ「そう・・」
+マイラ「そう・・」
+Mary: "I see..."
+4
+まりあ「わたしゆうべ　てんしのおつげをきいたの｜
+  ”おまえは　かみのこをみごもった
+    よせふとともに　たいせつにそだてるがよい”と｜
+  でもよせふは　ぜんぜん　しんようしてくれない」
+マリア「私昨夜天使のお告げを聞いたの｜
+  ”お前は神の子を身ごもった
+    ヨセフとともに大切に育てるがよい”と｜
+  でもヨセフは全然信用してくれない」
+Mary: "Last night, an angel gave me a message.
+'You have conceived the Son of God. Raise him with care along with Joseph.'
+
+But Joseph doesn't believe me."
+5
+まりあ「それはね　けっこんのしるしに
+  よせふにあげようと　おもっていたの　でも・」
+つぶらなひとみから　みるみるなみだがあふれてくる
+まりあ「わたしまってる・　よせふがわたしを
+  ふりむいてくれるまで・・」
+マリア「それはね結婚の印に
+  ヨセフに上げようと思っていたのでも・」
+つぶらな瞳からみるみる涙が溢れてくる
+マリア「私待ってる・ヨセフが私を
+  振り向いてくれるまで・・」
+Mary: "I was planning on giving that to Joseph as a sign of our marriage, but..."
+
+Tears suddenly started flowing out of her round eyes.
+Mary: "I'll be waiting... Until Joseph turns his attention to me..."
+
+2
+まりあ「わたしまってる・　よせふがわたしを
+  ふりむいてくれるまで・・」
+マリア「私待ってる・ヨセフが私を
+  振り向いてくれるまで・・」
+Mary: "I'll be waiting... Until Joseph turns his attention to me..."
+
+3
+だいくの　しごとばだ｜
+たなのうえに　からふるなくびかざりが
+おいてある
+大工の仕事場だ
+棚の上にカラフルな首飾りが
+置いてある
+This is a carpenter's workshop.
+There is a colorful necklace on the shelf.
+
+1
+やけくそのように　かんなかけをつづけている
+ヤケクソのように鉋掛けを続けている
+He is planing in a fit of desperation.
+2
+かんな　のこぎり　はんまー・・
+むかしから　ぜんぜんかわってないんだな
+カンナ　ノコギリ　ハンマー・・
+昔から全然変わってないんだな
+Planes, saws, hammers... They haven't changed a bit over all these years.
+
+1
+けっこう　がんじょうにできている
+結構頑丈にできている
+It is nice and solid.
+1
+おんなものだよな　これは・・
+女物だよなこれは・・
+This looks like it was made for a woman...
+1
+よせふ「また　なわをほどいたのか　おまえ・・」
+ヨセフ「また縄をほどいたのかお前・・」
+Joseph: "You untied the rope again..."
+3
+よせふ「かのじょは　おれがいやになったんで
+  でまかせをいってるんだ｜
+  みごもったはなしだって　うそにきまってる！」
+ヨセフ「彼女は俺が嫌になったんで
+  出任せをいってるんだ｜
+  身ごもった話だった嘘に決まってる！」
+Joseph: "She's probably just sick of me and made something up.
+
+There's no way she's pregnant, it has to be a lie!"
+2
+こまかいかんなくずが　はなのあなにはいってくる
+おれ「ふがが・」
+細かい鉋屑が鼻の穴に入ってくる
+俺「フガガ・」
+Small wood shavings got in my nostrils.
+Me: "*Snort...*"
+1
+よせふ「それは　たべられないぞ」
+ヨセフ「それは食べられないぞ」
+Joseph: "You can't eat that."
+2
+くちが　とどかない
+よせふ「やめろ　かしむ！」
+口が届かない
+ヨセフ「やめろカシム！」
+I can't reach it with my mouth.
+Joseph: "Cut it out, Kasim!"
+4
+よせふ「それはな　けっこんのきねんに
+  まりあに　あげようと・・　くっくく・」
+なみだといっしょに　はなみずがたれてくる
+よせふ「ぐぞー！　ぢぐじょー！　ずずずーーっ！」
+ヨセフ「それはな結婚の記念に
+  マリアに上げようと・・クックク・」
+涙と一緒に鼻水がたれてくる
+ヨセフ「ぐぞー！ぢぐじょー！ずずずーーっ！」
+Joseph: "I was planning to give that to Mary as a wedding gift... *Sniffle...*"
+
+Tears and snot start dripping down.
+Joseph: "Damn it! Damn it all! *Sob!*"
+1
+よせふ「ぐっぞー！　ぢぐじょーーっ！」
+ヨセフ「ぐっぞー！ぢぐじょーーっ！」
+Joseph: "Damn it! Damn it all!"
+1
+よせふ「こら！」
+ヨセフ「こら！」
+Joseph: "Hey!"
+3
+こども「ねえ・　みんな　かわにあつまってるよ
+  はやく　おはなしきかせて！」
+ちょうろう「ああ・　そうじゃな」
+子ども「ねえ・みんな川に集まってるよ
+  早くお話聞かせて！」
+長老「ああ・そうじゃな」
+Child: "Hey... Everybody's waiting for you at the river. Hurry up and tell us a story!"
+
+Elder: "Ah... Is that so?"
+1
+ひゅーひゅーと　かぜのおとがきこえてくる
+ヒューヒューと風の音が聞こえてくる
+I can hear the whistling sound of the wind.
+1
+ちょうろうとこどもたちが　たきびにあたっている
+長老と子どもたちが焚き火にあたっている
+The elder and children are around the fire.
+1
+ちょうろうのはなしを　むちゅうできいている
+長老の話を夢中で聞いている
+They are absorbed in the elder's story.
+2
+たきびのけむりが　はなのあなにはいってくる
+おれ「ふがが・」
+焚き火の煙が鼻の穴には行ってくる
+俺「フガが・」
+Some of the smoke from the fire got in my nose.
+Me: "*Snort...*"
+10
+ちょうろう「いすらえるのれきしは
+  ながいさすらいと　くるしいたたかいと
+  しいたげられたものの　かなしみの
+  れんぞくじゃった｜
+  ばびろん　ぎりしゃ　えじぷと　そしてろーま・・｜
+  いすらえるのしゅじんは　つぎつぎとかわったが
+  ひとびとのくらしは　けっしてよくは
+  ならなかったのじゃ｜
+  しかし　しんぱいすることはないぞ｜
+  いまにきっと　すくいぬしがあらわれる！」
+長老「イスラエルの歴史は
+  長いさすらいと苦しい戦いと
+  虐げられたものの悲しみの
+  連続だった｜
+  バビロン　ギリシャ　エジプト　そしてローマ・・｜
+  イスラエルの主人は次々と変わったが
+  人々の暮らしは決してよくは
+  ならなかったのだ｜
+  しかし心配することはないぞ｜
+  今にきっと救い主が現れる！」
+Elder: "Israel's history has been a long story of sadness: wandering, painful battles, and oppression.
+
+
+
+Babylon, Greece, Egypt, then Rome...
+Israel's rulers changed one after another, but our lives have never improved.
+
+
+However, there is no need to worry.
+Surely, the Savior is coming soon!"
+4
+ちょうろう「ふるいよげんしょにも
+  はっきりと　かかれておるのじゃ！
+  ”ゆだやのち＿べつれへむより　ひとりのたみが
+    あらわれ　すくいぬしとならん”　・・と」
+長老「古い預言書にも
+  はっきりと書かれておるのだ！
+  ”ユダヤの血・ベツレヘムより一人の民が
+    現れ救い主とならん”・・と」
+Elder: "It is clearly written in the ancient prophecies!
+
+'Someone from the tribe of Judah will come out of Bethlehem and become the Savior...' it says."
+
+1
+くびかざりを　くわえた
+首飾りをくわえた
+I grabbed the necklace in my mouth.
+1
+くちが　ふさがっている
+口が塞がっている
+My mouth is full.
+2
+まりあ「？　どうしたの？　そのくびかざり・・｜
+  ・・ひょっとして　よせふが？」
+マリア「？どうしたの？その首飾り・・｜
+  ・・ひょっとしてヨセフが？」
+Mary: "? What's wrong? That necklace...
+...Is it from Joseph, perhaps?"
+1
+まりあ「うそよ　よせふがよこしたんでしょ？」
+マリア「嘘よヨセフがよこしたんでしょ？」
+Mary: "You're lying. Joseph sent that, right?"
+5
+まりあ「そう・・　わたしにあうのがはずかしくて
+  あなたに　もってこさせたのね？」
+おれ「ひひーん！」
+まりあ「きっとしんじてくれると　おもってた・・」
+くびかざりをとり　くびにかけた
+マリア「そう・・私に会うのが恥ずかしくて
+  あなたに持ってこさせたのね？」
+俺「ヒヒーン！」
+マリア「きっと信じてくれると思ってた・・」
+首飾りを取り首にかけた
+Mary: "I see... He was embarrassed to meet me in person, so he sent you to bring it, right?"
+
+Me: "*Hee-haw!*"
+Mary: "I was sure he would believe in me..."
+She took the necklace and put it on her neck.
+1
+うれしなみだを　うかべている
+嬉し涙を浮かべている
+She is about to cry tears of joy.
+1
+よく　にあう
+よく似合う
+It suits her well.
+1
+まりあ「ありがとう　かしむ」
+マリア「ありがとうカシム」
+Mary: "Thank you, Kasim."
+3
+まりあ「そう・・あなたがもっていってくれるのね」
+たなからうでわをとり　おれのくちにくわえさせた
+まりあ「あなたって　ほんとにかしこいのね」
+マリア「そう・・あなたが持っていってくれるのね」
+棚から腕輪を取り俺の口にくわえさせた
+マリア「あなたってほんとに賢いのね」
+Mary: "I see... You're going to take it to him for me, right?"
+I took the bracelet from the shelf in my mouth.
+Mary: "You're pretty smart."
+2
+よせふ「？　どうしたんだ　そのうでわ・・
+  ひょっとして　まりあが？」
+マリア「？どうしたの？その腕輪・・
+  ひょっとしてマリアが？」
+Joseph: "? What's wrong? That bracelet...
+Is it from Mary, perhaps?"
+1
+よせふ「うそつくな！　まりあがよこしたんだろ？」
+ヨセフ「嘘つくな！マリアがよこしたんだろ？」
+Joseph: "Don't lie! Mary sent that, right?"
+11
+よせふ「そうか・・　おれにあうのがはずかしくて
+  おまえに　もってこさせたんだな？」
+おれ「ひひーん！」
+よせふ「・・でもな　おれはやっぱり
+  てんしのおつげ　なんてはなしは
+  どうしたってしんじられな・・」
+
+
+
+そのときだった・・｜
+とつぜんそらから　あいつが　おりてきたのだ・・
+ヨセフ「そうか・・俺に会うのが恥ずかしくて
+  お前に持ってこさせたんだな？」
+俺「ヒヒーン！」
+ヨセフ「・・でもな俺はやっぱり
+  天使のお告げなんて話は
+  どうしたって信じられな・・」
+
+
+
+その時だった・・｜
+突然空からあいつが降りてきたのだ・・
+Joseph: "I see... She was embarrassed to meet me in person, so she sent you to bring it, right?"
+
+Me: "*Hee-haw!*"
+Joseph: "...But even still, I can't bring myself to believe all of this nonsense about an angel's message..."
+
+
+\
+\
+\
+Right then...
+That guy descended from the sky...
+13
+よせふ「あなたは・・？」
+あくま「わたしは　かみのこえをつたえる
+  てんしである・・」
+おれ「ぶるる！」
+あくま「よせふよ・」
+よせふ「は　はい！」
+あくま「まりあは　かみのこをみごもったのだ
+  しんぱいしないで　まりあとけっこんするがよい」
+よせふ「はい！」
+あくま「そして・・　そのこに　”でーもん”　と
+  なづけよ　わかったな？」
+よせふ「わかりました！　てんしさま！」
+あくま「よろしい」
+ヨセフ「あなたは・・？」
+悪魔「私は神の声を伝える
+  天使である・・」
+俺「ブルル！」
+悪魔「ヨセフよ・」
+ヨセフ「ははい！」
+悪魔「マリアは神の子を身ごもったのだ
+  心配しないでマリアと結婚するがよい」
+ヨセフ「はい！」
+悪魔「そして・・その子に”デーモン”と
+  名付けよ　分かったな？」
+ヨセフ「分かりました！天使様！」
+悪魔「よろしい」
+Joseph: "Who are you...?"
+Devil: "I am an angel, coming to tell you the word of the Lord..."
+
+Me: "*Sputter!*"
+Devil: "Joseph..."
+Joseph: "Y-yes!"
+Devil: "Mary has conceived the Son of God. Do not be afraid to take her as your wife."
+
+Joseph: "Yes!"
+Devil: "And...name the child 'Demon', alright?"
+
+Joseph: "Understood! Angel-sama!"
+Devil: "Good."
+1
+よせふ「ありがたや　ありがたや・」
+ヨセフ「ありがたや　ありがたや・」
+Joseph: "Thanks be to God..."
+3
+おもいもかけない　てだすけがあって
+ふたりはめでたく　むすばれた｜
+そして　すうかげつたった　あるひのこと・・
+思いもかけない手助けがあって
+二人はめでたく結ばれた｜
+そして数ヶ月たったある日のこと・・
+Thanks to some unexpected help, the two of them were happily married.
+
+Then, one day, several months later...
+1
+おれはやっぱり　ろばだった・・
+俺はやっぱりロバだった・・
+Of course, I'm still a donkey...
+8
+へいし「よせふというのは　おまえか？」
+よせふ「はい」
+へいし「ろーまこうてい＿あうぐすとすさまの
+  めいにより　こせきちょうさをおこなう｜
+  おまえの　うまれたとちは？」
+よせふ「べつれへむ　ですが・・」
+へいし「ならばすぐに　べつれへむへいって
+  とうろくを　おこなうのだ」
+兵士「ヨセフと言うのはお前か？」
+ヨセフ「はい」
+兵士「ローマ皇帝・アウグストス様の
+  名により戸籍調査を行う｜
+  お前の生まれたとちは？」
+ヨセフ「ベツレヘムですが・・」
+兵士「ならばすぐにベツレヘムへ行って
+  登録を行うのだ」
+Soldier: "Are you Joseph?"
+Joseph: "Yes."
+Soldier: "In the name of Augustus Caesar, emperor of Rome, we are conducting a census.
+
+Where were you born?"
+Joseph: "Bethlehem, but..."
+Soldier: "Well then, you better hurry up and go to Bethlehem to register."
+
+5
+よせふ「だいじょうぶか　まりあ」
+まりあ「ええ　なんとか・
+  それより　かしむが　つらそうよ」
+よせふ「なーに　こいつはだいじょうぶさ｜
+  みずでものませれば　すぐげんきになるって！」
+ヨセフ「大丈夫かマリア」
+マリア「ええなんとか・
+  それよりカシムがつらそうよ」
+ヨセフ「なーにこいつは大丈夫さ｜
+  水でも飲まさればすぐ元気になるって！」
+Joseph: "Are you alright, Mary?"
+Mary: "Eh, I'm alright... But Kasim seems to be struggling."
+
+Joseph: "What? He's fine.
+He'll get better after we give him some water!"
+1
+ろばのきも　しらないで・・
+ロバのきも知らないで・・
+You don't know what it's like to be a donkey...
+1
+こうりょうとしたけしきが　つづいている
+荒涼とした景色が続いている
+The desolate landscape goes on forever.
+1
+ひとり　げんきだ
+一人元気だ
+He's the only one of us with energy.
+1
+いがいと　おもい
+意外と重い
+She's surprisingly heavy.
+2
+ふしぶしがいたい・　はらがへった・
+のども　からからだ・・
+節々が痛い・腹が減った・
+喉もカラカラだ・・
+My joints hurt... I'm hungry...
+My throat is parched...
+4
+よせふ「おかしいなあ・・」
+まりあ「どうしたの？」
+よせふ「そろそろ　まちが　みえてくるはず
+  なんだけど・・　みちに　まよったみたいだ」
+ヨセフ「おかしいなあ・・」
+マリア「どうしたの？」
+ヨセフ「そろそろ町が見えてくるはず
+  なんだけど・・道に迷ったみたいだ」
+Joseph: "It's strange..."
+Mary: "What is?"
+Joseph: "We should be seeing the town soon. But...it seems that we've gotten lost."
+
+2
+すなぼこりが　はなのあなにはいってくる
+おれ「ふがが・」
+砂埃が鼻の穴に入ってくる
+俺「フガが・」
+A speck of dust got in my nostril.
+Me: "*Snort...*"
+1
+よせふ「どうした？　かしむ・」
+ヨセフ「どうした？カシム・」
+Joseph: "What's wrong, Kasim?"
+1
+よせふ「なに　おこってるの？」
+ヨセフ「何起こってるの？」
+Joseph: "What's going on?"
+2
+おれ「ひひーん！」
+よせふ「なに　おこってるの？」
+俺「ヒヒーン！」
+ヨセフ「何起こってるの？」
+Me: "*Hee-haw!*"
+Joseph: "What's going on?"
+6
+おれ「はあっ　はあっ」
+よせふ「あ・　そうか　みずをやるんだったな
+  すまんすまん」
+こしにさげたすいとうの　せんをぬいたが・・
+おれ「あー　もうなかったんだ」
+おれ「ひひーん！」
+俺「はあっ　はあっ」
+ヨセフ「あ・そうか水をやるんだったな
+  すまんすまん」
+腰に下げた水筒の栓を抜いたが・・
+俺「あーもうなかったんだ」
+俺「ヒヒーン！」
+Me: "*Pant pant*"
+Joseph: "Ah... Right, I need to give you some water. Sorry, sorry."
+
+He took the cap off the water bottle hanging on his waist...
+Me: "Oh, it's all gone already."
+Me: "*Hee-haw!*"
+2
+よせふ「みずはないんだ　がまんしろ」
+おれ「ぶるる・」
+ヨセフ「水はないんだ我慢しろ」
+俺「ブルル・」
+Joseph: "We're out of water. Hang in there."
+Me: "*Sputter...*"
+1
+よせふ「なんだ　こいつ・」
+ヨセフ「何だこいつ・」
+Joseph: "Man, this donkey..."
+2
+まりあ「みずも　しょくりょうも　なくなったわ」
+よせふ「まいったな　もうすぐひがくれる・・」
+マリア「水も食料もなくなったわ」
+ヨセフ「まいったなもうすぐ日が暮れる・・」
+Mary: "We're out of both food and water."
+Joseph: "Shoot. The sun will set soon too..."
+2
+おもい　つかれた　はらへった・・
+もう　いっぽも　あるけない・・
+重い疲れたハラヘッタ・・
+もう一歩も歩けない・・
+I feel heavy, tired, and hungry... I can't take another step...
+
+3
+まりあ「かしむ！」
+よせふ「おい　しっかりしろ！」
+おれ「ひひーん・・」
+マリア「カシム！」
+ヨセフ「おいしっかりしろ！」
+俺「ヒヒーン・・」
+Mary: "Kasim!"
+Joseph: "Pull yourself together!"
+Me: "*Hee-haw...*"
+1
+こまったかおで　おれをみつめている
+困った顔で俺を見つめている
+She's looking at me with worry on her face.
+1
+ろばのじんせいって　かなしい・・
+ロバの人生って悲しい・・
+The sad life of a donkey...
+3
+くんくん・・　お？　くんくん・・
+おお！　このこうばしいにおいは　ほしくさだ！
+ちかくに　いえがあるぞ
+クンクン・・お？クンクン・・
+おお！この香ばしい匂いは干し草だ！
+近くに家があるぞ
+*Sniff sniff...* Oh? *Sniff sniff...*
+Oh! This is the sweet aroma of hay! We're close to a house.
+
+2
+おれ「ひひーん！　ひひひーん！」
+よせふ「どうしたんだ　かしむ！」
+俺「ヒヒーン！ヒヒヒーン！」
+ヨセフ「どうしたんだカシム！」
+Me: "*Hee-haw! Heeeee-haw!"
+Joseph: "What's wrong, Kasim?"
+2
+おれ「ひひーん！」
+いちもくさんにかけだした
+俺「ヒヒーン！」
+一目散に駆け出した
+Me: "*Hee-haw!*"
+I ran off at full speed.
+1
+よせふ「おい！　まて　かしむ！」
+ヨセフ「おい！待てカシム！」
+Joseph: "Hey! Wait up, Kasim!"
+1
+たすかった・・！
+助かった・・！
+I'm saved...!
+1
+ゆうぼくみんの　いえだな
+遊牧民の家だな
+It seems to be a house for nomads.
+1
+きのよさそうな　おとこだ
+気の良さそうな男だ
+It seems to be a good-natured male.
+1 Joseph
+こまったかおを　している
+困った顔をしている
+He's making a troubled face.
+1 Mary
+こまったかおを　している
+困った顔をしている
+She's making a troubled face.
+3
+らくだ「なんだっぺ？」
+おれ「ほしくさ　たべていい？」
+らくだ「ええよ　なんぼでもくってけや」
+ラクダ「何だっペ？」
+俺「干し草食べていい？」
+ラクダ「ええよなんぼでも食ってけや」
+Camel: "What is it?"
+Me: "Can I eat this hay?"
+Camel: "Sure, eat as much as you want."
+1
+らくだ「おら　しょうじきだけがとりえだ」
+ラクダ「おら正直だけが取り柄だ」
+Camel: "Honesty is my only virtue."
+1
+おれ「おー　でりしゃす！　ふがが・ふがふが！」
+俺「おーデリシャス！フガが・フガフガ！」
+Me: "Oh, delicious! *Chomp chomp... Chomp chomp!*"
+1
+よせふ「ちょっとまて　かしむ」
+ヨセフ「ちょっと待てカシム」
+Joseph: "Wait a moment, Kasim."
+3
+よせふ「どなたか　いらっしゃいますかー？」
+
+・・「なんか　ごよう？」
+ヨセフ「どなたかいらっしゃいますかー？」
+
+・・「なんか御用？」
+Joseph: "Is someone in there?"
+\
+...: "What do you want?"
+1
+みょうに　おちついている
+妙に落ち着いている
+They are strangely calm.
+1
+よせふ「べつれへむへ　いきたいのですが・・」
+ヨセフ「ベツレヘムへ行きたいのですが・・」
+Joseph: "I want to go to Bethlehem, but..."
+3
+みぎのおとこ「ひがしへ　まっすぐいけ」
+まんなかのおとこ「きたへ　まっすぐいけ」
+ひだりのおとこ「にしへ　まっすぐいけ」
+右の男「東へまっすぐ行け」
+真ん中の男「北へまっすぐ行け」
+左の男「西へまっすぐ行け」
+Man on the right: "Go straight east."
+Man in the middle: "Go straight north."
+Man on the left: "Go straight west."
+6
+みぎのおとこ「まんなかのおとこは
+  ちゃらんぽらん　じゃない」
+まんなかのおとこ「むかってひだりの　おとこは
+  しょうじきもの　じゃない」
+ひだりのおとこ「むかってみぎの　おとこは
+  うそつき　じゃない」
+右の男「真ん中の男は
+  ちゃらんぽらんじゃない」
+真ん中の男「向かって左の男は
+  正直者じゃない」
+左の男「向かって右の男は
+  嘘つきじゃない」
+Man on the right: "The man in the middle is not irresponsible."
+
+Man in the middle: "The man on the left is not honest."
+
+Man on the left: "The man on the right is not a liar."
+
+5
+らくだ「３にんのなかの　ひとりは
+  ぜったいうそをつかない　しょうじきもの｜
+  ひとりは　うそしかつかない　うそつき｜
+  ひとりは　たまにうそをつく
+  ちゃらんぽらん　だっぺ」
+ラクダ「３人の中の一人は
+  絶対嘘をつかない正直者｜
+  一人は嘘しかつかない嘘つき｜
+  一人はたまに嘘をつく
+  ちゃらんぽらんだっぺ」
+Camel: "Among the three of them, one is honest and never tells a lie.
+
+One is a liar who always tells lies.
+And one is irresponsible and sometimes lies."
+
+2
+おれ「ひひーん！」
+よせふ「よし！　おまえをしんじよう」
+俺「ヒヒーン！」
+ヨセフ「よし！お前を信じよう」
+Me: "*Hee-haw!*"
+Joseph: "Alright! I'll believe in you."
+1
+うしろを　ついてきている
+後ろをついてきている
+He's sticking behind me.
+1
+なるべく　ゆらさないようにしよう
+なるべく揺らさないようにしよう
+She's trying to not shake as much as possible.
+2
+よせふ「たよりになるな　かしむは・・」
+まりあ「ほんと」
+ヨセフ「頼りになるなカシムは・・」
+マリア「ほんと」
+Joseph: "Kasim is so reliable..."
+Mary: "He really is."
+3
+「ここよりさき　べつれへむのまち」
+
+よせふ「やった　ついたぞ！」
+「ここより先ベツレヘムの町」
+
+ヨセフ「やった着いたぞ！」
+"Beyond this point is the town of Bethlehem"
+\
+Joseph: "We made it!"
+3
+いっぽうそのころ　よぞらのほしにみちびかれて
+やはり　べつれへむをめざす
+３にんの　たびびとがいた
+一方その頃夜空の星に導かれて
+やはりベツレヘムを目指す
+３人の旅人がいた
+Meanwhile, guided by a star in the night sky, three travelers were also heading to Bethlehem.
+
+
+1
+・・「あそこだ　いそごう」
+・・「あそこだ急ごう」
+...: "Over there, let's hurry!"
+8
+やどや「へやはもう　いっぱいだよ」
+よせふ「そこをなんとか・」
+やどや「ないものはないんだ　みちばたに　ねな」
+よせふ「おねがいです！
+  こどもが　うまれそうなんですよ」
+やどや「しょうがないなあ
+  うまごやでよかったら　かしてあげるよ」
+よせふ「ありがとうございます！」
+宿屋「部屋はもう一杯だよ」
+ヨセフ「そこをなんとか・」
+宿屋「ないものはないんだ道端に寝な」
+ヨセフ「お願いです！
+  子どもが生まれそうなんですよ」
+宿屋「しょうがないなあ
+  馬小屋でよかったら貸してあげるよ」
+ヨセフ「ありがとうございます！」
+Innkeeper: "All our rooms are full."
+Joseph: "There must be something..."
+Innkeeper: "There's nothing I can do. You'll have to sleep on the side of the road."
+Joseph: "Please! The baby is about to be born!"
+
+Innkeeper: "It can't be helped. If you want, you can use the stable."
+
+Joseph: "Thank you so much!"
+1
+けっこうひろいが　ふけつ！
+結構広いが不潔！
+It's huge, but it's dirty!
+1
+まりあのかみを　やさしくなでている
+マリアの髪を優しく撫でている
+He is gently stroking Mary's hair.
+2
+つきあかりをあびた　そのかおは
+てんしのように　うつくしい
+月明かりを浴びたその顔は
+天使のように美しい
+The moonlight on her face makes it as beautiful as that of an angel.
+
+1
+おれ「ひひーん」
+俺「ヒヒーン」
+Me: "*Hee-haw*"
+2
+よせふ「がんばれ　まりあ」
+まりあ「ええ・・」
+ヨセフ「頑張れマリア
+マリア「ええ・・」
+Joseph: "Hang on, Mary."
+Mary: "Hnnn..."
+1 Eat
+なにを？
+何を？
+Eat what?
+1
+たくさんいるわりに　しずかだ
+たくさんいる割に静かだ
+It's quiet for how many animals there are.
+2
+とっつきにくそうな　やつだな
+うし「あーーんだ　もんくあっか」
+とっつきにくそうなやつだな
+牛「あーーんだ文句あっか」
+She seems difficult to approach.
+Cow: "Huh? You got a problem?"
+2
+うーーん　これはまちがいなく・・
+うし「くそは　くそだべー」
+うーーんこれは間違いなく・・
+牛「クソはクソだべー」
+Hmmm, this has to be...
+Cow: "Poop is poop!"
+3
+うし「むずかしいこたぁ　わがんねーけどよーー
+  なーんか　とんでもねえことが　おこりそうだなー
+  やせいの　かんってやつだべかなーー」
+牛「難しいこたぁ我がんねーけどよーー
+  なーんかとんでもないことが起こりそうだなー
+  野生のかんってやつだべかなーー」
+Cow: "I don't really get the complicated stuff, but I feel like something crazy is about to happen.
+
+Maybe it's just my wild instincts."
+2
+うし「そりゃ　くえねえど」
+おれ「うむ　たしかに・」
+牛「そりゃ食えないど」
+俺「うむ確かに・」
+Cow: "Don't eat that."
+Me: "Yeah, I shouldn't."
+1
+めすうまだ・・　けっこう　ちゃーみんぐ！
+牝馬・・結構チャーミング！
+It's a mare... She's quite charming!
+2
+めすうま「なれなれしく　しないでね
+  あなたとは　みぶんがちがうんだから」
+牝馬「馴れ馴れしくしないでね
+  あなたとは身分が違うんだから」
+Mare: "Don't act all familiar with me. You're from a different social standing."
+
+2
+めすうま「ちょっと！
+  かってに　たべないでくれる？」
+牝馬「ちょっと！
+  勝手に食べないでくれる？」
+Horse: "Hey!
+Would you mind not eating without asking?"
+1
+めすうま「げんき　いいのね」
+牝馬「元気いいのね」
+Mare: "Aren't you lively."
+1
+あしがとどかない
+足が届かない
+My feet don't reach.
+2
+おれ「でへへへー」
+めすうま「・・」
+俺「でへへへー」
+牝馬「・・」
+Me: "Hehehe."
+Mare: "..."
+2
+おれ「ひひーん！」
+めすうま「・・」
+俺「ヒヒーン！」
+牝馬「・・」
+Me: "*Hee-haw!*"
+Mare: "..."
+1
+めすうま「ありがとう」
+牝馬「ありがとう」
+Mare: "Thank you."
+2
+めすうま「あら　わかる？　これ・　えるされむで
+  はやりの　かっとなのよ　ふふふ・」
+牝馬「あら分かる？これ・エルサレムで
+  流行りのかっとなのよ　ふふふ・」
+Mare: "I know, right? This is the latest trend in Jerusalem. Hehehe..."
+
+2
+めすうま「ろーまがなにさ！　そのうちに
+  おちぶれるときが　きっとくるわ」
+牝馬「ローマが何さ！そのうちに
+  落ちぶれる時がきっとくるわ」
+Mare: "What do you mean, Rome!? Soon, the time will come for it to fall."
+
+2
+めすうま「いいわよ　たべても」
+おれ「おー　でりしゃす！　ふがが・ふがふが！」
+牝馬「いいわよ食べても」
+俺「おーデリシャス！フガガ・フガフガ！」
+Mare: "It's fine, go ahead and eat."
+Me: "Oh, delicious! *Chomp chomp... Chomp chomp!*"
+3
+ひつじ「あのな・　こんなことしっちょるか？」
+
+へびにそそのかされ　えばが　くちにしたものは？
+羊「あのな・こんなことしっちょるか？」
+
+蛇にそそのかされエバが口にした物は？
+Sheep: "Hey... You know this one?"
+
+What did the serpent tempt Eve to eat?
+1
+ひつじ「あほ」
+羊「アホ」
+Sheep: "Idiot."
+3
+ひつじ「せいかいじゃ　ならばこれはどうだ？」
+
+ゆだやきょうがみとめる　ただひとつのかみ　とは？
+羊「正解だ　ならばこれはどうだ？」
+
+ユダヤ教が認めるただ一つの神とは？
+Sheep: "Correct. How about this one?"
+
+Who is the one God that is recognized by Judaism?
+4
+ひつじ「せいかいじゃ　ならばこれはどうだ？」
+
+もーぜが　いすらえるびとをひきつれて
+だっしゅつした　くには？
+羊「正解だ　ならばこれはどうだ？」
+
+モーゼがイスラエル人を引き連れて
+脱出した国は？
+Sheep: "Correct. How about this one?"
+
+What country was Moses leading the people of Israel away from?
+
+4
+ひつじ「せいかいじゃ　ならばこれはどうだ？」
+
+えるされむに　けんらんごうかなしんでんを
+つくった　ゆだやのおうは？
+羊「正解だ　ならばこれはどうだ？」
+
+エルサレムに絢爛豪華な神殿を
+作ったユダヤの王は？
+Sheep: "Correct. How about this one?"
+
+Which king of Israel built a magnificent temple in Jerusalem?
+
+4
+ひつじ「せいかいじゃ　ならばこれはどうだ？」
+
+すくいぬしを　しめす「あぶらを　そそがれたもの」
+という　いみのことばは？
+羊「正解だ　ならばこれはどうだ？」
+
+救い主を示す「油をそそがれた物」
+と言う意味の言葉は？
+Sheep: "Correct. How about this one?"
+
+What is the word that means "The anointed one" and refers to the Savior?
+
+2
+ひつじ「せいかいじゃ｜
+  ぜんもんせいかいとは　やるもんじゃ」
+羊「正解じゃ｜
+  全問正解とはやるもんじゃ」
+Sheep: "Correct.
+You got them all correct."
+3
+ひつじ「とおい　ひがしのくににはな・・
+  ”まふうじのつぼ”　というなの
+  あくまをとじこめる　うつわがあるそうじゃ」
+羊「遠い東の国にはな・・
+  ”魔封じの壺”と言うなの
+  悪魔を閉じ込める器があるそうだ」
+Sheep: "In a land far to the east... There is said to be a vessel called the 'demon-sealing vessel' that imprisons demons."
+
+
+2
+ひつじ「ぎもんは　あらゆるちえの　かぎとなる
+  ・・あらぶの　ふるいことわざじゃ」
+羊「疑問はあらゆる知恵の鍵となる
+  ・・アラブの古いことわざだ」
+Sheep: "Questions are the key to all wisdom.
+...It's an old Arabic saying."
+1
+よせふ「かみさま　どうかぶじに・・」
+ヨセフ「神様どうか無事に・・」
+Joseph: "God, please keep us safe..."
+3
+めすうま「ちびちびたべてないで　いっぺんに
+  どーんといきなさいよ　どーんと！」
+おれ「は　はい・」
+牝馬「ちびちび食べてないでいっぺんに
+  ドーンと行きなさいよドーンと！」
+俺「は　はい・」
+Mare: "Don't just take tiny bites, eat it all up!"
+
+Me: "O-okay..."
+1
+おれ「ががががっ！　はぐはぐっ！」
+俺「ガガガガッ！ハグハグッ！」
+Me: "*Munch munch! Chomp chomp!*"
+1
+おれ「ごちそうさまでした」
+俺「ごちそうさまでした」
+Me: "Thank you for the food."
+1
+はらいっぱいで　もうくえない
+腹いっぱいでもう食えない
+I'm so full I can't eat another bite.
+4
+うし「なぁーーんちゅーか｜
+  かぁーーんちゅーか｜
+  はっきりいって｜
+  はええはなしがよぉーー」
+牛「なぁーーんちゅーか｜
+  かぁーーんちゅーか｜
+  はっきり言って｜
+  はええ話がよぉーー」
+Cow: "How should I put it...
+I mean...
+To be honest...
+It's a long story..."
+1
+な　なんてかったるいやつだ・・
+ななんてかったるいやつだ・・
+How annoying...
+2
+ただでさえ　はらいっぱいで
+ねむたくなってるときに・・
+ただでさえ腹一杯で
+眠たくなってる時に・・
+In addition to having a full stomach, I'm feeling sleepy...
+
+2
+・・「ここのようですな」
+・・「やっとついた・・」
+・・「ここのようですな」
+・・「やっと着いた・・」
+...: "This seems to be the place."
+...: "At last, we made it..."
+2
+・・「やったぞ　おとこのこだ！」
+・・「あなた・・」
+・・「やったぞ男の子だ！」
+・・「あなた・・」
+...: "We did it! It's a boy!"
+...: "You..."
+1
+ん！？　なんだ
+ん！？何だ
+Huh? What's going on?
+1
+めをほそめて　あかんぼうをみている
+目を細めて赤ん坊を見ている
+He is smiling while looking at the baby.
+1
+いとしげに　あかんぼうをだいている
+愛しげに赤ん坊を抱いている
+She is holding the baby lovingly.
+3
+すやすやと　ねむっている
+よせふ「てんしの　おつげどおり
+  でーもんと　なづけよう」
+すやすやと眠っている
+ヨセフ「天使のお告げ通り
+  デーモンと名付けよう」
+He is sleeping peacefully.
+Joseph: "As the angel said, let's name him Demon."
+
+1
+おれ「ひひーーん！」
+俺「ヒヒーーン！」
+Me: "*Hee-haaaw!*"
+1
+たくさんいるわりに　みょうにしずかだ
+たくさんいる割に妙に静かだ
+It's strangely quiet for how many animals there are.
+1
+だれかくる・・
+誰か来る・・
+Someone is coming...
+5
+よせふ「あ　あなたがたは・・」
+かすぱる「ひがしのくにより　まいりました
+  せんせいじゅつしに　ござります」
+ばるたざーる「かみのこを　ひとめおがみに・」
+めるきおーる「ほしにみちびかれて　まいりました」
+ヨセフ「ああなた方は・・」
+カスパル「東の国より参りました
+  占星術師にござります」
+バルタザール「神の子をひとめ拝みに・」
+メルキオール「星に導かれて参りました」
+Joseph: "Wh-who are you...?"
+Caspar: "We are astrologers who have come from the east."
+
+Balthazar: "We have come to worship the Son of God..."
+Melchior: "We were led here by a star."
+1
+しんみょうなかおで　あかんぼうをながめている
+神妙な顔で赤ん坊を眺めている
+They are looking at the baby with a humble expression.
+2
+かすぱる「これは　ささげものにござります
+  どうか　おうけとりいただきますよう・・」
+カスパル「これは捧げ物にござります
+  どうかお受け取りいただきますよう・・」
+Caspar: "These are our humble gifts. Please accept them..."
+
+8
+よせふ「ありがとうございます　でーもんも
+  きっと　よろこんでいますよ」
+めるきおーる「でーもん？」
+ばるたざーる「なんですかな　そのふきつな
+  なまえは・・」
+よせふ「え？　いや・　でも　てんしさまが・・」
+
+・・「ふきつなものか　もっともふさわしい　なだ」
+ヨセフ「ありがとうございますデーモンも
+  きっと喜んでいますよ」
+メルキオール「デーモン？」
+バルタザール「なんですかなその不吉な
+  名前は・・」
+ヨセフ「え？いや・でも天使様が・・」
+
+・・「不吉なものかもっともふさわしいなだ」
+Joseph: "Thank you. I'm sure Demon is happy to receive them."
+
+Melchior: "Demon?"
+Balthazar: "What is that ominous name..."
+
+Joseph: "Huh? No... But the angel said..."
+\
+...: "Is it ominous? It's actually quite fitting."
+7
+で　でたでた・・！
+
+よせふ「てんしさま！」
+あくま「たまのような　みどりごに　かみも
+  よろこんでおられる｜
+  さっそく　せんれいをさずけよう
+  さあ　でーもんをこちらへ・・」
+で出た出た・・！
+
+ヨセフ「天使様！」
+悪魔「玉のような嬰児に神も
+  喜んでおられる｜
+  早速洗礼を授けよう
+  さあデーモンをこちらへ・・」
+H-he's here...!
+\
+Joseph: "Angel-sama!"
+Devil: "God is also pleased with this beautiful baby.
+
+Let's baptize Him right away. Now, give Demon to me..."
+
+7
+まりあ「・・」
+よせふ「どうしたまりあ　はやくてんしさまに・」
+まりあ「わたしません・・」
+あくま「なに？」
+まりあ「あなたはてんしじゃない　そのめをみれば
+  わかります！」
+あくま「・・」
+マリア「・・」
+ヨセフ「どうしたマリア速く天使様に・」
+マリア「渡しません・・」
+悪魔「何？」
+マリア「あなたは天使じゃない　その目を見れば
+  分かります！」
+悪魔「・・」
+Mary: "..."
+Joseph: "What's wrong, Mary? Hurry up and..."
+Mary: "I won't hand him over..."
+Devil: "What?"
+Mary: "You're not an angel! I can tell by looking into your eyes!"
+
+Devil: "..."
+8
+ばるたざーる「あくま　だな・・」
+よせふ「あくま！？」
+あくま「・・かわいそうな　やつらだ｜
+  おとなしくだまされていれば　しななくて
+  すんだものを・・」
+まりあ「なぜ　このこを・・？」
+あくま「ききたいか？　ならばおしえてやる
+  わしとそのあかんぼうとの　いんねんを・・」
+バルタザール「悪魔だな・・」
+ヨセフ「悪魔！？」
+悪魔「・・かわいそうなやつらだ｜
+  おとなしく騙されていれば死ななくて
+  住んだものを・・」
+マリア「なぜこの子を・・？」
+悪魔「聞きたいか？ならば教えてやる
+  ワシとその赤ん坊との因縁を・・」
+Balthazar: "That's a demon..."
+Joseph: "Demon!?"
+Devil: "...You pitiful lot.
+If you had just stayed quiet and let me deceive you, you could have lived..."
+
+Mary: "Why this child...?"
+Devil: "You want to know? Then let me tell you what happened between me and that baby..."
+
+4
+・・「あのとき・　といっても　いまからかぞえれば
+  ３０ねんごのことだ｜
+  わしは　しゅぎょうをつんでいたこいつのまえに
+  あらわれ　ゆうわくをこころみた」
+・・「あの時・といっても今から数えれば
+  ３０年後のことだ｜
+  ワシは修行を積んでいたこいつの前に
+  現れ誘惑を試みた」
+...: "Back then... Although, counting from now, it's 30 years later.
+
+I appeared in front of this guy who was fasting so I could try to tempt Him."
+
+6
+あくま「さぞかし　はらがへったことだろう
+  しゅぎょうなどやめて　うえをみたすがいい｜
+  もし　おまえがかみのこなら　ここにあるいしを
+  ぱんに　かえられるはずだ」
+いえす「ひとはぱんのみで　いきているのではない
+  かみのことばによって　いきるのだ」
+悪魔「さぞかし腹が減ったことだろう
+  修行など止めて飢えを満たすがいい｜
+  もしお前が神の子ならここにある石を
+  パンに変えられるはずだ」
+イエス「人はパンのみで生きているのではない
+  神の言葉によって生きるのだ」
+Devil: "Surely, you're hungry. It's fine to stop fasting and satisfy your hunger.
+
+If You are the Son of God, command these stones to become loaves of bread."
+
+Jesus: "Man shall not live by bread alone, but by every word that comes from the mouth of God."
+
+4
+あくま「みろ！　このすばらしいながめを｜
+  わしのまえにひれふし　ちゅうせいをちかえば
+  このせかいのすべてを　きさまにやろう｜
+  どうだ　ふりなとりひきではあるまい？」
+悪魔「見ろ！この素晴らしい眺めを｜
+  ワシの前にひれ伏し忠誠を誓えば
+  この世界のすべてを貴様にやろう｜
+  どうだ不利な取引ではあるまい？」
+Devil: "Look! At this splendid scene!
+I will give You all of these things, if You will fall down and worship me.
+
+What do You think? Isn't that a fair trade?"
+4
+いえす「せいしょには　かみのみにつかえよ　と
+  かかれている！　なんびとたりとも
+  わたしのこころを　うごかすことはできない！」
+あくま「うぬぬ・！」
+イエス「聖書には神のみに仕えよ　と
+  書かれている！何人たりとも
+  私の心を動かすことはできない！」
+悪魔「うぬぬ・！」
+Jesus: "It is written, 'You shall worship the Lord your God!' Nobody will change My mind!"
+
+
+Devil: "Ugh...!"
+5
+いえす「あくまよ　しりぞけ！
+  せいなる　このつぼにはいり　ふかきぬまのそこに
+  みをしずめるがよい！」
+あくま「やや　やめろ！　やめないか！
+  うわあーーーっ！！」
+イエス「悪魔よ退け！
+  聖なるこの壺に入りふかきぬまのそこに
+  身を沈めるがよい！」
+悪魔「やややめろ！やめないか！
+  うわあーーーっ！！」
+Jesus: "Begone, devil! Enter into this holy vessel and sink into its depths!"
+
+
+Devil: "S-s-stop! Don't! Waaaagh!"
+
+12
+あくま「ながいあいだの　くつじょくをたえて
+  わしはよみがえり　そして　かこへもどってきた｜
+  あのときのふくしゅうを　はたしに・・」
+よせふ「・・」
+ばるたざーる「そうはいかないぞ　あくまよ」
+あくま「？」
+めるきおーる「われわれは　おまえのくることを
+  よちしていた・・　すくいぬしのいのちをねらう
+  じゃあくなるものの　そんざいを・・」
+あくま「なんだと！？」
+かすぱる「ふたたびやみのなかへ　まいもどるがよい
+  この　”まふうじのつぼ”　へ！」
+悪魔「長い間の屈辱を耐えて
+  わしは蘇りそして過去へ戻ってきた｜
+  あの時の復讐を果たしに・・」
+ヨセフ「・・」
+バルタザール「そうはいかないぞ悪魔よ」
+悪魔「？」
+メルキオール「我々はお前の来ることを
+  予知していた・・救い主の命を狙う
+  邪悪なる者の存在を・・」
+悪魔「何だと！？」
+カスパル「再び闇の中へ舞い戻るがよい
+  この”魔封じの壺”へ！」
+Devil: "After enduring humiliation for the longest time, I have finally been revived and have come back to the past.
+
+So I could get my revenge for what happened then..."
+Joseph: "..."
+Balthazar: "Not so fast, you demon."
+Devil: "?"
+Melchior: "We knew someone like you would come... The existence of an evil being that is after the life of the Savior..."
+
+
+Devil: "What!?"
+Caspar: "Return to the darkness of the 'demon-sealing vessel' once more!"
+
+3
+ゆかにおいたつぼに　てをのばしたとき・・
+あくま「うごくな！」
+とつぜんほのおがたちのぼり　つぼをつつみこんだ
+床に置いた壺に手を伸ばした時・・
+悪魔「動くな！」
+突然炎が立ち上り壺を包みこんだ
+As he reached his hand out toward the vessel...
+Devil: "Don't move!"
+Suddenly a flame burst out, enveloping the vessel!
+3
+あくま「わしのまりょくに　かなうものなどいない｜
+  たよりの　すくいぬしとやらは
+  まだ　あかんぼうなのだからな・・」
+悪魔「わしの魔力に敵うものなどいない｜
+  頼りの救い主とやらは
+  まだ赤ん坊なのだからな・・」
+Devil: "No one can match my powers!
+After all, your 'Savior' is just a baby..."
+
+2
+おれには　きづいてない・・！
+よーーし・・！
+俺には気づいてない・・！
+よーーし・・！
+He hasn't noticed me...!
+Let's go...!
+6
+おれ「ひひーーん！」
+あくまのしりに　おもいきりかみついた
+あくま「ぎゃっ！」
+よせふ「かしむ！」
+
+ほのおがきえた！
+俺「ヒヒーーン！」
+悪魔の尻に思い切り噛みついた
+悪魔「ぎゃっ！」
+ヨセフ「カシム！」
+
+炎が消えた！
+Me: "*Hee-haaaw!*"
+I bit down hard on the devil's butt.
+Devil: "Gyah!"
+Joseph: "Kasim!"
+\
+The fire went out!
+1
+まりあ「つぼを！」
+マリア「壺を！」
+Mary: "The vessel!"
+2
+あくま「じゃまをするな！！」
+おれ「ぎゃひーーーん！！」
+悪魔「邪魔をするな！！」
+俺「ぎゃひーーーん！！」
+Devil: "Don't get in my way!!"
+Me: "*Hee-haaaaw!!*"
+2
+かすぱる「あくまよ　しりぞけ！」
+あくま「！！」
+カスパル「悪魔よ退け！」
+悪魔「！！」
+Caspar: "Begone, devil!"
+Devil: "!!"
+5
+よせふ「・・ど　どうなったんだ？」
+かすぱる「だいじょうぶ　あれはぬけがらです
+  あくまは　そのつぼのなかですよ」
+めるきおーる「とにかく　ここをでましょう｜
+  どこか　あたたかいところへ・・」
+ヨセフ「・・ど　どうなったんだ？」
+カスパル「大丈夫あれは抜け殻です
+  悪魔はその壺の中ですよ」
+メルキオール「とにかくここを出ましょう｜
+  どこか温かい所へ・・」
+Joseph: "...W-what just happened?"
+Caspar: "Don't worry. That's just an empty shell. The devil is trapped inside this vessel."
+
+Melchior: "Anyway, let's get out of here.
+To somewhere warm..."
+1
+さっきまでのさわぎが　うそのようだ
+さっきまでの騒ぎが嘘のようだ
+It's hard to believe there was such an uproar just a bit ago.
+1
+うめきごえを　あげている
+うめき声を上げている
+He's moaning.
+1
+あのなかに　あくまが・・
+あの中に悪魔が・・
+Inside it, the devil is...
+2
+じぶんのからだを　じっくりみるなんて
+はじめてだ
+自分の体をじっくり見るなんて
+初めてだ
+This is the first time I've taken a close look at my body.
+
+1
+やっぱしいいなあ　じぶんのからだは・・
+やっぱしいいなあ自分の体は・・
+Sure enough, it's best to be in my own body...
+3
+おしりが　ちょっといたいほかは
+べつじょうない｜
+こしに　たいむべるとをまいている
+お尻がちょっと痛い他は
+別状ない｜
+腰にタイムベルトを巻いている
+Other than my rear end hurting, I'm fine.
+
+The time belt is on my waist.
+1
+みたところ　ふつうのべるとだ
+見た所普通のベルトだ
+It looks just like a normal belt.
+4
+ばっくるをあけると　なかが
+こんとろーるぱねるに　なっている
+ひょうじすくりーんと　たっちせんさーの
+きーがある
+バックルを開けると中が
+コントロールパネルになっている
+表示スクリーンとタッチセンサーの
+キーがある
+Upon opening the buckle, there is a control panel on the inside.
+
+It has a display screen and keys that are activated by touch.
+
+5
+おれ「ああ・　やっともどれるんだ・・」
+おれは　ふるえるゆびで　しんちょうに
+きーを　おしていった｜
+１９９５ねんの　９がつ２５にち｜
+あくまがでるまえの　あの　はくぶつかんへ・・
+俺「ああ・やっと戻れるんだ・・」
+俺は震える指で慎重に
+キーを押していった｜
+１９９５年の９月２５日｜
+悪魔が出る前のあの博物館へ・・
+Me: "Ah... I can finally go back..."
+With trembling fingers, I carefully pressed the keys.
+
+September 25th, 1995.
+Right before the devil appeared in the museum...
+2
+う　うーん・・
+あれ！？
+う　うーん・・
+あれ！？
+U-ugh...
+What!?
+2
+きぎは　かれ　たてものはくずれおちて
+がれきのやまを　きずいている
+木々は枯れ建物は崩れ落ちて
+瓦礫の山を築いている
+Dead trees and broken buildings form mountains of rubble.
+
+1
+いちめんに　しろいはいが　しきつめられている
+一面に白い灰が敷き詰められている
+It's completely covered in white ashes.
+2
+１９９５　９　２５　とうきょう
+まちがいない・・
+１９９５　９　２５　東京
+間違いない・・
+1995 9 25 Tokyo
+I didn't make a mistake...
+1
+ねずみいっぴき　いやしない
+ネズミ一匹いやしない
+There isn't even a single mouse in sight.
+3
+いっぽ　あるきだしたとたん
+なにかにつまづいた
+おれ「あた！」
+一歩歩き出した途端
+何かに躓いた
+俺「あた！」
+Right as I took the first step, I tripped on something.
+
+Me: "Ow!"
+1
+なんか　ここがきになる
+なんかここが気になる
+I've noticed something about this spot.
+2
+あしもとのはいを　はらうと・・
+なんだこりゃ・・　まんほーるの　ふたかな・・？
+足元の灰を払うと・・
+何だこりゃ・・マンホールの蓋かな・・？
+Brushing away the ashes at my feet...
+What is this... A manhole cover...?
+1
+お？　うごくぞ・・
+お？動くぞ・・
+Oh? It moved...
+1
+なかに　ふかいあながあいている
+中に深い穴が開いている
+There is a deep hole underneath.
+1
+ちかしつへの　かいだんがつづいている
+地下室への階段が続いている
+There are stairs that go to an underground room.
+1
+まだ　なにかありそうだ
+まだ何かありそうだ
+There still seems to be something here.
+1
+いったいのじんこつと　のーとがある
+一体の人骨とノートがある
+There is a human skeleton and a notebook.
+2
+へやのすみに　おおきながくぶちがたてられている
+なにかの　えだな・・
+部屋の隅に大きな額縁が立てられている
+何かの絵だな・・
+There is a large picture frame in the corner of the room. It has a painting of some kind...
+
+2
+みぎてのほねに　えんぴつがはさまっている
+かいているとちゅうで　こときれたのだろう
+右手の骨に鉛筆が挟まっている
+書いている途中で事切れたのだろう
+There's a pencil in the bones of his right hand.
+Was he in the middle of writing something as he died?
+17
+「　もう　みずもしょくりょうも　なくなった｜
+  そとへでる　きりょくもない｜
+  いつか　だれかが　わたしをはっけんして
+  くれることをしんじて　このぶんをのこす
+
+    ３０ねんいじょうも　つづいた
+  だい２じせかいたいせんは　かくばくだんの
+  きゃっちぼーるで　ついにぴりおどをうった｜
+  われわれじんるいは　あくまのゆうわくを
+  はねのけることが　できなかったのだ｜
+    だが　のこされたじんるいよ　あきらめるな｜
+  そのうちに　きゅうせいしゅがあらわれる｜
+  かみのこが　あくまをほうむるときが
+  かならずやってくる｜
+  けっしてあきらめてはいけない　かみのこがきっと
+
+・・・・そこまでで　おわっている
+「　もう　水も食料もなくなった｜
+  外へ出る気力もない｜
+  いつか誰かが私を発見して
+  くれることを信じてこの文を残す
+
+    ３０年以上も続いた
+  第２じ世界大戦は核爆弾の
+  チャッチボールでついにピリオドを打った｜
+  我々人類は悪魔の誘惑を
+  はねのけることができなかったのだ｜
+    だが残された人類よ諦めるな｜
+  そのうちに救世主が現れる｜
+  神の子が悪魔を葬る時が
+  必ずやってくる｜
+  決して諦めてはいけない神の子がきっと
+
+・・・・そこまでで終わっている
+"I've already run out of food and water.
+I don't have the strength to go outside.
+I'm leaving this notebook behind, in the belief that somebody will find it.
+
+\
+World War II, which lasted for over 30 years, ended with a nuclear game of catch.
+
+
+We, humanity, were unable to resist the devil's temptations.
+
+However, remaining humans: do not give up hope.
+The Savior will surely arrive.
+The time will come when the Son of God vanquishes the devil.
+
+You must not give up, the Son of God will surely
+\
+......It ends there.
+7
+「あくまのしょうぞう」
+
+な・　なんてこった・・
+これは　きりすとじゃないか・・！｜
+・・てことは　あのときあくまがはいったのは
+つぼのなかじゃなくて・・｜
+あかんぼう！？
+「悪魔の肖像」
+
+な・なんてこった・・
+これはキリストじゃないか・・！｜
+・・てことはあの時悪魔が入ったのは
+壺の中じゃなくて・・｜
+赤ん坊！？
+"Portrait of the devil"
+\
+Oh... Oh no...
+Isn't this Christ...!?
+...Back then, what the devil went into wasn't the vessel...
+
+But the baby!?
+1
+ほかに　することがある
+他にすることがある
+I have other things to do!
+1
+もどるんだ！　あのうまごやへ！
+戻るんだ！あの馬小屋へ！
+I need to go back! Back to the stable!
+7
+おれ「まて！」
+よせふ「ひゃっ！」
+かすぱる「まさか・・」
+おれ「おれはあくまじゃない　つぼのなかにもいない
+  あくまはそのあかんぼうに　のりうつったんだ！」
+まりあ「・・」
+よせふ「・・」
+俺「待て！」
+ヨセフ「ひゃっ！」
+カスパル「まさか・・」
+俺「俺は悪魔じゃない壺の中にもいない
+  悪魔はその赤ん坊に乗り移ったんだ！」
+マリア「・・」
+ヨセフ「・・」
+Me: "Wait!"
+Joseph: "Wagh!"
+Caspar: "No way..."
+Me: "I am not the devil. He's not in the vessel either.
+The devil has possessed that baby!"
+Mary: "..."
+Joseph: "..."
+2
+あくま「じゃまをするな　こぞう！」
+まりあ「！」
+悪魔「邪魔をするな小僧！」
+マリア「！」
+Devil: "Stop getting in my way, you brat!"
+Mary: "!"
+3
+あくま「このからだは　わしがもらった｜
+  かみのことあくまの　うつくしいゆうごうが
+  いま　かんせいしたのだ！」
+悪魔「この体はわしがもらった｜
+  神の子と悪魔の美しい融合が
+  今完成したのだ！」
+Devil: "I have taken this body.
+The beautiful fusion of the Son of God and the devil is now complete!"
+
+2
+おれ「くたばれ　あくま！」
+あくま「けけけ・・　そうかんたんに　いくかな？」
+俺「くたばれ悪魔！」
+悪魔「けけけ・・そう簡単に行くかな？」
+Me: "Go to hell, devil!"
+Devil: "Hehehe... You think it'll be that simple?"
+1
+あくま「きさまに　ほんとうのわしがわかるか？」
+悪魔「貴様に本当のわしが分かるか？」
+Devil: "Do you really know who I am?"
+1
+あくま「ほんとうのわしが　わかるか？」
+悪魔「本当のわしが分かるか？」
+Devil: "Which one is actually me?"
+1
+あくま「ばーかめ！」
+悪魔「ばーかめ！」
+Devil: "What an idiot!"
+5
+あくま「ほほう・　よくわかったな｜
+  どうだ？　つまらぬことはやめて
+  わしと　てをくまんか？｜
+  たにんのようなきが　せんのだ」
+おれ「うるさい！」
+悪魔「ほほう・よく分かったな｜
+  どうだ？つまらぬことはやめて
+  わしと手を組まんか？｜
+  他人のような気がせんのだ」
+俺「うるさい！」
+Devil: "Hoho... Well done.
+Well? Why don't we drop this matter and join forces?
+
+You're not an ordinary person."
+Me: "Be quiet!"
+5
+あくま「きさまらにんげんは　ほんとうは
+  さべつやあらそいが　だいすきなのだ｜
+  たてまえをすてて　ほんのうのままにいきてみろ｜
+  わしこそが　きゅうせいしゅだ」
+おれ「だまれ！　だまれ！　だまれ！！」
+悪魔「貴様ら人間は本当は
+  差別や争いが大好きなのだ｜
+  建前を捨てて本能のままに生きてみろ｜
+  わしこそが救世主だ」
+俺「黙れ！黙れ！黙れ！！」
+Devil: "You humans actually love discrimination and fighting.
+
+Throw away your pretenses and live according to your instincts.
+I am the savior!"
+Me: "Shut up! Shut up! Shut up!!"
+8
+あくま「うぬぬ・！　どうして・・」
+おれ「おまえなんか　ちっともこわくない！
+  おまえのやれることは　せいぜいまぼろしを
+  みせることぐらいじゃないか」
+あくま「ふん・　きさまになにがわかる！」
+おれ「わかるさ！　おまえや　おまえのてさきが
+  やったことは　みんなこのめで　みてきたんだ！」
+あくま「でたらめをいうな！」
+悪魔「うぬぬ・！どうして・・」
+俺「お前なんかちっとも怖くない！
+  お前のやれることはせいぜい幻を
+  見せることぐらいじゃないか」
+悪魔「ふん・貴様に何が分かる！」
+俺「分かるさ！お前やお前の手先が
+  やったことはみんなこの目で見てきたんだ！」
+悪魔「デタラメを言うな！」
+Devil: "Urgh...! How..."
+Me: "I'm not scared of you at all! The most you can do is create illusions, right?"
+
+
+Devil: "Hmph... What do you know!?"
+Me: "I know plenty! I've seen everything that you and your servants have done myself!"
+
+Devil: "Don't spout nonsense!"
+2
+あくま「なんでもしっていると　いうなら
+  わしのしつもんにこたえてみろ！」
+悪魔「なんでも知っていると言うなら
+  わしの質問に答えてみろ！」
+Devil: "If you really know everything, try answering my questions!"
+
+1
+はくぶつかんにあった　てんじひんのかずは？
+博物館にあった展示品の数は？
+How many exhibits were on display in the museum?
+1
+はくぶつかんをつくった　ろうじんのなは？
+博物館を作った老人の名は？
+What is the name of the old man that made the museum?
+1
+ぴえーるの　しょくぎょうは？
+ピエールの職業は？
+What was Pierre's occupation?
+1
+だんしゃくの　にょうぼうのなは？
+男爵の女房の名は？
+What was the name of the baron's wife?
+1
+どいつないにある　とうぼうそしきのなは？
+ドイツ内にある逃亡組織の名は？
+What was the name of the resistance group in Germany?
+2
+くーがーたちが　こっきょうをこえて
+でたくには？
+クーガー達が国境を超えて
+出た国は？
+What country were Cougar and everyone with him crossing the border into?
+
+1
+せきにきく　やくそうは？
+咳に効く薬草は？
+What herb is effective against coughing?
+1
+よみのくににいた　ばんにんは？
+黄泉の国にいた番人は？
+Who was the guard of the land of the dead?
+2
+まいやーのうじょうの　かちくごやにいた
+じいさんのなは？
+マイヤーのうじょうの家畜小屋にいた
+じいさんの名は？
+What was the name of the old man that worked in Meyer's barn?
+
+2
+りんかーんたちが　かわをわたるときに
+じゃました　どうぶつは？
+リンカーン達が川を渡る時に
+邪魔した動物は？
+When Lincoln and the rest were crossing the river, what animal was holding them back?
+
+1
+まりあがよせふに　おくったものは
+マリアがヨセフに贈った物は
+What did Mary give to Joseph?
+1
+まりあがこどもをうんだ　ばしょは？
+マリアが子どもを生んだ場所は？
+Where did Mary give birth to her child?
+2
+つぎのうち　あくまとけいやくを
+かわしていないものは？
+次の内悪魔と契約を
+交わしていない物は？
+Who of the following did not make a deal with the devil?
+
+1
+つぎのうち　かみのこでないものは？
+次の内神の子でない物は？
+Who of the following is not a child of God?
+1
+あくま「くそぉ・・　おあそびはもう　おわりだ！」
+悪魔「くそぉ・・お遊びはもう終わりだ！」
+Devil: "Damn it... I'm done playing around!"
+2
+あくま「しねぇ！」
+おれ「うわあああーーーっ！！」
+悪魔「死ねぇ！」
+俺「うわあああーーーっ！！」
+Devil: "Die!"
+Me: "Uwaaaaah!!"
+2
+あたまのなかで　さっきよんだことばが
+くりかえしくりかえし　きこえてくる
+頭の中でさっき読んだ言葉が
+知り返し繰り返し聞こえてくる
+The words I read a bit ago kept echoing over and over in my head.
+
+7
+かみのこが　あくまをほうむるときが
+かならずやってくる｜
+けっしてあきらめてはいけない　かみのこがきっと・｜
+かみのこがきっと・・｜
+かみのこが・・！｜
+かみのこが・・！｜
+かみのこが・・！
+神の子が悪魔を葬る時が
+必ずやってくる｜
+決して諦めてはいけない神の子がきっと・｜
+神の子がきっと・・｜
+神の子が・・！｜
+神の子が・・！｜
+神の子が・・！
+The time will come when the Son of God vanquishes the devil.
+
+You must not give up, the Son of God will surely...
+The Son of God will surely...
+The Son of God...!
+The Son of God...!
+The Son of God...!
+5
+ちからをくれ！　かみのこよ！｜
+かみからさずかった　おまえのちからで
+あくまを　おいだしてくれ！｜
+かみのこよ！　めをさましてたたかえ！
+すくいぬし　いえす＿きりすとよ！
+力をくれ！神の子よ！｜
+神から授かったお前の力で
+悪魔を追い出してくれ！｜
+神の子よ！目を覚まして戦え！
+救い主イエス・キリストよ！
+Son of God, give me Your strength!
+Use Your divine power to drive out the devil!
+
+Son of God! Wake up and fight!
+The Savior, Jesus Christ!
+2
+あくま「う・　ぐぐ・！｜
+  ぐあーーーっ！！」
+悪魔「う・ぐぐ・！｜
+  ぐあーーーっ！！」
+Devil: "U...ugh...!
+Gaaaaaaaah!!"
+1
+おれ「あくまよ　しりぞけ！」
+俺「悪魔よ退け！」
+Me: "Begone, devil!"
+1
+あくま「ぎゃあああーーーっ！！」
+悪魔「ぎゃあああーーーっ！！」
+Devil: "Gyaaaaah!!"
+2
+すべてが　おわった・・
+これでなにもかも　もとのままだ・・
+すべてが終わった・・
+これで何もかも元のままだ・・
+It is finished...
+With this, everything is back to how it originally should be...
+7
+まりあ「ありがとうございました」
+よせふ「おかげさまで　でーもんのいのちも・・」
+おれ「でーもんじゃないよ」
+よせふ「あ・　そうでした　えーと・・」
+おれ「いえす」
+まりあ＿よせふ「いえす・・」
+おれ「そう　いえす＿きりすとだ」
+マリア「ありがとうございました」
+ヨセフ「お陰様でデーモンの命も・・」
+俺「デーモンじゃないよ」
+ヨセフ「あ・そうでしたえーと・・」
+俺「イエス」
+マリア・ヨセフ「イエス・・」
+俺「そうイエス・キリストだ」
+Mary: "Thank you for everything."
+Joseph: "Thanks to you, Demon's life was..."
+Me: "He's not a demon."
+Joseph: "Ah... Right. Um..."
+Me: "Jesus."
+Mary and Joseph: "Jesus..."
+Me: "Yes. Jesus Christ."
+2
+だいじに　そだててくれよ
+おれたちのみらいが　かかってるんだからな・・
+大事に育ててくれ
+俺達の未来がかかってるんだからな・・
+Take care in raising Him. Our future depends on Him, after all...
+
+1
+おれ「うう・・　ああ・　あ・・」
+俺「うう・・ああ・あ・・」
+Me: "Oogh... Agh... Ah..."
+9
+おんなのこ「よかった・・　わたし
+  しんでるのかと・・」
+おれ「ああ　きみか・・　ひさしぶりだなあ」
+おんなのこ「・・？　あの　どこかで
+  おあいしました・・？」
+おれ「あ　そっか・・　そうだよね」
+おんなのこ「ぷっ・　おかしなひと」
+おれ「いやあ　ははは」
+おんなのこ「ふふふ・」
+女の子「よかった・・私
+  死んでるのかと・・」
+俺「ああ君か・・久しぶりだなあ」
+女の子「・・？あのどこかで
+  お会いしました・・？」
+俺「あそっか・・そうだよね」
+女の子「ぷっ・おかしな人」
+俺「いやあ　ははは」
+女の子「ふふふ・」
+Girl: "Thank goodness... I thought you might have died..."
+
+Me: "Ah, it's you... It's been a while."
+Girl: "...? Have we met somewhere before...?"
+
+Me: "Ah, uh... Maybe?"
+Girl: "Pfft... You're weird."
+Me: "No, hahaha."
+Girl: "Hehehe."
+2
+おれ「きみの　なまえは？」
+おんなのこ「わたしは・」
+俺「君の名前は？」
+女の子「私は・」
+Me: "What's your name?"
+Girl: "It's..."
+7
+おんなのこ「だいじょうぶ！　しんぱいないわ！」
+おれ「は　はい！」
+おんなのこ「まらどぅる　ばらお　がらどぅーら・」
+おれ「！！」
+おんなのこ「わたしにまかせて！｜
+  まらどぅる　ばらお　がらどぅーら！
+  まらどぅる　ばらお　がらどぅーらーーーっ！」
+女の子「大丈夫！心配ないわ！」
+俺「ははい！」
+女の子「まらどぅる　ばらお　がらどぅーら・」
+俺「！！」
+女の子「私に任せて！｜
+  まらどぅる　ばらお　がらどぅーら！
+  まらどぅる　ばらお　がらどぅーらーーーっ！」
+Girl: "It'll be okay! Don't worry!"
+Me: "O-okay!"
+Girl: "Maraduru barao garadura..."
+Me: "!!"
+Girl: "Leave it to me!
+Maraduru barao garudura!
+Maraduru barao garuduraaa!"
+3
+おんなのこ「けさね　うらないできいたの
+  ”すてきなだんせいとの　であいあり”　って・」
+おれ「そそ　そんなあ・・」
+女の子「今朝ね占いで聞いたの
+  ”素敵な男性との出会いあり”って・」
+俺「そそそんなあ・・」
+Girl: "This morning, I was hearing my fortune, and it said 'You will meet a wonderful man'..."
+
+Me: "Th-th-that..."
+1
+・・「ぐううう・・」
+・・「ぐううう・・」
+...: "Huuurgh..."
