@@ -499,6 +499,7 @@ function draw_message()
         else
             local i = current_english_length * writing_time
                 / (current_japanese_length * 2 - 2)
+            i = math.floor(i)
             current_drawing = current_message_squashed_old ..
                 string.sub(current_message_squashed_new, 1, i) .. "\n"
         end
