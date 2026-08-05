@@ -3899,6 +3899,13 @@ Simon: "A child gave this to me a bit ago. He said a stranger told him to give i
 
 He gave me the paper.
 It has letters written in blue ink.
+2
+しもん「げしゅたぽが　うろついています
+  へたに　うごかないほうがいい」
+シモン「ゲシュタポがうろついています
+  下手に動かないほうがいい」
+Simon: "The gestapo are roaming around here. We should avoid acting rashly."
+
 1
 どちらもかなり　うすいかみだ
 どちらもかなり薄い紙だ
@@ -5116,7 +5123,7 @@ I received the bell.
 兵士「ギリシャの時代は終わった・・
   やがて世界の覇権はマケドニアに
   とって変わることだろう」
-Soldier: "The age of Greece is over..
+Soldier: "The age of Greece is over...
 Soon, the earth will be ruled by the Macedonians."
 
 1
@@ -6860,6 +6867,13 @@ I peered inside using the hole from the second drawer...
 Inside it are a glossy black leather whip and a cloth bag with holes for the eyes and nose.
 
 2
+じょーじ「だいとうりょうと　はなしが
+  できるなんて・・　かんげきしたなあ・・」
+ジョージ「大統領と話が
+  できるなんて・・感激したなあ・・」
+George: "I was able to talk with the president... I was really moved..."
+
+2
 かいだんの　おどりばだ
 ほーるが　みおろせる
 階段の踊り場だ
@@ -8119,11 +8133,11 @@ Man on the left: "Go straight west."
   正直者じゃない」
 左の男「向かって右の男は
   嘘つきじゃない」
-Man on the right: "The man in the middle is not irresponsible."
+Man on the right: "The man in the middle is not the irresponsible one."
 
-Man in the middle: "The man on the left is not honest."
+Man in the middle: "The man on the left is not the honest one."
 
-Man on the left: "The man on the right is not a liar."
+Man on the left: "The man on the right is not the liar."
 
 5
 らくだ「３にんのなかの　ひとりは
@@ -8259,7 +8273,7 @@ Cow: "Huh? You got a problem?"
 うーーんこれは間違いなく・・
 牛「クソはクソだべー」
 Hmmm, this has to be...
-Cow: "Poop is poop!"
+Cow: "Shit is shit!"
 3
 うし「むずかしいこたぁ　わがんねーけどよーー
   なーんか　とんでもねえことが　おこりそうだなー
