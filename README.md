@@ -8,7 +8,7 @@ emulator window over the game.  It is a bit finicky at times, but it's much
 simpler than patching the ROM itself.
 
 This project arose from my brother
-[Shmoopshybob](https://www.youtube.com/@shmoopshybob)'s challenge to beat every
+[Shmoby](https://www.youtube.com/@shmoopshybob)'s challenge to beat every
 Nintendo game.  He can't read Japanese so was unsure about what to do for a few
 of the Japanese-exclusive games he would have to play that were heavy on text.
 I'm learning Japanese and want to get better, so I offered to translate the
